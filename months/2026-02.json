@@ -1,0 +1,170 @@
+{
+ "month": "2026-02",
+ "items": [
+  {
+   "id": "ESET-800b9de0",
+   "title": "托尼·安斯库姆本月安全专栏——2026年2月刊",
+   "url": "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-february-2026/",
+   "source": "ESET Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 28 Feb 2026 10:00:00 +0000",
+   "published_date": "2026-02-28",
+   "digest": "在本期综述中，Tony探讨了机会主义威胁行为者如何利用弱身份验证、未受管理的暴露面以及热门AI工具。"
+  },
+  {
+   "id": "ESET-dc43b681",
+   "title": "移动应用权限的重要性（依然）远超你的想象",
+   "url": "https://www.welivesecurity.com/en/mobile-security/mobile-app-permissions-still-matter-more-think/",
+   "source": "ESET Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 27 Feb 2026 10:00:00 +0000",
+   "published_date": "2026-02-27",
+   "digest": "开始使用一款新应用时，你常会被要求授予权限。但盲目接受这些权限可能会让你面临严重的隐私和安全风险。"
+  },
+  {
+   "id": "FUTURE-LIFE-4960a3d9",
+   "title": "马克斯·泰格马克关于战争部最后通牒的声明",
+   "url": "https://futureoflife.org/ai/tegmark-statement-on-dow-ultimatum/",
+   "source": "Future of Life Institute",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 27 Feb 2026 09:30:44 +0000",
+   "published_date": "2026-02-27",
+   "digest": "我们的安全与基本权利绝不能受制于某家公司的内部政策；立法者必须努力将这些广受欢迎的红线纳入法律。"
+  },
+  {
+   "id": "DFIR-752932fd",
+   "title": "Apache ActiveMQ漏洞导致LockBit勒索软件攻击",
+   "url": "https://thedfirreport.com/2026/02/23/apache-activemq-exploit-leads-to-lockbit-ransomware/",
+   "source": "DFIR Report",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 23 Feb 2026 14:09:43 +0000",
+   "published_date": "2026-02-23",
+   "digest": "关键要点 本报告的音频版本可在 Spotify、Apple、YouTube、Audible 和 Amazon 上获取。此次入侵始于 2024 年 2 月中旬，当时一名威胁行为者利用暴露的 Apache ActiveMQ 服务器上的一个漏洞（CVE-2023-46604）进行攻击。该威胁行为者通过使用 Java Spri…"
+  },
+  {
+   "id": "TOPSEC-dfac97f2",
+   "title": "认识团队：Anant Gupta，高级开发人员",
+   "url": "https://www.topsec.com/meet-the-team-anant-gupta-senior-developer/",
+   "source": "天融信",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 23 Feb 2026 11:04:19 +0000",
+   "published_date": "2026-02-23",
+   "digest": "在天融信云解决方案公司，强大的技术由多年深耕其中的人铸就。高级开发人员阿南特·古普塔正是其中之一。他自幼热爱计算机，至今已有超过半数人生投入编程，其踏入网络安全领域的历程与其说是职业选择，不如说是自然的演进。"
+  },
+  {
+   "id": "ESET-d21a7c58",
+   "title": "电话里的伪装：如何辨别语音通话是否为AI",
+   "url": "https://www.welivesecurity.com/en/business-security/faking-it-phone-how-tell-voice-call-ai/",
+   "source": "ESET Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 23 Feb 2026 10:00:00 +0000",
+   "published_date": "2026-02-23",
+   "digest": "你还能相信自己的耳朵吗？越来越多的时候，答案是否定的。这对你的企业意味着什么，以及如何击败深度伪造者。"
+  },
+  {
+   "id": "ESET-f88fe422",
+   "title": "PromptSpy 开启利用生成式AI的安卓威胁时代",
+   "url": "https://www.welivesecurity.com/en/eset-research/promptspy-ushers-in-era-android-threats-using-genai/",
+   "source": "ESET Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 19 Feb 2026 10:30:20 +0000",
+   "published_date": "2026-02-19",
+   "digest": "ESET研究人员发现PromptSpy，这是首个在执行流程中滥用生成式AI的已知Android恶意软件。"
+  },
+  {
+   "id": "ESET-669873fc",
+   "title": "Poshmark安全吗？如何买卖避免被骗？",
+   "url": "https://www.welivesecurity.com/en/scams/poshmark-safe-buy-sell-scammed/",
+   "source": "ESET Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 19 Feb 2026 07:21:48 +0000",
+   "published_date": "2026-02-19",
+   "digest": "与其他市场一样，社交电商平台也存在一些警示信号。了解这些信号有助于你无忧购物或销售。"
+  },
+  {
+   "id": "ESET-825d2138",
+   "title": "让孩子在网上发布自拍合适吗？",
+   "url": "https://www.welivesecurity.com/en/kids-online/children-selfies-online/",
+   "source": "ESET Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 17 Feb 2026 10:00:00 +0000",
+   "published_date": "2026-02-17",
+   "digest": "在孩子的数字生活中，禁止往往难以奏效。我们有责任帮助他们与科技建立健康的关系。"
+  },
+  {
+   "id": "TOPSEC-7d1c3325",
+   "title": "第三章：超越正常运行时间：持续性的真实故事",
+   "url": "https://www.topsec.com/chapter-3-beyond-uptime-the-real-story-of-continuity/",
+   "source": "天融信",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 13 Feb 2026 10:26:20 +0000",
+   "published_date": "2026-02-13",
+   "digest": "Topsec堆栈基础设施为企业安全提供分层、弹性的方法，确保在电子邮件和威胁管理生命周期的每个阶段都得到保护。通过结合高级威胁检测、连续性、合规性和弹性控制，Topsec堆栈端到端地强化了组织的安全态势。本章探讨了各层如何协同工作以保护现代企业。"
+  },
+  {
+   "id": "ESET-d3a8e330",
+   "title": "点名羞辱：勒索软件团伙如何对受害者施压",
+   "url": "https://www.welivesecurity.com/en/ransomware/naming-shaming-ransomware-groups-tighten-screws-victims/",
+   "source": "ESET Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 12 Feb 2026 10:00:00 +0000",
+   "published_date": "2026-02-12",
+   "digest": "当企业数据在专用泄露网站上曝光后，其后果在攻击淡出新闻周期后仍会长期存在。"
+  },
+  {
+   "id": "ESET-f010047c",
+   "title": "税务警示：2026年需警惕的IRS顶级骗局",
+   "url": "https://www.welivesecurity.com/en/scams/taxing-times-top-irs-scams-look-out-2026/",
+   "source": "ESET Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 10 Feb 2026 10:00:00 +0000",
+   "published_date": "2026-02-10",
+   "digest": "现在是报税的时候了，而网络犯罪分子正潜伏着，让本已压力重重的时期更加紧张。"
+  },
+  {
+   "id": "FUTURE-LIFE-dfec5238",
+   "title": "未来生命研究所启动耗资数百万美元的全国性人工智能监管运动",
+   "url": "https://futureoflife.org/press-release/fli-launches-multimillion-dollar-nationwide-ai-regulation-campaign/",
+   "source": "Future of Life Institute",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Mon, 09 Feb 2026 22:12:40 +0000",
+   "published_date": "2026-02-09",
+   "digest": "保护人类运动将在联邦和州层面推动常识性人工智能安全规则。"
+  },
+  {
+   "id": "ESET-d36f5804",
+   "title": "OfferUp诈骗者正大肆活动：以下是你需要了解的信息",
+   "url": "https://www.welivesecurity.com/en/scams/offerup-scammers-out-force-heres-what-you-should-know/",
+   "source": "ESET Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 04 Feb 2026 10:00:00 +0000",
+   "published_date": "2026-02-04",
+   "digest": "移动市场应用的用户数量不断增长，但并非所有用户都是真实的。请警惕这些常见骗局。"
+  },
+  {
+   "id": "ESET-030b770e",
+   "title": "警惕滑坡效应：当心冬奥会诈骗及其他网络威胁",
+   "url": "https://www.welivesecurity.com/en/cybersecurity/slippery-slope-winter-olympics-scams-cyberthreats/",
+   "source": "ESET Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 02 Feb 2026 10:00:00 +0000",
+   "published_date": "2026-02-02",
+   "digest": "雪中无玩笑——体育赛事是网络犯罪分子的巨大目标。遵循这些最佳实践，确保自己不会成为输家。"
+  }
+ ]
+}

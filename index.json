@@ -1,0 +1,125 @@
+{
+ "generated_at": "2026-09-03 13:06",
+ "source_count": 83,
+ "total": 3784,
+ "months": [
+  {
+   "month": "2026-09",
+   "count": 333
+  },
+  {
+   "month": "2026-08",
+   "count": 2418
+  },
+  {
+   "month": "2026-07",
+   "count": 825
+  },
+  {
+   "month": "2026-06",
+   "count": 41
+  },
+  {
+   "month": "2026-05",
+   "count": 29
+  },
+  {
+   "month": "2026-04",
+   "count": 51
+  },
+  {
+   "month": "2026-03",
+   "count": 20
+  },
+  {
+   "month": "2026-02",
+   "count": 15
+  },
+  {
+   "month": "2026-01",
+   "count": 13
+  },
+  {
+   "month": "2025-12",
+   "count": 15
+  },
+  {
+   "month": "2025-11",
+   "count": 13
+  },
+  {
+   "month": "2025-10",
+   "count": 2
+  },
+  {
+   "month": "2025-09",
+   "count": 2
+  },
+  {
+   "month": "2025-08",
+   "count": 1
+  },
+  {
+   "month": "2025-07",
+   "count": 2
+  },
+  {
+   "month": "2025-06",
+   "count": 1
+  },
+  {
+   "month": "2025-03",
+   "count": 1
+  },
+  {
+   "month": "2025-02",
+   "count": 1
+  },
+  {
+   "month": "2025-01",
+   "count": 1
+  }
+ ],
+ "facets": {
+  "categories": {
+   "AI安全": 1750,
+   "网络安全": 2034
+  },
+  "sources": {
+   "arXiv cs.CR": 1720,
+   "FreeBuf": 495,
+   "The Hacker News": 347,
+   "SecurityWeek": 275,
+   "ZDI Published": 218,
+   "Security Affairs": 195,
+   "ESET Research": 109,
+   "Schneier": 56,
+   "SecWiki": 47,
+   "嘶吼": 40,
+   "Wordfence": 27,
+   "Securelist (Kaspersky)": 27,
+   "Seebug Paper": 24,
+   "Check Point Research": 22,
+   "Unit 42": 21,
+   "Have I Been Pwned": 20,
+   "Future of Life Institute": 20,
+   "SentinelOne Blog": 18,
+   "绿盟科技博客": 15,
+   "天融信": 14,
+   "DFIR Report": 11,
+   "Red Canary": 11,
+   "Risky Business": 10,
+   "Adversa AI": 10,
+   "Praetorian Blog": 10,
+   "Krebs on Security": 9,
+   "Trail of Bits": 7,
+   "ZDI Blog": 5,
+   "Volexity": 1
+  },
+  "priorities": {
+   "P1": 3459,
+   "P2": 98,
+   "P0": 227
+  }
+ }
+}

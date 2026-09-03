@@ -1,0 +1,27 @@
+{
+ "month": "2025-09",
+ "items": [
+  {
+   "id": "DFIR-4246b88a",
+   "title": "从一次点击开始：Lunar Spider如何实现近两个月的入侵",
+   "url": "https://thedfirreport.com/2025/09/29/from-a-single-click-how-lunar-spider-enabled-a-near-two-month-intrusion/",
+   "source": "DFIR Report",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 29 Sep 2025 14:30:06 +0000",
+   "published_date": "2025-09-29",
+   "digest": "关键要点 私人威胁简报：每年20+份私人DFIR报告。立即联系我们获取定价或演示！目录：案例摘要 分析师 初始访问 执行 持久化 权限提升 防御规避 凭据访问 发现 横向移动 命令与控制 数据外泄 影响 时间线 钻石模型 指标 检测 MITRE ATT&CK 案例摘要 入侵[……]"
+  },
+  {
+   "id": "DFIR-5482f2be",
+   "title": "模糊界限：入侵事件显示与三大勒索软件团伙存在关联",
+   "url": "https://thedfirreport.com/2025/09/08/blurring-the-lines-intrusion-shows-connection-with-three-major-ransomware-gangs/",
+   "source": "DFIR Report",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 08 Sep 2025 14:20:31 +0000",
+   "published_date": "2025-09-08",
+   "digest": "关键要点 私人威胁简报：每年20+份私人DFIR报告。立即联系我们获取定价或演示！目录：案例摘要 分析师 初始访问 执行 持久化 权限提升 防御规避 凭据访问 发现 横向移动 收集 命令与控制 数据外泄 影响 时间线 钻石模型 指标 检测 MITRE ATT&CK 案例摘要 入侵始于[……]"
+  }
+ ]
+}

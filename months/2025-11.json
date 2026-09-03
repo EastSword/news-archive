@@ -1,0 +1,148 @@
+{
+ "month": "2025-11",
+ "items": [
+  {
+   "id": "ESET-deeb0fbe",
+   "title": "托尼·安斯库姆的月度安全专栏——2025年11月版",
+   "url": "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-november-2025/",
+   "source": "ESET Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 28 Nov 2025 13:46:36 +0000",
+   "published_date": "2025-11-28",
+   "digest": "顶级AI公司数据泄露、Akira勒索软件收益、针对主要恶意软件家族的“终局行动”，以及本月更多网络安全新闻。"
+  },
+  {
+   "id": "ESET-d570f6c4",
+   "title": "家长应知如何保护孩子免受人肉搜索",
+   "url": "https://www.welivesecurity.com/en/kids-online/parents-protect-children-doxxing/",
+   "source": "ESET Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 27 Nov 2025 10:00:00 +0000",
+   "published_date": "2025-11-27",
+   "digest": "年轻人之间的网络争执容易失控，家长需要了解其中的利害关系。"
+  },
+  {
+   "id": "ESET-88c10b4a",
+   "title": "网红成目标：网络犯罪分子如何瞄准内容创作者",
+   "url": "https://www.welivesecurity.com/en/social-media/influencers-crosshairs-cybercriminals-targeting-content-creators/",
+   "source": "ESET Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 25 Nov 2025 10:00:00 +0000",
+   "published_date": "2025-11-25",
+   "digest": "社交媒体网红可能为诈骗和恶意软件传播提供覆盖面和信任度。强大的账户保护是阻止欺诈者的关键。"
+  },
+  {
+   "id": "ESET-ccfe64e2",
+   "title": "MDR就是答案——那么，问题是什么？",
+   "url": "https://www.welivesecurity.com/en/business-security/mdr-answer-now-whats-question/",
+   "source": "ESET Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 24 Nov 2025 10:00:00 +0000",
+   "published_date": "2025-11-24",
+   "digest": "您的企业为何需要技术与人类专业知识的顶级组合"
+  },
+  {
+   "id": "ESET-8ec2c798",
+   "title": "开源情报优势：在攻击者之前发现你的薄弱环节",
+   "url": "https://www.welivesecurity.com/en/privacy/osint-playbook-find-weak-spots-attackers-do/",
+   "source": "ESET Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 20 Nov 2025 10:00:00 +0000",
+   "published_date": "2025-11-20",
+   "digest": "以下是如何利用开源情报追踪你的数字足迹并发现你的薄弱点，以及几个连接线索的关键工具。"
+  },
+  {
+   "id": "ESET-f6b6205d",
+   "title": "PlushDaemon 入侵网络设备以实施中间人攻击。",
+   "url": "https://www.welivesecurity.com/en/eset-research/plushdaemon-compromises-network-devices-for-adversary-in-the-middle-attacks/",
+   "source": "ESET Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 19 Nov 2025 09:55:00 +0000",
+   "published_date": "2025-11-19",
+   "digest": "ESET研究人员发现了一个由中国关联的PlushDaemon APT组织使用的网络植入程序，用于执行中间人攻击。"
+  },
+  {
+   "id": "ESET-673061ca",
+   "title": "如果你的浪漫AI聊天机器人无法保守秘密呢？",
+   "url": "https://www.welivesecurity.com/en/privacy/romantic-ai-chatbot-keep-secret/",
+   "source": "ESET Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 17 Nov 2025 10:00:00 +0000",
+   "published_date": "2025-11-17",
+   "digest": "你的聊天机器人知道得太多了吗？为什么在向AI伴侣倾诉一切前，你该三思。"
+  },
+  {
+   "id": "ESET-dad17c85",
+   "title": "密码管理器如何被黑客攻击——以及如何保持安全",
+   "url": "https://www.welivesecurity.com/en/cybersecurity/password-managers-under-attack-what-you-should-know/",
+   "source": "ESET Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 13 Nov 2025 10:00:00 +0000",
+   "published_date": "2025-11-13",
+   "digest": "无需再四处寻找，了解网络犯罪分子如何试图破解你的保险库，以及你该如何保护登录信息安全。"
+  },
+  {
+   "id": "ESET-dfd41ac0",
+   "title": "影子AI为何可能成为你最大的安全盲点",
+   "url": "https://www.welivesecurity.com/en/business-security/shadow-ai-security-blind-spot/",
+   "source": "ESET Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 11 Nov 2025 10:00:00 +0000",
+   "published_date": "2025-11-11",
+   "digest": "从无意的数据泄露到有缺陷的代码，这就是为什么你应该关注公司内未经授权的AI使用。"
+  },
+  {
+   "id": "ESET-6a5c4248",
+   "title": "悼念：大卫·哈利",
+   "url": "https://www.welivesecurity.com/en/cybersecurity/in-memoriam-david-harley/",
+   "source": "ESET Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 07 Nov 2025 13:46:10 +0000",
+   "published_date": "2025-11-07",
+   "digest": "前同事与朋友们缅怀这位网络安全研究员、作家与导师，其工作架起了安全领域人文与技术两方面的桥梁。"
+  },
+  {
+   "id": "ESET-43c2d594",
+   "title": "2025年第二季度至第三季度APT攻击的谁、何处及如何",
+   "url": "https://www.welivesecurity.com/en/videos/who-where-how-apt-attacks-q2-2025-q3-2025/",
+   "source": "ESET Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 07 Nov 2025 12:34:37 +0000",
+   "published_date": "2025-11-07",
+   "digest": "ESET首席安全布道师Tony Anscombe强调了最新一期ESET APT活动报告中的一些关键发现。"
+  },
+  {
+   "id": "ESET-83b5a904",
+   "title": "ESET APT活动报告 2025年第二季度至第三季度",
+   "url": "https://www.welivesecurity.com/en/eset-research/eset-apt-activity-report-q2-2025-q3-2025/",
+   "source": "ESET Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 06 Nov 2025 09:45:00 +0000",
+   "published_date": "2025-11-06",
+   "digest": "ESET研究在2025年第二季度和第三季度调查分析的选定APT组织活动概述"
+  },
+  {
+   "id": "ESET-47721e13",
+   "title": "分享即惊吓：你没预料到的WhatsApp骗局",
+   "url": "https://www.welivesecurity.com/en/scams/sharing-is-scaring-whatsapp-screen-sharing-scam/",
+   "source": "ESET Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 05 Nov 2025 10:00:00 +0000",
+   "published_date": "2025-11-05",
+   "digest": "一种快速增长的骗局正诱骗WhatsApp用户泄露其最敏感的财务及其他数据。"
+  }
+ ]
+}

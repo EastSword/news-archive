@@ -1,0 +1,170 @@
+{
+ "month": "2025-12",
+ "items": [
+  {
+   "id": "ESET-ab88e250",
+   "title": "托尼·安斯科姆的月度安全专栏——2025年12月刊",
+   "url": "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-december-2025/",
+   "source": "ESET Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 29 Dec 2025 10:00:00 +0000",
+   "published_date": "2025-12-29",
+   "digest": "随着2025年接近尾声，托尼回顾了12月以及整个年度中最为突出的网络安全事件。"
+  },
+  {
+   "id": "ESET-5dfe6c4f",
+   "title": "遭遇网络刷单诈骗：什么是刷单骗局？如何保护自身安全？",
+   "url": "https://www.welivesecurity.com/en/scams/brush-online-fraud-what-are-brushing-scams-how-do-i-stay-safe/",
+   "source": "ESET Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 23 Dec 2025 10:00:00 +0000",
+   "published_date": "2025-12-23",
+   "digest": "你是否曾收到过从未订购过的包裹？这可能是你的数据已遭泄露的警示信号，后续还可能面临更多欺诈行为。"
+  },
+  {
+   "id": "ESET-cc1621fe",
+   "title": "重访CVE-2025-50165：Windows Imaging Component中的关键漏洞",
+   "url": "https://www.welivesecurity.com/en/eset-research/revisiting-cve-2025-50165-critical-flaw-windows-imaging-component/",
+   "source": "ESET Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 22 Dec 2025 09:55:00 +0000",
+   "published_date": "2025-12-22",
+   "digest": "对一种具有低大规模利用可能性的严重漏洞进行全面分析与评估"
+  },
+  {
+   "id": "ESET-4ef94d99",
+   "title": "长鼻妖精试图刺探东南亚及日本的政务。",
+   "url": "https://www.welivesecurity.com/en/eset-research/longnosedgoblin-tries-sniff-out-governmental-affairs-southeast-asia-japan/",
+   "source": "ESET Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 18 Dec 2025 10:00:00 +0000",
+   "published_date": "2025-12-18",
+   "digest": "ESET研究人员发现了一个与中国有关的APT组织LongNosedGoblin，该组织利用组策略在政府机构的网络中部署网络间谍工具。"
+  },
+  {
+   "id": "DFIR-e19d9200",
+   "title": "猫抓了你的文件：山猫勒索病毒",
+   "url": "https://thedfirreport.com/2025/12/17/cats-got-your-files-lynx-ransomware/",
+   "source": "DFIR Report",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 17 Dec 2025 19:07:07 +0000",
+   "published_date": "2025-12-17",
+   "digest": "关键要点 DFIR报告服务 立即联系我们获取定价或演示！入侵始于2025年3月初，通过一次成功的远程桌面协议（RDP）登录进入一个暴露于互联网的系统。值得注意的是，没有证据表明来自源IP的凭证填充、暴力破解或其他失败的身份验证尝试，这表明[……]"
+  },
+  {
+   "id": "ESET-7a34287f",
+   "title": "ESET 2025年下半年威胁报告",
+   "url": "https://www.welivesecurity.com/en/eset-research/eset-threat-report-h2-2025/",
+   "source": "ESET Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 16 Dec 2025 09:50:45 +0000",
+   "published_date": "2025-12-16",
+   "digest": "ESET遥测数据及ESET威胁检测与研究专家视角下的2025年下半年威胁态势概览"
+  },
+  {
+   "id": "ESET-5c532911",
+   "title": "黑帽欧洲2025：那台设备本应接入互联网吗？",
+   "url": "https://www.welivesecurity.com/en/internet-of-things/black-hat-europe-2025-device-designed-internet/",
+   "source": "ESET Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 12 Dec 2025 15:22:52 +0000",
+   "published_date": "2025-12-12",
+   "digest": "许多现代建筑光鲜亮丽的外表背后，隐藏着存在漏洞的过时系统，这些漏洞正等待被发现。"
+  },
+  {
+   "id": "ESET-3a8b1b52",
+   "title": "黑帽欧洲2025：声誉至关重要——即便是在勒索软件经济中",
+   "url": "https://www.welivesecurity.com/en/business-security/black-hat-europe-2025-reputation-ransomware/",
+   "source": "ESET Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 11 Dec 2025 16:04:19 +0000",
+   "published_date": "2025-12-11",
+   "digest": "被视为可靠对“生意”有好处，勒索软件团伙和他们的受害者一样在意“品牌声誉”。"
+  },
+  {
+   "id": "ESET-a74eff21",
+   "title": "锁、SOC与箱中之猫：薛定谔能教给我们的网络安全课",
+   "url": "https://www.welivesecurity.com/en/business-security/locks-socs-cat-box-what-schrodinger-can-teach-us-about-cybersecurity/",
+   "source": "ESET Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 11 Dec 2025 10:00:00 +0000",
+   "published_date": "2025-12-11",
+   "digest": "不审视自身环境，便无法知晓其真实状态——而攻击者正依赖于此。"
+  },
+  {
+   "id": "ESET-cf8165a1",
+   "title": "在ATT&CK®季寻求对称：如何利用当今多元化的分析师与测试者格局绘制安全杰作",
+   "url": "https://www.welivesecurity.com/en/business-security/seeking-symmetry-attck-season-harness-todays-diverse-analyst-tester-landscape-paint-security-masterpiece/",
+   "source": "ESET Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 10 Dec 2025 15:03:51 +0000",
+   "published_date": "2025-12-10",
+   "digest": "通过行业分析师和测试机构的视角解读庞大的网络安全供应商格局，可以极大提升您的网络韧性。"
+  },
+  {
+   "id": "ESET-d7075946",
+   "title": "重大陷阱：捕鲸攻击如何针对高层管理人员",
+   "url": "https://www.welivesecurity.com/en/business-security/big-catch-how-whaling-attacks-target-top-executives/",
+   "source": "ESET Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 09 Dec 2025 10:00:00 +0000",
+   "published_date": "2025-12-09",
+   "digest": "贵组织的高层领导是否面临网络鱼叉式攻击的风险？了解如何保障他们的安全。"
+  },
+  {
+   "id": "ESET-fb9960b4",
+   "title": "网络钓鱼、权限与密码：为何身份认证对提升网络安全态势至关重要",
+   "url": "https://www.welivesecurity.com/en/business-security/phishing-privileges-passwords-identity-cybersecurity-posture/",
+   "source": "ESET Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 04 Dec 2025 10:00:00 +0000",
+   "published_date": "2025-12-04",
+   "digest": "身份实际上已成为新的网络边界，必须不惜一切代价加以保护。"
+  },
+  {
+   "id": "FUTURE-LIFE-abf727fd",
+   "title": "AI公司安全实践未达公开承诺，结构性弱点显现，领先者拉大差距",
+   "url": "https://futureoflife.org/press-release/ai-company-safety-practices-fall-short-of-public-commitments/",
+   "source": "Future of Life Institute",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Tue, 02 Dec 2025 22:12:42 +0000",
+   "published_date": "2025-12-02",
+   "digest": "但在透明度方面取得了一项胜利，五家领先企业首次参与了该评分卡的调查，向公众提供了关键的新信息。"
+  },
+  {
+   "id": "ESET-a4b2dea8",
+   "title": "泥水河：河岸边的蛇",
+   "url": "https://www.welivesecurity.com/en/eset-research/muddywater-snakes-riverbank/",
+   "source": "ESET Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 02 Dec 2025 10:00:15 +0000",
+   "published_date": "2025-12-02",
+   "digest": "MuddyWater针对以色列和埃及的关键基础设施，依赖定制恶意软件、改进的战术以及可预测的行动模式。"
+  },
+  {
+   "id": "ESET-f0cc3bfa",
+   "title": "过度分享并非关爱：员工过度发帖的潜在风险",
+   "url": "https://www.welivesecurity.com/en/business-security/oversharing-is-not-caring-stake-employees-post-too-much-online/",
+   "source": "ESET Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 01 Dec 2025 10:00:00 +0000",
+   "published_date": "2025-12-01",
+   "digest": "从领英到X、GitHub到Instagram，分享工作相关信息的机会很多。但发布内容也可能给公司带来麻烦。"
+  }
+ ]
+}
