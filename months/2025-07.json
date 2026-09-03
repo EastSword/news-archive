@@ -10,7 +10,8 @@
    "priority": "P1",
    "published_at": "Thu, 17 Jul 2025 22:12:46 +0000",
    "published_date": "2025-07-17",
-   "digest": "生命未来研究所2025年夏季更新的AI安全指数显示，部分企业取得了渐进式进展，但在风险评估及对计划构建系统的控制等关键类别中，仍存在危险缺口。"
+   "digest": "生命未来研究所2025年夏季更新的AI安全指数显示，部分企业取得了渐进式进展，但在风险评估及对计划构建系统的控制等关键类别中，仍存在危险缺口。",
+   "tags": []
   },
   {
    "id": "DFIR-ed50c6ed",
@@ -21,7 +22,10 @@
    "priority": "P1",
    "published_at": "Mon, 14 Jul 2025 00:50:41 +0000",
    "published_date": "2025-07-14",
-   "digest": "来自DFIR报告的研究人员与Proofpoint合作，发现了一个新的且具有韧性的Interlock勒索软件组织远程访问木马（RAT）变种。这种新恶意软件与之前发现的基于JavaScript的Interlock RAT（又名NodeSnake）不同，它使用PHP，并被用于一场大规模攻击活动。自2025年5月以来，与[………"
+   "digest": "来自DFIR报告的研究人员与Proofpoint合作，发现了一个新的且具有韧性的Interlock勒索软件组织远程访问木马（RAT）变种。这种新恶意软件与之前发现的基于JavaScript的Interlock RAT（又名NodeSnake）不同，它使用PHP，并被用于一场大规模攻击活动。自2025年5月以来，与[………",
+   "tags": [
+    "勒索软件"
+   ]
   }
  ]
 }

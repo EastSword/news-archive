@@ -10,7 +10,10 @@
    "priority": "P1",
    "published_at": "Tue, 30 Jun 2026 14:39:37 +0000",
    "published_date": "2026-06-30",
-   "digest": "三天补丁截止期、暴露的燃油箱系统、数十亿美元的诈骗案以及针对儿童的社交媒体禁令，让托尼在2026年6月有太多事情需要消化。"
+   "digest": "三天补丁截止期、暴露的燃油箱系统、数十亿美元的诈骗案以及针对儿童的社交媒体禁令，让托尼在2026年6月有太多事情需要消化。",
+   "tags": [
+    "网络诈骗"
+   ]
   },
   {
    "id": "ADVERSA-ed5f253a",
@@ -21,7 +24,10 @@
    "priority": "P1",
    "published_at": "Tue, 30 Jun 2026 13:00:59 +0000",
    "published_date": "2026-06-30",
-   "digest": "AI编程助手以您的完整账户权限运行shell命令，但其安全过滤器存在根本性缺陷。认识GuardFall：一种让30年前的shell注入技巧绕过现代安全防护的漏洞。阅读对11个热门开源代理的完整调查，了解您的工具是否暴露于风险之中，并学习架构性[...]"
+   "digest": "AI编程助手以您的完整账户权限运行shell命令，但其安全过滤器存在根本性缺陷。认识GuardFall：一种让30年前的shell注入技巧绕过现代安全防护的漏洞。阅读对11个热门开源代理的完整调查，了解您的工具是否暴露于风险之中，并学习架构性[...]",
+   "tags": [
+    "大模型安全"
+   ]
   },
   {
    "id": "RED-CANARY-7499c756",
@@ -32,7 +38,11 @@
    "priority": "P1",
    "published_at": "Tue, 30 Jun 2026 12:33:22 +0000",
    "published_date": "2026-06-30",
-   "digest": "了解Red Canary如何设计一个超级代理——融合机器学习、规则引擎、相似性、自主AI和大语言模型——来对钓鱼邮件进行分类。"
+   "digest": "了解Red Canary如何设计一个超级代理——融合机器学习、规则引擎、相似性、自主AI和大语言模型——来对钓鱼邮件进行分类。",
+   "tags": [
+    "钓鱼攻击",
+    "AI攻防"
+   ]
   },
   {
    "id": "CHECKPOINT-adacf562",
@@ -43,7 +53,12 @@
    "priority": "P1",
    "published_at": "Mon, 29 Jun 2026 14:06:59 +0000",
    "published_date": "2026-06-29",
-   "digest": "请下载我们的《威胁情报简报》，了解6月29日当周网络安全研究的最新发现。重大攻击与泄露事件：大型加密货币预测市场Polymarket已确认遭遇供应链攻击，第三方前端供应商遭入侵后，恶意JavaScript代码被注入其网站。攻击者诱骗用户批准欺诈性[...]"
+   "digest": "请下载我们的《威胁情报简报》，了解6月29日当周网络安全研究的最新发现。重大攻击与泄露事件：大型加密货币预测市场Polymarket已确认遭遇供应链攻击，第三方前端供应商遭入侵后，恶意JavaScript代码被注入其网站。攻击者诱骗用户批准欺诈性[...]",
+   "tags": [
+    "供应链攻击",
+    "加密货币犯罪",
+    "安全运营"
+   ]
   },
   {
    "id": "DFIR-ea1be730",
@@ -54,7 +69,10 @@
    "priority": "P1",
    "published_at": "Mon, 29 Jun 2026 13:07:17 +0000",
    "published_date": "2026-06-29",
-   "digest": "关键要点 该案例最初于2025年7月发布的一份威胁简报中向客户报告，并于2025年8月与瑞士电信B2B CSIRT合作发布的一则公开闪警中披露，后者观察到同一活动中的另一起入侵事件。本报告包含这两起入侵事件的数据。我们计划发布一份DFIR实验室[……]"
+   "digest": "关键要点 该案例最初于2025年7月发布的一份威胁简报中向客户报告，并于2025年8月与瑞士电信B2B CSIRT合作发布的一则公开闪警中披露，后者观察到同一活动中的另一起入侵事件。本报告包含这两起入侵事件的数据。我们计划发布一份DFIR实验室[……]",
+   "tags": [
+    "勒索软件"
+   ]
   },
   {
    "id": "ESET-bc9cf7bd",
@@ -65,7 +83,8 @@
    "priority": "P1",
    "published_at": "Mon, 29 Jun 2026 08:50:00 +0000",
    "published_date": "2026-06-29",
-   "digest": "你的收件箱本身就是一个身份系统：拥有它的人，可能拥有的远不止于此。"
+   "digest": "你的收件箱本身就是一个身份系统：拥有它的人，可能拥有的远不止于此。",
+   "tags": []
   },
   {
    "id": "ESET-13aa2204",
@@ -76,7 +95,8 @@
    "priority": "P1",
    "published_at": "Fri, 26 Jun 2026 08:50:00 +0000",
    "published_date": "2026-06-26",
-   "digest": "您的企业可能规模不大，但其攻击面却不容小觑。做好准备是迈向韧性的第一步。"
+   "digest": "您的企业可能规模不大，但其攻击面却不容小觑。做好准备是迈向韧性的第一步。",
+   "tags": []
   },
   {
    "id": "SEEKBUG-29449f2c",
@@ -87,7 +107,8 @@
    "priority": "P2",
    "published_at": "Fri, 26 Jun 2026 16:11:13 +0800",
    "published_date": "2026-06-26",
-   "digest": "作者：Shanghao Shi, Chaoyu Zhang, Heng Jin, Yang Xiao, Yevgeniy Vorobeychik, William Yeoh, Ning Zhang, Y. Thomas Hou, Wenjing Lou"
+   "digest": "作者：Shanghao Shi, Chaoyu Zhang, Heng Jin, Yang Xiao, Yevgeniy Vorobeychik, William Yeoh, Ning Zhang, Y. Thomas Hou, Wenjing Lou",
+   "tags": []
   },
   {
    "id": "ADVERSA-2de75f88",
@@ -98,7 +119,8 @@
    "priority": "P1",
    "published_at": "Thu, 25 Jun 2026 09:43:35 +0000",
    "published_date": "2026-06-25",
-   "digest": "OWASP将身份与权限滥用列为第三大风险，因为它决定了所有其他AI代理风险的爆炸半径。阅读我们关于ASI03的完整技术指南：五大身份滥用向量、Salesloft Drift泄露案例研究、攻击生命周期，以及如何通过任务范围限定、时间限制[...]进行检测、预防和响应。"
+   "digest": "OWASP将身份与权限滥用列为第三大风险，因为它决定了所有其他AI代理风险的爆炸半径。阅读我们关于ASI03的完整技术指南：五大身份滥用向量、Salesloft Drift泄露案例研究、攻击生命周期，以及如何通过任务范围限定、时间限制[...]进行检测、预防和响应。",
+   "tags": []
   },
   {
    "id": "ESET-0fc1eae7",
@@ -109,7 +131,8 @@
    "priority": "P1",
    "published_at": "Thu, 25 Jun 2026 08:45:00 +0000",
    "published_date": "2026-06-25",
-   "digest": "ESET研究分析Gamaredon的新工具集及其日益依赖合法在线服务以隐藏C&C基础设施并窃取数据的行为。"
+   "digest": "ESET研究分析Gamaredon的新工具集及其日益依赖合法在线服务以隐藏C&C基础设施并窃取数据的行为。",
+   "tags": []
   },
   {
    "id": "ESET-eaa6ccfa",
@@ -120,7 +143,10 @@
    "priority": "P1",
    "published_at": "Wed, 24 Jun 2026 12:35:24 +0000",
    "published_date": "2026-06-24",
-   "digest": "ESET研究人员协助全球范围内瓦解Amadey僵尸网络与Stealc信息窃取程序，提供了技术分析、基础设施追踪及关联方层面的洞察。"
+   "digest": "ESET研究人员协助全球范围内瓦解Amadey僵尸网络与Stealc信息窃取程序，提供了技术分析、基础设施追踪及关联方层面的洞察。",
+   "tags": [
+    "僵尸网络"
+   ]
   },
   {
    "id": "SEEKBUG-5ab382a7",
@@ -131,7 +157,10 @@
    "priority": "P2",
    "published_at": "Wed, 24 Jun 2026 16:46:33 +0800",
    "published_date": "2026-06-24",
-   "digest": "作者：Hanwool Lee, Dasol Choi, Bokyeong Kim等"
+   "digest": "作者：Hanwool Lee, Dasol Choi, Bokyeong Kim等",
+   "tags": [
+    "大模型安全"
+   ]
   },
   {
    "id": "ADVERSA-30532776",
@@ -142,7 +171,10 @@
    "priority": "P1",
    "published_at": "Tue, 23 Jun 2026 08:45:00 +0000",
    "published_date": "2026-06-23",
-   "digest": "一篇关于五阶段提示注入挑战的AI CTF复盘：哪些方法失败，哪些奏效，以及哪些LLM越狱技术可迁移至实际护栏设计。TL;DR 我们在MTX × DEF CON上使用AI红队智能体挑战了TrendAI的\"Breaking the Prompt\"。该挑战是一个五阶段越狱CTF：[...]"
+   "digest": "一篇关于五阶段提示注入挑战的AI CTF复盘：哪些方法失败，哪些奏效，以及哪些LLM越狱技术可迁移至实际护栏设计。TL;DR 我们在MTX × DEF CON上使用AI红队智能体挑战了TrendAI的\"Breaking the Prompt\"。该挑战是一个五阶段越狱CTF：[...]",
+   "tags": [
+    "大模型安全"
+   ]
   },
   {
    "id": "FUTURE-LIFE-176d5353",
@@ -153,7 +185,8 @@
    "priority": "P1",
    "published_at": "Fri, 19 Jun 2026 12:57:04 +0000",
    "published_date": "2026-06-19",
-   "digest": "荷兰东印度公司是最早获得法人资格的现代公司之一。在人工智能时代，我们是否应重新思考“人格”的含义？"
+   "digest": "荷兰东印度公司是最早获得法人资格的现代公司之一。在人工智能时代，我们是否应重新思考“人格”的含义？",
+   "tags": []
   },
   {
    "id": "PRAETORIAN-07bea110",
@@ -164,7 +197,8 @@
    "priority": "P1",
    "published_at": "Fri, 19 Jun 2026 01:55:33 +0000",
    "published_date": "2026-06-19",
-   "digest": "在上一篇文章中，我们介绍了WasmForge，这是我们开发的Go语言转WebAssembly加载器，它能将现有的带签名的Go工具打包成操作安全（opsec-safe）的二进制文件。然而，这种方法不仅适用于Go语言，因为还有许多其他语言可以编译为WebAssembly。另一种我们感兴趣的语言，特别是针对那些已被过度签名的…"
+   "digest": "在上一篇文章中，我们介绍了WasmForge，这是我们开发的Go语言转WebAssembly加载器，它能将现有的带签名的Go工具打包成操作安全（opsec-safe）的二进制文件。然而，这种方法不仅适用于Go语言，因为还有许多其他语言可以编译为WebAssembly。另一种我们感兴趣的语言，特别是针对那些已被过度签名的…",
+   "tags": []
   },
   {
    "id": "RED-CANARY-3abf68ac",
@@ -175,7 +209,8 @@
    "priority": "P1",
    "published_at": "Thu, 18 Jun 2026 17:49:20 +0000",
    "published_date": "2026-06-18",
-   "digest": "ClearFake再次稳居榜首，Kali365在本月《情报洞察》中首次亮相。"
+   "digest": "ClearFake再次稳居榜首，Kali365在本月《情报洞察》中首次亮相。",
+   "tags": []
   },
   {
    "id": "ESET-acce4aa9",
@@ -186,7 +221,8 @@
    "priority": "P1",
    "published_at": "Thu, 18 Jun 2026 09:46:32 +0000",
    "published_date": "2026-06-18",
-   "digest": "ESET研究团队分享了对RaaS团伙Gentlemen维护的EDR杀手套件进行长达数月调查的结果。"
+   "digest": "ESET研究团队分享了对RaaS团伙Gentlemen维护的EDR杀手套件进行长达数月调查的结果。",
+   "tags": []
   },
   {
    "id": "PRAETORIAN-686f2c4d",
@@ -197,7 +233,11 @@
    "priority": "P1",
    "published_at": "Wed, 17 Jun 2026 19:15:57 +0000",
    "published_date": "2026-06-17",
-   "digest": "概述 今年早些时候，Praetorian团队正在构建我们的自动化零日漏洞发现引擎Constantine。我希望找到值得整合到其中的技术，于是利用当时最新的Opus模型——运行在Opus 4.6上的Claude Code，开始对FreeBSD内核进行探索。几天后[...]"
+   "digest": "概述 今年早些时候，Praetorian团队正在构建我们的自动化零日漏洞发现引擎Constantine。我希望找到值得整合到其中的技术，于是利用当时最新的Opus模型——运行在Opus 4.6上的Claude Code，开始对FreeBSD内核进行探索。几天后[...]",
+   "tags": [
+    "漏洞预警",
+    "大模型安全"
+   ]
   },
   {
    "id": "RED-CANARY-e7e26213",
@@ -208,7 +248,8 @@
    "priority": "P1",
    "published_at": "Wed, 17 Jun 2026 16:15:51 +0000",
    "published_date": "2026-06-17",
-   "digest": "最常被滥用的RMM工具全面指南，包括检测与预防的技术指导"
+   "digest": "最常被滥用的RMM工具全面指南，包括检测与预防的技术指导",
+   "tags": []
   },
   {
    "id": "SENTINELONE-7b33faba",
@@ -219,7 +260,8 @@
    "priority": "P1",
    "published_at": "Wed, 17 Jun 2026 13:00:35 +0000",
    "published_date": "2026-06-17",
-   "digest": "SentinelOne的Purple AI自主调查功能现已全面上市，通过零点击、机器速度的告警分析，解决了安全运营中心调查能力缺口的问题。"
+   "digest": "SentinelOne的Purple AI自主调查功能现已全面上市，通过零点击、机器速度的告警分析，解决了安全运营中心调查能力缺口的问题。",
+   "tags": []
   },
   {
    "id": "ESET-1e339f46",
@@ -230,7 +272,8 @@
    "priority": "P1",
    "published_at": "Wed, 17 Jun 2026 08:45:00 +0000",
    "published_date": "2026-06-17",
-   "digest": "许多制造工厂依赖运行多年的OT系统，这种长期服役可能隐藏着重大网络安全风险。"
+   "digest": "许多制造工厂依赖运行多年的OT系统，这种长期服役可能隐藏着重大网络安全风险。",
+   "tags": []
   },
   {
    "id": "PRAETORIAN-3ff85446",
@@ -241,7 +284,8 @@
    "priority": "P1",
    "published_at": "Tue, 16 Jun 2026 15:15:41 +0000",
    "published_date": "2026-06-16",
-   "digest": "TL;DR：Sulla 是一款开源 SMB 机密扫描工具，用于发现企业网络中 SMB 共享中暴露的凭证。它利用我们最近发布的 Titus Go 库，打造出易于使用、适应性强且性能卓越的独立二进制文件。每位网络渗透测试人员都深知这样的困境：审查网络共享中的敏感材料是项痛苦却必须完成的任务。[…]"
+   "digest": "TL;DR：Sulla 是一款开源 SMB 机密扫描工具，用于发现企业网络中 SMB 共享中暴露的凭证。它利用我们最近发布的 Titus Go 库，打造出易于使用、适应性强且性能卓越的独立二进制文件。每位网络渗透测试人员都深知这样的困境：审查网络共享中的敏感材料是项痛苦却必须完成的任务。[…]",
+   "tags": []
   },
   {
    "id": "SEEKBUG-3cb036d0",
@@ -252,7 +296,10 @@
    "priority": "P2",
    "published_at": "Tue, 16 Jun 2026 17:00:29 +0800",
    "published_date": "2026-06-16",
-   "digest": "作者：Qi Wang, Chengcheng Wan等"
+   "digest": "作者：Qi Wang, Chengcheng Wan等",
+   "tags": [
+    "大模型安全"
+   ]
   },
   {
    "id": "ESET-9a30cfd2",
@@ -263,7 +310,8 @@
    "priority": "P1",
    "published_at": "Tue, 16 Jun 2026 08:54:04 +0000",
    "published_date": "2026-06-16",
-   "digest": "ESET研究人员发现了Windows版SprySOCKS，这是FishMonger利用内核驱动程序实现高级隐蔽性的后门工具。"
+   "digest": "ESET研究人员发现了Windows版SprySOCKS，这是FishMonger利用内核驱动程序实现高级隐蔽性的后门工具。",
+   "tags": []
   },
   {
    "id": "ESET-c9d014a5",
@@ -274,7 +322,10 @@
    "priority": "P1",
    "published_at": "Mon, 15 Jun 2026 08:55:00 +0000",
    "published_date": "2026-06-15",
-   "digest": "一种利用微软合法认证流程的钓鱼工具包，使攻击者无需窃取密码或创建虚假登录页面即可入侵账户。"
+   "digest": "一种利用微软合法认证流程的钓鱼工具包，使攻击者无需窃取密码或创建虚假登录页面即可入侵账户。",
+   "tags": [
+    "钓鱼攻击"
+   ]
   },
   {
    "id": "SENTINELONE-841a9dc2",
@@ -285,7 +336,10 @@
    "priority": "P1",
    "published_at": "Fri, 12 Jun 2026 08:59:49 +0000",
    "published_date": "2026-06-12",
-   "digest": "了解SentinelOne如何通过Prompt Security、AI SIEM和Wayfinder Frontier AI助力现代企业安全采用Claude。"
+   "digest": "了解SentinelOne如何通过Prompt Security、AI SIEM和Wayfinder Frontier AI助力现代企业安全采用Claude。",
+   "tags": [
+    "大模型安全"
+   ]
   },
   {
    "id": "RED-CANARY-58fd7607",
@@ -296,7 +350,10 @@
    "priority": "P1",
    "published_at": "Thu, 11 Jun 2026 13:09:00 +0000",
    "published_date": "2026-06-11",
-   "digest": "我们提供了一份实用路线图，助力将非正式、临时的威胁狩猎实践发展为成熟、可扩展的项目。"
+   "digest": "我们提供了一份实用路线图，助力将非正式、临时的威胁狩猎实践发展为成熟、可扩展的项目。",
+   "tags": [
+    "安全运营"
+   ]
   },
   {
    "id": "SEEKBUG-a2224ed3",
@@ -307,7 +364,8 @@
    "priority": "P2",
    "published_at": "Thu, 11 Jun 2026 17:15:42 +0800",
    "published_date": "2026-06-11",
-   "digest": "作者：Anlan Zheng, Tiantian Zhu"
+   "digest": "作者：Anlan Zheng, Tiantian Zhu",
+   "tags": []
   },
   {
    "id": "ESET-6460aa3b",
@@ -318,7 +376,10 @@
    "priority": "P1",
    "published_at": "Thu, 11 Jun 2026 08:45:00 +0000",
    "published_date": "2026-06-11",
-   "digest": "臭名昭著的越南关联APT组织操作模式转变"
+   "digest": "臭名昭著的越南关联APT组织操作模式转变",
+   "tags": [
+    "APT组织"
+   ]
   },
   {
    "id": "ESET-e80f99aa",
@@ -329,7 +390,8 @@
    "priority": "P1",
    "published_at": "Wed, 10 Jun 2026 09:00:00 +0000",
    "published_date": "2026-06-10",
-   "digest": "一家预期可能遭受网络攻击却未积极防范的公司，将面临在最糟糕的关头做出最艰难抉择的风险。"
+   "digest": "一家预期可能遭受网络攻击却未积极防范的公司，将面临在最糟糕的关头做出最艰难抉择的风险。",
+   "tags": []
   },
   {
    "id": "PRAETORIAN-93441418",
@@ -340,7 +402,8 @@
    "priority": "P1",
    "published_at": "Tue, 09 Jun 2026 19:14:27 +0000",
    "published_date": "2026-06-09",
-   "digest": "编写自己的虚拟化加载器是我自2018年首次阅读微软对FinFisher多层虚拟机混淆技术的深度剖析以来一直想做的事。FinFisher不仅使用了一层保护，它实现了一个包含32个操作码处理器的自定义虚拟机，将其包裹在意大利面条式代码和反调试检查中，然后埋藏了第二个虚拟机……"
+   "digest": "编写自己的虚拟化加载器是我自2018年首次阅读微软对FinFisher多层虚拟机混淆技术的深度剖析以来一直想做的事。FinFisher不仅使用了一层保护，它实现了一个包含32个操作码处理器的自定义虚拟机，将其包裹在意大利面条式代码和反调试检查中，然后埋藏了第二个虚拟机……",
+   "tags": []
   },
   {
    "id": "ESET-aeeae71f",
@@ -351,7 +414,8 @@
    "priority": "P1",
    "published_at": "Tue, 09 Jun 2026 08:50:00 +0000",
    "published_date": "2026-06-09",
-   "digest": "每个组织都会接受审计，问题在于由谁来审计。"
+   "digest": "每个组织都会接受审计，问题在于由谁来审计。",
+   "tags": []
   },
   {
    "id": "RED-CANARY-33c5d2a4",
@@ -362,7 +426,8 @@
    "priority": "P1",
    "published_at": "Mon, 08 Jun 2026 15:37:01 +0000",
    "published_date": "2026-06-08",
-   "digest": "辅助型AI代理并非总是有益的——这完全取决于它们为谁服务。"
+   "digest": "辅助型AI代理并非总是有益的——这完全取决于它们为谁服务。",
+   "tags": []
   },
   {
    "id": "FUTURE-LIFE-d4ca7157",
@@ -373,7 +438,8 @@
    "priority": "P1",
    "published_at": "Mon, 08 Jun 2026 07:49:41 +0000",
    "published_date": "2026-06-08",
-   "digest": "我们正逼近一种可能威胁人类共同未来的失控超级智能。"
+   "digest": "我们正逼近一种可能威胁人类共同未来的失控超级智能。",
+   "tags": []
   },
   {
    "id": "ADVERSA-e3e8866e",
@@ -384,7 +450,11 @@
    "priority": "P1",
    "published_at": "Mon, 08 Jun 2026 05:01:40 +0000",
    "published_date": "2026-06-08",
-   "digest": "无法消除的越狱漏洞、将页面摘要转化为钓鱼攻击的ChatGPhish，以及1652个完全开放的Ollama API——按类别整理的六月生成式AI安全阅读材料。"
+   "digest": "无法消除的越狱漏洞、将页面摘要转化为钓鱼攻击的ChatGPhish，以及1652个完全开放的Ollama API——按类别整理的六月生成式AI安全阅读材料。",
+   "tags": [
+    "钓鱼攻击",
+    "大模型安全"
+   ]
   },
   {
    "id": "PRAETORIAN-67d695f1",
@@ -395,7 +465,10 @@
    "priority": "P1",
    "published_at": "Thu, 04 Jun 2026 13:30:00 +0000",
    "published_date": "2026-06-04",
-   "digest": "在上一篇文章中，我们利用Claude技能系统性地降低了进攻性安全工具在VirusTotal上的检测率，并简要提及了我们一直在使用的一款新型加载器，用于批量应用这些技术。本文就将介绍这款名为WasmForge的加载器。从用户角度来看，WasmForge是一个构建[...]"
+   "digest": "在上一篇文章中，我们利用Claude技能系统性地降低了进攻性安全工具在VirusTotal上的检测率，并简要提及了我们一直在使用的一款新型加载器，用于批量应用这些技术。本文就将介绍这款名为WasmForge的加载器。从用户角度来看，WasmForge是一个构建[...]",
+   "tags": [
+    "大模型安全"
+   ]
   },
   {
    "id": "ADVERSA-ed3f3f3c",
@@ -406,7 +479,10 @@
    "priority": "P1",
    "published_at": "Thu, 04 Jun 2026 13:00:23 +0000",
    "published_date": "2026-06-04",
-   "digest": "由OWASP、CoSAI、CSA和NIST贡献者共同开发的开源方法，使企业首次能够根据安全风险对AI代理进行比较。"
+   "digest": "由OWASP、CoSAI、CSA和NIST贡献者共同开发的开源方法，使企业首次能够根据安全风险对AI代理进行比较。",
+   "tags": [
+    "大模型安全"
+   ]
   },
   {
    "id": "FUTURE-LIFE-50014c15",
@@ -417,7 +493,8 @@
    "priority": "P1",
    "published_at": "Wed, 03 Jun 2026 11:37:00 +0000",
    "published_date": "2026-06-03",
-   "digest": "这是朝着正确方向迈出的重要一步……但自愿框架还不够。"
+   "digest": "这是朝着正确方向迈出的重要一步……但自愿框架还不够。",
+   "tags": []
   },
   {
    "id": "ESET-5eed505d",
@@ -428,7 +505,10 @@
    "priority": "P1",
    "published_at": "Wed, 03 Jun 2026 08:50:00 +0000",
    "published_date": "2026-06-03",
-   "digest": "您的孩子可能在开设银行账户之前就遭遇首次数据泄露。以下是如何保护他们数字生活安全的方法。"
+   "digest": "您的孩子可能在开设银行账户之前就遭遇首次数据泄露。以下是如何保护他们数字生活安全的方法。",
+   "tags": [
+    "数据泄露"
+   ]
   },
   {
    "id": "RED-CANARY-b40497bf",
@@ -439,7 +519,10 @@
    "priority": "P1",
    "published_at": "Mon, 01 Jun 2026 18:59:52 +0000",
    "published_date": "2026-06-01",
-   "digest": "红雀2026年6月安全会议及论文征集截止日期月度汇总"
+   "digest": "红雀2026年6月安全会议及论文征集截止日期月度汇总",
+   "tags": [
+    "学术研究"
+   ]
   },
   {
    "id": "RED-CANARY-7d18b407",
@@ -450,7 +533,8 @@
    "priority": "P1",
    "published_at": "Mon, 01 Jun 2026 13:04:01 +0000",
    "published_date": "2026-06-01",
-   "digest": "Entra ID 代理用户可通过 Microsoft Teams 向人类用户发送恶意内容。以下为需警惕之处。"
+   "digest": "Entra ID 代理用户可通过 Microsoft Teams 向人类用户发送恶意内容。以下为需警惕之处。",
+   "tags": []
   }
  ]
 }
