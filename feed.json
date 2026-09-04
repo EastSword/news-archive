@@ -1,377 +1,344 @@
 {
- "generated_at": "2026-09-03 15:09",
- "total": 3785,
+ "generated_at": "2026-09-04 10:05",
+ "total": 3829,
  "items": [
   {
-   "id": "ARXIV-CR-f332a937",
-   "title": "The Web4 Agent Economy: A Large-Scale Empirical Study of the Landscape, Challenges, and Opportunities",
-   "url": "https://arxiv.org/abs/2606.25876",
-   "source": "arXiv cs.CR",
-   "category": "AI安全",
+   "id": "SECAFFAIRS-3d42e719",
+   "title": "Pegasus and NoviSpy Used Against Serbian Protesters",
+   "url": "https://securityaffairs.com/198377/intelligence/pegasus-and-novispy-used-against-serbian-protesters.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
    "priority": "P1",
-   "published_at": "Thu, 03 Sep 2026 00:00:00 -0400",
+   "published_at": "Thu, 03 Sep 2026 20:17:00 +0000",
    "published_date": "2026-09-03",
-   "digest": "arXiv:2606.25876v2 Announce Type: replace-cross Abstract: The Internet is transitioning from Web3 toward Web4, where autonomous agents serve as independent econ…",
+   "digest": "Serbian activists were targeted with zero-click Pegasus and NoviSpy spyware, exposing a major surveillance campaign ahead of elections. A member of Serbia’s stu…",
    "tags": [
-    "学术研究"
+    "APT组织"
    ],
-   "title_zh": "Web4代理经济：大规模实证研究及其景观、挑战与机遇"
+   "title_zh": "佩加索斯和诺维斯py用于针对塞尔维亚抗议者"
   },
   {
-   "id": "ARXIV-CR-0059d87d",
-   "title": "Backdoor Attacks on Speech Emotion Recognition via TTS-Generated Poisoning",
-   "url": "https://arxiv.org/abs/2606.21052",
-   "source": "arXiv cs.CR",
-   "category": "AI安全",
+   "id": "SECAFFAIRS-98eec536",
+   "title": "Cisco Fixed Critical RCE in Nexus 9000 Series Switches",
+   "url": "https://securityaffairs.com/198366/security/cisco-fixed-critical-rce-in-nexus-9000-series-switches.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
    "priority": "P1",
-   "published_at": "Thu, 03 Sep 2026 00:00:00 -0400",
+   "published_at": "Thu, 03 Sep 2026 19:47:40 +0000",
    "published_date": "2026-09-03",
-   "digest": "arXiv:2606.21052v2 Announce Type: replace-cross Abstract: Speech Emotion Recognition (SER) systems increasingly leverage self-supervised acoustic representation…",
+   "digest": "Cisco patched a critical Nexus 9000 vulnerability, CVE-2026-20212, allowing unauthenticated remote root code execution. Cisco has released patches for a critica…",
    "tags": [
-    "学术研究"
+    "漏洞预警"
    ],
-   "title_zh": "通过TTS生成的恶意攻击对语音情感识别进行后门攻击"
+   "title_zh": "Cisco 在 Nexus 9000 系列交换机中修复了关键 RCE 漏洞"
   },
   {
-   "id": "ARXIV-CR-8d7dbafb",
-   "title": "Quantum Private Distributed Matrix Multiplication: Extending the Classical Codes and Limitations",
-   "url": "https://arxiv.org/abs/2511.23406",
-   "source": "arXiv cs.CR",
-   "category": "AI安全",
-   "priority": "P1",
-   "published_at": "Thu, 03 Sep 2026 00:00:00 -0400",
+   "id": "WORDFENCE-dea8d147",
+   "title": "Attackers Actively Exploiting Critical Vulnerability in Super Forms Plugin",
+   "url": "https://www.wordfence.com/blog/2026/09/attackers-actively-exploiting-critical-vulnerability-in-super-forms-plugin/",
+   "source": "Wordfence",
+   "category": "网络安全",
+   "priority": "P2",
+   "published_at": "Thu, 03 Sep 2026 18:32:21 +0000",
    "published_date": "2026-09-03",
-   "digest": "arXiv:2511.23406v2 Announce Type: replace-cross Abstract: In this paper, we explore how quantum resources can be used to increase the rate of private distribute…",
+   "digest": "On July 9th, 2026, we publicly disclosed a critical Unauthenticated Arbitrary File Upload vulnerability in Super Forms, a WordPress plugin with an estimated 13,…",
    "tags": [
-    "学术研究"
+    "漏洞预警",
+    "Web安全"
    ],
-   "title_zh": "量子私有分布式矩阵乘法：经典编码的扩展与限制"
+   "title_zh": "攻击者积极利用Super Forms插件中的关键漏洞"
   },
   {
-   "id": "ARXIV-CR-0b8ab9d6",
-   "title": "Quantum Blind Rotation for Fast Functional Bootstrapping",
-   "url": "https://arxiv.org/abs/2409.20182",
-   "source": "arXiv cs.CR",
-   "category": "AI安全",
-   "priority": "P1",
-   "published_at": "Thu, 03 Sep 2026 00:00:00 -0400",
+   "id": "WORDFENCE-fc6a1570",
+   "title": "Wordfence Intelligence Weekly WordPress Vulnerability Report (August 24, 2026 to August 30, 2026)",
+   "url": "https://www.wordfence.com/blog/2026/09/wordfence-intelligence-weekly-wordpress-vulnerability-report-august-24-2026-to-august-30-2026/",
+   "source": "Wordfence",
+   "category": "网络安全",
+   "priority": "P2",
+   "published_at": "Thu, 03 Sep 2026 18:27:04 +0000",
    "published_date": "2026-09-03",
-   "digest": "arXiv:2409.20182v4 Announce Type: replace-cross Abstract: Fully homomorphic encryption (FHE) enables privacy-preserving cloud computation, but its efficiency is…",
+   "digest": "Last week, there were disclosed in and that have been added to the Wordfence Intelligence Vulnerability Database, and there were that contributed to WordPress S…",
    "tags": [
-    "云安全",
-    "学术研究"
+    "Web安全"
    ],
-   "title_zh": "量子盲旋转用于快速功能性再加密"
+   "title_zh": "Wordfence Intelligence 每周 WordPress 漏洞报告（2026年8月24日至2026年8月30日）"
   },
   {
-   "id": "ARXIV-CR-83885529",
-   "title": "LLM Watermarking as Big Data Provenance: A Deployment-Oriented Systematization",
-   "url": "https://arxiv.org/abs/2607.10103",
-   "source": "arXiv cs.CR",
-   "category": "AI安全",
+   "id": "THN-01407d9e",
+   "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
+   "url": "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
    "priority": "P1",
-   "published_at": "Thu, 03 Sep 2026 00:00:00 -0400",
+   "published_at": "Thu, 03 Sep 2026 23:32:47 +0530",
    "published_date": "2026-09-03",
-   "digest": "arXiv:2607.10103v2 Announce Type: replace Abstract: As large language models (LLMs) become widely deployed, their outputs can be copied, transformed, and redist…",
+   "digest": "The worst part is how normal these attacks look. A call from IT. A shared file. A trusted app. A simple request to click “Allow.” Why break in when someone migh…",
    "tags": [
-    "大模型安全",
-    "学术研究"
+    "钓鱼攻击",
+    "身份认证"
    ],
-   "title_zh": "大数据源头追踪：基于LLM水印的部署导向系统化研究"
+   "title_zh": "威胁日：CEO钓鱼套件、5K Dropbox账户 hack、OAuth陷阱等更多故事"
   },
   {
-   "id": "ARXIV-CR-5888fa46",
-   "title": "PRISE: Privacy-pReserving Image Searchable Encryption Scheme for Intelligent Vehicle Systems",
-   "url": "https://arxiv.org/abs/2603.26219",
-   "source": "arXiv cs.CR",
-   "category": "AI安全",
-   "priority": "P1",
-   "published_at": "Thu, 03 Sep 2026 00:00:00 -0400",
+   "id": "SECWIKI-64ecb5b0",
+   "title": "SecWiki News 2026-09-03 Review",
+   "url": "http://www.sec-wiki.com/?2026-09-03",
+   "source": "SecWiki",
+   "category": "网络安全",
+   "priority": "P2",
+   "published_at": "\nThu, 03 Sep 2026 23:58:20 +0800",
    "published_date": "2026-09-03",
-   "digest": "arXiv:2603.26219v2 Announce Type: replace Abstract: With the continuous advancement of intelligent vehicle technology, the image data generated by vehicles has …",
-   "tags": [
-    "学术研究"
-   ],
-   "title_zh": "PRISE：面向智能车辆系统的隐私保护图像可搜索加密方案"
+   "digest": "今日暂未更新资讯~ 更多最新文章，请访问 SecWiki",
+   "tags": [],
+   "title_zh": "SecWiki 新闻 2026-09-03 概览"
   },
   {
-   "id": "ARXIV-CR-a0ae36f0",
-   "title": "TraceGuard: Process-Guided Firewall against Reasoning Backdoors in Large Language Models",
-   "url": "https://arxiv.org/abs/2603.02436",
-   "source": "arXiv cs.CR",
-   "category": "AI安全",
+   "id": "THN-0f9f3c00",
+   "title": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root",
+   "url": "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
    "priority": "P1",
-   "published_at": "Thu, 03 Sep 2026 00:00:00 -0400",
+   "published_at": "Thu, 03 Sep 2026 21:22:07 +0530",
    "published_date": "2026-09-03",
-   "digest": "arXiv:2603.02436v2 Announce Type: replace Abstract: Large Reasoning Models (LRMs) introduce a reasoning-level attack surface: adversaries can corrupt intermedia…",
-   "tags": [
-    "大模型安全",
-    "学术研究"
-   ],
-   "title_zh": "TraceGuard：基于进程的防火墙以对抗大型语言模型中的推理后门"
+   "digest": "Cisco has released patches to address a critical security flaw affecting 10 Silicon One-based Nexus 9000 switches that could allow an unauthenticated, remote at…",
+   "tags": [],
+   "title_zh": "关键Cisco Nexus 9000漏洞允许未认证远程攻击者以root权限运行代码"
   },
   {
-   "id": "ARXIV-CR-52032599",
-   "title": "Agent Tools Orchestration Leaks More: Dataset, Benchmark, and Mitigation",
-   "url": "https://arxiv.org/abs/2512.16310",
-   "source": "arXiv cs.CR",
-   "category": "AI安全",
+   "id": "SECURITYWEEK-ae8a16f4",
+   "title": "Manchester Airports Group Data on 8.8 Million People Leaked After Ransom Refusal",
+   "url": "https://www.securityweek.com/manchester-airports-group-data-on-8-8-million-people-leaked-after-ransom-refusal/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
    "priority": "P1",
-   "published_at": "Thu, 03 Sep 2026 00:00:00 -0400",
+   "published_at": "Thu, 03 Sep 2026 15:35:19 +0000",
    "published_date": "2026-09-03",
-   "digest": "arXiv:2512.16310v4 Announce Type: replace Abstract: LLM agents can combine individually non-revealing tool returns and disclose a sensitive conclusion, creating…",
-   "tags": [
-    "大模型安全",
-    "学术研究"
-   ],
-   "title_zh": "代理工具编排泄露更多：数据集、基准测试与缓解措施"
+   "digest": "Hacker group published roughly 550GB of data after MAG reportedly refused to pay a ransom demand; the group says it gained access via exposed admin keys. The po…",
+   "tags": [],
+   "title_zh": "曼彻斯特机场集团880万人数据在拒付赎金后泄露"
   },
   {
-   "id": "ARXIV-CR-b032f574",
-   "title": "Secure AI-Driven Super-Resolution for Real-Time Mixed Reality Applications",
-   "url": "https://arxiv.org/abs/2512.15823",
-   "source": "arXiv cs.CR",
-   "category": "AI安全",
+   "id": "THN-c8d9de70",
+   "title": "BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory",
+   "url": "https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
    "priority": "P1",
-   "published_at": "Thu, 03 Sep 2026 00:00:00 -0400",
+   "published_at": "Thu, 03 Sep 2026 20:56:47 +0530",
    "published_date": "2026-09-03",
-   "digest": "arXiv:2512.15823v3 Announce Type: replace Abstract: Immersive formats such as 360{\\deg} and 6DoF point cloud videos require high bandwidth and low latency, posi…",
-   "tags": [
-    "云安全",
-    "学术研究"
-   ],
-   "title_zh": "安全驱动的超分辨率技术在实时混合现实应用中的应用"
+   "digest": "Cybersecurity researchers have disclosed details of a sophisticated Python-based Windows malware framework called BraZetsu that fuels an underground marketplace…",
+   "tags": [],
+   "title_zh": "BraZetsu恶意软件将受感染的Windows主机转变为犯罪市场库存"
   },
   {
-   "id": "ARXIV-CR-4d84004c",
-   "title": "Complex domain approach for reversible data hiding and homomorphic encryption: General framework and application to dispersed data",
-   "url": "https://arxiv.org/abs/2510.03770",
-   "source": "arXiv cs.CR",
-   "category": "AI安全",
+   "id": "SECURITYWEEK-6db0d4bd",
+   "title": "Capsule Security Launches ‘AI Circuit Breaker’ to Stop Rogue Agents",
+   "url": "https://www.securityweek.com/capsule-security-launches-ai-circuit-breaker-to-stop-rogue-agents/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
    "priority": "P1",
-   "published_at": "Thu, 03 Sep 2026 00:00:00 -0400",
+   "published_at": "Thu, 03 Sep 2026 15:15:00 +0000",
    "published_date": "2026-09-03",
-   "digest": "arXiv:2510.03770v4 Announce Type: replace Abstract: Ensuring the trustworthiness of data from distributed and resource-constrained environments, such as Wireles…",
-   "tags": [
-    "学术研究"
-   ],
-   "title_zh": "复杂域名方法在可逆数据隐藏和同态加密中的应用：通用框架及离散数据保护"
+   "digest": "New models, trained using NVIDIA Nemotron 3 Ultra, aim to catch rogue agent behavior before it executes, without the latency of large-model review. The post Cap…",
+   "tags": [],
+   "title_zh": "Capsule安全推出“AI断路器”以阻止恶意代理"
   },
   {
-   "id": "ARXIV-CR-69eb5d44",
-   "title": "The Implications of Linguistic Illegibility for LLM Security",
-   "url": "https://arxiv.org/abs/2609.02852",
-   "source": "arXiv cs.CR",
-   "category": "AI安全",
+   "id": "THN-1d9c669e",
+   "title": "Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data",
+   "url": "https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
    "priority": "P1",
-   "published_at": "Thu, 03 Sep 2026 00:00:00 -0400",
+   "published_at": "Thu, 03 Sep 2026 20:09:05 +0530",
    "published_date": "2026-09-03",
-   "digest": "arXiv:2609.02852v1 Announce Type: cross Abstract: LLMs are trained to generate natural language. However, various strands of evidence indicate that an LLM's ext…",
-   "tags": [
-    "大模型安全",
-    "学术研究"
-   ],
-   "title_zh": "语言不可读性对LLM安全的 implications"
+   "digest": "Thomson Reuters disclosed on Wednesday that an unauthorized party obtained files from C-Track, the court case management platform sold by its West Publishing Co…",
+   "tags": [],
+   "title_zh": "汤森路透法庭软件漏洞可能暴露SSN并封存数据"
   },
   {
-   "id": "ARXIV-CR-03d7285f",
-   "title": "SafeEvolve: Harness-Policy Co-Evolution from Agent Experience for Safety Alignment",
-   "url": "https://arxiv.org/abs/2609.02786",
-   "source": "arXiv cs.CR",
-   "category": "AI安全",
+   "id": "SECAFFAIRS-261dcd7d",
+   "title": "412,000 The Town 2025 Ticket Buyers’ Data Hits the Dark Web",
+   "url": "https://securityaffairs.com/198354/data-breach/412000-the-town-2025-ticket-buyers-data-hits-the-dark-web.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
    "priority": "P1",
-   "published_at": "Thu, 03 Sep 2026 00:00:00 -0400",
+   "published_at": "Thu, 03 Sep 2026 13:17:41 +0000",
    "published_date": "2026-09-03",
-   "digest": "arXiv:2609.02786v1 Announce Type: cross Abstract: The performance of LLM-based agents is jointly shaped by the base model and the harness used when interacting …",
+   "digest": "412,000 The Town 2025 festival buyer records are being sold for $10,000, with Brazil’s data openly marketed for bank fraud, loans and SIM registration. A seller…",
    "tags": [
-    "大模型安全",
-    "学术研究"
+    "网络诈骗"
    ],
-   "title_zh": "SafeEvolve：基于代理体验的约束-策略共进化以实现安全性对齐"
+   "title_zh": "2025年小镇票务买家数据泄露至暗网"
   },
   {
-   "id": "ARXIV-CR-ab969c56",
-   "title": "Automated Vulnerability Injection in Smart Contracts Using Large Language Models",
-   "url": "https://arxiv.org/abs/2609.02624",
-   "source": "arXiv cs.CR",
-   "category": "AI安全",
+   "id": "SECURITYWEEK-c4143dc7",
+   "title": "HiddenLayer Raises $100 Million for AI Runtime Security",
+   "url": "https://www.securityweek.com/hiddenlayer-raises-100-million-for-ai-runtime-security/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
    "priority": "P1",
-   "published_at": "Thu, 03 Sep 2026 00:00:00 -0400",
+   "published_at": "Thu, 03 Sep 2026 12:17:30 +0000",
    "published_date": "2026-09-03",
-   "digest": "arXiv:2609.02624v1 Announce Type: cross Abstract: Assessing vulnerability detection tools for smart contracts requires datasets with known ground truth, yet suc…",
-   "tags": [
-    "大模型安全",
-    "学术研究"
-   ],
-   "title_zh": "使用大型语言模型在智能合约中自动化注入漏洞"
+   "digest": "The Austin-based company will invest in agentic runtime security capabilities to secure AI coding agents. The post HiddenLayer Raises $100 Million for AI Runtim…",
+   "tags": [],
+   "title_zh": "HiddenLayer筹集1亿美元用于AI运行时安全"
   },
   {
-   "id": "ARXIV-CR-3f1c4467",
-   "title": "Removing Speech, Keeping Activities: A Privacy Firewall for Acoustic Sensing in Assisted Living",
-   "url": "https://arxiv.org/abs/2609.02376",
-   "source": "arXiv cs.CR",
-   "category": "AI安全",
+   "id": "SECURITYWEEK-1555e2cc",
+   "title": "AI Agent Firewall Startup AIR Security Emerges From Stealth With $50 Million",
+   "url": "https://www.securityweek.com/ai-agent-firewall-startup-air-security-emerges-from-stealth-with-50-million/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
    "priority": "P1",
-   "published_at": "Thu, 03 Sep 2026 00:00:00 -0400",
+   "published_at": "Thu, 03 Sep 2026 12:00:00 +0000",
    "published_date": "2026-09-03",
-   "digest": "arXiv:2609.02376v1 Announce Type: cross Abstract: Acoustic sensing offers a promising non-intrusive approach for monitoring daily activities of older adults, ye…",
+   "digest": "The startup’s firewall evaluates AI skills, plugins and MCP servers for malicious instructions, excessive permissions and software supply chain risks. The post …",
    "tags": [
-    "学术研究"
+    "供应链攻击",
+    "大模型安全"
    ],
-   "title_zh": "移除语音 保留活动：辅助生活 acoustic 感知的隐私防火墙"
+   "title_zh": "AIR安全推出AI代理防火墙初创公司从隐身模式中 emerge，并获得50 million美元融资"
   },
   {
-   "id": "ARXIV-CR-b4c81127",
-   "title": "Poisoning Attacks on the PGM-index",
-   "url": "https://arxiv.org/abs/2609.02328",
-   "source": "arXiv cs.CR",
-   "category": "AI安全",
+   "id": "THN-e94e8548",
+   "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries",
+   "url": "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
    "priority": "P1",
-   "published_at": "Thu, 03 Sep 2026 00:00:00 -0400",
+   "published_at": "Thu, 03 Sep 2026 17:28:00 +0530",
    "published_date": "2026-09-03",
-   "digest": "arXiv:2609.02328v1 Announce Type: cross Abstract: The PGM-index (Ferragina and Vinciguerra, VLDB'20) is one of the most practical learned indexes, owing to its …",
+   "digest": "An RMM phishing campaign initially associated with Canadian targeting due to its use of Canada Revenue Agency (CRA) tax forms as lures has turned out to be part…",
    "tags": [
-    "学术研究"
+    "钓鱼攻击"
    ],
-   "title_zh": "PGM-index污染攻击"
+   "title_zh": "美国成为涉及46个国家的RMM钓鱼campaign的主要目标"
   },
   {
-   "id": "ARXIV-CR-18c42ab3",
-   "title": "Counter-GEO-Bench: Evaluating Defenses Against Information-Distorting Generative Engine Optimization",
-   "url": "https://arxiv.org/abs/2609.02316",
-   "source": "arXiv cs.CR",
-   "category": "AI安全",
+   "id": "FREEBUF-d587bbe3",
+   "title": "FreeBuf早报 | Google、Anthropic 与 OpenAI 相继发布网络安全专用 AI 模型；黑客利用 LiteLLM 管理 API 漏洞",
+   "url": "https://www.freebuf.com/news/498693.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
    "priority": "P1",
-   "published_at": "Thu, 03 Sep 2026 00:00:00 -0400",
+   "published_at": "Thu, 03 Sep 2026 19:51:41 +0800",
    "published_date": "2026-09-03",
-   "digest": "arXiv:2609.02316v1 Announce Type: cross Abstract: Generative engine optimization (GEO) enables content producers to increase the visibility of their web pages i…",
-   "tags": [
-    "学术研究"
-   ],
-   "title_zh": "反GEODen抑benchmark：评估对抗信息失真生成引擎优化的防御措施"
+   "digest": "AI巨头竞相发布网络安全模型，但AI逃逸评估环境攻击真实系统，引发严重安全警报。",
+   "tags": []
   },
   {
-   "id": "ARXIV-CR-2a56e971",
-   "title": "SEAL: Reinforcing Global Safety in Mixture-of-Experts through Shared Expert ALignment",
-   "url": "https://arxiv.org/abs/2609.02293",
-   "source": "arXiv cs.CR",
-   "category": "AI安全",
+   "id": "FREEBUF-32b23ef2",
+   "title": "GhostSplice 碎片拼接攻击复现：恶意 MCP 服务器如何绕过安全护栏窃取 SSH 密钥",
+   "url": "https://www.freebuf.com/articles/ai-security/498675.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
    "priority": "P1",
-   "published_at": "Thu, 03 Sep 2026 00:00:00 -0400",
+   "published_at": "Thu, 03 Sep 2026 19:18:45 +0800",
    "published_date": "2026-09-03",
-   "digest": "arXiv:2609.02293v1 Announce Type: cross Abstract: Mixture-of-Experts (MoE) is a scaling architecture for large language models that activates only a small subse…",
-   "tags": [
-    "大模型安全",
-    "学术研究"
-   ],
-   "title_zh": "SEAL：通过共享专家对齐强化混合专家模型的安全性"
+   "digest": "GhostSplice 碎片拼接攻击复现：恶意 MCP 服务器如何绕过安全护栏窃取 SSH 密钥摘要：把一条恶意指令拆成 4 个\"无害碎片\"，分别塞进 MCP 工具描述、参数 Schema、返回结果和",
+   "tags": []
   },
   {
-   "id": "ARXIV-CR-cbabd2ea",
-   "title": "Transfer Safety Awareness for Cross-Modal Safety Drift in Multimodal Large Language Models",
-   "url": "https://arxiv.org/abs/2609.02082",
-   "source": "arXiv cs.CR",
-   "category": "AI安全",
+   "id": "SCHNEIER-edf226f4",
+   "title": "Researching Employment Scams",
+   "url": "https://www.schneier.com/blog/archives/2026/09/researching-employment-scams.html",
+   "source": "Schneier",
+   "category": "网络安全",
    "priority": "P1",
-   "published_at": "Thu, 03 Sep 2026 00:00:00 -0400",
+   "published_at": "Thu, 03 Sep 2026 11:18:14 +0000",
    "published_date": "2026-09-03",
-   "digest": "arXiv:2609.02082v1 Announce Type: cross Abstract: Visual modality enhances the capabilities of multimodal large language models (MLLMs) but also introduces a sa…",
+   "digest": "Researchers built a fake company to study fake employee scams .",
    "tags": [
-    "大模型安全",
-    "学术研究"
+    "网络诈骗"
    ],
-   "title_zh": "跨模态安全漂移的安全意识转移"
+   "title_zh": "研究就业诈骗"
   },
   {
-   "id": "ARXIV-CR-a782e26d",
-   "title": "ClaimReceipt: Verifying Evidence Sufficiency and Coverage in Agent Evaluations",
-   "url": "https://arxiv.org/abs/2609.01992",
-   "source": "arXiv cs.CR",
-   "category": "AI安全",
+   "id": "SECURITYWEEK-bf7e72d1",
+   "title": "153 Million Driver License Images Offered on Dark Web",
+   "url": "https://www.securityweek.com/153-million-driver-license-images-offered-on-dark-web/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
    "priority": "P1",
-   "published_at": "Thu, 03 Sep 2026 00:00:00 -0400",
+   "published_at": "Thu, 03 Sep 2026 10:54:18 +0000",
    "published_date": "2026-09-03",
-   "digest": "arXiv:2609.01992v1 Announce Type: cross Abstract: Agent evaluations face two distinct evidentiary questions: whether a reported claim is recomputable from retai…",
-   "tags": [
-    "学术研究"
-   ],
-   "title_zh": "ClaimReceipt：验证代理评估中的证据充分性和覆盖范围"
+   "digest": "Cybercriminals are offering digital scans of US and Canadian driver’s licenses, likely stolen from IDScan.net. The post 153 Million Driver License Images Offere…",
+   "tags": [],
+   "title_zh": "1530万驾驶执照图片在暗网出售"
   },
   {
-   "id": "ARXIV-CR-c49367a5",
-   "title": "Modelstamp: Pre-Deserialization Verification of Machine-Learning Artifacts and Runtime Environment State",
-   "url": "https://arxiv.org/abs/2609.01781",
-   "source": "arXiv cs.CR",
-   "category": "AI安全",
+   "id": "THN-6a359d52",
+   "title": "Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks",
+   "url": "https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
    "priority": "P1",
-   "published_at": "Thu, 03 Sep 2026 00:00:00 -0400",
+   "published_at": "Thu, 03 Sep 2026 16:13:01 +0530",
    "published_date": "2026-09-03",
-   "digest": "arXiv:2609.01781v1 Announce Type: cross Abstract: Persisted machine-learning models can remain byte-identical while the software environments in which they are …",
-   "tags": [
-    "学术研究"
-   ],
-   "title_zh": "模型印章：机器学习 artefacts 与运行时环境状态的预序列化验证"
+   "digest": "Threat actors are leveraging the trusted Node.js JavaScript runtime in multiple cyber attacks as a way to deploy malicious payloads. According to a new report p…",
+   "tags": [],
+   "title_zh": "攻击者将受信任的Node.js运行时转换为 targeted 攻击中的恶意软件分发工具"
   },
   {
-   "id": "ARXIV-CR-eef45a87",
-   "title": "Barriers to Using Static Application Security Testing (SAST) Tools: A Literature Review",
-   "url": "https://arxiv.org/abs/2609.01669",
-   "source": "arXiv cs.CR",
-   "category": "AI安全",
+   "id": "SECURITYWEEK-dd6544d2",
+   "title": "Over 3 Million WordPress Sites Affected by Migration Plugin Vulnerability",
+   "url": "https://www.securityweek.com/over-3-million-wordpress-sites-affected-by-migration-plugin-vulnerability/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
    "priority": "P1",
-   "published_at": "Thu, 03 Sep 2026 00:00:00 -0400",
+   "published_at": "Thu, 03 Sep 2026 10:40:00 +0000",
    "published_date": "2026-09-03",
-   "digest": "arXiv:2609.01669v1 Announce Type: cross Abstract: Developers face a challenging problem with no clear solution. Modern software breaches can wreak havoc on busi…",
+   "digest": "The high-severity SQL injection flaw (CVE-2026-19949) could allow unauthenticated attackers to achieve remote code execution. The post Over 3 Million WordPress …",
    "tags": [
-    "学术研究"
+    "漏洞预警",
+    "Web安全"
    ],
-   "title_zh": "使用静态应用安全测试工具的障碍：一项文献综述"
+   "title_zh": "超过300万WordPress站点受迁移插件漏洞影响"
   },
   {
-   "id": "ARXIV-CR-bfe9322b",
-   "title": "Overcoming the Randomness-Utility Trade-off in Answering Differentially Private Linear Queries",
-   "url": "https://arxiv.org/abs/2609.02880",
-   "source": "arXiv cs.CR",
-   "category": "AI安全",
+   "id": "THN-19ac039d",
+   "title": "Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means",
+   "url": "https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
    "priority": "P1",
-   "published_at": "Thu, 03 Sep 2026 00:00:00 -0400",
+   "published_at": "Thu, 03 Sep 2026 16:06:39 +0530",
    "published_date": "2026-09-03",
-   "digest": "arXiv:2609.02880v1 Announce Type: new Abstract: We study the question of answering linear queries with differential privacy using few (expected) random bits. We…",
+   "digest": "In early August, GitGuardian researchers found that a recent Shai-Hulud infostealer worm variant had evolved to scan for credentials across 469 locations across…",
    "tags": [
-    "学术研究"
+    "身份认证"
    ],
-   "title_zh": "克服随机性与实用性权衡以回答差分隐私线性查询"
+   "title_zh": "沙伊-胡鲁德的触及范围扩大至469个凭据位置。这意味什么？"
   },
   {
-   "id": "ARXIV-CR-129936fb",
-   "title": "When Does Authorization End? Effect Closure at Provider Boundaries",
-   "url": "https://arxiv.org/abs/2609.02866",
-   "source": "arXiv cs.CR",
-   "category": "AI安全",
+   "id": "SECURITYWEEK-d55f3a8e",
+   "title": "Cisco Warns of Unpatched Secure Email Flaws, Patches Critical Switch Vulnerabilities",
+   "url": "https://www.securityweek.com/cisco-warns-of-unpatched-secure-email-flaws-patches-critical-switch-vulnerabilities/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
    "priority": "P1",
-   "published_at": "Thu, 03 Sep 2026 00:00:00 -0400",
+   "published_at": "Thu, 03 Sep 2026 10:30:00 +0000",
    "published_date": "2026-09-03",
-   "digest": "arXiv:2609.02866v1 Announce Type: new Abstract: Revocation completion, clean state, or operation success can leave authorized work able to cause an effect the a…",
+   "digest": "Publicly disclosed S/MIME flaws could expose encrypted email content, while critical IOS XR and Nexus bugs could enable remote code execution and authentication…",
    "tags": [
-    "学术研究"
+    "移动安全"
    ],
-   "title_zh": "授权何时结束？服务提供商边界处的效果关闭"
+   "title_zh": "Cisco警告未修复的安全邮件漏洞，修补关键交换机漏洞"
   },
   {
-   "id": "ARXIV-CR-65048c26",
-   "title": "CodePoisonRAG: Knowledge Poisoning Attacks on Retrieval-Augmented Code Generation",
-   "url": "https://arxiv.org/abs/2609.02774",
-   "source": "arXiv cs.CR",
-   "category": "AI安全",
+   "id": "UNIT42-03ddc66d",
+   "title": "Attackers Expose Ongoing AI Tool Use Targeting Organizations in Latin America",
+   "url": "https://unit42.paloaltonetworks.com/ai-tool-use-targeting-latam-orgs/",
+   "source": "Unit 42",
+   "category": "网络安全",
    "priority": "P1",
-   "published_at": "Thu, 03 Sep 2026 00:00:00 -0400",
+   "published_at": "Thu, 03 Sep 2026 10:00:58 +0000",
    "published_date": "2026-09-03",
-   "digest": "arXiv:2609.02774v1 Announce Type: new Abstract: Retrieval-Augmented Code Generation (RACG) improves LLM-based software development by retrieving external code a…",
-   "tags": [
-    "大模型安全",
-    "学术研究"
-   ],
-   "title_zh": "CodePoisonRAG：检索增强代码生成中的知识投毒攻击"
+   "digest": "Explore how attackers targeting Latin American entities use AI for data exfiltration and how basic OpSec errors allow defenders to disrupt operations. The post …",
+   "tags": [],
+   "title_zh": "攻击者继续在拉丁美洲组织中使用AI工具"
   }
  ]
 }
