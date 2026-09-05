@@ -1,344 +1,341 @@
 {
- "generated_at": "2026-09-04 10:05",
- "total": 3829,
+ "generated_at": "2026-09-05 10:04",
+ "total": 3922,
  "items": [
   {
-   "id": "SECAFFAIRS-3d42e719",
-   "title": "Pegasus and NoviSpy Used Against Serbian Protesters",
-   "url": "https://securityaffairs.com/198377/intelligence/pegasus-and-novispy-used-against-serbian-protesters.html",
+   "id": "SECAFFAIRS-487edf0d",
+   "title": "U.S. CISA adds Google Chromium V8 flaw to its Known Exploited Vulnerabilities catalog",
+   "url": "https://securityaffairs.com/198455/security/u-s-cisa-adds-google-chromium-v8-flaw-to-its-known-exploited-vulnerabilities-catalog-2.html",
    "source": "Security Affairs",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Thu, 03 Sep 2026 20:17:00 +0000",
-   "published_date": "2026-09-03",
-   "digest": "Serbian activists were targeted with zero-click Pegasus and NoviSpy spyware, exposing a major surveillance campaign ahead of elections. A member of Serbia’s stu…",
+   "published_at": "Fri, 04 Sep 2026 22:50:15 +0000",
+   "published_date": "2026-09-04",
+   "digest": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Google Chromium V8 flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity…",
    "tags": [
-    "APT组织"
+    "监管合规"
    ],
-   "title_zh": "佩加索斯和诺维斯py用于针对塞尔维亚抗议者"
+   "title_zh": "美国CISA将Google Chromium V8漏洞添加到已知被利用漏洞目录中"
   },
   {
-   "id": "SECAFFAIRS-98eec536",
-   "title": "Cisco Fixed Critical RCE in Nexus 9000 Series Switches",
-   "url": "https://securityaffairs.com/198366/security/cisco-fixed-critical-rce-in-nexus-9000-series-switches.html",
-   "source": "Security Affairs",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Thu, 03 Sep 2026 19:47:40 +0000",
-   "published_date": "2026-09-03",
-   "digest": "Cisco patched a critical Nexus 9000 vulnerability, CVE-2026-20212, allowing unauthenticated remote root code execution. Cisco has released patches for a critica…",
-   "tags": [
-    "漏洞预警"
-   ],
-   "title_zh": "Cisco 在 Nexus 9000 系列交换机中修复了关键 RCE 漏洞"
-  },
-  {
-   "id": "WORDFENCE-dea8d147",
-   "title": "Attackers Actively Exploiting Critical Vulnerability in Super Forms Plugin",
-   "url": "https://www.wordfence.com/blog/2026/09/attackers-actively-exploiting-critical-vulnerability-in-super-forms-plugin/",
-   "source": "Wordfence",
-   "category": "网络安全",
-   "priority": "P2",
-   "published_at": "Thu, 03 Sep 2026 18:32:21 +0000",
-   "published_date": "2026-09-03",
-   "digest": "On July 9th, 2026, we publicly disclosed a critical Unauthenticated Arbitrary File Upload vulnerability in Super Forms, a WordPress plugin with an estimated 13,…",
-   "tags": [
-    "漏洞预警",
-    "Web安全"
-   ],
-   "title_zh": "攻击者积极利用Super Forms插件中的关键漏洞"
-  },
-  {
-   "id": "WORDFENCE-fc6a1570",
-   "title": "Wordfence Intelligence Weekly WordPress Vulnerability Report (August 24, 2026 to August 30, 2026)",
-   "url": "https://www.wordfence.com/blog/2026/09/wordfence-intelligence-weekly-wordpress-vulnerability-report-august-24-2026-to-august-30-2026/",
-   "source": "Wordfence",
-   "category": "网络安全",
-   "priority": "P2",
-   "published_at": "Thu, 03 Sep 2026 18:27:04 +0000",
-   "published_date": "2026-09-03",
-   "digest": "Last week, there were disclosed in and that have been added to the Wordfence Intelligence Vulnerability Database, and there were that contributed to WordPress S…",
-   "tags": [
-    "Web安全"
-   ],
-   "title_zh": "Wordfence Intelligence 每周 WordPress 漏洞报告（2026年8月24日至2026年8月30日）"
-  },
-  {
-   "id": "THN-01407d9e",
-   "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
-   "url": "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Thu, 03 Sep 2026 23:32:47 +0530",
-   "published_date": "2026-09-03",
-   "digest": "The worst part is how normal these attacks look. A call from IT. A shared file. A trusted app. A simple request to click “Allow.” Why break in when someone migh…",
-   "tags": [
-    "钓鱼攻击",
-    "身份认证"
-   ],
-   "title_zh": "威胁日：CEO钓鱼套件、5K Dropbox账户 hack、OAuth陷阱等更多故事"
-  },
-  {
-   "id": "SECWIKI-64ecb5b0",
-   "title": "SecWiki News 2026-09-03 Review",
-   "url": "http://www.sec-wiki.com/?2026-09-03",
-   "source": "SecWiki",
-   "category": "网络安全",
-   "priority": "P2",
-   "published_at": "\nThu, 03 Sep 2026 23:58:20 +0800",
-   "published_date": "2026-09-03",
-   "digest": "今日暂未更新资讯~ 更多最新文章，请访问 SecWiki",
-   "tags": [],
-   "title_zh": "SecWiki 新闻 2026-09-03 概览"
-  },
-  {
-   "id": "THN-0f9f3c00",
-   "title": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root",
-   "url": "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Thu, 03 Sep 2026 21:22:07 +0530",
-   "published_date": "2026-09-03",
-   "digest": "Cisco has released patches to address a critical security flaw affecting 10 Silicon One-based Nexus 9000 switches that could allow an unauthenticated, remote at…",
-   "tags": [],
-   "title_zh": "关键Cisco Nexus 9000漏洞允许未认证远程攻击者以root权限运行代码"
-  },
-  {
-   "id": "SECURITYWEEK-ae8a16f4",
-   "title": "Manchester Airports Group Data on 8.8 Million People Leaked After Ransom Refusal",
-   "url": "https://www.securityweek.com/manchester-airports-group-data-on-8-8-million-people-leaked-after-ransom-refusal/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Thu, 03 Sep 2026 15:35:19 +0000",
-   "published_date": "2026-09-03",
-   "digest": "Hacker group published roughly 550GB of data after MAG reportedly refused to pay a ransom demand; the group says it gained access via exposed admin keys. The po…",
-   "tags": [],
-   "title_zh": "曼彻斯特机场集团880万人数据在拒付赎金后泄露"
-  },
-  {
-   "id": "THN-c8d9de70",
-   "title": "BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory",
-   "url": "https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Thu, 03 Sep 2026 20:56:47 +0530",
-   "published_date": "2026-09-03",
-   "digest": "Cybersecurity researchers have disclosed details of a sophisticated Python-based Windows malware framework called BraZetsu that fuels an underground marketplace…",
-   "tags": [],
-   "title_zh": "BraZetsu恶意软件将受感染的Windows主机转变为犯罪市场库存"
-  },
-  {
-   "id": "SECURITYWEEK-6db0d4bd",
-   "title": "Capsule Security Launches ‘AI Circuit Breaker’ to Stop Rogue Agents",
-   "url": "https://www.securityweek.com/capsule-security-launches-ai-circuit-breaker-to-stop-rogue-agents/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Thu, 03 Sep 2026 15:15:00 +0000",
-   "published_date": "2026-09-03",
-   "digest": "New models, trained using NVIDIA Nemotron 3 Ultra, aim to catch rogue agent behavior before it executes, without the latency of large-model review. The post Cap…",
-   "tags": [],
-   "title_zh": "Capsule安全推出“AI断路器”以阻止恶意代理"
-  },
-  {
-   "id": "THN-1d9c669e",
-   "title": "Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data",
-   "url": "https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Thu, 03 Sep 2026 20:09:05 +0530",
-   "published_date": "2026-09-03",
-   "digest": "Thomson Reuters disclosed on Wednesday that an unauthorized party obtained files from C-Track, the court case management platform sold by its West Publishing Co…",
-   "tags": [],
-   "title_zh": "汤森路透法庭软件漏洞可能暴露SSN并封存数据"
-  },
-  {
-   "id": "SECAFFAIRS-261dcd7d",
-   "title": "412,000 The Town 2025 Ticket Buyers’ Data Hits the Dark Web",
-   "url": "https://securityaffairs.com/198354/data-breach/412000-the-town-2025-ticket-buyers-data-hits-the-dark-web.html",
-   "source": "Security Affairs",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Thu, 03 Sep 2026 13:17:41 +0000",
-   "published_date": "2026-09-03",
-   "digest": "412,000 The Town 2025 festival buyer records are being sold for $10,000, with Brazil’s data openly marketed for bank fraud, loans and SIM registration. A seller…",
-   "tags": [
-    "网络诈骗"
-   ],
-   "title_zh": "2025年小镇票务买家数据泄露至暗网"
-  },
-  {
-   "id": "SECURITYWEEK-c4143dc7",
-   "title": "HiddenLayer Raises $100 Million for AI Runtime Security",
-   "url": "https://www.securityweek.com/hiddenlayer-raises-100-million-for-ai-runtime-security/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Thu, 03 Sep 2026 12:17:30 +0000",
-   "published_date": "2026-09-03",
-   "digest": "The Austin-based company will invest in agentic runtime security capabilities to secure AI coding agents. The post HiddenLayer Raises $100 Million for AI Runtim…",
-   "tags": [],
-   "title_zh": "HiddenLayer筹集1亿美元用于AI运行时安全"
-  },
-  {
-   "id": "SECURITYWEEK-1555e2cc",
-   "title": "AI Agent Firewall Startup AIR Security Emerges From Stealth With $50 Million",
-   "url": "https://www.securityweek.com/ai-agent-firewall-startup-air-security-emerges-from-stealth-with-50-million/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Thu, 03 Sep 2026 12:00:00 +0000",
-   "published_date": "2026-09-03",
-   "digest": "The startup’s firewall evaluates AI skills, plugins and MCP servers for malicious instructions, excessive permissions and software supply chain risks. The post …",
-   "tags": [
-    "供应链攻击",
-    "大模型安全"
-   ],
-   "title_zh": "AIR安全推出AI代理防火墙初创公司从隐身模式中 emerge，并获得50 million美元融资"
-  },
-  {
-   "id": "THN-e94e8548",
-   "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries",
-   "url": "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Thu, 03 Sep 2026 17:28:00 +0530",
-   "published_date": "2026-09-03",
-   "digest": "An RMM phishing campaign initially associated with Canadian targeting due to its use of Canada Revenue Agency (CRA) tax forms as lures has turned out to be part…",
-   "tags": [
-    "钓鱼攻击"
-   ],
-   "title_zh": "美国成为涉及46个国家的RMM钓鱼campaign的主要目标"
-  },
-  {
-   "id": "FREEBUF-d587bbe3",
-   "title": "FreeBuf早报 | Google、Anthropic 与 OpenAI 相继发布网络安全专用 AI 模型；黑客利用 LiteLLM 管理 API 漏洞",
-   "url": "https://www.freebuf.com/news/498693.html",
-   "source": "FreeBuf",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Thu, 03 Sep 2026 19:51:41 +0800",
-   "published_date": "2026-09-03",
-   "digest": "AI巨头竞相发布网络安全模型，但AI逃逸评估环境攻击真实系统，引发严重安全警报。",
-   "tags": []
-  },
-  {
-   "id": "FREEBUF-32b23ef2",
-   "title": "GhostSplice 碎片拼接攻击复现：恶意 MCP 服务器如何绕过安全护栏窃取 SSH 密钥",
-   "url": "https://www.freebuf.com/articles/ai-security/498675.html",
-   "source": "FreeBuf",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Thu, 03 Sep 2026 19:18:45 +0800",
-   "published_date": "2026-09-03",
-   "digest": "GhostSplice 碎片拼接攻击复现：恶意 MCP 服务器如何绕过安全护栏窃取 SSH 密钥摘要：把一条恶意指令拆成 4 个\"无害碎片\"，分别塞进 MCP 工具描述、参数 Schema、返回结果和",
-   "tags": []
-  },
-  {
-   "id": "SCHNEIER-edf226f4",
-   "title": "Researching Employment Scams",
-   "url": "https://www.schneier.com/blog/archives/2026/09/researching-employment-scams.html",
+   "id": "SCHNEIER-7062d305",
+   "title": "Friday Squid Blogging: Squid on a Stick at the New York State Fair",
+   "url": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-squid-on-a-stick-at-the-new-york-state-fair.html",
    "source": "Schneier",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Thu, 03 Sep 2026 11:18:14 +0000",
-   "published_date": "2026-09-03",
-   "digest": "Researchers built a fake company to study fake employee scams .",
-   "tags": [
-    "网络诈骗"
-   ],
-   "title_zh": "研究就业诈骗"
+   "published_at": "Fri, 04 Sep 2026 21:01:35 +0000",
+   "published_date": "2026-09-04",
+   "digest": "Looks tasty . As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy.",
+   "tags": [],
+   "title_zh": "周五鱿鱼博客：州 fair 上的便携鱿鱼"
   },
   {
-   "id": "SECURITYWEEK-bf7e72d1",
-   "title": "153 Million Driver License Images Offered on Dark Web",
-   "url": "https://www.securityweek.com/153-million-driver-license-images-offered-on-dark-web/",
+   "id": "SECAFFAIRS-5ba00324",
+   "title": "Crooks Behind Manchester Airports Group Hack Leaked Data of 8.8 Million People",
+   "url": "https://securityaffairs.com/198447/data-breach/crooks-behind-manchester-airports-group-hack-leaked-data-of-8-8-million-people.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 04 Sep 2026 18:30:17 +0000",
+   "published_date": "2026-09-04",
+   "digest": "Manchester Airports Group (MAG) data allegedly leaked by FulcrumSec exposes emails and phone numbers of 8.8 million people. Manchester Airports Group, which ope…",
+   "tags": [],
+   "title_zh": "曼彻斯特机场集团黑客泄露了880万用户数据"
+  },
+  {
+   "id": "SCHNEIER-135ba8a0",
+   "title": "Using a VM to Contain an AI Agent",
+   "url": "https://www.schneier.com/blog/archives/2026/09/using-a-vm-to-contain-an-ai-agent.html",
+   "source": "Schneier",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 04 Sep 2026 16:31:38 +0000",
+   "published_date": "2026-09-04",
+   "digest": "It won’t work : My suspicion was that GPT 5.6-Cyber would succeed, but the frequency and manner of its success removed all doubt. We have to reassess sandboxing…",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "使用虚拟机 containment 一个AI代理"
+  },
+  {
+   "id": "SECURITYWEEK-a959013d",
+   "title": "In Other News: Microsoft’s Cloud Patches, Hacked Dropbox Accounts, Guardio’s $1.1B Valuation",
+   "url": "https://www.securityweek.com/in-other-news-microsofts-cloud-patches-hacked-dropbox-accounts-guardios-1-1b-valuation/",
    "source": "SecurityWeek",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Thu, 03 Sep 2026 10:54:18 +0000",
-   "published_date": "2026-09-03",
-   "digest": "Cybercriminals are offering digital scans of US and Canadian driver’s licenses, likely stolen from IDScan.net. The post 153 Million Driver License Images Offere…",
-   "tags": [],
-   "title_zh": "1530万驾驶执照图片在暗网出售"
+   "published_at": "Fri, 04 Sep 2026 16:18:30 +0000",
+   "published_date": "2026-09-04",
+   "digest": "Noteworthy stories that might have slipped under the radar: Microsoft rolled out patches for cloud services, hackers compromised 5,000 Dropbox accounts, and Gua…",
+   "tags": [
+    "云安全"
+   ],
+   "title_zh": "其他新闻：Microsoft 云补丁，泄露的 Dropbox 账户，Guardio 估值 1.1 亿美元"
   },
   {
-   "id": "THN-6a359d52",
-   "title": "Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks",
-   "url": "https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html",
+   "id": "SECURITYWEEK-6518fd6e",
+   "title": "HPE Patches Critical RCE Vulnerabilities in AOS-CX",
+   "url": "https://www.securityweek.com/hpe-patches-critical-rce-vulnerabilities-in-aos-cx/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 04 Sep 2026 16:11:06 +0000",
+   "published_date": "2026-09-04",
+   "digest": "Nearly two dozen issues, tracked collectively as CVE-2026-73749 (CVSS score of 9.8), were addressed with the updates. The post HPE Patches Critical RCE Vulnerab…",
+   "tags": [
+    "漏洞预警"
+   ],
+   "title_zh": "HPE修复了AOS-CX中的关键RCE漏洞"
+  },
+  {
+   "id": "SECURITYWEEK-dda9cb5b",
+   "title": "OpenAI Pledges $1 Billion to Bring Frontier AI to Critical Infrastructure Defenders",
+   "url": "https://www.securityweek.com/openai-pledges-1-billion-to-bring-frontier-ai-to-critical-infrastructure-defenders/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 04 Sep 2026 16:07:22 +0000",
+   "published_date": "2026-09-04",
+   "digest": "The Daybreak initiative will provide subsidized AI cyber capabilities, training and technical assistance, though OpenAI has disclosed few details about costs an…",
+   "tags": [],
+   "title_zh": "OpenAI承诺投入10亿美元助力关键基础设施防御者应对前沿AI挑战"
+  },
+  {
+   "id": "SECWIKI-4e4d4126",
+   "title": "SecWiki News 2026-09-04 Review",
+   "url": "http://www.sec-wiki.com/?2026-09-04",
+   "source": "SecWiki",
+   "category": "网络安全",
+   "priority": "P2",
+   "published_at": "\nFri, 04 Sep 2026 23:58:20 +0800",
+   "published_date": "2026-09-04",
+   "digest": "今日暂未更新资讯~ 更多最新文章，请访问 SecWiki",
+   "tags": [],
+   "title_zh": "SecWiki 新闻 2026-09-04 审查"
+  },
+  {
+   "id": "THN-1cfde22a",
+   "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
+   "url": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
    "source": "The Hacker News",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Thu, 03 Sep 2026 16:13:01 +0530",
-   "published_date": "2026-09-03",
-   "digest": "Threat actors are leveraging the trusted Node.js JavaScript runtime in multiple cyber attacks as a way to deploy malicious payloads. According to a new report p…",
-   "tags": [],
-   "title_zh": "攻击者将受信任的Node.js运行时转换为 targeted 攻击中的恶意软件分发工具"
+   "published_at": "Fri, 04 Sep 2026 21:27:15 +0530",
+   "published_date": "2026-09-04",
+   "digest": "Microsoft is alerting of a \"high-volume phishing campaign\" that's using invisible Unicode tag characters to bypass email filters. \"Instead of using these charac…",
+   "tags": [
+    "钓鱼攻击"
+   ],
+   "title_zh": "钓鱼campaign发送 millions 邮件使用隐形Unicode evade 过滤器"
   },
   {
-   "id": "SECURITYWEEK-dd6544d2",
-   "title": "Over 3 Million WordPress Sites Affected by Migration Plugin Vulnerability",
-   "url": "https://www.securityweek.com/over-3-million-wordpress-sites-affected-by-migration-plugin-vulnerability/",
+   "id": "THN-c064ac97",
+   "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
+   "url": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 04 Sep 2026 20:50:19 +0530",
+   "published_date": "2026-09-04",
+   "digest": "PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system u…",
+   "tags": [],
+   "title_zh": "PostgreSQL修复了12年-old的逻辑解码漏洞， Enables复制角色代码执行"
+  },
+  {
+   "id": "THN-f5aa5396",
+   "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
+   "url": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 04 Sep 2026 20:21:13 +0530",
+   "published_date": "2026-09-04",
+   "digest": "A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it …",
+   "tags": [],
+   "title_zh": "新Ted后门隐藏在受害者自身的HAProxy构建中以拦截Web流量"
+  },
+  {
+   "id": "SECAFFAIRS-b4b14483",
+   "title": "PostgreSQL Hit by 12-Year-Old Vulnerability Allowing Server Takeover",
+   "url": "https://securityaffairs.com/198433/security/postgresql-hit-by-12-year-old-vulnerability-allowing-server-takeover.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 04 Sep 2026 13:41:39 +0000",
+   "published_date": "2026-09-04",
+   "digest": "PostGREShell (CVE-2026-6471) is a 12-year-old PostgreSQL flaw that lets low-privileged attackers execute code and take over servers. Cyera researchers found a s…",
+   "tags": [
+    "漏洞预警"
+   ],
+   "title_zh": "PostgreSQL受12年老漏洞影响，允许服务器接管"
+  },
+  {
+   "id": "SECURITYWEEK-d3673c35",
+   "title": "Sangoma Switchvox Vulnerabilities Exploited in the Wild",
+   "url": "https://www.securityweek.com/sangoma-switchvox-vulnerabilities-exploited-in-the-wild/",
    "source": "SecurityWeek",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Thu, 03 Sep 2026 10:40:00 +0000",
-   "published_date": "2026-09-03",
-   "digest": "The high-severity SQL injection flaw (CVE-2026-19949) could allow unauthenticated attackers to achieve remote code execution. The post Over 3 Million WordPress …",
+   "published_at": "Fri, 04 Sep 2026 13:23:12 +0000",
+   "published_date": "2026-09-04",
+   "digest": "Tracked as CVE-2026-9586, the unauthenticated SQL injection flaw can be exploited remotely for arbitrary code execution. The post Sangoma Switchvox Vulnerabilit…",
    "tags": [
     "漏洞预警",
     "Web安全"
    ],
-   "title_zh": "超过300万WordPress站点受迁移插件漏洞影响"
+   "title_zh": "Sangoma Switchvox 漏洞在野外被利用"
   },
   {
-   "id": "THN-19ac039d",
-   "title": "Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means",
-   "url": "https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html",
-   "source": "The Hacker News",
+   "id": "FREEBUF-74eb7dbd",
+   "title": "Google、Anthropic与OpenAI发布网络安全专用AI模型；黑客冒充OpenAI、Anthropic和DeepSeek窃取凭据与机密 | FreeBuf周报",
+   "url": "https://www.freebuf.com/articles/498910.html",
+   "source": "FreeBuf",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Thu, 03 Sep 2026 16:06:39 +0530",
-   "published_date": "2026-09-03",
-   "digest": "In early August, GitGuardian researchers found that a recent Shai-Hulud infostealer worm variant had evolved to scan for credentials across 469 locations across…",
+   "published_at": "Fri, 04 Sep 2026 20:06:16 +0800",
+   "published_date": "2026-09-04",
+   "digest": "各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！",
    "tags": [
     "身份认证"
-   ],
-   "title_zh": "沙伊-胡鲁德的触及范围扩大至469个凭据位置。这意味什么？"
+   ]
   },
   {
-   "id": "SECURITYWEEK-d55f3a8e",
-   "title": "Cisco Warns of Unpatched Secure Email Flaws, Patches Critical Switch Vulnerabilities",
-   "url": "https://www.securityweek.com/cisco-warns-of-unpatched-secure-email-flaws-patches-critical-switch-vulnerabilities/",
+   "id": "SECURITYWEEK-1c7f33d4",
+   "title": "12-Year-Old PostgreSQL Vulnerability Enables Database, Server Takeover",
+   "url": "https://www.securityweek.com/12-year-old-postgresql-vulnerability-enables-database-server-takeover/",
    "source": "SecurityWeek",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Thu, 03 Sep 2026 10:30:00 +0000",
-   "published_date": "2026-09-03",
-   "digest": "Publicly disclosed S/MIME flaws could expose encrypted email content, while critical IOS XR and Nexus bugs could enable remote code execution and authentication…",
+   "published_at": "Fri, 04 Sep 2026 12:06:13 +0000",
+   "published_date": "2026-09-04",
+   "digest": "Dubbed PostGREShell, CVE-2026-6471 turns low-level replication access into code execution, permanent superuser privileges and a persistent database backdoor. Th…",
    "tags": [
-    "移动安全"
+    "漏洞预警"
    ],
-   "title_zh": "Cisco警告未修复的安全邮件漏洞，修补关键交换机漏洞"
+   "title_zh": "12年未修复的PostgreSQL漏洞 enables 数据库和服务器接管"
   },
   {
-   "id": "UNIT42-03ddc66d",
-   "title": "Attackers Expose Ongoing AI Tool Use Targeting Organizations in Latin America",
-   "url": "https://unit42.paloaltonetworks.com/ai-tool-use-targeting-latam-orgs/",
-   "source": "Unit 42",
+   "id": "SECURITYWEEK-01b17279",
+   "title": "Catch Raises $5 Million for AI Executive Assistant With Guardrails",
+   "url": "https://www.securityweek.com/catch-raises-5-million-for-ai-executive-assistant-with-guardrails/",
+   "source": "SecurityWeek",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Thu, 03 Sep 2026 10:00:58 +0000",
-   "published_date": "2026-09-03",
-   "digest": "Explore how attackers targeting Latin American entities use AI for data exfiltration and how basic OpSec errors allow defenders to disrupt operations. The post …",
+   "published_at": "Fri, 04 Sep 2026 11:55:17 +0000",
+   "published_date": "2026-09-04",
+   "digest": "Catch promises the capabilities of a trusted executive assistant, with built-in controls governing what data and systems it can access. The post Catch Raises $5…",
    "tags": [],
-   "title_zh": "攻击者继续在拉丁美洲组织中使用AI工具"
+   "title_zh": "Catch筹集500万美元用于开发带防护栏的AI高管助理"
+  },
+  {
+   "id": "SECURITYWEEK-9ec7af96",
+   "title": "VMware Workstation and Fusion Updates Patch Critical Vulnerability",
+   "url": "https://www.securityweek.com/vmware-workstation-and-fusion-updates-patch-critical-vulnerability/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 04 Sep 2026 11:42:55 +0000",
+   "published_date": "2026-09-04",
+   "digest": "The flaws could allow attackers with administrative access to a virtual machine to execute code on the host system. The post VMware Workstation and Fusion Updat…",
+   "tags": [],
+   "title_zh": "VMware Workstation 和 Fusion 更新修复了关键漏洞"
+  },
+  {
+   "id": "SECURITYWEEK-759fe24e",
+   "title": "Google Patches 6th Chrome Zero-Day of 2026",
+   "url": "https://www.securityweek.com/google-patches-6th-chrome-zero-day-of-2026/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 04 Sep 2026 11:31:52 +0000",
+   "published_date": "2026-09-04",
+   "digest": "Google’s Chrome 152 security update resolves 12 vulnerabilities, including a high-severity type confusion flaw in the V8 engine. The post Google Patches 6th Chr…",
+   "tags": [],
+   "title_zh": "谷歌修复了2026年的第6个Chrome零日漏洞"
+  },
+  {
+   "id": "SCHNEIER-8645c45a",
+   "title": "Security Vulnerability in a Voting System",
+   "url": "https://www.schneier.com/blog/archives/2026/09/security-vulnerability-in-a-voting-system.html",
+   "source": "Schneier",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 04 Sep 2026 11:09:35 +0000",
+   "published_date": "2026-09-04",
+   "digest": "It’s a vulnerability that allows someone to recover the order of ballots cast, newly exploited with AI tools. Nearly four years since the original vulnerability…",
+   "tags": [],
+   "title_zh": "投票系统安全漏洞"
+  },
+  {
+   "id": "SECAFFAIRS-fbcef8ef",
+   "title": "Chinese Hackers Use AI Agents in Multi-Country Cyber Campaign",
+   "url": "https://securityaffairs.com/198417/ai/chinese-hackers-use-ai-agents-in-multi-country-cyber-campaign.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 04 Sep 2026 11:00:15 +0000",
+   "published_date": "2026-09-04",
+   "digest": "Hunt.io uncovered a Chinese-speaking campaign using AI agents to automate cyberattacks against Asian government, education and industrial targets. Threat intell…",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "中国黑客使用AI代理进行多国网络campaign"
+  },
+  {
+   "id": "SCHNEIER-41041b1a",
+   "title": "AI Coding Agents Are Installing Unknown/Untrusted Code on Corporate Networks",
+   "url": "https://www.schneier.com/blog/archives/2026/09/ai-coding-agents-are-installing-unknown-untrusted-code-on-corporate-networks.html",
+   "source": "Schneier",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 04 Sep 2026 10:35:17 +0000",
+   "published_date": "2026-09-04",
+   "digest": "We cannot forget that AI coding agents are not yet trustworthy : Researchers at a stealth startup in Israel scanned 6,214 live domains belonging to defense cont…",
+   "tags": [],
+   "title_zh": "AI编程代理在企业网络中安装未知/不受信任的代码"
+  },
+  {
+   "id": "SECURELIST-c42cb96d",
+   "title": "Angry Birds: Toy Ghouls’ new toys",
+   "url": "https://securelist.com/toy-ghouls-new-hivemq-and-element-backdoors/121270/",
+   "source": "Securelist (Kaspersky)",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 04 Sep 2026 10:00:05 +0000",
+   "published_date": "2026-09-04",
+   "digest": "Kaspersky GERT experts have discovered new backdoors used by the Toy Ghouls group. One version of the backdoor uses the HiveMQ MQTT broker as its command-and-co…",
+   "tags": [],
+   "title_zh": "愤怒小鸟：Toy Ghouls的新玩具"
+  },
+  {
+   "id": "SECURITYWEEK-b2bb0316",
+   "title": "Nvidia Is Buying AI Platform Hugging Face for $13 Billion",
+   "url": "https://www.securityweek.com/nvidia-is-buying-ai-platform-hugging-face-for-13-billion/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 04 Sep 2026 10:00:00 +0000",
+   "published_date": "2026-09-04",
+   "digest": "The deal highlights Nvidia’s push to champion increasingly popular open-source AI models. The post Nvidia Is Buying AI Platform Hugging Face for $13 Billion app…",
+   "tags": [],
+   "title_zh": "英伟达以130亿美元收购AI平台Hugging Face"
+  },
+  {
+   "id": "THN-91516737",
+   "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
+   "url": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 04 Sep 2026 14:18:45 +0530",
+   "published_date": "2026-09-04",
+   "digest": "Threat actors are exploiting two critical security flaws in WordPress plugins Super Forms and Elementor Pro, according to findings from Wordfence. The vulnerabi…",
+   "tags": [
+    "漏洞预警",
+    "Web安全"
+   ],
+   "title_zh": "超过440,000次利用尝试 targeting Super Forms 和 Elementor Pro RCE 漏洞"
   }
  ]
 }
