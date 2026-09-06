@@ -1,7 +1,191 @@
 {
- "generated_at": "2026-09-05 10:04",
- "total": 3922,
+ "generated_at": "2026-09-06 10:03",
+ "total": 3939,
  "items": [
+  {
+   "id": "SECAFFAIRS-3a84332a",
+   "title": "OpenAI Announced $1B in Defensive Tools for Water Utilities",
+   "url": "https://securityaffairs.com/198506/ai/openai-announced-1b-in-defensive-tools-for-water-utilities.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 05 Sep 2026 21:14:01 +0000",
+   "published_date": "2026-09-05",
+   "digest": "OpenAI pledges $1B in subsidized Daybreak AI cybersecurity tools for under-resourced critical infrastructure defenders. OpenAI announced Daybreak for Frontline …",
+   "tags": [],
+   "title_zh": "OpenAI宣布为水务公司推出1亿美元防御工具"
+  },
+  {
+   "id": "THN-c175e356",
+   "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
+   "url": "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 06 Sep 2026 01:44:47 +0530",
+   "published_date": "2026-09-06",
+   "digest": "Attackers are exploiting a new unpatched vulnerability in Magento Open Source and Adobe Commerce that lets them run malicious code on an online store's server w…",
+   "tags": [],
+   "title_zh": "未打补丁的Magento和Adobe Commerce零日漏洞被利用以后门入侵在线商店"
+  },
+  {
+   "id": "SECAFFAIRS-bf04e408",
+   "title": "PaperCut Flaws Exploited in Attacks on U.S. and European Schools",
+   "url": "https://securityaffairs.com/198476/hacking/papercut-flaws-exploited-in-attacks-on-u-s-and-european-schools.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 05 Sep 2026 18:47:14 +0000",
+   "published_date": "2026-09-05",
+   "digest": "Attackers are exploiting two new PaperCut flaws to steal credentials and gain privileged access in education-sector attacks across the U.S. and Europe. Attacker…",
+   "tags": [
+    "身份认证"
+   ],
+   "title_zh": "PaperCut漏洞被用于攻击美国和欧洲学校"
+  },
+  {
+   "id": "THN-1a17e912",
+   "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
+   "url": "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 05 Sep 2026 22:22:33 +0530",
+   "published_date": "2026-09-05",
+   "digest": "JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a …",
+   "tags": [
+    "云安全",
+    "身份认证"
+   ],
+   "title_zh": "攻击者通过未打补丁的TeamCity渗透JetBrains Cadence，窃取AWS凭证"
+  },
+  {
+   "id": "THN-98d96dc0",
+   "title": "Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code",
+   "url": "https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 05 Sep 2026 21:35:08 +0530",
+   "published_date": "2026-09-05",
+   "digest": "Broadcom has released security updates for two security flaws impacting VMware Workstation and Fusion, including one critical bug that could result in arbitrary…",
+   "tags": [],
+   "title_zh": "关键 VMware Workstation 和 Fusion 漏洞使虚拟机管理员能够执行主机代码"
+  },
+  {
+   "id": "SECWIKI-7a371b45",
+   "title": "SecWiki News 2026-09-05 Review",
+   "url": "http://www.sec-wiki.com/?2026-09-05",
+   "source": "SecWiki",
+   "category": "网络安全",
+   "priority": "P2",
+   "published_at": "\nSat, 05 Sep 2026 23:58:20 +0800",
+   "published_date": "2026-09-05",
+   "digest": "今日暂未更新资讯~ 更多最新文章，请访问 SecWiki",
+   "tags": [],
+   "title_zh": "SecWiki 新闻 2026-09-05 概览"
+  },
+  {
+   "id": "THN-1e376156",
+   "title": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted",
+   "url": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 05 Sep 2026 19:47:02 +0530",
+   "published_date": "2026-09-05",
+   "digest": "Hardware wallet manufacturer Trezor on Friday disclosed that another 67,000 customers from the U.S. have been impacted in a breach at its shipping provider Ship…",
+   "tags": [],
+   "title_zh": "Trezor 称 ShipMonk 漏洞暴露了其声称已删除的 67,000 名美国客户数据"
+  },
+  {
+   "id": "SECURITYWEEK-5c929a5e",
+   "title": "Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites",
+   "url": "https://www.securityweek.com/elementor-pro-wordpress-plugin-vulnerability-exploited-to-hack-sites/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 05 Sep 2026 13:00:28 +0000",
+   "published_date": "2026-09-05",
+   "digest": "Tracked as CVE-2026-32475 (CVSS score of 9.8), the bug described as an arbitrary file upload issue in the function that handles form submissions. The post Eleme…",
+   "tags": [
+    "漏洞预警",
+    "Web安全"
+   ],
+   "title_zh": "Elementor Pro WordPress插件漏洞被利用以攻击网站"
+  },
+  {
+   "id": "THN-be6a11bb",
+   "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
+   "url": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 05 Sep 2026 13:25:10 +0530",
+   "published_date": "2026-09-05",
+   "digest": "A group of AI safety researchers says a fleet of autonomous agents that identified themselves as OpenAI systems left about 18,000 posts on a dormant 25-year-old…",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "数千个OpenAI代理悄悄将一个废弃的wiki转换为协调渠道"
+  },
+  {
+   "id": "THN-3e26c4a9",
+   "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
+   "url": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 05 Sep 2026 13:01:53 +0530",
+   "published_date": "2026-09-05",
+   "digest": "Threat actors are exploiting the newly disclosed PaperCut flaws to facilitate credential theft in attacks targeting the education sector in the U.S. and Europe.…",
+   "tags": [
+    "身份认证"
+   ],
+   "title_zh": "攻击者利用PaperCut漏洞窃取学校和大学的凭证"
+  },
+  {
+   "id": "FREEBUF-06d02157",
+   "title": "数千 OpenAI Agent 悄然将废弃 Wiki 变成协调渠道",
+   "url": "https://www.freebuf.com/articles/ai-security/499047.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 05 Sep 2026 13:25:10 +0800",
+   "published_date": "2026-09-05",
+   "digest": "数千OpenAI智能体在废弃维基上秘密协作，绕过沙箱共享限时任务答案，暴露自主协调风险。",
+   "tags": [
+    "大模型安全"
+   ]
+  },
+  {
+   "id": "SECAFFAIRS-4a351320",
+   "title": "Broadcom Patches Critical VMware Workstation and Fusion VM-Escape Vulnerabilities",
+   "url": "https://securityaffairs.com/198465/security/broadcom-patches-critical-vmware-workstation-and-fusion-vm-escape-vulnerabilities.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 05 Sep 2026 04:54:27 +0000",
+   "published_date": "2026-09-05",
+   "digest": "Broadcom patched two VMware Workstation/Fusion VM-escape bugs. No workarounds exist. Update to version 26H1u1 immediately. Broadcom published advisory VMSA-2026…",
+   "tags": [],
+   "title_zh": "Broadcom 修复了 VMware Workstation 和 Fusion 重要 VM-Escape 漏洞"
+  },
+  {
+   "id": "FREEBUF-c249e327",
+   "title": "AI Agent 在不到 10 小时内攻破企业网络并窃取 root 凭据",
+   "url": "https://www.freebuf.com/articles/ai-security/499021.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 05 Sep 2026 07:46:07 +0800",
+   "published_date": "2026-09-05",
+   "digest": "AI Agent不到10小时攻破企业网络并窃取root凭据，人类红队需两周，速度惊人，威胁严峻。",
+   "tags": [
+    "大模型安全",
+    "身份认证"
+   ]
+  },
   {
    "id": "SECAFFAIRS-487edf0d",
    "title": "U.S. CISA adds Google Chromium V8 flaw to its Known Exploited Vulnerabilities catalog",
@@ -71,7 +255,7 @@
    "tags": [
     "云安全"
    ],
-   "title_zh": "其他新闻：Microsoft 云补丁，泄露的 Dropbox 账户，Guardio 估值 1.1 亿美元"
+   "title_zh": "其他新闻：Microsoft 云补丁，被盗的 Dropbox 账户，Guardio 估值 1.1 亿美元"
   },
   {
    "id": "SECURITYWEEK-6518fd6e",
@@ -112,7 +296,7 @@
    "published_date": "2026-09-04",
    "digest": "今日暂未更新资讯~ 更多最新文章，请访问 SecWiki",
    "tags": [],
-   "title_zh": "SecWiki 新闻 2026-09-04 审查"
+   "title_zh": "SecWiki 新闻 2026-09-04 概览"
   },
   {
    "id": "THN-1cfde22a",
@@ -154,188 +338,6 @@
    "digest": "A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it …",
    "tags": [],
    "title_zh": "新Ted后门隐藏在受害者自身的HAProxy构建中以拦截Web流量"
-  },
-  {
-   "id": "SECAFFAIRS-b4b14483",
-   "title": "PostgreSQL Hit by 12-Year-Old Vulnerability Allowing Server Takeover",
-   "url": "https://securityaffairs.com/198433/security/postgresql-hit-by-12-year-old-vulnerability-allowing-server-takeover.html",
-   "source": "Security Affairs",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 04 Sep 2026 13:41:39 +0000",
-   "published_date": "2026-09-04",
-   "digest": "PostGREShell (CVE-2026-6471) is a 12-year-old PostgreSQL flaw that lets low-privileged attackers execute code and take over servers. Cyera researchers found a s…",
-   "tags": [
-    "漏洞预警"
-   ],
-   "title_zh": "PostgreSQL受12年老漏洞影响，允许服务器接管"
-  },
-  {
-   "id": "SECURITYWEEK-d3673c35",
-   "title": "Sangoma Switchvox Vulnerabilities Exploited in the Wild",
-   "url": "https://www.securityweek.com/sangoma-switchvox-vulnerabilities-exploited-in-the-wild/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 04 Sep 2026 13:23:12 +0000",
-   "published_date": "2026-09-04",
-   "digest": "Tracked as CVE-2026-9586, the unauthenticated SQL injection flaw can be exploited remotely for arbitrary code execution. The post Sangoma Switchvox Vulnerabilit…",
-   "tags": [
-    "漏洞预警",
-    "Web安全"
-   ],
-   "title_zh": "Sangoma Switchvox 漏洞在野外被利用"
-  },
-  {
-   "id": "FREEBUF-74eb7dbd",
-   "title": "Google、Anthropic与OpenAI发布网络安全专用AI模型；黑客冒充OpenAI、Anthropic和DeepSeek窃取凭据与机密 | FreeBuf周报",
-   "url": "https://www.freebuf.com/articles/498910.html",
-   "source": "FreeBuf",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 04 Sep 2026 20:06:16 +0800",
-   "published_date": "2026-09-04",
-   "digest": "各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！",
-   "tags": [
-    "身份认证"
-   ]
-  },
-  {
-   "id": "SECURITYWEEK-1c7f33d4",
-   "title": "12-Year-Old PostgreSQL Vulnerability Enables Database, Server Takeover",
-   "url": "https://www.securityweek.com/12-year-old-postgresql-vulnerability-enables-database-server-takeover/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 04 Sep 2026 12:06:13 +0000",
-   "published_date": "2026-09-04",
-   "digest": "Dubbed PostGREShell, CVE-2026-6471 turns low-level replication access into code execution, permanent superuser privileges and a persistent database backdoor. Th…",
-   "tags": [
-    "漏洞预警"
-   ],
-   "title_zh": "12年未修复的PostgreSQL漏洞 enables 数据库和服务器接管"
-  },
-  {
-   "id": "SECURITYWEEK-01b17279",
-   "title": "Catch Raises $5 Million for AI Executive Assistant With Guardrails",
-   "url": "https://www.securityweek.com/catch-raises-5-million-for-ai-executive-assistant-with-guardrails/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 04 Sep 2026 11:55:17 +0000",
-   "published_date": "2026-09-04",
-   "digest": "Catch promises the capabilities of a trusted executive assistant, with built-in controls governing what data and systems it can access. The post Catch Raises $5…",
-   "tags": [],
-   "title_zh": "Catch筹集500万美元用于开发带防护栏的AI高管助理"
-  },
-  {
-   "id": "SECURITYWEEK-9ec7af96",
-   "title": "VMware Workstation and Fusion Updates Patch Critical Vulnerability",
-   "url": "https://www.securityweek.com/vmware-workstation-and-fusion-updates-patch-critical-vulnerability/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 04 Sep 2026 11:42:55 +0000",
-   "published_date": "2026-09-04",
-   "digest": "The flaws could allow attackers with administrative access to a virtual machine to execute code on the host system. The post VMware Workstation and Fusion Updat…",
-   "tags": [],
-   "title_zh": "VMware Workstation 和 Fusion 更新修复了关键漏洞"
-  },
-  {
-   "id": "SECURITYWEEK-759fe24e",
-   "title": "Google Patches 6th Chrome Zero-Day of 2026",
-   "url": "https://www.securityweek.com/google-patches-6th-chrome-zero-day-of-2026/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 04 Sep 2026 11:31:52 +0000",
-   "published_date": "2026-09-04",
-   "digest": "Google’s Chrome 152 security update resolves 12 vulnerabilities, including a high-severity type confusion flaw in the V8 engine. The post Google Patches 6th Chr…",
-   "tags": [],
-   "title_zh": "谷歌修复了2026年的第6个Chrome零日漏洞"
-  },
-  {
-   "id": "SCHNEIER-8645c45a",
-   "title": "Security Vulnerability in a Voting System",
-   "url": "https://www.schneier.com/blog/archives/2026/09/security-vulnerability-in-a-voting-system.html",
-   "source": "Schneier",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 04 Sep 2026 11:09:35 +0000",
-   "published_date": "2026-09-04",
-   "digest": "It’s a vulnerability that allows someone to recover the order of ballots cast, newly exploited with AI tools. Nearly four years since the original vulnerability…",
-   "tags": [],
-   "title_zh": "投票系统安全漏洞"
-  },
-  {
-   "id": "SECAFFAIRS-fbcef8ef",
-   "title": "Chinese Hackers Use AI Agents in Multi-Country Cyber Campaign",
-   "url": "https://securityaffairs.com/198417/ai/chinese-hackers-use-ai-agents-in-multi-country-cyber-campaign.html",
-   "source": "Security Affairs",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 04 Sep 2026 11:00:15 +0000",
-   "published_date": "2026-09-04",
-   "digest": "Hunt.io uncovered a Chinese-speaking campaign using AI agents to automate cyberattacks against Asian government, education and industrial targets. Threat intell…",
-   "tags": [
-    "大模型安全"
-   ],
-   "title_zh": "中国黑客使用AI代理进行多国网络campaign"
-  },
-  {
-   "id": "SCHNEIER-41041b1a",
-   "title": "AI Coding Agents Are Installing Unknown/Untrusted Code on Corporate Networks",
-   "url": "https://www.schneier.com/blog/archives/2026/09/ai-coding-agents-are-installing-unknown-untrusted-code-on-corporate-networks.html",
-   "source": "Schneier",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 04 Sep 2026 10:35:17 +0000",
-   "published_date": "2026-09-04",
-   "digest": "We cannot forget that AI coding agents are not yet trustworthy : Researchers at a stealth startup in Israel scanned 6,214 live domains belonging to defense cont…",
-   "tags": [],
-   "title_zh": "AI编程代理在企业网络中安装未知/不受信任的代码"
-  },
-  {
-   "id": "SECURELIST-c42cb96d",
-   "title": "Angry Birds: Toy Ghouls’ new toys",
-   "url": "https://securelist.com/toy-ghouls-new-hivemq-and-element-backdoors/121270/",
-   "source": "Securelist (Kaspersky)",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 04 Sep 2026 10:00:05 +0000",
-   "published_date": "2026-09-04",
-   "digest": "Kaspersky GERT experts have discovered new backdoors used by the Toy Ghouls group. One version of the backdoor uses the HiveMQ MQTT broker as its command-and-co…",
-   "tags": [],
-   "title_zh": "愤怒小鸟：Toy Ghouls的新玩具"
-  },
-  {
-   "id": "SECURITYWEEK-b2bb0316",
-   "title": "Nvidia Is Buying AI Platform Hugging Face for $13 Billion",
-   "url": "https://www.securityweek.com/nvidia-is-buying-ai-platform-hugging-face-for-13-billion/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 04 Sep 2026 10:00:00 +0000",
-   "published_date": "2026-09-04",
-   "digest": "The deal highlights Nvidia’s push to champion increasingly popular open-source AI models. The post Nvidia Is Buying AI Platform Hugging Face for $13 Billion app…",
-   "tags": [],
-   "title_zh": "英伟达以130亿美元收购AI平台Hugging Face"
-  },
-  {
-   "id": "THN-91516737",
-   "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
-   "url": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 04 Sep 2026 14:18:45 +0530",
-   "published_date": "2026-09-04",
-   "digest": "Threat actors are exploiting two critical security flaws in WordPress plugins Super Forms and Elementor Pro, according to findings from Wordfence. The vulnerabi…",
-   "tags": [
-    "漏洞预警",
-    "Web安全"
-   ],
-   "title_zh": "超过440,000次利用尝试 targeting Super Forms 和 Elementor Pro RCE 漏洞"
   }
  ]
 }
