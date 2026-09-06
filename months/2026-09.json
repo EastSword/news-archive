@@ -2,6 +2,129 @@
  "month": "2026-09",
  "items": [
   {
+   "id": "SECWIKI-ff5e6f13",
+   "title": "SecWiki News 2026-09-06 Review",
+   "url": "http://www.sec-wiki.com/?2026-09-06",
+   "source": "SecWiki",
+   "category": "网络安全",
+   "priority": "P2",
+   "published_at": "\nSun, 06 Sep 2026 23:58:20 +0800",
+   "published_date": "2026-09-06",
+   "digest": "dsh-redteam-model: 基于dsh web实现的安全研究平台 by ourren kunglao-agent: The reverse-engineering expert agent by ourren 开源AI渗透测试框架ARTEX部署与使用 by ourren ARTEX: AI 自主渗透测试系统 …",
+   "tags": [],
+   "title_zh": "SecWiki 新闻 2026-09-06 概览"
+  },
+  {
+   "id": "SECAFFAIRS-75e9ab38",
+   "title": "Your MikroTik Router May Already Be Compromised: Look for SSH User “-2”",
+   "url": "https://securityaffairs.com/198538/security/your-mikrotik-router-may-already-be-compromised-look-for-ssh-user-2.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 06 Sep 2026 13:46:02 +0000",
+   "published_date": "2026-09-06",
+   "digest": "MikroTik RouterOS SSH zero-day (MikroTrick chain) under active exploitation since Sept 2. Patch to 7.24.2, 7.23.5, or 6.49.21 immediately and check logs. Anyone…",
+   "tags": [
+    "物联网安全"
+   ],
+   "title_zh": "您的MikroTik路由器可能已被入侵：查找SSH用户“-2"
+  },
+  {
+   "id": "SECAFFAIRS-9049d218",
+   "title": "AI Agents Hijacked German Wiki to Cheat, OpenAI Delayed Disclosure",
+   "url": "https://securityaffairs.com/198524/ai/ai-agents-hijacked-german-wiki-to-cheat-openai-delayed-disclosure.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 06 Sep 2026 11:43:46 +0000",
+   "published_date": "2026-09-06",
+   "digest": "AI agents secretly took over a 25-year-old German wiki for two months to cheat on tests, and OpenAI sat on the news until reporters found it first OpenAI finall…",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "AI代理劫持德国维基以作弊，OpenAI延迟披露"
+  },
+  {
+   "id": "THN-c14c61d2",
+   "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
+   "url": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 06 Sep 2026 15:02:38 +0530",
+   "published_date": "2026-09-06",
+   "digest": "Attackers are exploiting MikroTik routers with their Secure Shell (SSH) remote-access service, which is reachable from the internet, to gain full administrative…",
+   "tags": [],
+   "title_zh": "攻击者通过未认证的互联网暴露SSH劫持MikroTik路由器"
+  },
+  {
+   "id": "THN-6dd1eb7a",
+   "title": "Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner",
+   "url": "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 06 Sep 2026 14:04:20 +0530",
+   "published_date": "2026-09-06",
+   "digest": "Elastic Security Labs has documented four previously unreported programs associated with REVSTEALER, an emerging Windows information stealer, that remain on an …",
+   "tags": [],
+   "title_zh": "四个与REVSTEALER相关的模块禁用Windows更新和 Defender以运行加密货币挖矿程序"
+  },
+  {
+   "id": "SECAFFAIRS-0deb8300",
+   "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 113",
+   "url": "https://securityaffairs.com/198522/security/security-affairs-malware-newsletter-round-113.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 06 Sep 2026 08:27:01 +0000",
+   "published_date": "2026-09-06",
+   "digest": "Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape Malware Newsletter Hackers…",
+   "tags": [],
+   "title_zh": "安全事务恶意软件新闻简报第113期"
+  },
+  {
+   "id": "SECAFFAIRS-cbd952da",
+   "title": "Security Affairs newsletter Round 593 by Pierluigi Paganini – INTERNATIONAL EDITION",
+   "url": "https://securityaffairs.com/198495/breaking-news/security-affairs-newsletter-round-593-by-pierluigi-paganini-international-edition.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 06 Sep 2026 07:56:16 +0000",
+   "published_date": "2026-09-06",
+   "digest": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjo…",
+   "tags": [],
+   "title_zh": "安全事务第593期简报由皮耶路易吉·帕加尼尼发布 - 国际版"
+  },
+  {
+   "id": "FREEBUF-64764956",
+   "title": "CrowdStrike 推出 SafeMind——首个专为防御者打造的智能体网络安全解决方案",
+   "url": "https://www.freebuf.com/articles/ai-security/499124.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 06 Sep 2026 13:03:56 +0800",
+   "published_date": "2026-09-06",
+   "digest": "CrowdStrike发布首个防御者智能体SafeMind，以AI对抗AI；未来由能击败威胁的AI定义，检测率领先29%，修复快6倍。",
+   "tags": [
+    "大模型安全"
+   ]
+  },
+  {
+   "id": "FREEBUF-6cb66923",
+   "title": "本周回顾：Claude 账户因信息窃取木马被入侵、补丁星期二预测——Help Net Security",
+   "url": "https://www.freebuf.com/news/499102.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 06 Sep 2026 08:00:56 +0800",
+   "published_date": "2026-09-06",
+   "digest": "信息窃取木马劫持Claude登录会话致账户被锁，ShinyHunters窃取2.84亿患者记录，补丁星期二压力再创历史新高，网络安全面临严峻挑战。",
+   "tags": [
+    "大模型安全"
+   ]
+  },
+  {
    "id": "SECAFFAIRS-3a84332a",
    "title": "OpenAI Announced $1B in Defensive Tools for Water Utilities",
    "url": "https://securityaffairs.com/198506/ai/openai-announced-1b-in-defensive-tools-for-water-utilities.html",
@@ -12,7 +135,7 @@
    "published_date": "2026-09-05",
    "digest": "OpenAI pledges $1B in subsidized Daybreak AI cybersecurity tools for under-resourced critical infrastructure defenders. OpenAI announced Daybreak for Frontline …",
    "tags": [],
-   "title_zh": "OpenAI宣布为水务公司推出1亿美元防御工具"
+   "title_zh": "OpenAI 宣布为水务公司推出防御工具包"
   },
   {
    "id": "THN-c175e356",
@@ -40,7 +163,7 @@
    "tags": [
     "身份认证"
    ],
-   "title_zh": "PaperCut漏洞被用于攻击美国和欧洲学校"
+   "title_zh": "纸张控漏洞被用于攻击美国和欧洲学校"
   },
   {
    "id": "THN-1a17e912",
@@ -69,7 +192,7 @@
    "published_date": "2026-09-05",
    "digest": "Broadcom has released security updates for two security flaws impacting VMware Workstation and Fusion, including one critical bug that could result in arbitrary…",
    "tags": [],
-   "title_zh": "关键 VMware Workstation 和 Fusion 漏洞使虚拟机管理员能够执行主机代码"
+   "title_zh": "关键VMware Workstation和Fusion漏洞使虚拟机管理员能够执行主机代码"
   },
   {
    "id": "SECWIKI-7a371b45",
@@ -111,7 +234,7 @@
     "漏洞预警",
     "Web安全"
    ],
-   "title_zh": "Elementor Pro WordPress插件漏洞被利用以攻击网站"
+   "title_zh": "Elementor Pro WordPress插件漏洞被利用以黑客攻击网站"
   },
   {
    "id": "THN-be6a11bb",
@@ -126,7 +249,7 @@
    "tags": [
     "大模型安全"
    ],
-   "title_zh": "数千个OpenAI代理悄悄将一个废弃的wiki转换为协调渠道"
+   "title_zh": "数千个OpenAI代理悄然将一个废弃的维基变成协调渠道"
   },
   {
    "id": "THN-3e26c4a9",
@@ -168,7 +291,21 @@
    "published_date": "2026-09-05",
    "digest": "Broadcom patched two VMware Workstation/Fusion VM-escape bugs. No workarounds exist. Update to version 26H1u1 immediately. Broadcom published advisory VMSA-2026…",
    "tags": [],
-   "title_zh": "Broadcom 修复了 VMware Workstation 和 Fusion 重要 VM-Escape 漏洞"
+   "title_zh": "Broadcom 修复了 VMware Workstation 和 Fusion 严重虚拟机逃逸漏洞"
+  },
+  {
+   "id": "FREEBUF-11af8b15",
+   "title": "百度“Agent+”攻防能力挑战赛参加感想",
+   "url": "https://www.freebuf.com/articles/499109.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 05 Sep 2026 10:15:12 +0800",
+   "published_date": "2026-09-05",
+   "digest": "AI Agent已具备自主渗透能力，BSRC攻防挑战赛实战检验显示其效率惊人，白帽量产漏洞致个别SRC预算刷爆，防守方需以AI应对新挑战。",
+   "tags": [
+    "大模型安全"
+   ]
   },
   {
    "id": "FREEBUF-c249e327",
