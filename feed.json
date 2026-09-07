@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-07 00:57",
+ "generated_at": "2026-09-07 10:02",
  "total": 3949,
  "items": [
   {
@@ -13,7 +13,7 @@
    "published_date": "2026-09-06",
    "digest": "dsh-redteam-model: 基于dsh web实现的安全研究平台 by ourren kunglao-agent: The reverse-engineering expert agent by ourren 开源AI渗透测试框架ARTEX部署与使用 by ourren ARTEX: AI 自主渗透测试系统 …",
    "tags": [],
-   "title_zh": "SecWiki 新闻 2026-09-06 概览"
+   "title_zh": "SecWiki新闻2026-09-06回顾"
   },
   {
    "id": "SECAFFAIRS-75e9ab38",
@@ -28,7 +28,7 @@
    "tags": [
     "物联网安全"
    ],
-   "title_zh": "您的MikroTik路由器可能已被入侵：查找SSH用户“-2"
+   "title_zh": "您的MikroTik路由器可能已被入侵：留意SSH用户“-2"
   },
   {
    "id": "SECAFFAIRS-9049d218",
@@ -82,7 +82,7 @@
    "published_date": "2026-09-06",
    "digest": "Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape Malware Newsletter Hackers…",
    "tags": [],
-   "title_zh": "安全事务恶意软件新闻简报第113期"
+   "title_zh": "安全事务恶意软件新闻第113期"
   },
   {
    "id": "SECAFFAIRS-cbd952da",
@@ -136,7 +136,7 @@
    "published_date": "2026-09-05",
    "digest": "OpenAI pledges $1B in subsidized Daybreak AI cybersecurity tools for under-resourced critical infrastructure defenders. OpenAI announced Daybreak for Frontline …",
    "tags": [],
-   "title_zh": "OpenAI 宣布为水务公司推出防御工具包"
+   "title_zh": "OpenAI 宣布为水务公司推出防御工具"
   },
   {
    "id": "THN-c175e356",
@@ -149,7 +149,7 @@
    "published_date": "2026-09-06",
    "digest": "Attackers are exploiting a new unpatched vulnerability in Magento Open Source and Adobe Commerce that lets them run malicious code on an online store's server w…",
    "tags": [],
-   "title_zh": "未打补丁的Magento和Adobe Commerce零日漏洞被利用以后门入侵在线商店"
+   "title_zh": "未修补的Magento和Adobe Commerce零日漏洞被利用以后门入侵在线商店"
   },
   {
    "id": "SECAFFAIRS-bf04e408",
@@ -164,7 +164,7 @@
    "tags": [
     "身份认证"
    ],
-   "title_zh": "纸张控漏洞被用于攻击美国和欧洲学校"
+   "title_zh": "纸张限制漏洞被用于攻击美国和欧洲学校"
   },
   {
    "id": "THN-1a17e912",
@@ -219,7 +219,7 @@
    "published_date": "2026-09-05",
    "digest": "Hardware wallet manufacturer Trezor on Friday disclosed that another 67,000 customers from the U.S. have been impacted in a breach at its shipping provider Ship…",
    "tags": [],
-   "title_zh": "Trezor 称 ShipMonk 漏洞暴露了其声称已删除的 67,000 名美国客户数据"
+   "title_zh": "Trezor 称 ShipMonk 数据泄露暴露了其声称已删除的 6.7 万名美国客户的数据"
   },
   {
    "id": "SECURITYWEEK-5c929a5e",
@@ -235,7 +235,7 @@
     "漏洞预警",
     "Web安全"
    ],
-   "title_zh": "Elementor Pro WordPress插件漏洞被利用以黑客攻击网站"
+   "title_zh": "Elementor Pro WordPress插件漏洞被利用以攻击网站"
   },
   {
    "id": "THN-be6a11bb",
@@ -250,7 +250,7 @@
    "tags": [
     "大模型安全"
    ],
-   "title_zh": "数千个OpenAI代理悄然将一个废弃的维基变成协调渠道"
+   "title_zh": "数千个OpenAI代理悄然将一个废弃的Wiki转换为协调渠道"
   },
   {
    "id": "THN-3e26c4a9",
@@ -292,7 +292,7 @@
    "published_date": "2026-09-05",
    "digest": "Broadcom patched two VMware Workstation/Fusion VM-escape bugs. No workarounds exist. Update to version 26H1u1 immediately. Broadcom published advisory VMSA-2026…",
    "tags": [],
-   "title_zh": "Broadcom 修复了 VMware Workstation 和 Fusion 严重虚拟机逃逸漏洞"
+   "title_zh": "Broadcom 修复了 VMware Workstation 和 Fusion 重要 VM-Escape 漏洞"
   },
   {
    "id": "FREEBUF-11af8b15",
