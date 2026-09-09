@@ -2,6 +2,675 @@
  "month": "2026-09",
  "items": [
   {
+   "id": "KREBS-c8edec6e",
+   "title": "Microsoft Plugs Nearly 1,000 Security Holes",
+   "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
+   "source": "Krebs on Security",
+   "category": "网络安全",
+   "priority": "P0",
+   "published_at": "Tue, 08 Sep 2026 21:44:22 +0000",
+   "published_date": "2026-09-08",
+   "digest": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch ba…",
+   "tags": [],
+   "title_zh": "微软修补了近1000个安全漏洞"
+  },
+  {
+   "id": "SECAFFAIRS-30c90a80",
+   "title": "Hackers Drain $320 Million From Liquid Network, Then Return Most of It",
+   "url": "https://securityaffairs.com/198697/cyber-crime/hackers-drain-320-million-from-liquid-network-then-return-most-of-it.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 08 Sep 2026 20:35:34 +0000",
+   "published_date": "2026-09-08",
+   "digest": "Crypto exchange network Liquid Network lost $320 million overnight, then got most of it back after the hackers demanded a bug fix instead of a ransom Bitcoin’s …",
+   "tags": [
+    "加密货币犯罪"
+   ],
+   "title_zh": "黑客从Liquid网络盗取3.2亿美元，随后归还大部分资金"
+  },
+  {
+   "id": "SECURITYWEEK-7bf1c298",
+   "title": "Microsoft Patches Record 974 Vulnerabilities, Including Two Exploited Zero-Days",
+   "url": "https://www.securityweek.com/microsoft-patches-record-974-vulnerabilities-including-two-exploited-zero-days/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 08 Sep 2026 19:20:06 +0000",
+   "published_date": "2026-09-08",
+   "digest": "The record-breaking September security update fixes two exploited privilege-escalation zero-days and 20 potentially wormable vulnerabilities. The post Microsoft…",
+   "tags": [],
+   "title_zh": "微软修复了创纪录的974个漏洞，包括两个被利用的零日漏洞"
+  },
+  {
+   "id": "SECURITYWEEK-200b69b9",
+   "title": "Adobe Patches Over 170 Vulnerabilities, Including Commerce Zero-Day",
+   "url": "https://www.securityweek.com/adobe-patches-over-170-vulnerabilities-including-commerce-zero-day/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 08 Sep 2026 18:37:17 +0000",
+   "published_date": "2026-09-08",
+   "digest": "Tracked as CVE-2026-75650, the exploited defect allows unauthenticated attackers to execute arbitrary code. The post Adobe Patches Over 170 Vulnerabilities, Inc…",
+   "tags": [
+    "漏洞预警"
+   ],
+   "title_zh": "Adobe修复了170多个漏洞，包括Commerce零日漏洞"
+  },
+  {
+   "id": "ZDI-BLOG-b7e009ae",
+   "title": "The September 2026 Security Update Review",
+   "url": "https://www.thezdi.com/blog/2026/9/8/the-september-2026-security-update-review",
+   "source": "ZDI Blog",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 08 Sep 2026 18:32:13 +0000",
+   "published_date": "2026-09-08",
+   "digest": "Whelp, here we are. Deep into the new normal. With nearly 1,000 CVEs coming out from Microsoft and a healthy release from Adobe as well, there’s a phrase from m…",
+   "tags": [],
+   "title_zh": "2026年9月安全更新审查"
+  },
+  {
+   "id": "SECAFFAIRS-cb10bbd6",
+   "title": "WeChat Worm Can Hijack Accounts Without Victims Answering Calls",
+   "url": "https://securityaffairs.com/198688/hacking/wechat-worm-can-hijack-accounts-without-victims-answering-calls.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 08 Sep 2026 18:09:13 +0000",
+   "published_date": "2026-09-08",
+   "digest": "Researchers built a WeChat worm that spreads through incoming calls without user action. Tencent has blocked the exploit. Researchers at Calif created a WeChat …",
+   "tags": [],
+   "title_zh": "微信蠕虫可劫持账号无需受害者接电话"
+  },
+  {
+   "id": "SCHNEIER-b752ec00",
+   "title": "AIs as Modern Genies",
+   "url": "https://www.schneier.com/blog/archives/2026/09/ais-as-modern-genies.html",
+   "source": "Schneier",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 08 Sep 2026 17:12:42 +0000",
+   "published_date": "2026-09-08",
+   "digest": "This essay was written with Barath Raghavan, and originally appeared in Lawfare . In April, an artificial intelligence (AI) agent conducting a routine task at a…",
+   "tags": [],
+   "title_zh": "AI作为现代灯神"
+  },
+  {
+   "id": "SECURITYWEEK-630780dc",
+   "title": "The Hidden Instructions That Can Hijack AI Agents",
+   "url": "https://www.securityweek.com/the-hidden-instructions-that-can-hijack-ai-agents/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 08 Sep 2026 17:00:00 +0000",
+   "published_date": "2026-09-08",
+   "digest": "Malicious prompts concealed in documents, metadata, emails, images and code can manipulate autonomous agents into taking dangerous actions. The post The Hidden …",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "隐藏指令可能劫持AI代理"
+  },
+  {
+   "id": "SECURITYWEEK-412bd7e4",
+   "title": "Hackers Return $263 Million Stolen From Liquid Network",
+   "url": "https://www.securityweek.com/hackers-return-263-million-stolen-from-liquid-network/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 08 Sep 2026 16:35:54 +0000",
+   "published_date": "2026-09-08",
+   "digest": "Alleged ‘white-hat’ hackers drained $320 million from Liquid’s federation wallet, demanding a bug fix. The post Hackers Return $263 Million Stolen From Liquid N…",
+   "tags": [],
+   "title_zh": "黑客归还从Liquid网络盗取的2630万美元"
+  },
+  {
+   "id": "THN-1f5201a7",
+   "title": "Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution",
+   "url": "https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 08 Sep 2026 21:50:23 +0530",
+   "published_date": "2026-09-08",
+   "digest": "A previously undocumented financially motivated threat actor has been linked to attacks targeting Brazilian financial institutions since at least March 2026. Cy…",
+   "tags": [],
+   "title_zh": "Slim Spider窃取巴西金融机构加密托管秘密"
+  },
+  {
+   "id": "SECWIKI-2c02645a",
+   "title": "SecWiki News 2026-09-08 Review",
+   "url": "http://www.sec-wiki.com/?2026-09-08",
+   "source": "SecWiki",
+   "category": "网络安全",
+   "priority": "P2",
+   "published_at": "\nTue, 08 Sep 2026 23:58:20 +0800",
+   "published_date": "2026-09-08",
+   "digest": "SecWiki周刊（第653期) by ourren 更多最新文章，请访问 SecWiki",
+   "tags": [],
+   "title_zh": "SecWiki 新闻 2026-09-08 概览"
+  },
+  {
+   "id": "SECURITYWEEK-0413d78c",
+   "title": "Cylake Raises $245 Million Ahead of Cybersecurity Platform Beta",
+   "url": "https://www.securityweek.com/cylake-raises-245-million-ahead-of-cybersecurity-platform-beta/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 08 Sep 2026 15:21:01 +0000",
+   "published_date": "2026-09-08",
+   "digest": "The startup founded by Palo Alto Networks’ Nir Zuk has raised $290 million to build an AI-native security platform for highly regulated organizations that canno…",
+   "tags": [],
+   "title_zh": "Cylake 获得 2.45 亿美元融资即将推出网络安全平台Beta测试"
+  },
+  {
+   "id": "SECURITYWEEK-168d3a67",
+   "title": "SAP Patches Critical Extended Passport Processing Vulnerability",
+   "url": "https://www.securityweek.com/sap-patches-critical-extended-passport-processing-vulnerability/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 08 Sep 2026 14:55:06 +0000",
+   "published_date": "2026-09-08",
+   "digest": "Affecting the SAP kernel code, the flaw allows unauthenticated, remote attackers to run arbitrary commands, recover secrets, and modify data. The post SAP Patch…",
+   "tags": [],
+   "title_zh": "SAP修复了关键的Extended Passport Processing漏洞"
+  },
+  {
+   "id": "THN-e6770b0a",
+   "title": "Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC",
+   "url": "https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 08 Sep 2026 20:24:30 +0530",
+   "published_date": "2026-09-08",
+   "digest": "Whoever took nearly 4,000 bitcoin from the Liquid Network on Sunday, September 6, returned 3,400 of it the next day, Bitcoin's public record shows. About 598.5 …",
+   "tags": [
+    "加密货币犯罪"
+   ],
+   "title_zh": "液态黑客回归，通过Elements漏洞窃取的3400比特币已归还，仍持有4700万美元比特币"
+  },
+  {
+   "id": "THN-6bfbbf83",
+   "title": "ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account",
+   "url": "https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 08 Sep 2026 19:49:17 +0530",
+   "published_date": "2026-09-08",
+   "digest": "Check Point Research said in a report published today that a single instruction planted in a ChatGPT conversation could cause ChatGPT to quietly work for an att…",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "ChatGPT 漏洞让植入的提示将受害者的 Gmail 数据发送至另一个账户"
+  },
+  {
+   "id": "THN-4e4939ca",
+   "title": "Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours",
+   "url": "https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 08 Sep 2026 19:18:16 +0530",
+   "published_date": "2026-09-08",
+   "digest": "Threat actors are continuing to leverage artificial intelligence (AI) to streamline their operations, with one financially motivated hacking group employing an …",
+   "tags": [
+    "大模型安全",
+    "身份认证"
+   ],
+   "title_zh": "自主AI代理在六小时内窃取数千个凭证"
+  },
+  {
+   "id": "CHECKPOINT-3d3f069f",
+   "title": "The Shared Clipboard Inside the Sandbox: Cross-Account Data Leakage in ChatGPT",
+   "url": "https://research.checkpoint.com/2026/the-shared-clipboard-inside-the-sandbox-cross-account-data-leakage-in-chatgpt/",
+   "source": "Check Point Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 08 Sep 2026 13:00:18 +0000",
+   "published_date": "2026-09-08",
+   "digest": "Research by: Alexey Bukhteyev Key Takeaways Introduction Over the past several years, AI assistants have moved far beyond text generation. Modern systems can ex…",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "沙盒内的共享剪贴板：ChatGPT跨账户数据泄露"
+  },
+  {
+   "id": "SECURITYWEEK-3614e7cf",
+   "title": "Party’s Over for Crypto Scammers Who Went on a Spending Spree After a $240 Million Bitcoin Theft",
+   "url": "https://www.securityweek.com/partys-over-for-crypto-scammers-who-went-on-a-spending-spree-after-a-240-million-bitcoin-theft/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 08 Sep 2026 13:00:00 +0000",
+   "published_date": "2026-09-08",
+   "digest": "The scammers purchased fleets of sports cars, flew on private jets, hired security guards and rented mansions in Miami and the Hamptons. The post Party’s Over f…",
+   "tags": [
+    "网络诈骗",
+    "加密货币犯罪"
+   ],
+   "title_zh": "加密诈骗分子狂欢结束：2.4亿美元比特币盗窃案后大肆挥霍"
+  },
+  {
+   "id": "FREEBUF-228970bd",
+   "title": "FreeBuf早报 | AI 客服机器人可被诱骗窃取安全验证码并冒充受害者；新型InjectEave攻击可从30米外恢复耳机播放的音频",
+   "url": "https://www.freebuf.com/news/499509.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 08 Sep 2026 20:06:06 +0800",
+   "published_date": "2026-09-08",
+   "digest": "标签：Web安全、网络安全 分类：AI安全",
+   "tags": []
+  },
+  {
+   "id": "THN-c0d9a4ae",
+   "title": "WeChat Zero-Click Worm Took Over Accounts on iPhone and Android via Incoming Calls",
+   "url": "https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 08 Sep 2026 17:24:29 +0530",
+   "published_date": "2026-09-08",
+   "digest": "Researchers at the security firm Calif have built a worm that takes over a WeChat account via an incoming call and demonstrated it spreading among three test ph…",
+   "tags": [
+    "移动安全"
+   ],
+   "title_zh": "微信零点击蠕虫通过来电接管iPhone和Android账号"
+  },
+  {
+   "id": "THN-be8aaa8d",
+   "title": "What It Took to Reach 1 Billion Build Manifests",
+   "url": "https://thehackernews.com/2026/09/what-it-took-to-reach-1-billion-build.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 08 Sep 2026 17:19:02 +0530",
+   "published_date": "2026-09-08",
+   "digest": "In the last six months, Chainguard doubled its output from 500 million to more than 1 billion container build manifests. We also surpassed 3,000 unique containe…",
+   "tags": [],
+   "title_zh": "达到10亿次构建清单记录所需的技术手段"
+  },
+  {
+   "id": "THN-7ef76699",
+   "title": "FreeIPA Flaw Chain Lets Anonymous Clients Create Reusable Administrator Credentials",
+   "url": "https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 08 Sep 2026 16:52:07 +0530",
+   "published_date": "2026-09-08",
+   "digest": "A flaw in FreeIPA lets a client that has never logged in create a Kerberos identity of its own choosing in the directory and end up in the administrators group,…",
+   "tags": [
+    "身份认证"
+   ],
+   "title_zh": "FreeIPA 漏洞链让匿名客户端创建可重复使用的管理员凭证"
+  },
+  {
+   "id": "SECURITYWEEK-87751f7d",
+   "title": "MikroTik Patches Critical Flaws Chained to Hack Routers",
+   "url": "https://www.securityweek.com/mikrotik-patches-critical-flaws-chained-to-hack-routers/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 08 Sep 2026 11:15:00 +0000",
+   "published_date": "2026-09-08",
+   "digest": "Dubbed MikroTrick, the bugs allow attackers to bypass authentication, overwrite configuration files, and take over devices. The post MikroTik Patches Critical F…",
+   "tags": [],
+   "title_zh": "MikroTik 修复了串联利用以攻击路由器的致命漏洞"
+  },
+  {
+   "id": "SECAFFAIRS-0b91dd9d",
+   "title": "Massive Vietnam-Linked APIS Database Exposes Passport and Flight Data",
+   "url": "https://securityaffairs.com/198671/data-breach/massive-vietnam-linked-apis-database-exposes-passport-and-flight-data.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 08 Sep 2026 11:01:57 +0000",
+   "published_date": "2026-09-08",
+   "digest": "An exposed Vietnam-linked APIS database contained 220.8 million passenger and crew records, including passport and flight data. Researchers found an exposed Adv…",
+   "tags": [],
+   "title_zh": "越南关联APIS数据库泄露护照和航班数据"
+  },
+  {
+   "id": "SECURITYWEEK-3e0e0b01",
+   "title": "Mathspace Data Breach Exposes Over 1 Million People",
+   "url": "https://www.securityweek.com/mathspace-data-breach-exposes-over-1-million-people/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 08 Sep 2026 10:47:36 +0000",
+   "published_date": "2026-09-08",
+   "digest": "Hackers stole the information of students, teachers, staff, and parents/guardians from a self-hosted Metabase instance. The post Mathspace Data Breach Exposes O…",
+   "tags": [
+    "数据泄露"
+   ],
+   "title_zh": "Mathspace 数据泄露影响超100万人"
+  },
+  {
+   "id": "SECURITYWEEK-c193f436",
+   "title": "N-able Patches Critical Zero-Day in N-central",
+   "url": "https://www.securityweek.com/n-able-patches-critical-zero-day-in-n-central/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 08 Sep 2026 10:37:58 +0000",
+   "published_date": "2026-09-08",
+   "digest": "Administrators are advised to check their deployments for newly created user accounts they don’t recognize. The post N-able Patches Critical Zero-Day in N-centr…",
+   "tags": [],
+   "title_zh": "N-able 修复了 N-central 中的致命零日漏洞"
+  },
+  {
+   "id": "SCHNEIER-2cd4f278",
+   "title": "Stealing AI Reasoning Traces",
+   "url": "https://www.schneier.com/blog/archives/2026/09/stealing-ai-reasoning-traces.html",
+   "source": "Schneier",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 08 Sep 2026 10:20:04 +0000",
+   "published_date": "2026-09-08",
+   "digest": "Interesting research: “ Stealing Reasoning Traces from Proprietary LLM APIs “: Abstract: Leading large language model providers now conceal their models’ step-b…",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "窃取AI推理痕迹"
+  },
+  {
+   "id": "FREEBUF-529fb741",
+   "title": "AI黑客的SRC掘金术：我用智能体+脚本，3天挖穿一家金融巨头的前端国密防线\n——从零搭建自动化漏洞挖掘工作流的完整复盘",
+   "url": "https://www.freebuf.com/articles/vuls/499467.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 08 Sep 2026 17:43:59 +0800",
+   "published_date": "2026-09-08",
+   "digest": "AI辅助漏洞挖掘不是替代安全研究员，而是放大人类的能力。工具再强大，也需要有经验的人来指导下往哪里挖、怎么判断价值、如何写出好报告。",
+   "tags": [
+    "大模型安全"
+   ]
+  },
+  {
+   "id": "FREEBUF-7a6c49d4",
+   "title": "当 AI 审计真的跑起来：两目标、六轮次、54 个矩阵单元的 VulnGate 证据生产线复盘",
+   "url": "https://www.freebuf.com/articles/vuls/499462.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 08 Sep 2026 17:24:35 +0800",
+   "published_date": "2026-09-08",
+   "digest": "本文重点回答三个更实际的问题：AI 审计的证据到底放在哪里？Agent 会话崩溃、并发失败、工具退化时，研究工作如何继续？除了“找到几个漏洞”，一条证据生产线还能产生什么可复核、可交接的价值？",
+   "tags": []
+  },
+  {
+   "id": "THN-4af9556c",
+   "title": "Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell",
+   "url": "https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 08 Sep 2026 14:43:47 +0530",
+   "published_date": "2026-09-08",
+   "digest": "Adobe on Monday released security patches to address a maximum-severity flaw impacting Adobe Commerce and Magento Open Source that has come under active exploit…",
+   "tags": [],
+   "title_zh": "Adobe 修复了Magento中的零日漏洞，用于部署Rust后门和PHP网页shell"
+  },
+  {
+   "id": "SECAFFAIRS-f2dcf490",
+   "title": "North Korea-linked Hackers Hide a Backdoor Inside HAProxy",
+   "url": "https://securityaffairs.com/198656/apt/north-korea-linked-hackers-hide-a-backdoor-inside-haproxy.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 08 Sep 2026 09:11:01 +0000",
+   "published_date": "2026-09-08",
+   "digest": "North Korea-linked hackers hid a backdoor inside HAProxy, masking C2 traffic and stealing data while keeping the load balancer working normally. North Korean-li…",
+   "tags": [],
+   "title_zh": "朝鲜关联黑客在HAProxy中隐藏后门"
+  },
+  {
+   "id": "THN-80a3882c",
+   "title": "BengalSEO Poisons Bing Search Results to Deliver MayaBot and Tech Support Scams",
+   "url": "https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 08 Sep 2026 14:13:51 +0530",
+   "published_date": "2026-09-08",
+   "digest": "Cybersecurity researchers have disclosed details of a sprawling search engine optimization (SEO) poisoning campaign that paves the way for malware deployment an…",
+   "tags": [
+    "网络诈骗"
+   ],
+   "title_zh": "BengalSEO污染必应搜索结果以分发MayaBot和Tech Support骗局"
+  },
+  {
+   "id": "SECAFFAIRS-d909bdac",
+   "title": "IT Help Desk Impersonation Lets Hackers Bypass MFA",
+   "url": "https://securityaffairs.com/198634/cyber-crime/it-help-desk-impersonation-lets-hackers-bypass-mfa.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 08 Sep 2026 07:41:27 +0000",
+   "published_date": "2026-09-08",
+   "digest": "Attackers bypass endpoint security by posing as IT staff, stealing Microsoft 365 sessions, draining SaaS data and demanding extortion. Forget installing malware…",
+   "tags": [
+    "身份认证"
+   ],
+   "title_zh": "IT 帮助台冒充让黑客绕过 MFA"
+  },
+  {
+   "id": "FREEBUF-42feefe2",
+   "title": "ChatGPT 沙箱漏洞：攻击者借隐藏信道跨账户窃取 Gmail 数据",
+   "url": "https://www.freebuf.com/articles/ai-security/499566.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 08 Sep 2026 15:20:31 +0800",
+   "published_date": "2026-09-08",
+   "digest": "ChatGPT沙箱漏洞使LLM沦为‘被胁迫的内部人员’，经共享Artifactory隐蔽信道跨账户窃取Gmail数据，隔离失效威胁升级。",
+   "tags": [
+    "大模型安全"
+   ]
+  },
+  {
+   "id": "THN-9ebb5569",
+   "title": "Grindr to Pay £26 Million to Settle U.K. Claims Over HIV Status Data Sharing",
+   "url": "https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 08 Sep 2026 12:30:43 +0530",
+   "published_date": "2026-09-08",
+   "digest": "Online dating app Grindr has opted to pay £26 million ($35.1 million) to settle a lawsuit in the U.K. over allegations that it shared users' personal informatio…",
+   "tags": [],
+   "title_zh": "Grindr支付2600万英镑和解英国关于HIV状态数据共享的指控"
+  },
+  {
+   "id": "FREEBUF-a0a9fbc5",
+   "title": "Mars Security 推出实时情报转检测引擎，几分钟内将实时威胁情报转化为经过回测的检测规则",
+   "url": "https://www.freebuf.com/news/499528.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 08 Sep 2026 13:20:42 +0800",
+   "published_date": "2026-09-08",
+   "digest": "美国纽约州纽约市，2026 年 9 月 8 日，CyberNewswire Mars Security——由攻防安全资深人士创立的自主威胁狩猎与检测工程平台——今日宣布推出基于实时情报的检测能力，可在情报发布后几分钟内将最新发布的威胁情报转化为经过验证、可直接部署的检测规则。 该能力由前攻击侧安全从业者打造，能够将 C…",
+   "tags": [
+    "安全运营"
+   ]
+  },
+  {
+   "id": "ZDI-PUBLISHED-c5a141ba",
+   "title": "ZDI-26-616: Koha Eval Code Injection Remote Code Execution Vulnerability",
+   "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-616/",
+   "source": "ZDI Published",
+   "category": "网络安全",
+   "priority": "P0",
+   "published_at": "Tue, 08 Sep 2026 00:00:00 -0500",
+   "published_date": "2026-09-08",
+   "digest": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Koha. Authentication is required to exploit this vulnerability…",
+   "tags": [],
+   "title_zh": "ZDI-26-616: Koha Eval 代码注入 远程代码执行 漏洞"
+  },
+  {
+   "id": "ZDI-PUBLISHED-62e00987",
+   "title": "ZDI-26-617: Microsoft Windows MIDI Service Incorrect Permission Assignment Local Privilege Escalation Vulnerability",
+   "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-617/",
+   "source": "ZDI Published",
+   "category": "网络安全",
+   "priority": "P0",
+   "published_at": "Tue, 08 Sep 2026 00:00:00 -0500",
+   "published_date": "2026-09-08",
+   "digest": "This vulnerability allows local attackers to escalate privileges on affected installations of Microsoft Windows. An attacker must first obtain the ability to ex…",
+   "tags": [],
+   "title_zh": "ZDI-26-617: Microsoft Windows MIDI 服务不正确权限分配本地特权提升漏洞"
+  },
+  {
+   "id": "ZDI-PUBLISHED-10591737",
+   "title": "ZDI-26-618: Microsoft Windows UMPDDrvStretchBlt Improper Object Management Local Privilege Escalation Vulnerability",
+   "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-618/",
+   "source": "ZDI Published",
+   "category": "网络安全",
+   "priority": "P0",
+   "published_at": "Tue, 08 Sep 2026 00:00:00 -0500",
+   "published_date": "2026-09-08",
+   "digest": "This vulnerability allows local attackers to escalate privileges on affected installations of Microsoft Windows. An attacker must first obtain the ability to ex…",
+   "tags": [],
+   "title_zh": "ZDI-26-618: Microsoft Windows UMPDDrvStretchBlt 不适当对象管理本地权限提升漏洞"
+  },
+  {
+   "id": "ZDI-PUBLISHED-7ace0f46",
+   "title": "ZDI-26-619: Microsoft Windows UMPDDrvStretchBltROP Improper Object Management Local Privilege Escalation Vulnerability",
+   "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-619/",
+   "source": "ZDI Published",
+   "category": "网络安全",
+   "priority": "P0",
+   "published_at": "Tue, 08 Sep 2026 00:00:00 -0500",
+   "published_date": "2026-09-08",
+   "digest": "This vulnerability allows local attackers to escalate privileges on affected installations of Microsoft Windows. An attacker must first obtain the ability to ex…",
+   "tags": [],
+   "title_zh": "ZDI-26-619: Microsoft Windows UMPDDrvStretchBltROP 不当对象管理本地权限提升漏洞"
+  },
+  {
+   "id": "ZDI-PUBLISHED-ca7e04d0",
+   "title": "ZDI-26-620: Microsoft Windows UMPDDrvPlgBlt Improper Object Management Local Privilege Escalation Vulnerability",
+   "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-620/",
+   "source": "ZDI Published",
+   "category": "网络安全",
+   "priority": "P0",
+   "published_at": "Tue, 08 Sep 2026 00:00:00 -0500",
+   "published_date": "2026-09-08",
+   "digest": "This vulnerability allows local attackers to escalate privileges on affected installations of Microsoft Windows. An attacker must first obtain the ability to ex…",
+   "tags": [],
+   "title_zh": "ZDI-26-620: Microsoft Windows UMPDDrvPlgBlt 不当对象管理本地权限提升漏洞"
+  },
+  {
+   "id": "ZDI-PUBLISHED-e6fc01d8",
+   "title": "ZDI-26-621: Microsoft Windows UMPDDrvRealizeBrush Improper Object Management Local Privilege Escalation Vulnerability",
+   "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-621/",
+   "source": "ZDI Published",
+   "category": "网络安全",
+   "priority": "P0",
+   "published_at": "Tue, 08 Sep 2026 00:00:00 -0500",
+   "published_date": "2026-09-08",
+   "digest": "This vulnerability allows local attackers to escalate privileges on affected installations of Microsoft Windows. An attacker must first obtain the ability to ex…",
+   "tags": [],
+   "title_zh": "ZDI-26-621: Microsoft Windows UMPDDrvRealizeBrush 不适当对象管理本地权限提升漏洞"
+  },
+  {
+   "id": "ZDI-PUBLISHED-986549e5",
+   "title": "ZDI-26-622: Microsoft Windows IKEv2 AES-GCM Decryption Integer Underflow Remote Code Execution Vulnerability",
+   "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-622/",
+   "source": "ZDI Published",
+   "category": "网络安全",
+   "priority": "P0",
+   "published_at": "Tue, 08 Sep 2026 00:00:00 -0500",
+   "published_date": "2026-09-08",
+   "digest": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Microsoft Windows. Authentication is not required to exploit t…",
+   "tags": [],
+   "title_zh": "ZDI-26-622: Microsoft Windows IKEv2 AES-GCM 解密整数下溢远程代码执行漏洞"
+  },
+  {
+   "id": "FREEBUF-12f76f14",
+   "title": "Claude Mythos AI 在无人类指导的情况下自主执行完整网络攻击链",
+   "url": "https://www.freebuf.com/articles/ai-security/499530.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 08 Sep 2026 12:50:47 +0800",
+   "published_date": "2026-09-08",
+   "digest": "标签：网络安全、安全报告 分类：AI安全 Claude Mythos AI无人类指导自主执行完整网络攻击链，从被盗员工凭据一路推进到域管理员控制，防御者面临速度挑战。",
+   "tags": [
+    "大模型安全",
+    "身份认证"
+   ]
+  },
+  {
+   "id": "FREEBUF-5792dc46",
+   "title": "攻击者入侵 Windows 域后禁用端点保护并横向部署 Sliver",
+   "url": "https://www.freebuf.com/articles/es/499531.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 08 Sep 2026 12:10:57 +0800",
+   "published_date": "2026-09-08",
+   "digest": "攻击者入侵Windows域后禁用端点保护、窃取凭据并部署Sliver C2，通过区块链动态切换域名，持久化威胁严重。",
+   "tags": [
+    "身份认证"
+   ]
+  },
+  {
+   "id": "FREEBUF-ec489373",
+   "title": "首个利用微信通话实现“0交互入侵”的蠕虫出现",
+   "url": "https://www.freebuf.com/articles/endpoint/499525.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 08 Sep 2026 12:09:47 +0800",
+   "published_date": "2026-09-08",
+   "digest": "WeWorm被曝为首个通过微信通话传播的0Click蠕虫，无需接听即可跨iOS/Android控制账号，腾讯已修复，但蠕虫攻击时代已至。",
+   "tags": []
+  },
+  {
+   "id": "FREEBUF-13586bba",
+   "title": "开源新模型 GLM‑5.3‑CYBERSECURITY‑FP8：一款面向网络安全的 FP8 专用大模型",
+   "url": "https://www.freebuf.com/articles/499375.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 08 Sep 2026 11:16:19 +0800",
+   "published_date": "2026-09-08",
+   "digest": "该模型推荐使用 vLLM进行推理部署。",
+   "tags": [
+    "大模型安全"
+   ]
+  },
+  {
+   "id": "FREEBUF-9ce9343d",
+   "title": "美国悬赏 1000 万美元通缉与关键基础设施攻击有关的伊朗伊斯兰革命卫队网络部门负责人",
+   "url": "https://www.freebuf.com/news/499473.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 08 Sep 2026 09:14:03 +0800",
+   "published_date": "2026-09-08",
+   "digest": "美国悬赏1000万美元通缉伊朗革命卫队网络负责人，因其指挥攻击美欧关键基础设施。",
+   "tags": []
+  },
+  {
+   "id": "FREEBUF-2d5782ab",
+   "title": "AI 客服机器人可被诱骗窃取安全验证码并冒充受害者",
+   "url": "https://www.freebuf.com/articles/ai-security/499453.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 08 Sep 2026 08:50:11 +0800",
+   "published_date": "2026-09-08",
+   "digest": "标签：Web安全、网络安全 分类：AI安全",
+   "tags": []
+  },
+  {
    "id": "SECAFFAIRS-17fcf7f9",
    "title": "Condé Nast Data of 32.8 Million Users Offered for Sale After WIRED Leak",
    "url": "https://securityaffairs.com/198628/data-breach/conde-nast-data-of-32-8-million-users-offered-for-sale-after-wired-leak.html",
@@ -15,7 +684,19 @@
     "钓鱼攻击",
     "网络诈骗"
    ],
-   "title_zh": "Condé Nast 3280万用户数据泄露后被出售"
+   "title_zh": "32.8 million用户 Condé Nast 数据泄露后被出售"
+  },
+  {
+   "id": "FREEBUF-81bafc25",
+   "title": "新型InjectEave攻击可从30米外恢复耳机播放的音频",
+   "url": "https://www.freebuf.com/articles/499389.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 08 Sep 2026 03:20:01 +0800",
+   "published_date": "2026-09-08",
+   "digest": "InjectEave攻击可从30米外穿透墙壁窃听耳机音频，甚至注入AI伪造语音，隐私安全面临严重威胁。",
+   "tags": []
   },
   {
    "id": "THN-f92e60f5",
@@ -67,7 +748,7 @@
    "published_date": "2026-09-07",
    "digest": "Threat hunters have disclosed details of a widespread data theft and extortion threat cluster that's targeting Microsoft 365 and other software-as-a-service (Sa…",
    "tags": [],
-   "title_zh": "假冒IT呼叫 targeting Microsoft 365 数据窃取和勒索攻击"
+   "title_zh": "假冒IT呼叫 targeting Microsoft 365 数据窃取及勒索攻击"
   },
   {
    "id": "CHECKPOINT-d2b8cf0c",
@@ -97,7 +778,7 @@
     "供应链攻击",
     "物联网安全"
    ],
-   "title_zh": "每周回顾：Chrome 0日漏洞、路由器劫持、开发者供应链攻击等"
+   "title_zh": "每周回顾：Chrome 0日漏洞、路由器劫持攻击、开发者供应链攻击等"
   },
   {
    "id": "SECAFFAIRS-937207d5",
@@ -177,7 +858,7 @@
    "published_date": "2026-09-07",
    "digest": "The attacks rely on backdoored ScreenConnect instances to transfer and execute payloads to newly connected clients. The post Modified ScreenConnect Clients Used…",
    "tags": [],
-   "title_zh": "修改版ScreenConnect 客户端用于蠕虫-like 进攻campaign"
+   "title_zh": "修改后的ScreenConnect 客户端用于蠕虫-like 进攻campaign"
   },
   {
    "id": "THN-32025023",
@@ -192,7 +873,7 @@
    "tags": [
     "云安全"
    ],
-   "title_zh": "你的云安全检查清单未必如你所想有效"
+   "title_zh": "您认为有效的云安全检查单未必如此"
   },
   {
    "id": "THN-3e0d9683",
@@ -205,7 +886,7 @@
    "published_date": "2026-09-07",
    "digest": "Cybersecurity researchers have disclosed details of worm-like activity that abuses ConnectWise ScreenConnect to distribute a malicious Visual Basic Script (VBSc…",
    "tags": [],
-   "title_zh": "假冒ScreenConnect客户端向新连接主机传播四阶段VBScript链"
+   "title_zh": "假冒ScreenConnect客户端传播四阶段VBScript链至新连接主机"
   },
   {
    "id": "THN-1107aa6a",
@@ -303,7 +984,7 @@
    "tags": [
     "大模型安全"
    ],
-   "title_zh": "为什么AI代理沙箱未能通过安全测试"
+   "title_zh": "为什么AI代理沙箱未通过安全测试"
   },
   {
    "id": "THN-b12a51ff",
@@ -318,7 +999,7 @@
    "tags": [
     "漏洞预警"
    ],
-   "title_zh": "N-able 在五周内发布第四个未认证远程代码执行漏洞热修包"
+   "title_zh": "N-able 在五周内发布第四个 N-central 紧急修复，针对未认证远程代码执行漏洞"
   },
   {
    "id": "FREEBUF-ff2da5e3",
@@ -347,7 +1028,21 @@
    "tags": [
     "身份认证"
    ],
-   "title_zh": "JSCeal恶意软件可利用窃取的会话cookies绕过Google认证"
+   "title_zh": "JSCeal恶意软件可利用窃取的会话cookie绕过Google认证"
+  },
+  {
+   "id": "FREEBUF-fb6b19c1",
+   "title": "多模态越狱：通过图片隐写术绕过主流大模型安全对齐",
+   "url": "https://www.freebuf.com/articles/ai-security/499225.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 07 Sep 2026 15:45:46 +0800",
+   "published_date": "2026-09-07",
+   "digest": "本文将从图片隐写术的角度出发，系统性探讨 四种通过图片载体绕过多模态大模型安全对齐的攻击手法，并提供完整的实战演示和防御方案。",
+   "tags": [
+    "大模型安全"
+   ]
   },
   {
    "id": "SECAFFAIRS-5fc50c86",
@@ -472,7 +1167,7 @@
     "大模型安全",
     "学术研究"
    ],
-   "title_zh": "稳健高效的防护栏与潜在推理机制"
+   "title_zh": "稳健高效的安全护栏与潜在推理"
   },
   {
    "id": "ARXIV-CR-efbca40c",
@@ -563,7 +1258,7 @@
    "tags": [
     "学术研究"
    ],
-   "title_zh": "AI增强二进制逆向工程综述"
+   "title_zh": "AI增强二进制反汇编研究"
   },
   {
    "id": "ARXIV-CR-8e1c9b4c",
@@ -640,7 +1335,7 @@
    "tags": [
     "学术研究"
    ],
-   "title_zh": "CodeQL 中 Java 漏洞误报的实证分析及查询优化"
+   "title_zh": "CodeQL 假阳性分析及针对 Java 漏洞的查询优化研究"
   },
   {
    "id": "ARXIV-CR-86001076",
@@ -734,7 +1429,7 @@
     "大模型安全",
     "学术研究"
    ],
-   "title_zh": "连续性：安全上下文合约，用于可组合的大语言模型代理控制"
+   "title_zh": "连续性：安全上下文合约，用于可组合的LLM代理控制"
   },
   {
    "id": "ARXIV-CR-959fc488",
@@ -750,7 +1445,7 @@
     "大模型安全",
     "学术研究"
    ],
-   "title_zh": "治理自带AI：一个参数化成熟度模型"
+   "title_zh": "治理自备AI：一个参数化成熟度模型"
   },
   {
    "id": "ARXIV-CR-54e36c43",
@@ -842,7 +1537,7 @@
    "tags": [
     "学术研究"
    ],
-   "title_zh": "TPMSpy：通过低级跟踪TPM使用情况验证测量启动系统"
+   "title_zh": "TPMSpy：通过低级追踪TPM使用情况验证测量启动系统"
   },
   {
    "id": "ARXIV-CR-a5e2e113",
@@ -888,7 +1583,7 @@
     "网络诈骗",
     "学术研究"
    ],
-   "title_zh": "ReCAST：面向恢复的混淆短信风险分类级联阶段训练方法"
+   "title_zh": "ReCAST：面向恢复的混淆短信风险分阶段训练方法"
   },
   {
    "id": "ARXIV-CR-084a3cf0",
@@ -982,7 +1677,7 @@
     "身份认证",
     "学术研究"
    ],
-   "title_zh": "通过信任边界和委托优化凭证传播半径，在后量子认证成本下"
+   "title_zh": "通过信任边界和委托优化凭证传播范围，在后量子认证成本下"
   },
   {
    "id": "ARXIV-CR-10e0ed9f",
@@ -1028,7 +1723,7 @@
    "tags": [
     "学术研究"
    ],
-   "title_zh": "客户端删除 ridge 统计信息的联邦遗忘侧探查"
+   "title_zh": "客户端删除 ridge 统计信息的联邦遗忘侧向探测"
   },
   {
    "id": "ARXIV-CR-32937c65",
@@ -1061,7 +1756,7 @@
     "大模型安全",
     "学术研究"
    ],
-   "title_zh": "工程化说服：评估LLM生成的针对性钓鱼预设脚本"
+   "title_zh": "工程化说服：评估LLM生成的针对性钓鱼预设脚本有效性"
   },
   {
    "id": "ARXIV-CR-b274f955",
@@ -1092,7 +1787,7 @@
     "大模型安全",
     "学术研究"
    ],
-   "title_zh": "Split-LLM 训练中的隐私漏洞：返回的梯度消除了诱饵"
+   "title_zh": "隐私泄露：Split-LLM训练中的隐私失败，返回的梯度消解了诱饵"
   },
   {
    "id": "ARXIV-CR-67f4dfed",
@@ -1119,6 +1814,18 @@
    "published_at": "Mon, 07 Sep 2026 11:54:56 +0800",
    "published_date": "2026-09-07",
    "digest": "朝鲜黑客篡改HAProxy植入Ted后门与CurlRAT，长期监控窃取韩国企业数据，威胁隐蔽且持久。",
+   "tags": []
+  },
+  {
+   "id": "FREEBUF-0f4cd0bd",
+   "title": "组件框架漏洞: 一篇打通Shiro550, SpringBoot Actuator, ThinkPHP经典漏洞",
+   "url": "https://www.freebuf.com/articles/vuls/499183.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 07 Sep 2026 10:39:50 +0800",
+   "published_date": "2026-09-07",
+   "digest": "本文详细介绍了组件及框架漏洞, 内容从基础概述到具体漏洞的利用复现, 涵盖了底层逻辑链分析以及多款工具使用.",
    "tags": []
   },
   {
