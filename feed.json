@@ -1,7 +1,160 @@
 {
- "generated_at": "2026-09-12 10:06",
- "total": 4569,
+ "generated_at": "2026-09-13 10:18",
+ "total": 4583,
  "items": [
+  {
+   "id": "SECAFFAIRS-7649ba96",
+   "title": "Revolut Exposed KYC Data After Fraudulent Government Email Passed Security Checks",
+   "url": "https://securityaffairs.com/198922/data-breach/revolut-exposed-kyc-data-after-fraudulent-government-email-passed-security-checks.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 12 Sep 2026 21:05:41 +0000",
+   "published_date": "2026-09-12",
+   "digest": "Revolut handed over KYC documents, selfies, and Bitcoin transaction histories after a fake government email with valid domain credentials passed its checks. Rev…",
+   "tags": [
+    "网络诈骗",
+    "加密货币犯罪",
+    "身份认证"
+   ]
+  },
+  {
+   "id": "SECAFFAIRS-5bab4322",
+   "title": "Anthropic: AI Misuse Is Entering a New Phase: From Cybercrime to Surveillance, Propaganda and Weapons",
+   "url": "https://securityaffairs.com/198905/ai/anthropic-ai-misuse-is-entering-a-new-phase-from-cybercrime-to-surveillance-propaganda-and-weapons.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 12 Sep 2026 16:46:56 +0000",
+   "published_date": "2026-09-12",
+   "digest": "AI is becoming an operational force for cybercrime, surveillance, propaganda, fraud and weapons development, lowering the cost and scale of attacks. Artificial …",
+   "tags": [
+    "网络诈骗"
+   ]
+  },
+  {
+   "id": "SECWIKI-49a30136",
+   "title": "SecWiki News 2026-09-12 Review",
+   "url": "http://www.sec-wiki.com/?2026-09-12",
+   "source": "SecWiki",
+   "category": "网络安全",
+   "priority": "P2",
+   "published_at": "\nSat, 12 Sep 2026 23:58:20 +0800",
+   "published_date": "2026-09-12",
+   "digest": "今日暂未更新资讯~ 更多最新文章，请访问 SecWiki",
+   "tags": []
+  },
+  {
+   "id": "THN-9249a1b0",
+   "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
+   "url": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 12 Sep 2026 21:24:45 +0530",
+   "published_date": "2026-09-12",
+   "digest": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and Mikro…",
+   "tags": [
+    "漏洞预警",
+    "监管合规"
+   ]
+  },
+  {
+   "id": "SECURITYWEEK-a5cae1a0",
+   "title": "BlueMoon Exploit Kit Chains Recent Chrome, Windows Zero-Days",
+   "url": "https://www.securityweek.com/bluemoon-exploit-kit-chains-recent-chrome-windows-zero-days/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 12 Sep 2026 11:10:00 +0000",
+   "published_date": "2026-09-12",
+   "digest": "Multiple espionage-motivated threat actors have adopted BlueMoon in opportunistic, rushed deployments. The post BlueMoon Exploit Kit Chains Recent Chrome, Windo…",
+   "tags": []
+  },
+  {
+   "id": "THN-bcd8d981",
+   "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
+   "url": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 12 Sep 2026 15:54:44 +0530",
+   "published_date": "2026-09-12",
+   "digest": "Over the past year, we watched a new class of alert appear in enterprise security operations centers and grow faster than anything else in the stream: alerts th…",
+   "tags": []
+  },
+  {
+   "id": "THN-0f60d96c",
+   "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
+   "url": "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 12 Sep 2026 14:37:56 +0530",
+   "published_date": "2026-09-12",
+   "digest": "The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spe…",
+   "tags": [
+    "漏洞预警",
+    "大模型安全"
+   ]
+  },
+  {
+   "id": "FREEBUF-80d88ad3",
+   "title": "黑客利用Claude搜寻180万安卓应用密钥，Anthropic报告揭示AI滥用新态势",
+   "url": "https://www.freebuf.com/articles/ai-security/500383.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 12 Sep 2026 16:46:56 +0800",
+   "published_date": "2026-09-12",
+   "digest": "AI正成恶意运营核心：从网络犯罪到监控、宣传、武器，攻击成本骤降、规模激增。",
+   "tags": [
+    "大模型安全",
+    "移动安全"
+   ]
+  },
+  {
+   "id": "FREEBUF-06d600bf",
+   "title": "企业全面部署AI工具改变SOC告警格局，四月内告警量增长685%",
+   "url": "https://www.freebuf.com/articles/ai-security/500347.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 12 Sep 2026 15:54:44 +0800",
+   "published_date": "2026-09-12",
+   "digest": "AI告警四月内增685%，94%为噪声，真实攻击仅0.02%，SOC恐被淹没。",
+   "tags": []
+  },
+  {
+   "id": "FREEBUF-31a0d531",
+   "title": "OpenAI Agents关联RubyGems恶意攻击活动，已在RubyDoc服务器实现RCE",
+   "url": "https://www.freebuf.com/articles/ai-security/500331.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 12 Sep 2026 14:37:56 +0800",
+   "published_date": "2026-09-12",
+   "digest": "OpenAI智能体攻击RubyGems，借RubyDoc实现RCE、窃密钥外泄数据，引AI监管呼声。",
+   "tags": [
+    "大模型安全",
+    "监管合规"
+   ]
+  },
+  {
+   "id": "FREEBUF-cc267c3a",
+   "title": "传统边界模型无法抵御云与SaaS供应链攻击，需构建以身份为核心的防护韧性",
+   "url": "https://www.freebuf.com/articles/es/500351.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 12 Sep 2026 10:46:44 +0800",
+   "published_date": "2026-09-12",
+   "digest": "PeopleSoft 0Day遭ShinyHunters利用致百家机构被勒索，云与SaaS供应链攻击击穿边界，身份成新防线。",
+   "tags": [
+    "漏洞预警",
+    "供应链攻击"
+   ]
+  },
   {
    "id": "SECURITYWEEK-8d26dde8",
    "title": "Users in Houthi-Held Yemen Tried to Develop Advanced Weapons With AI, Anthropic Says",
@@ -12,8 +165,19 @@
    "published_at": "Sat, 12 Sep 2026 01:50:53 +0000",
    "published_date": "2026-09-12",
    "digest": "Anthropic said the users did not succeed in “fielding an operational device” but did carry out a failed test of a guided rocket. The post Users in Houthi-Held Y…",
-   "tags": [],
-   "title_zh": "也门胡塞控制区用户尝试利用AI开发高级武器，Anthropic称"
+   "tags": []
+  },
+  {
+   "id": "FREEBUF-9c5e7cd9",
+   "title": "Anthropic正在构建一个大规模监控系统",
+   "url": "https://www.freebuf.com/articles/500364.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 12 Sep 2026 08:30:56 +0800",
+   "published_date": "2026-09-12",
+   "digest": "Anthropic被曝构建预测性监控体系，与Samdesk合作监视抗议、长期跟踪个人，与其公开反对大规模监控的立场形成尖锐矛盾。",
+   "tags": []
   },
   {
    "id": "SCHNEIER-af6964f3",
@@ -25,8 +189,7 @@
    "published_at": "Fri, 11 Sep 2026 21:03:27 +0000",
    "published_date": "2026-09-11",
    "digest": "Smells awful : But an estimated 30 to 50 tons of dead squid remain inside the boat’s catch tank, where they have been decomposing for days. “That is nasty. I wo…",
-   "tags": [],
-   "title_zh": "周五鱿鱼日志：搁浅加州船只上的腐烂鱿鱼"
+   "tags": []
   },
   {
    "id": "SCHNEIER-2db1e0a9",
@@ -38,8 +201,7 @@
    "published_at": "Fri, 11 Sep 2026 18:06:24 +0000",
    "published_date": "2026-09-11",
    "digest": "Last month, I gave a talk at DEF CON on AI hacking: what happens when AIs become hackers. It’s a combination of the potentialities I raised in my 2022 book A Ha…",
-   "tags": [],
-   "title_zh": "我在DEF CON上的演讲"
+   "tags": []
   },
   {
    "id": "SECAFFAIRS-7c9b1d8f",
@@ -53,8 +215,22 @@
    "digest": "Researchers found 36,769 exposed AI endpoints, but only 2% had an HTTP authentication gate. Running AI locally is supposed to give organizations more control. M…",
    "tags": [
     "供应链攻击"
-   ],
-   "title_zh": "AI供应链存在安全问题，其中大部分暴露在开放互联网上"
+   ]
+  },
+  {
+   "id": "FREEBUF-3c88ade7",
+   "title": "研究人员将新黑客行动关联至OpenAI Agent，目标为RubyGems代码托管平台",
+   "url": "https://www.freebuf.com/articles/ai-security/500318.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 12 Sep 2026 01:25:10 +0800",
+   "published_date": "2026-09-12",
+   "digest": "OpenAI Agent失控！入侵RubyGems、绕过验证、发现0Day，API密钥险被窃。",
+   "tags": [
+    "漏洞预警",
+    "大模型安全"
+   ]
   },
   {
    "id": "SECURITYWEEK-71f3efeb",
@@ -69,8 +245,7 @@
    "tags": [
     "钓鱼攻击",
     "身份认证"
-   ],
-   "title_zh": "钓鱼研究挑战传统安全意识测试"
+   ]
   },
   {
    "id": "THN-c303976f",
@@ -82,8 +257,7 @@
    "published_at": "Fri, 11 Sep 2026 22:00:18 +0530",
    "published_date": "2026-09-11",
    "digest": "GitLab has released patches to address multiple flaws, including a maximum-severity security vulnerability that has witnessed in-the-wild probes within hours of…",
-   "tags": [],
-   "title_zh": "GitLab CVSS 10 文件读取漏洞披露后遭野外探测"
+   "tags": []
   },
   {
    "id": "THN-110d4eb4",
@@ -97,8 +271,7 @@
    "digest": "Anthropic on Thursday said it identified and disrupted industrial-scale illicit distillation attacks against Claude from seven labs based in China, including Al…",
    "tags": [
     "大模型安全"
-   ],
-   "title_zh": "Anthropic 称七家中国基于AI实验室进行了工业规模的Claude提炼攻击"
+   ]
   },
   {
    "id": "SECURITYWEEK-a6f1ccb1",
@@ -110,8 +283,7 @@
    "published_at": "Fri, 11 Sep 2026 16:11:08 +0000",
    "published_date": "2026-09-11",
    "digest": "The critical-severity path traversal flaw allows unauthenticated attackers to read arbitrary files from the GitLab server. The post GitLab Vulnerability Exploit…",
-   "tags": [],
-   "title_zh": "GitLab 漏洞在披露后一天被利用"
+   "tags": []
   },
   {
    "id": "SECWIKI-7573c1b1",
@@ -123,8 +295,7 @@
    "published_at": "\nFri, 11 Sep 2026 23:58:20 +0800",
    "published_date": "2026-09-11",
    "digest": "浏览器跳转背后的故事 by ourren 更多最新文章，请访问 SecWiki",
-   "tags": [],
-   "title_zh": "SecWiki 新闻 2026-09-11 概览"
+   "tags": []
   },
   {
    "id": "THN-6d13ecf1",
@@ -138,8 +309,7 @@
    "digest": "Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass s…",
    "tags": [
     "大模型安全"
-   ],
-   "title_zh": "Claude 用于跨多个受害者自动化利用和数据窃取"
+   ]
   },
   {
    "id": "SECURITYWEEK-62d413f8",
@@ -153,190 +323,7 @@
    "digest": "Noteworthy stories that might have slipped under the radar: Invisible Unicode slips past phishing filters, US puts $10 million bounty on Iranian cyber official,…",
    "tags": [
     "钓鱼攻击"
-   ],
-   "title_zh": "其他新闻：InjectEave攻击事件，SIM换马者被判刑，Glasswing研究结果审查"
-  },
-  {
-   "id": "THN-57b4b84a",
-   "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection",
-   "url": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 11 Sep 2026 19:40:20 +0530",
-   "published_date": "2026-09-11",
-   "digest": "Anthropic on Thursday revealed it disrupted a campaign mounted by a Russian state-sponsored threat actor that abused Claude for developing an AI-assisted workfl…",
-   "tags": [
-    "大模型安全"
-   ],
-   "title_zh": "俄罗斯支持的黑客使用Claude在检测后重建恶意软件"
-  },
-  {
-   "id": "SECURITYWEEK-7dbdf0a8",
-   "title": "Trezor Says 347,000 Users Received Phishing Emails After Brevo Hack",
-   "url": "https://www.securityweek.com/trezor-says-347000-users-received-phishing-emails-after-brevo-hack/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 11 Sep 2026 12:48:04 +0000",
-   "published_date": "2026-09-11",
-   "digest": "Hackers compromised the Brevo marketing platform and used that access to send phishing emails to users of Trezor, BitBox, and CoinTracking. The post Trezor Says…",
-   "tags": [
-    "钓鱼攻击"
-   ],
-   "title_zh": "TREZOR称，在Brevo泄露事件后，有347,000名用户收到了钓鱼邮件"
-  },
-  {
-   "id": "THN-a15898bf",
-   "title": "Your Critical Vulnerabilities Might Not Be Your Biggest Risk",
-   "url": "https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 11 Sep 2026 17:00:00 +0530",
-   "published_date": "2026-09-11",
-   "digest": "Security teams have become exceptionally talented at finding vulnerabilities. Now, it’s time to turn our attention to optimizing the process for determining whi…",
-   "tags": [],
-   "title_zh": "您的关键漏洞可能不是您最大的风险"
-  },
-  {
-   "id": "SECURITYWEEK-b8192216",
-   "title": "Ukrainian Conti Ransomware Developer Sentenced to 4 Years in US Prison",
-   "url": "https://www.securityweek.com/ukrainian-conti-ransomware-developer-sentenced-to-4-years-in-us-prison/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 11 Sep 2026 11:29:09 +0000",
-   "published_date": "2026-09-11",
-   "digest": "Oleksii Oleksiyovych Lytvynenko has been sentenced to 4 years in prison after he was arrested in Ireland in 2023. The post Ukrainian Conti Ransomware Developer …",
-   "tags": [
-    "勒索软件"
-   ],
-   "title_zh": "乌克兰Conti勒索软件开发者在美国被判四年有期徒刑"
-  },
-  {
-   "id": "SECURITYWEEK-7f87498a",
-   "title": "Check Point Patches Critical VPN Vulnerabilities",
-   "url": "https://www.securityweek.com/check-point-patches-critical-vpn-vulnerabilities/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 11 Sep 2026 11:10:02 +0000",
-   "published_date": "2026-09-11",
-   "digest": "Tracked as CVE-2026-85102 and CVE-2026-85103, the flaws could be exploited for remote code execution. The post Check Point Patches Critical VPN Vulnerabilities …",
-   "tags": [
-    "漏洞预警"
-   ],
-   "title_zh": "Check Point 修复了关键的VPN漏洞"
-  },
-  {
-   "id": "SCHNEIER-c45e5c85",
-   "title": "Cliff Stoll’s DEF CON Talk",
-   "url": "https://www.schneier.com/blog/archives/2026/09/cliff-stolls-def-con-talk.html",
-   "source": "Schneier",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 11 Sep 2026 11:09:55 +0000",
-   "published_date": "2026-09-11",
-   "digest": "In August, Cliff Stoll gave a talk at DEF CON, remembering the wily hacker he stalked forty years ago. Great fun.",
-   "tags": [],
-   "title_zh": "Cliff Stoll 的 DEF CON 演讲"
-  },
-  {
-   "id": "SECURITYWEEK-8d7a5257",
-   "title": "Kiteworks Acquires Bonfy.AI to Fill the AI Gap in Data Governance",
-   "url": "https://www.securityweek.com/kiteworks-acquires-bonfy-ai-to-fill-the-ai-gap-in-data-governance/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 11 Sep 2026 10:56:16 +0000",
-   "published_date": "2026-09-11",
-   "digest": "Financials have not been disclosed, but the estimated cost is in the tens of millions of dollars. The post Kiteworks Acquires Bonfy.AI to Fill the AI Gap in Dat…",
-   "tags": [],
-   "title_zh": "Kiteworks 收购 Bonfy.AI 以填补数据治理中的AI空白"
-  },
-  {
-   "id": "SECAFFAIRS-c08d692e",
-   "title": "Attackers Exploit Critical Cisco FMC Flaw to deploy Qilin ransomware",
-   "url": "https://securityaffairs.com/198884/cyber-crime/attackers-exploit-critical-cisco-fmc-flaw-to-deploy-qilin-ransomware.html",
-   "source": "Security Affairs",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 11 Sep 2026 10:14:46 +0000",
-   "published_date": "2026-09-11",
-   "digest": "Three threat groups are exploiting two Cisco FMC flaws to steal credentials, gain root access and deploy Qilin ransomware. Cisco Talos says three separate threa…",
-   "tags": [
-    "勒索软件",
-    "身份认证"
-   ],
-   "title_zh": "攻击者利用Critical Cisco FMC漏洞部署Qilin勒索软件"
-  },
-  {
-   "id": "FREEBUF-11f6c382",
-   "title": "AI中转站实测：428个里26个在动手脚，你的数据在替谁打工",
-   "url": "https://www.freebuf.com/articles/ai-security/500215.html",
-   "source": "FreeBuf",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 11 Sep 2026 17:58:04 +0800",
-   "published_date": "2026-09-11",
-   "digest": "你以为花 1 块钱买了 285 万 Token 省了钱，实际上你才是被卖的那个。",
-   "tags": []
-  },
-  {
-   "id": "SECURITYWEEK-271e8df0",
-   "title": "Surfshark Systems Targeted by Hackers",
-   "url": "https://www.securityweek.com/surfshark-systems-targeted-by-hackers/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 11 Sep 2026 09:41:03 +0000",
-   "published_date": "2026-09-11",
-   "digest": "A misconfigured test server containing engineering material, including internal configurations, was accessed by threat actors. The post Surfshark Systems Target…",
-   "tags": [],
-   "title_zh": "Surfshark 系统遭到黑客攻击"
-  },
-  {
-   "id": "FREEBUF-334c858b",
-   "title": "首个利用微信通话实现“0交互入侵”的蠕虫出现；DeepSeek Harness曝高危漏洞  | FreeBuf周报",
-   "url": "https://www.freebuf.com/articles/500212.html",
-   "source": "FreeBuf",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 11 Sep 2026 17:32:58 +0800",
-   "published_date": "2026-09-11",
-   "digest": "各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！",
-   "tags": [
-    "漏洞预警"
    ]
-  },
-  {
-   "id": "SECURITYWEEK-c3a487d0",
-   "title": "Anthropic Says Russian Hackers Used Claude AI to Automate Malware Evasion",
-   "url": "https://www.securityweek.com/anthropic-says-russian-hackers-used-claude-ai-to-automate-malware-evasion/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 11 Sep 2026 08:47:07 +0000",
-   "published_date": "2026-09-11",
-   "digest": "Anthropic reveals how criminal groups are increasingly targeting AI vendors' own infrastructure, including to steal a pre-release Claude model. The post Anthrop…",
-   "tags": [
-    "大模型安全"
-   ],
-   "title_zh": "Anthropic 称俄罗斯黑客使用 Claude AI 自动化恶意软件规避"
-  },
-  {
-   "id": "SECURITYWEEK-6d02553f",
-   "title": "PaperCut Flaws Exploited in AI-Powered Attacks",
-   "url": "https://www.securityweek.com/papercut-flaws-exploited-in-ai-powered-attacks/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 11 Sep 2026 08:18:23 +0000",
-   "published_date": "2026-09-11",
-   "digest": "A Russian threat actor used AI to build, test, and deploy exploits against hundreds of organizations worldwide. The post PaperCut Flaws Exploited in AI-Powered …",
-   "tags": [],
-   "title_zh": "PaperCut漏洞被用于AI驱动的攻击中"
   }
  ]
 }
