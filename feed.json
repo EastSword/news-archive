@@ -1,339 +1,345 @@
 {
- "generated_at": "2026-09-16 10:05",
- "total": 4871,
+ "generated_at": "2026-09-17 10:09",
+ "total": 4987,
  "items": [
   {
-   "id": "SECAFFAIRS-58e97d2b",
-   "title": "U.S. CISA adds Cisco Secure Email Gateway flaw to its Known Exploited Vulnerabilities catalog",
-   "url": "https://securityaffairs.com/199156/security/u-s-cisa-adds-cisco-secure-email-gateway-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
+   "id": "PRAETORIAN-5847dc8e",
+   "title": "Credentials Are Still the Shortest Path In",
+   "url": "https://www.praetorian.com/blog/credential-testing-brutus/",
+   "source": "Praetorian Blog",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 17 Sep 2026 01:40:16 +0000",
+   "published_date": "2026-09-17",
+   "digest": "How Brutus grew into an engine that finds your identities, tests them everywhere they’re accepted, and remembers what it confirms. An attacker rarely needs a no…",
+   "tags": [
+    "身份认证"
+   ],
+   "title_zh": "凭据仍然是最短路径"
+  },
+  {
+   "id": "SECAFFAIRS-eade37b0",
+   "title": "BambooToken: The Malware That Speaks MQTT to Stay Under the Radar",
+   "url": "https://securityaffairs.com/199205/malware/bambootoken-the-malware-that-speaks-mqtt-to-stay-under-the-radar.html",
    "source": "Security Affairs",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Tue, 15 Sep 2026 20:46:41 +0000",
-   "published_date": "2026-09-15",
-   "digest": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Cisco Secure Email Gateway flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cyber…",
-   "tags": [
-    "监管合规"
-   ],
-   "title_zh": "美国CISA将思科安全电子邮件网关漏洞添加到已知被利用漏洞目录中"
-  },
-  {
-   "id": "SECURITYWEEK-e3b4e202",
-   "title": "Microsoft Commits to Sweeping AI Privacy Rules for Students. Will Other Tech Giants Follow?",
-   "url": "https://www.securityweek.com/microsoft-commits-to-sweeping-ai-privacy-rules-for-students-will-other-tech-giants-follow/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 15 Sep 2026 20:24:51 +0000",
-   "published_date": "2026-09-15",
-   "digest": "Microsoft agreed to adopt guardrails and privacy standards for its AI in schools, as negotiated with the American Federation of Teachers. The post Microsoft Com…",
-   "tags": [],
-   "title_zh": "微软承诺为学生制定全面的AI隐私规则。其他科技巨头会跟进吗？"
-  },
-  {
-   "id": "WORDFENCE-25622b9b",
-   "title": "Boost Engagement with Free Passkeys by Wordfence",
-   "url": "https://www.wordfence.com/blog/2026/09/wordfence-passkeys/",
-   "source": "Wordfence",
-   "category": "网络安全",
-   "priority": "P2",
-   "published_at": "Tue, 15 Sep 2026 19:55:52 +0000",
-   "published_date": "2026-09-15",
-   "digest": "Wordfence 9 introduces passkeys, and passkeys provide a huge friction reduction because your user no longer has to remember their password or retrieve it from a…",
-   "tags": [
-    "身份认证"
-   ],
-   "title_zh": "提升参与度：Wordfence免费Passkeys助力"
-  },
-  {
-   "id": "SECURITYWEEK-9613d15e",
-   "title": "“We Think the Security Control Is Working” Is No Longer Good Enough",
-   "url": "https://www.securityweek.com/we-think-the-security-control-is-working-is-no-longer-good-enough/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 15 Sep 2026 19:30:00 +0000",
-   "published_date": "2026-09-15",
-   "digest": "Point-in-time audits and sampled assessments offer only snapshots; continuous control monitoring provides evidence that security controls are working today. The…",
-   "tags": [],
-   "title_zh": "我们认为安全控制有效”已不再足够"
-  },
-  {
-   "id": "THN-473024f0",
-   "title": "KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens",
-   "url": "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Wed, 16 Sep 2026 00:24:14 +0530",
+   "published_at": "Wed, 16 Sep 2026 20:20:36 +0000",
    "published_date": "2026-09-16",
-   "digest": "Cybersecurity researchers have shed light on a previously undocumented Brazilian banking malware operation that delivers a toolkit called KREMLIN. Elastic Secur…",
-   "tags": [
-    "身份认证"
-   ],
-   "title_zh": "克里姆林金融恶意软件劫持Chrome和Edge窃取凭证和会话令牌"
+   "digest": "Lumen exposes BambooToken, a stealthy malware family using MQTT and sideloading to quietly infect targets across Asia and beyond. BambooToken is a new malware f…",
+   "tags": [],
+   "title_zh": "BambooToken：悄无声息的MQTT恶意软件"
   },
   {
-   "id": "THN-d2d485b1",
-   "title": "Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists",
-   "url": "https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html",
-   "source": "The Hacker News",
+   "id": "ZDI-BLOG-4afcbd34",
+   "title": "The Apple Security Update Review for September 2026",
+   "url": "https://www.thezdi.com/blog/2026/9/16/the-apple-security-update-review-for-september-2026",
+   "source": "ZDI Blog",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Tue, 15 Sep 2026 21:59:51 +0530",
-   "published_date": "2026-09-15",
-   "digest": "Cybersecurity agencies in the United States, the United Kingdom, and the Netherlands have detailed a Windows malware that they say Iran's intelligence service u…",
+   "published_at": "Wed, 16 Sep 2026 19:58:14 +0000",
+   "published_date": "2026-09-16",
+   "digest": "Welcome back to our monthly look at Apple security patches. This release shows Apple is not immune to the new normal of AI-assisted vulnerability discovery as t…",
    "tags": [],
-   "title_zh": "伊朗黑客使用Telegram控制的恶意软件窃取异见人士和记者的信息"
+   "title_zh": "2026年9月苹果安全更新审核"
   },
   {
-   "id": "SECURITYWEEK-d9188e1d",
-   "title": "$1 Million Sandbox Challenge Uncovers Linux Kernel Flaws",
-   "url": "https://www.securityweek.com/1-million-sandbox-challenge-uncovers-linux-kernel-flaws/",
+   "id": "KREBS-312841db",
+   "title": "Data Broker Radaris Loses Domains in Privacy Fight",
+   "url": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
+   "source": "Krebs on Security",
+   "category": "网络安全",
+   "priority": "P0",
+   "published_at": "Wed, 16 Sep 2026 18:14:22 +0000",
+   "published_date": "2026-09-16",
+   "digest": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search servic…",
+   "tags": [],
+   "title_zh": "数据经纪人Radaris在隐私斗争中失去域名"
+  },
+  {
+   "id": "SECURITYWEEK-94e39e25",
+   "title": "First Agentic AI Data Breach Reported to Spanish Regulator",
+   "url": "https://www.securityweek.com/first-agentic-ai-data-breach-reported-to-spanish-regulator/",
    "source": "SecurityWeek",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Tue, 15 Sep 2026 16:00:00 +0000",
-   "published_date": "2026-09-15",
-   "digest": "AI-assisted researchers flooded Vercel with reports, forcing the company to automate vulnerability triage. The post $1 Million Sandbox Challenge Uncovers Linux …",
-   "tags": [],
-   "title_zh": "一百万美元沙箱挑战发现Linux内核漏洞"
+   "published_at": "Wed, 16 Sep 2026 16:39:19 +0000",
+   "published_date": "2026-09-16",
+   "digest": "Spanish regulators say an AI agent chained together a successful login, vulnerability discovery, and access to personal data in a potential milestone for autono…",
+   "tags": [
+    "数据泄露",
+    "大模型安全"
+   ],
+   "title_zh": "首个Agentic AI数据泄露报告给西班牙监管机构"
   },
   {
-   "id": "SECWIKI-03c5767b",
-   "title": "SecWiki News 2026-09-15 Review",
-   "url": "http://www.sec-wiki.com/?2026-09-15",
+   "id": "SECWIKI-c07a7fdc",
+   "title": "SecWiki News 2026-09-16 Review",
+   "url": "http://www.sec-wiki.com/?2026-09-16",
    "source": "SecWiki",
    "category": "网络安全",
    "priority": "P2",
-   "published_at": "\nTue, 15 Sep 2026 23:58:20 +0800",
-   "published_date": "2026-09-15",
-   "digest": "人工智能安全治理框架3.0 by ourren 更多最新文章，请访问 SecWiki",
+   "published_at": "\nWed, 16 Sep 2026 23:58:20 +0800",
+   "published_date": "2026-09-16",
+   "digest": "今日暂未更新资讯~ 更多最新文章，请访问 SecWiki",
    "tags": [],
-   "title_zh": "SecWiki 新闻 2026-09-15 概览"
+   "title_zh": "SecWiki 新闻 2026-09-16 概览"
   },
   {
-   "id": "SECURITYWEEK-30947245",
-   "title": "Exein Secures $270M at $1.7B Valuation for Physical AI Security",
-   "url": "https://www.securityweek.com/exein-secures-270m-at-1-7b-valuation-for-physical-ai-security/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 15 Sep 2026 15:45:13 +0000",
-   "published_date": "2026-09-15",
-   "digest": "The cybersecurity startup is building a proprietary foundation model and plans to accelerate global expansion. The post Exein Secures $270M at $1.7B Valuation f…",
-   "tags": [],
-   "title_zh": "Exein获2.7亿美元融资估值达17亿美元，专注物理AI安全"
-  },
-  {
-   "id": "SECURITYWEEK-715c7361",
-   "title": "Texas Utility CenterPoint Energy Confirms Breach After Hacker Leaks Data",
-   "url": "https://www.securityweek.com/texas-utility-centerpoint-energy-confirms-breach-after-hacker-leaks-data/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 15 Sep 2026 15:30:24 +0000",
-   "published_date": "2026-09-15",
-   "digest": "A hacker claims to have stolen 7.5 million customer records after breaching the company’s systems. The post Texas Utility CenterPoint Energy Confirms Breach Aft…",
-   "tags": [],
-   "title_zh": "德克萨斯公用事业公司CenterPoint Energy确认遭入侵后数据被泄露"
-  },
-  {
-   "id": "THN-1e844fe7",
-   "title": "BambooToken Malware Uses MQTT to Control Windows and Linux Systems",
-   "url": "https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html",
+   "id": "THN-05702534",
+   "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
+   "url": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html",
    "source": "The Hacker News",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Tue, 15 Sep 2026 20:53:19 +0530",
-   "published_date": "2026-09-15",
-   "digest": "Cybersecurity researchers have disclosed details of a multi-platform campaign that uses the Message Queueing Telemetry Transport (MQTT) protocol as a communicat…",
+   "published_at": "Wed, 16 Sep 2026 21:20:59 +0530",
+   "published_date": "2026-09-16",
+   "digest": "A critical security flaw in Issabel Framework, a web-based framework for the open-source unified communications PBX software, has come under active exploitation…",
    "tags": [],
-   "title_zh": "BambooToken恶意软件使用MQTT控制Windows和Linux系统"
+   "title_zh": "攻击者利用Issabel框架漏洞-enable未认证的OS命令执行"
   },
   {
-   "id": "SECURITYWEEK-2ec34ccb",
-   "title": "Thai Broadband Provider Hacked via Fortinet Vulnerability",
-   "url": "https://www.securityweek.com/thai-broadband-provider-hacked-via-fortinet-vulnerability/",
-   "source": "SecurityWeek",
+   "id": "THN-b2b0c882",
+   "title": "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers",
+   "url": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html",
+   "source": "The Hacker News",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Tue, 15 Sep 2026 13:33:58 +0000",
-   "published_date": "2026-09-15",
-   "digest": "The hackers staged numerous scripts for reconnaissance and CVE probing, along with brute-force utilities and privilege escalation tools. The post Thai Broadband…",
-   "tags": [],
-   "title_zh": "泰国宽带提供商通过Fortinet漏洞被黑客攻击"
+   "published_at": "Wed, 16 Sep 2026 20:57:49 +0530",
+   "published_date": "2026-09-16",
+   "digest": "Enterprises in Russia have emerged as the target of three threat activity clusters tracked as NightEagle, Hacking Cat, and Toy Ghouls, according to multiple rep…",
+   "tags": [
+    "勒索软件"
+   ],
+   "title_zh": "三个威胁组织针对俄罗斯企业部署后门、勒索软件和清除器"
   },
   {
-   "id": "SECAFFAIRS-39e2ea84",
-   "title": "Cisco Warns of Ongoing Exploitation of Critical Email Gateway Zero-Day",
-   "url": "https://securityaffairs.com/199137/hacking/cisco-warns-of-ongoing-exploitation-of-critical-email-gateway-zero-day.html",
-   "source": "Security Affairs",
+   "id": "THN-20786a60",
+   "title": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude",
+   "url": "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html",
+   "source": "The Hacker News",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Tue, 15 Sep 2026 13:00:32 +0000",
-   "published_date": "2026-09-15",
-   "digest": "Cisco warns of a critical zero-day in Secure Email Gateway, exploited in the wild to gain root access through malicious emails. Cisco disclosed a critical zero-…",
-   "tags": [],
-   "title_zh": "Cisco警告存在持续利用的关键电子邮件网关零日漏洞攻击"
-  },
-  {
-   "id": "SECURITYWEEK-cdecc552",
-   "title": "OpenAI Investigates Report Linking AI Agents to RubyGems Attack",
-   "url": "https://www.securityweek.com/openai-investigates-report-linking-ai-agents-to-rubygems-attack/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 15 Sep 2026 12:42:32 +0000",
-   "published_date": "2026-09-15",
-   "digest": "The incident occurred in May, when RubyGems maintainers suspended new account registrations due to what appeared like malicious activity. The post OpenAI Invest…",
+   "published_at": "Wed, 16 Sep 2026 20:06:44 +0530",
+   "published_date": "2026-09-16",
+   "digest": "Security researchers at Forever Security have shown that one ordinary browser extension could take control of the AI assistants built into five Chromium-based p…",
    "tags": [
     "大模型安全"
    ],
-   "title_zh": "OpenAI 调查与 RubyGems 攻击相关的 AI 代理报告"
+   "title_zh": "一个扩展程序可能劫持Chrome、Comet、Edge、Opera Neon和Claude等人工智能助手"
   },
   {
-   "id": "SECAFFAIRS-79089f63",
-   "title": "Shared Hosting at Risk: LiteSpeed Enterprise Bug Can Grant Root from a Single Tenant",
-   "url": "https://securityaffairs.com/199127/security/shared-hosting-at-risk-litespeed-enterprise-bug-can-grant-root-from-a-single-tenant.html",
+   "id": "SECURITYWEEK-df14b4c6",
+   "title": "Virtual Event Today: Attack Surface Management Summit",
+   "url": "https://www.securityweek.com/virtual-event-today-attack-surface-management-summit-2/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 16 Sep 2026 14:35:04 +0000",
+   "published_date": "2026-09-16",
+   "digest": "Join SecurityWeek today for a virtual summit exploring the strategies and tools organizations need to discover, prioritize, and defend their expanding attack su…",
+   "tags": [],
+   "title_zh": "今日虚拟活动：攻击面管理峰会"
+  },
+  {
+   "id": "SECURITYWEEK-780ae5a8",
+   "title": "EU Chief Warns of AI-Powered Hacking, Moves to Rein In Social Media",
+   "url": "https://www.securityweek.com/eu-chief-warns-of-ai-powered-hacking-moves-to-rein-in-social-media/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 16 Sep 2026 14:15:18 +0000",
+   "published_date": "2026-09-16",
+   "digest": "Ursula von der Leyen warns that advanced AI could unleash hacking on an unprecedented scale as Europe prepares new protections against social media’s “capture” …",
+   "tags": [],
+   "title_zh": "欧盟负责人警告AI驱动黑客攻击，着手收紧社交媒体监管"
+  },
+  {
+   "id": "SECAFFAIRS-4b40da8d",
+   "title": "Google Patches Pixel Modem Zero-Day Exploited in Targeted Attacks",
+   "url": "https://securityaffairs.com/199193/hacking/google-patches-pixel-modem-zero-day-exploited-in-targeted-attacks.html",
    "source": "Security Affairs",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Tue, 15 Sep 2026 12:19:11 +0000",
-   "published_date": "2026-09-15",
-   "digest": "Critical LiteSpeed Enterprise flaw lets one shared hosting account gain root, bypassing CageFS; patch now to 6.3.7 via forced update. cPanel warned that a criti…",
+   "published_at": "Wed, 16 Sep 2026 13:43:53 +0000",
+   "published_date": "2026-09-16",
+   "digest": "Google has patched a high-severity zero-day in the Pixel cellular modem after finding evidence that the vulnerability was exploited in limited, targeted attacks…",
    "tags": [],
-   "title_zh": "共享主机风险：LiteSpeed Enterprise 存漏洞可使单一租户获得根权限"
+   "title_zh": "谷歌修复了Pixel modem零日漏洞，该漏洞被用于 targeted 攻击"
   },
   {
-   "id": "THN-e62afa0f",
-   "title": "Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds",
-   "url": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html",
+   "id": "SECURITYWEEK-56674fa8",
+   "title": "AIUC Raises $40 Million to Certify Enterprise AI Agents",
+   "url": "https://www.securityweek.com/aiuc-raises-40-million-to-certify-enterprise-ai-agents/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 16 Sep 2026 13:38:36 +0000",
+   "published_date": "2026-09-16",
+   "digest": "The company provides a standard for AI systems, testing them against risks such as jailbreaks, prompt injections, and unauthorized actions. The post AIUC Raises…",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "AIUC筹集4000万美元以认证企业AI代理"
+  },
+  {
+   "id": "THN-8de0de8a",
+   "title": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories",
+   "url": "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html",
    "source": "The Hacker News",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Tue, 15 Sep 2026 17:22:28 +0530",
-   "published_date": "2026-09-15",
-   "digest": "With artificial intelligence (AI) shrinking the window between vulnerability discovery and exploitation and lowering the barrier to entry for bad actors, new fi…",
+   "published_at": "Wed, 16 Sep 2026 19:07:07 +0530",
+   "published_date": "2026-09-16",
+   "digest": "Mandiant says an attacker hijacked an active AI coding-assistant session at an unnamed software-as-a-service provider and later spread Shai-Hulud across about 1…",
+   "tags": [],
+   "title_zh": "攻击者劫持AI编码助手会话，向约100个仓库传播Shai-Hulud"
+  },
+  {
+   "id": "THN-387395d3",
+   "title": "Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can't Install Fix",
+   "url": "https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 16 Sep 2026 18:44:05 +0530",
+   "published_date": "2026-09-16",
+   "digest": "Parallels Desktop for Mac has a flaw that lets an ordinary local account run code as root, the highest level of access on a Mac, software company JFrog said thi…",
+   "tags": [],
+   "title_zh": "Parallels Desktop 存漏洞使非管理员 Mac 用户可获得 root 权限，但 Intel Mac 无法安装修复"
+  },
+  {
+   "id": "SECURITYWEEK-c8b95f46",
+   "title": "Pixel Modem Zero-Day Exploited in Targeted Attacks",
+   "url": "https://www.securityweek.com/pixel-modem-zero-day-exploited-in-targeted-attacks/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 16 Sep 2026 13:10:54 +0000",
+   "published_date": "2026-09-16",
+   "digest": "Google announced patches for the exploited privilege escalation vulnerability (CVE-2026-58704) on September 15. The post Pixel Modem Zero-Day Exploited in Targe…",
    "tags": [
     "漏洞预警"
    ],
-   "title_zh": "人类攻击者利用Marimo RCE漏洞，在八秒内达到SSH堡垒机"
+   "title_zh": "Pixel Modem 零日漏洞被利用于 targeted 攻击"
   },
   {
-   "id": "SECURITYWEEK-5c2250d4",
-   "title": "240,000 Hit by Data Breach at Japan’s Digital Agency",
-   "url": "https://www.securityweek.com/240000-hit-by-data-breach-at-japans-digital-agency/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 15 Sep 2026 11:45:31 +0000",
-   "published_date": "2026-09-15",
-   "digest": "Hackers exploited a vulnerability in a VPN product to steal the personal information of roughly 240,000 people. The post 240,000 Hit by Data Breach at Japan’s D…",
-   "tags": [
-    "数据泄露"
-   ],
-   "title_zh": "日本数字机构数据泄露影响24万人"
-  },
-  {
-   "id": "THN-f3237593",
-   "title": "Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point",
-   "url": "https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 15 Sep 2026 16:56:36 +0530",
-   "published_date": "2026-09-15",
-   "digest": "Introduction Security teams have gotten pretty good at testing against what can hurt them. Can this EDR agent catch this payload? Will my organization fail the …",
-   "tags": [
-    "安全运营"
-   ],
-   "title_zh": "攻击链，而不仅是攻击面：为何单独测试技术方法不到位"
-  },
-  {
-   "id": "THN-30cbdfd5",
-   "title": "Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers",
-   "url": "https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 15 Sep 2026 16:42:32 +0530",
-   "published_date": "2026-09-15",
-   "digest": "Cybersecurity researchers have disclosed details of a mass-scanning campaign that has targeted Vite deployments siphon sensitive data. The first is an automated…",
-   "tags": [
-    "云安全",
-    "身份认证"
-   ],
-   "title_zh": "大规模扫描活动利用Vite漏洞从暴露的开发服务器提取云凭证"
-  },
-  {
-   "id": "SECURITYWEEK-7113641a",
-   "title": "Apple Patches 200 Vulnerabilities With New iOS 27, macOS Golden Gate 27 Releases",
-   "url": "https://www.securityweek.com/apple-patches-200-vulnerabilities-with-new-ios-27-macos-golden-gate-27-releases/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 15 Sep 2026 11:06:11 +0000",
-   "published_date": "2026-09-15",
-   "digest": "The updates resolve kernel vulnerabilities that could lead to memory corruption, privilege escalation, system termination, and information leaks. The post Apple…",
-   "tags": [
-    "移动安全"
-   ],
-   "title_zh": "苹果发布新iOS 27和macOS Golden Gate 27修复200个漏洞"
-  },
-  {
-   "id": "SCHNEIER-3ee16f19",
-   "title": "25 Years of Mass Surveillance Is Enough",
-   "url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
-   "source": "Schneier",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 15 Sep 2026 11:01:41 +0000",
-   "published_date": "2026-09-15",
-   "digest": "This essay was written with Cindy Cohn, and originally appeared in Lawfare . One of the many legacies of the terrorist attacks of Sept. 11 is the government-wid…",
-   "tags": [],
-   "title_zh": "25年的大规模监控足够了"
-  },
-  {
-   "id": "TRAILOFBITS-9802e35e",
-   "title": "1Password's AI patching benchmark is misleading",
-   "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading/",
-   "source": "Trail of Bits",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 15 Sep 2026 07:00:00 -0400",
-   "published_date": "2026-09-15",
-   "digest": "1Password’s FLAWED report , published on August 6, 2026, gives defenders a misleading picture of AI patching. Its headline says models produced clean fixes only…",
-   "tags": [
-    "学术研究"
-   ],
-   "title_zh": "1Password的AI打补丁基准测试具有误导性"
-  },
-  {
-   "id": "SECAFFAIRS-6d2fe568",
-   "title": "One Exploit Chain, Two Espionage Campaigns: Chrome and Windows Under Fire",
-   "url": "https://securityaffairs.com/199104/apt/one-exploit-chain-two-espionage-campaigns-chrome-and-windows-under-fire.html",
+   "id": "SECAFFAIRS-3feee65d",
+   "title": "Revolut Data Leak May Trace Back to Compromised Italian Government Accounts",
+   "url": "https://securityaffairs.com/199180/data-breach/revolut-data-leak-may-trace-back-to-compromised-italian-government-accounts.html",
    "source": "Security Affairs",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Tue, 15 Sep 2026 10:17:40 +0000",
-   "published_date": "2026-09-15",
-   "digest": "Two China-linked groups ran identical Chrome/Windows zero-day exploits against NGOs, before Chrome’s patch shipped, deploying different backdoors each. Two Chin…",
+   "published_at": "Wed, 16 Sep 2026 13:09:22 +0000",
+   "published_date": "2026-09-16",
+   "digest": "A suspected compromise of an Italian government PEC account may have allowed threat actors to impersonate law enforcement and obtain sensitive data from hundred…",
    "tags": [],
-   "title_zh": "一个漏洞链，两个间谍活动：针对Chrome和Windows的攻击"
+   "title_zh": "Revolut 数据泄露可能追溯至 compromised 意大利政府账户"
   },
   {
-   "id": "SCHNEIER-839c602d",
-   "title": "On the NSA’s Supercomputer from the 1960s",
-   "url": "https://www.schneier.com/blog/archives/2026/09/on-the-nsas-supercomputer-from-the-1960s.html",
+   "id": "SECURITYWEEK-dc52e9c8",
+   "title": "US, UK, Dutch Agencies Expose Iranian ‘Chosen Brick’ Surveillance Malware",
+   "url": "https://www.securityweek.com/us-uk-dutch-agencies-expose-iranian-chosen-brick-surveillance-malware/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 16 Sep 2026 12:00:14 +0000",
+   "published_date": "2026-09-16",
+   "digest": "US, UK, and Dutch government agencies published a report detailing the malware, and the FBI described the abuse of Telegram for C&C. The post US, UK, Dutch Agen…",
+   "tags": [
+    "监管合规"
+   ],
+   "title_zh": "美英荷机构揭露伊朗“选定砖块”监控恶意软件"
+  },
+  {
+   "id": "THN-6918dcb1",
+   "title": "N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security",
+   "url": "https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 16 Sep 2026 17:28:00 +0530",
+   "published_date": "2026-09-16",
+   "digest": "N0va is targeting organizations across North America and Europe with phishing campaigns that impersonate trusted services and abuse legitimate authentication fl…",
+   "tags": [
+    "钓鱼攻击",
+    "身份认证"
+   ],
+   "title_zh": "N0va Phishkit 目标美国和欧盟企业：身份安全的新挑战"
+  },
+  {
+   "id": "SECURITYWEEK-445dba09",
+   "title": "Unauthenticated RCE Flaws Could Expose 200,000+ WordPress Sites to Takeover",
+   "url": "https://www.securityweek.com/unauthenticated-rce-flaws-could-expose-200000-wordpress-sites-to-takeover/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 16 Sep 2026 11:32:53 +0000",
+   "published_date": "2026-09-16",
+   "digest": "Vulnerabilities in The Events Calendar can provide attackers with remote code execution capabilities. The post Unauthenticated RCE Flaws Could Expose 200,000+ W…",
+   "tags": [
+    "漏洞预警",
+    "Web安全"
+   ],
+   "title_zh": "未认证RCE漏洞可能使超过20万台WordPress网站面临被接管风险"
+  },
+  {
+   "id": "SCHNEIER-4c3b7d54",
+   "title": "Fake CAPTCHA Scams",
+   "url": "https://www.schneier.com/blog/archives/2026/09/fake-captcha-scams.html",
    "source": "Schneier",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Tue, 15 Sep 2026 10:16:24 +0000",
-   "published_date": "2026-09-15",
-   "digest": "Really interesting story about Harvest, a specialized code breaking computer built in the 1960s by IBM for the NSA.",
+   "published_at": "Wed, 16 Sep 2026 11:25:26 +0000",
+   "published_date": "2026-09-16",
+   "digest": "New variant of an old scam: Use the framing of a CAPTCHA to get an unsuspecting user to download and run a malicious program.",
+   "tags": [
+    "网络诈骗"
+   ],
+   "title_zh": "假验证码诈骗"
+  },
+  {
+   "id": "THN-e233efeb",
+   "title": "Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation",
+   "url": "https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 16 Sep 2026 16:45:58 +0530",
+   "published_date": "2026-09-16",
+   "digest": "Google has disclosed that a high-severity security flaw in its Pixel Cellular Modem has come under exploitation in the wild. The vulnerability, tracked as CVE-2…",
+   "tags": [
+    "漏洞预警"
+   ],
+   "title_zh": "谷歌修复Pixel调制解调器漏洞 面对有限目标利用迹象"
+  },
+  {
+   "id": "THN-51191bd4",
+   "title": "Threat Intelligence Alone Won't Close the Exploitation Gap",
+   "url": "https://thehackernews.com/2026/09/threat-intelligence-alone-wont-close.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 16 Sep 2026 16:45:48 +0530",
+   "published_date": "2026-09-16",
+   "digest": "A leaked credential shows up in a criminal marketplace, or a vulnerability gets a disclosure advisory, and either one can be weaponized against a real target be…",
+   "tags": [
+    "身份认证"
+   ],
+   "title_zh": "威胁情报 alone 不能关闭利用差距"
+  },
+  {
+   "id": "SECURITYWEEK-ad5e1a90",
+   "title": "Hackuity Raises $19 Million for AI-Powered Vulnerability Management",
+   "url": "https://www.securityweek.com/hackuity-raises-19-million-for-ai-powered-vulnerability-management/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 16 Sep 2026 11:11:23 +0000",
+   "published_date": "2026-09-16",
+   "digest": "The company will use the new capital to expand its vulnerability operations platform and support international growth. The post Hackuity Raises $19 Million for …",
    "tags": [],
-   "title_zh": "NSA在20世纪60年代的超级计算机"
+   "title_zh": "Hackuity 获得 1900 万美元融资用于AI驱动的安全漏洞管理"
   }
  ]
 }
