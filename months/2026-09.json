@@ -2,6 +2,1412 @@
  "month": "2026-09",
  "items": [
   {
+   "id": "SECAFFAIRS-562a03b5",
+   "title": "Brevo Supply-Chain Attack Infected Over 100,000 Websites",
+   "url": "https://securityaffairs.com/199355/hacking/brevo-supply-chain-attack-infected-over-100000-websites.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 21:38:15 +0000",
+   "published_date": "2026-09-18",
+   "digest": "A Brevo supply-chain attack used compromised Cloudflare access to inject malware into websites, potentially affecting over 100,000 sites. Brevo, formerly known …",
+   "tags": [],
+   "title_zh": "Brevo 供应链攻击感染超过100,000个网站"
+  },
+  {
+   "id": "SCHNEIER-f02e8de8",
+   "title": "Friday Squid Blogging: On Squid Egg Sacs",
+   "url": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-on-squid-egg-sacs.html",
+   "source": "Schneier",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 21:06:00 +0000",
+   "published_date": "2026-09-18",
+   "digest": "Short essay about squid egg sacs. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderat…",
+   "tags": [],
+   "title_zh": "周五鱿鱼日志：关于鱿鱼卵囊"
+  },
+  {
+   "id": "WORDFENCE-f0ccfd72",
+   "title": "Wordfence Argus Discovers Critical Vulnerability in libheif, the Library That Opens iPhone Photos on Your Server",
+   "url": "https://www.wordfence.com/blog/2026/09/wordfence-argus-discovers-critical-vulnerability-in-libheif-the-library-that-opens-iphone-photos-on-your-server/",
+   "source": "Wordfence",
+   "category": "网络安全",
+   "priority": "P2",
+   "published_at": "Fri, 18 Sep 2026 18:22:24 +0000",
+   "published_date": "2026-09-18",
+   "digest": "Wordfence Argus found a critical CVSS 9.8 vulnerability in libheif, a library many servers use to process HEIC images. We demonstrated protected-file disclosure…",
+   "tags": [
+    "移动安全"
+   ],
+   "title_zh": "Wordfence Argus 发现 libheif 库的严重漏洞，该库用于在服务器上打开 iPhone 图片"
+  },
+  {
+   "id": "THN-00d4421d",
+   "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
+   "url": "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 23:32:24 +0530",
+   "published_date": "2026-09-18",
+   "digest": "A security researcher has released working exploit code for four Linux kernel flaws that each let a local user gain root, the highest level of access on a machi…",
+   "tags": [],
+   "title_zh": "公开发布了针对四个Linux内核漏洞的本地根权限利用工具"
+  },
+  {
+   "id": "SECAFFAIRS-06d2b0db",
+   "title": "Gyazo Data Breach Exposes 23 Million User Records",
+   "url": "https://securityaffairs.com/199338/data-breach/gyazo-data-breach-exposes-23-million-user-records.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 17:10:37 +0000",
+   "published_date": "2026-09-18",
+   "digest": "A Gyazo breach exposed 23 million user records after attackers exploited a vulnerability in Helpfeel’s image upload server. Japanese software company Helpfeel i…",
+   "tags": [
+    "数据泄露"
+   ],
+   "title_zh": "Gyazo数据泄露暴露2300万用户记录"
+  },
+  {
+   "id": "THN-8c8f28e8",
+   "title": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution",
+   "url": "https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 22:26:19 +0530",
+   "published_date": "2026-09-18",
+   "digest": "WordPress today released patches to fix a new set of vulnerabilities in its core software, one of which could allow a crafted web link, opened by a logged-in ad…",
+   "tags": [
+    "Web安全"
+   ],
+   "title_zh": "新WordPress Click2Shell 漏洞强制安装主题，可链接到代码执行"
+  },
+  {
+   "id": "SECWIKI-46767de2",
+   "title": "SecWiki News 2026-09-18 Review",
+   "url": "http://www.sec-wiki.com/?2026-09-18",
+   "source": "SecWiki",
+   "category": "网络安全",
+   "priority": "P2",
+   "published_at": "\nFri, 18 Sep 2026 23:58:20 +0800",
+   "published_date": "2026-09-18",
+   "digest": "LLM 供应链中恶意中间人攻击的实测研究 by ourren 更多最新文章，请访问 SecWiki",
+   "tags": [
+    "供应链攻击",
+    "大模型安全"
+   ],
+   "title_zh": "SecWiki新闻2026-09-18回顾"
+  },
+  {
+   "id": "FREEBUF-c3f6b90c",
+   "title": "研究人员公开四个Linux内核漏洞利用代码，可本地获取root权限",
+   "url": "https://www.freebuf.com/articles/system/501893.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 23:32:24 +0800",
+   "published_date": "2026-09-18",
+   "digest": "四个Linux内核漏洞利用代码已公开，可本地提权获取root权限，运行旧内核的设备必须尽快打补丁防入侵。",
+   "tags": [
+    "漏洞预警"
+   ]
+  },
+  {
+   "id": "THN-96dad0d3",
+   "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
+   "url": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 20:54:16 +0530",
+   "published_date": "2026-09-18",
+   "digest": "The Pakistan-aligned threat group tracked as Transparent Tribe (aka APT36 and Earth Karkaddan) has been attributed to a fresh set of cyber attacks targeting gov…",
+   "tags": [
+    "APT组织"
+   ],
+   "title_zh": "透明部落部署新型Rust后门 使用私有GitHub仓库进行C2通信"
+  },
+  {
+   "id": "SECURITYWEEK-70183419",
+   "title": "In Other News: Ransomware Developer Sentenced, Plugin4Shell AI Attack, Critical SAP Flaw",
+   "url": "https://www.securityweek.com/in-other-news-ransomware-developer-sentenced-plugin4shell-ai-attack-critical-sap-flaw/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 14:25:00 +0000",
+   "published_date": "2026-09-18",
+   "digest": "Noteworthy stories that might have slipped under the radar: Mandiant's 2026 AI risk report, PhantomRaven malware used by bug bounty hunter, WordPress plugin bug…",
+   "tags": [
+    "勒索软件",
+    "Web安全"
+   ],
+   "title_zh": "其他新闻：勒索软件开发者被判刑，Plugin4Shell AI攻击，关键SAP漏洞"
+  },
+  {
+   "id": "FREEBUF-4178ceb5",
+   "title": "Brevo供应链攻击感染超10万网站，盗用Cloudflare密钥在边缘注入恶意代码",
+   "url": "https://www.freebuf.com/news/501898.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 21:38:15 +0800",
+   "published_date": "2026-09-18",
+   "digest": "Brevo遭供应链攻击，攻击者盗用Cloudflare密钥在CDN边缘注入恶意代码，源站文件无异常，常规检测完全失效，超10万网站已受感染。",
+   "tags": [
+    "供应链攻击"
+   ]
+  },
+  {
+   "id": "FREEBUF-5276b461",
+   "title": "整个代码库被悄悄打包，智谱ZCode上传机制曝光",
+   "url": "https://www.freebuf.com/articles/501797.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 21:31:24 +0800",
+   "published_date": "2026-09-18",
+   "digest": "智谱旗下AI编程工具ZCode陷入代码上传争议。",
+   "tags": []
+  },
+  {
+   "id": "THN-f30028ea",
+   "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
+   "url": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 18:17:04 +0530",
+   "published_date": "2026-09-18",
+   "digest": "Microsoft has released fixes for a maximum-severity security flaw in Azure AI Foundry that could be exploited to achieve privilege escalation. No customer actio…",
+   "tags": [
+    "云安全"
+   ],
+   "title_zh": "微软修复CVSS 10.0 分数的Azure AI Foundry 安全漏洞，该漏洞可导致未授权权限提升"
+  },
+  {
+   "id": "SECURITYWEEK-3dc86614",
+   "title": "AI-Built Exploit and Sign-In Flaw Opened Path to Internal OpenAI Code",
+   "url": "https://www.securityweek.com/ai-built-exploit-and-sign-in-flaw-opened-path-to-internal-openai-code/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 12:45:24 +0000",
+   "published_date": "2026-09-18",
+   "digest": "Hacktron researchers earned a bug bounty after demonstrating access to OpenAI employee accounts. The post AI-Built Exploit and Sign-In Flaw Opened Path to Inter…",
+   "tags": [],
+   "title_zh": "AI构建的漏洞利用和登录缺陷打开了通往内部OpenAI代码的路径"
+  },
+  {
+   "id": "FREEBUF-7e55c7d7",
+   "title": "微软上线AI漏洞专项赏金计划；OpenAI、Anthropic与Google协作制定AI安全框架  | FreeBuf周报",
+   "url": "https://www.freebuf.com/articles/501784.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 20:42:50 +0800",
+   "published_date": "2026-09-18",
+   "digest": "各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！",
+   "tags": []
+  },
+  {
+   "id": "SECURITYWEEK-a232d1f3",
+   "title": "23 Million User Records Compromised in Gyazo Data Breach",
+   "url": "https://www.securityweek.com/23-million-user-records-compromised-in-gyazo-data-breach/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 11:38:40 +0000",
+   "published_date": "2026-09-18",
+   "digest": "Gyazo maker Helpfeel said the attacker exploited a vulnerability in its image upload server to gain unauthorized access. The post 23 Million User Records Compro…",
+   "tags": [
+    "数据泄露"
+   ],
+   "title_zh": "2300万用户记录在Gyazo数据泄露事件中被 compromized"
+  },
+  {
+   "id": "SCHNEIER-9e465ff4",
+   "title": "Are AIs Still Struggling with CAPTCHAs?",
+   "url": "https://www.schneier.com/blog/archives/2026/09/are-ais-still-struggling-with-captchas.html",
+   "source": "Schneier",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 11:05:52 +0000",
+   "published_date": "2026-09-18",
+   "digest": "Anthropic’s recent security-incident document contains a bit about how CAPTCHAs are still frustrating Claude. In the transcript, the Claude model that is so pow…",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "AI仍难以应对验证码吗？"
+  },
+  {
+   "id": "THN-40b497fa",
+   "title": "An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.",
+   "url": "https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 16:31:16 +0530",
+   "published_date": "2026-09-18",
+   "digest": "In July 2025, someone registered a domain that used to belong to a content delivery network. The CDN had been wound down years earlier, and the domain it served…",
+   "tags": [],
+   "title_zh": "弃用的CDN域名被重新注册。数千网站仍使用它。"
+  },
+  {
+   "id": "THN-c51a41e0",
+   "title": "Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents",
+   "url": "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 16:31:01 +0530",
+   "published_date": "2026-09-18",
+   "digest": "A flaw in four widely used AI coding agents lets someone who controls a plugin's code repository swap the plugin an agent installs for a malicious one, even whe…",
+   "tags": [],
+   "title_zh": "Plugin4Shell 让仓库所有者在四个 AI 代码生成器之间交换锁定的插件代码"
+  },
+  {
+   "id": "TRAILOFBITS-3b1b335a",
+   "title": "Auditing in the age of (good enough) AI",
+   "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
+   "source": "Trail of Bits",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 07:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "Security firms have published numerous blog posts describing how they pointed their agent harness at a codebase and found dozens of bugs ( we’re one of them ). …",
+   "tags": [],
+   "title_zh": "在足够智能的AI时代审计"
+  },
+  {
+   "id": "SECURITYWEEK-33b1150b",
+   "title": "Microsoft Patches 18 Vulnerabilities in AI, Cloud Products",
+   "url": "https://www.securityweek.com/microsoft-patches-18-vulnerabilities-in-ai-cloud-products/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 10:57:03 +0000",
+   "published_date": "2026-09-18",
+   "digest": "Microsoft fixed vulnerabilities across Azure and AI-branded products, with privilege escalation flaws accounting for the majority. The post Microsoft Patches 18…",
+   "tags": [
+    "云安全"
+   ],
+   "title_zh": "微软修复了其AI和云产品中的18个漏洞"
+  },
+  {
+   "id": "THN-0abc0e0a",
+   "title": "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage",
+   "url": "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 16:10:06 +0530",
+   "published_date": "2026-09-18",
+   "digest": "Cybersecurity researchers have discovered a cluster of 13 npm packages that have been found to deliver a previously undocumented JavaScript stealer codenamed We…",
+   "tags": [
+    "供应链攻击"
+   ],
+   "title_zh": "WeaselBiscuit 盗贼通过13个npm包传播以收割Chrome扩展存储内容"
+  },
+  {
+   "id": "SECURITYWEEK-17f7861e",
+   "title": "NightmareStresser DDoS Service Disrupted in International Operation",
+   "url": "https://www.securityweek.com/nightmarestresser-ddos-service-disrupted-in-international-operation/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 10:12:33 +0000",
+   "published_date": "2026-09-18",
+   "digest": "Active since at least 2022, NightmareStresser was one of the longest-running DDoS-for-hire services in the world. The post NightmareStresser DDoS Service Disrup…",
+   "tags": [
+    "僵尸网络"
+   ],
+   "title_zh": "NightmareStresser DDoS 服务在国际行动中被中断"
+  },
+  {
+   "id": "SECAFFAIRS-97bad4fe",
+   "title": "RatHat Turns Android Accessibility Into an Attack Weapon",
+   "url": "https://securityaffairs.com/199317/malware/rathat-turns-android-accessibility-into-an-attack-weapon.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 10:04:52 +0000",
+   "published_date": "2026-09-18",
+   "digest": "RatHat combines AI-driven screen control, Android debugging abuse and advanced credential theft to give attackers deep control of infected phones. RatHat is the…",
+   "tags": [
+    "移动安全",
+    "身份认证"
+   ],
+   "title_zh": "RatHat 将Android无障碍功能转变为攻击工具"
+  },
+  {
+   "id": "UNIT42-396d395e",
+   "title": "A Vault with a Heap-View: The Uncomfortable Space Between AgentCore Harness and Identity",
+   "url": "https://unit42.paloaltonetworks.com/securing-aws-agentcore-harness-credentials/",
+   "source": "Unit 42",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 10:00:36 +0000",
+   "published_date": "2026-09-18",
+   "digest": "Analysis of how default configurations in AWS AgentCore Harness allow prompt injection to exfiltrate credentials, and key steps to secure your agents. The post …",
+   "tags": [
+    "大模型安全",
+    "云安全",
+    "身份认证"
+   ],
+   "title_zh": "一个堆视图的保险库：AgentCore Harness与身份之间的不舒适空间"
+  },
+  {
+   "id": "SECURITYWEEK-d32e6ec8",
+   "title": "Brevo Supply Chain Attack Injects Malware Into 100,000 Websites",
+   "url": "https://www.securityweek.com/brevo-supply-chain-attack-injects-malware-into-100000-websites/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 09:46:57 +0000",
+   "published_date": "2026-09-18",
+   "digest": "Hackers used a compromised API key to deploy a Cloudflare worker that injected malicious scripts. The post Brevo Supply Chain Attack Injects Malware Into 100,00…",
+   "tags": [
+    "供应链攻击"
+   ],
+   "title_zh": "Brevo供应链攻击向100,000个网站注入恶意软件"
+  },
+  {
+   "id": "THN-3b0f8c60",
+   "title": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
+   "url": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 14:48:03 +0530",
+   "published_date": "2026-09-18",
+   "digest": "A financially motivated threat actor has been linked to the development and distribution of a JavaScript (JS)-based information stealer known as PhantomRaven vi…",
+   "tags": [
+    "供应链攻击",
+    "大模型安全"
+   ],
+   "title_zh": "声称的漏洞赏金猎人可能使用LLM构建PhantomRaven npm窃取工具"
+  },
+  {
+   "id": "TOPSEC-ea849d74",
+   "title": "Topsec Joins the Millennium Micro Community at Congress 2026",
+   "url": "https://www.topsec.com/topsec-joins-the-millennium-micro-community-at-congress-2026/",
+   "source": "天融信",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 09:06:40 +0000",
+   "published_date": "2026-09-18",
+   "digest": "Discover why SLAs are the starting point in email security. Learn how proactive support, rapid response and real human service define true protection. The post …",
+   "tags": [],
+   "title_zh": "Topsec加入Millennium Micro社区出席Congress 2026"
+  },
+  {
+   "id": "SECURITYWEEK-7b572c22",
+   "title": "Critical Orkes Conductor Vulnerability Exploited in Attacks",
+   "url": "https://www.securityweek.com/critical-orkes-conductor-vulnerability-exploited-in-attacks/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 08:42:18 +0000",
+   "published_date": "2026-09-18",
+   "digest": "CVE-2026-58138 is an unauthenticated remote code execution vulnerability that attackers can exploit via inline workflow definitions. The post Critical Orkes Con…",
+   "tags": [
+    "漏洞预警"
+   ],
+   "title_zh": "关键性 Orkes Conductor 漏洞被利用进行攻击"
+  },
+  {
+   "id": "SECAFFAIRS-ab6894db",
+   "title": "Check Point Fixes Critical CVE-2026-91843 Allowing Root Code Execution",
+   "url": "https://securityaffairs.com/199279/security/check-point-fixes-critical-cve-2026-91843-allowing-root-code-execution.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 07:52:41 +0000",
+   "published_date": "2026-09-18",
+   "digest": "Check Point fixed CVE-2026-91843, a critical flaw that could let attackers run code as root on Security Management and Log Servers with no login needed. Check P…",
+   "tags": [
+    "漏洞预警"
+   ],
+   "title_zh": "Check Point修复了关键漏洞CVE-2026-91843，允许执行root代码"
+  },
+  {
+   "id": "SECURITYWEEK-1aa4600d",
+   "title": "MIND Secures $72 Million for AI-Powered DLP",
+   "url": "https://www.securityweek.com/mind-secures-72-million-for-ai-powered-dlp/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 07:25:27 +0000",
+   "published_date": "2026-09-18",
+   "digest": "The company will use the funding to accelerate platform development and expand its presence in key enterprise markets. The post MIND Secures $72 Million for AI-…",
+   "tags": [],
+   "title_zh": "MIND获得7200万美元用于AI驱动的数据泄露防护"
+  },
+  {
+   "id": "SECURITYWEEK-d6bfffbf",
+   "title": "Check Point, Kaspersky, Tanium Patch Product Vulnerabilities",
+   "url": "https://www.securityweek.com/check-point-kaspersky-tanium-patch-product-vulnerabilities/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 07:14:04 +0000",
+   "published_date": "2026-09-18",
+   "digest": "Check Point Security Management and Log Servers are affected by a critical vulnerability that can allow remote code execution with root privileges. The post Che…",
+   "tags": [],
+   "title_zh": "检查点、卡巴斯基、塔尼姆修复产品漏洞"
+  },
+  {
+   "id": "THN-ce739af9",
+   "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
+   "url": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 11:47:25 +0530",
+   "published_date": "2026-09-18",
+   "digest": "Cybersecurity researchers have flagged a new Android malware called RatHat that's assessed to be operated by China-based threat actors and features an artificia…",
+   "tags": [
+    "移动安全"
+   ],
+   "title_zh": "RatHat Android 恶意软件滥用 ADB 保留卸载后的 shell 访问权限"
+  },
+  {
+   "id": "ZDI-PUBLISHED-be4f0a61",
+   "title": "ZDI-26-715: Linux Mint Xreader PDF File Parsing Type Confusion Remote Code Execution Vulnerability",
+   "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-715/",
+   "source": "ZDI Published",
+   "category": "网络安全",
+   "priority": "P0",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0500",
+   "published_date": "2026-09-18",
+   "digest": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Linux Mint Xreader. User interaction is required to exploit th…",
+   "tags": [],
+   "title_zh": "ZDI-26-715: Linux Mint Xreader PDF 文件解析类型混乱远程代码执行漏洞"
+  },
+  {
+   "id": "ZDI-PUBLISHED-70847200",
+   "title": "ZDI-26-716: Cisco Identity Services Engine createDBLink Command Injection Remote Code Execution Vulnerability",
+   "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-716/",
+   "source": "ZDI Published",
+   "category": "网络安全",
+   "priority": "P0",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0500",
+   "published_date": "2026-09-18",
+   "digest": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Cisco Identity Services Engine. Authentication is required to …",
+   "tags": [
+    "身份认证"
+   ],
+   "title_zh": "ZDI-26-716：Cisco Identity Services Engine createDBLink 命令注入远程代码执行漏洞"
+  },
+  {
+   "id": "ZDI-PUBLISHED-6f582d58",
+   "title": "ZDI-26-717: Cisco Identity Services Engine AlarmMessageDiskQueue Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+   "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-717/",
+   "source": "ZDI Published",
+   "category": "网络安全",
+   "priority": "P0",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0500",
+   "published_date": "2026-09-18",
+   "digest": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Cisco Identity Services Engine. Authentication is required to …",
+   "tags": [
+    "身份认证"
+   ],
+   "title_zh": "Cisco ISE AlarmMessageDiskQueue术序列化远程代码执行漏洞(ZDI-26-717)"
+  },
+  {
+   "id": "ZDI-PUBLISHED-d474ba33",
+   "title": "ZDI-26-718: Cisco Identity Services Engine MnTRESTLivelogService XML External Entity Processing Information Disclosure Vulnerability",
+   "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-718/",
+   "source": "ZDI Published",
+   "category": "网络安全",
+   "priority": "P0",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0500",
+   "published_date": "2026-09-18",
+   "digest": "This vulnerability allows remote attackers to disclose sensitive information on affected installations of Cisco Identity Services Engine. Authentication is requ…",
+   "tags": [
+    "身份认证"
+   ],
+   "title_zh": "ZDI-26-718: Cisco Identity Services Engine MnTRESTLivelogService XML外部实体处理信息泄露漏洞"
+  },
+  {
+   "id": "FREEBUF-db371a93",
+   "title": "黑客仿冒ChatGPT订阅提醒邮件，窃取OpenAI账号凭证",
+   "url": "https://www.freebuf.com/news/501794.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 12:30:16 +0800",
+   "published_date": "2026-09-18",
+   "digest": "近期黑客仿冒ChatGPT订阅提醒发钓鱼邮件，诱导用户访问虚假登录页窃取OpenAI账号凭证，可致信息泄露、身份被盗，务必警惕。",
+   "tags": [
+    "数据泄露",
+    "钓鱼攻击",
+    "大模型安全"
+   ]
+  },
+  {
+   "id": "ARXIV-CR-7d488c4a",
+   "title": "Near-Optimal Machine Unlearning Utility for Smooth Strongly Convex Losses",
+   "url": "https://arxiv.org/abs/2606.01527",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2606.01527v2 Announce Type: replace-cross Abstract: Machine unlearning is motivated by legal and user-facing requirements to remove the influence of indiv…",
+   "tags": [
+    "学术研究"
+   ],
+   "title_zh": "近最优机器遗忘实用工具：平滑强凸损失函数 scenarios"
+  },
+  {
+   "id": "ARXIV-CR-fe80cd88",
+   "title": "MAS-Shield: A Defense Framework for Secure and Efficient LLM MAS",
+   "url": "https://arxiv.org/abs/2511.22924",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2511.22924v3 Announce Type: replace-cross Abstract: Large Language Model (LLM)-based Multi-Agent Systems (MAS) are susceptible to linguistic attacks that …",
+   "tags": [
+    "大模型安全",
+    "学术研究"
+   ],
+   "title_zh": "MAS-Shield：安全高效的LLM MAS防御框架"
+  },
+  {
+   "id": "ARXIV-CR-8e176a87",
+   "title": "Watermarking Diffusion Language Models",
+   "url": "https://arxiv.org/abs/2509.24368",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2509.24368v3 Announce Type: replace-cross Abstract: We introduce the first watermark tailored for diffusion language models (DLMs), an emergent LLM paradi…",
+   "tags": [
+    "大模型安全",
+    "学术研究"
+   ],
+   "title_zh": "水印扩散语言模型"
+  },
+  {
+   "id": "ARXIV-CR-64c1d6d3",
+   "title": "Efficient Quantum Voting with Information-Theoretic Security",
+   "url": "https://arxiv.org/abs/2112.14242",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2112.14242v2 Announce Type: replace-cross Abstract: Ensuring security and integrity of elections constitutes an important challenge with wide-ranging soci…",
+   "tags": [
+    "学术研究"
+   ],
+   "title_zh": "高效量子投票方案，信息论安全性"
+  },
+  {
+   "id": "ARXIV-CR-653bd593",
+   "title": "Evaluating Large Language Models for Symbolic Security Protocol Analysis",
+   "url": "https://arxiv.org/abs/2607.20712",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2607.20712v2 Announce Type: replace Abstract: Security protocols verification relies on formal tools such as ProVerif and OFMC. This study evaluates wheth…",
+   "tags": [
+    "大模型安全",
+    "学术研究"
+   ],
+   "title_zh": "评估大型语言模型在符号安全协议分析中的应用"
+  },
+  {
+   "id": "ARXIV-CR-d46a242d",
+   "title": "Self-State Attacks on Self-Hosted AI Agents: How Far Can OS Defenses Go?",
+   "url": "https://arxiv.org/abs/2607.17986",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2607.17986v2 Announce Type: replace Abstract: Self-hosted AI agents maintain persistent memory, instructions, and configuration that influence their futur…",
+   "tags": [
+    "大模型安全",
+    "学术研究"
+   ],
+   "title_zh": "自我攻击对自我托管AI代理：操作系统防御能走多远？"
+  },
+  {
+   "id": "ARXIV-CR-b8b311ad",
+   "title": "SoK: Reconstruction Attacks on Synthetic Tabular Data (Insights from Winning the NIST CRC)",
+   "url": "https://arxiv.org/abs/2606.08372",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2606.08372v2 Announce Type: replace Abstract: Synthetic data is increasingly promoted as a privacy-preserving substitute for releasing sensitive tabular r…",
+   "tags": [
+    "学术研究"
+   ],
+   "title_zh": "合成表格数据的重建攻击研究（NIST CRC竞赛获胜见解）"
+  },
+  {
+   "id": "ARXIV-CR-8cc2eb5d",
+   "title": "Contrastive Privacy: A Semantic Approach to Measuring Privacy of AI-based Sanitization",
+   "url": "https://arxiv.org/abs/2605.02977",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2605.02977v2 Announce Type: replace Abstract: AI-based sanitization can remove concepts from images and text, but privacy evaluation remains largely ad ho…",
+   "tags": [
+    "学术研究"
+   ],
+   "title_zh": "对比隐私：一种基于语义的隐私度量方法"
+  },
+  {
+   "id": "ARXIV-CR-9d963c7d",
+   "title": "Automated Membership Inference Attacks (AutoMIA): Discovering MIA Signal Computations using LLM Agents",
+   "url": "https://arxiv.org/abs/2603.19375",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2603.19375v2 Announce Type: replace Abstract: Membership inference attacks (MIAs), which enable adversaries to determine whether specific data points were…",
+   "tags": [
+    "大模型安全",
+    "AI攻防",
+    "学术研究"
+   ],
+   "title_zh": "自动化成员推断攻击（AutoMIA）：使用LLM代理发现MIA信号计算"
+  },
+  {
+   "id": "ARXIV-CR-c2f70650",
+   "title": "KUDA: Knowledge Unlearning by Deviating Representation for Large Language Models",
+   "url": "https://arxiv.org/abs/2602.19275",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2602.19275v3 Announce Type: replace Abstract: Large language models (LLMs) acquire a large amount of knowledge through pre-training on vast and diverse co…",
+   "tags": [
+    "大模型安全",
+    "学术研究"
+   ],
+   "title_zh": "KUDA：通过偏离表示知识遗忘的大语言模型"
+  },
+  {
+   "id": "ARXIV-CR-4b793f45",
+   "title": "Effective and Efficient Threat Hunting with Small Language Models",
+   "url": "https://arxiv.org/abs/2512.06660",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2512.06660v3 Announce Type: replace Abstract: Analysts in Security Operations Centers query massive telemetry streams using Kusto Query Language (KQL), bu…",
+   "tags": [
+    "安全运营",
+    "学术研究"
+   ],
+   "title_zh": "使用小型语言模型进行高效威胁狩猎"
+  },
+  {
+   "id": "ARXIV-CR-79865f2e",
+   "title": "SoK: Kicking CAN Down the Road. Systematizing CAN Security Knowledge",
+   "url": "https://arxiv.org/abs/2510.02960",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2510.02960v2 Announce Type: replace Abstract: For decades, the Controller Area Network (CAN) has served as the primary in-vehicle bus (IVB), extending its…",
+   "tags": [
+    "学术研究"
+   ],
+   "title_zh": "系统化CAN安全知识研究：推迟CAN的安全问题"
+  },
+  {
+   "id": "ARXIV-CR-213eb2a6",
+   "title": "Evaluating Out-of-Distribution Robustness in Graph-Based Android Malware Classification: A New Principled Benchmark",
+   "url": "https://arxiv.org/abs/2508.06734",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2508.06734v3 Announce Type: replace Abstract: While graph-based Android malware classifiers report strong benchmark accuracy of over 94%, their performanc…",
+   "tags": [
+    "移动安全",
+    "学术研究"
+   ],
+   "title_zh": "基于图的Android恶意软件分类离分布鲁棒性评估：一个新的原则基准"
+  },
+  {
+   "id": "ARXIV-CR-177f518e",
+   "title": "Multi-center Medical Data Mining with FL-Net - A One-stop Shop for Federated Learning",
+   "url": "https://arxiv.org/abs/2609.20650",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2609.20650v1 Announce Type: cross Abstract: Federated learning enables collaborative training without sharing patient-level data, but most studies remain …",
+   "tags": [
+    "学术研究"
+   ],
+   "title_zh": "多中心医疗数据联邦学习挖掘—FL-Net 一站式解决方案"
+  },
+  {
+   "id": "ARXIV-CR-25b5a2a4",
+   "title": "Worst-Case Hidden-Vehicle Trajectory Search in Spatiotemporal Occlusion Regions",
+   "url": "https://arxiv.org/abs/2609.20480",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2609.20480v1 Announce Type: cross Abstract: Occlusion creates fundamental uncertainty in autonomous driving. Existing methods often propagate frame-wise h…",
+   "tags": [
+    "学术研究"
+   ],
+   "title_zh": "最坏情况下的隐藏车辆轨迹搜索在时空遮挡区域"
+  },
+  {
+   "id": "ARXIV-CR-83c6db26",
+   "title": "Compact Vision Models for Iris Presentation Attack Detection under Presentation Attack Instrument Shift and Environmental Degradation",
+   "url": "https://arxiv.org/abs/2609.20386",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2609.20386v1 Announce Type: cross Abstract: Iris presentation attack detection (PAD) is security-critical when a subsystem that appears reliable during de…",
+   "tags": [
+    "学术研究"
+   ],
+   "title_zh": "紧凑型视觉模型在呈现攻击仪器变化和环境退化条件下的虹膜欺骗检测"
+  },
+  {
+   "id": "ARXIV-CR-7bdbfda1",
+   "title": "A Policy Profile for Croissant: Refusal as a Property of the Dataset",
+   "url": "https://arxiv.org/abs/2609.19640",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2609.19640v1 Announce Type: cross Abstract: Croissant is the de facto machine-readable descriptor for ML datasets: JSON-LD over schema.org. Since version …",
+   "tags": [
+    "学术研究"
+   ],
+   "title_zh": "Croissant策略配置：数据集的拒绝属性"
+  },
+  {
+   "id": "ARXIV-CR-d1eda6c1",
+   "title": "Cyber Exodus: Burnout Symptoms, Exit Intention, and Peer Response in Online Cybersecurity Communities",
+   "url": "https://arxiv.org/abs/2609.19556",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2609.19556v1 Announce Type: cross Abstract: Security practitioners burn out at high rates, and the resulting attrition is itself a security problem. This …",
+   "tags": [
+    "学术研究"
+   ],
+   "title_zh": "网络出走：在线网络安全社区中的职业倦怠症状、离职意向及同行响应"
+  },
+  {
+   "id": "ARXIV-CR-8d38374c",
+   "title": "Safety Beyond the Interface: Detecting Harm via Latent States in Large Language Models",
+   "url": "https://arxiv.org/abs/2609.19472",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2609.19472v1 Announce Type: cross Abstract: Autonomous systems increasingly rely on Large Language Models (LLMs) yet the safety infrastructure surrounding…",
+   "tags": [
+    "大模型安全",
+    "学术研究"
+   ],
+   "title_zh": "超越界面的安全：通过大型语言模型的潜在状态检测危害"
+  },
+  {
+   "id": "ARXIV-CR-049770c3",
+   "title": "Closed-World Resolution Against Tool Hallucination in LLM Agents",
+   "url": "https://arxiv.org/abs/2609.19425",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2609.19425v1 Announce Type: cross Abstract: Tool-augmented large language model (LLM) agents fail in a way no tool-selection or tool-security method addre…",
+   "tags": [
+    "大模型安全",
+    "学术研究"
+   ],
+   "title_zh": "针对LLM代理工具幻觉的闭世界解决方案"
+  },
+  {
+   "id": "ARXIV-CR-da4d45c8",
+   "title": "MAGS: Multi-agent Auto-formalization Guarantees Safety for Agentic Outputs",
+   "url": "https://arxiv.org/abs/2609.19391",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2609.19391v1 Announce Type: cross Abstract: LLM coding agents now generate complex programs at a scale that makes thorough human review increasingly diffi…",
+   "tags": [
+    "大模型安全",
+    "学术研究"
+   ],
+   "title_zh": "MAGS：多代理自动形式化保证代理输出的安全性"
+  },
+  {
+   "id": "ARXIV-CR-0d992b12",
+   "title": "Inference-Engine Fingerprinting Attacks are Practical: Exploring Model-Driven Environmental Discovery, Exploitation, and Escape",
+   "url": "https://arxiv.org/abs/2609.20614",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2609.20614v1 Announce Type: new Abstract: Frontier AI models are rapidly gaining the ability to exploit vulnerabilities in complex pieces of software. The…",
+   "tags": [
+    "学术研究"
+   ],
+   "title_zh": "推理引擎指纹攻击可行：探索模型驱动的环境发现、利用与逃脱"
+  },
+  {
+   "id": "ARXIV-CR-a946d9f2",
+   "title": "Weather Data Spoofing Attacks on Rain-Adaptive Millimeter-Wave Frequency Selection in V2X Communication Networks",
+   "url": "https://arxiv.org/abs/2609.20601",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2609.20601v1 Announce Type: new Abstract: Connected vehicles use millimeter-wave (mmWave) sidelinks for the data rates cooperative driving demands, and em…",
+   "tags": [
+    "学术研究"
+   ],
+   "title_zh": "针对V2X通信网络雨自适应毫米波频段选择的气象数据篡改攻击"
+  },
+  {
+   "id": "ARXIV-CR-27f58b43",
+   "title": "Empirical Analysis of Randomness Quality in Differential Privacy Mechanisms",
+   "url": "https://arxiv.org/abs/2609.20561",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2609.20561v1 Announce Type: new Abstract: Differential Privacy (DP) relies on carefully calibrated random noise to protect individual privacy in statistic…",
+   "tags": [
+    "学术研究"
+   ],
+   "title_zh": "差分隐私机制中随机性质量的实证分析"
+  },
+  {
+   "id": "ARXIV-CR-95636a5f",
+   "title": "Towards TEE-Certified DP: Verifiable Differentially Private Training on Legacy GPUs",
+   "url": "https://arxiv.org/abs/2609.20532",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2609.20532v1 Announce Type: new Abstract: Wide adoption of machine learning has created growing policy and regulatory demand for protecting sensitive trai…",
+   "tags": [
+    "AI攻防",
+    "学术研究"
+   ],
+   "title_zh": "面向TEE认证的DP：在legacy GPU上可验证差分隐私训练"
+  },
+  {
+   "id": "ARXIV-CR-5132f1a9",
+   "title": "Fingerprinting Multimodal Large Language Models",
+   "url": "https://arxiv.org/abs/2609.20457",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2609.20457v1 Announce Type: new Abstract: While multimodal large language models (MLLMs) enable a wide range of image-text reasoning tasks, recent inciden…",
+   "tags": [
+    "大模型安全",
+    "学术研究"
+   ],
+   "title_zh": "多模态大型语言模型指纹识别"
+  },
+  {
+   "id": "ARXIV-CR-505d09c5",
+   "title": "The More It Says, the More You Pay: A Black-Box Audit of Provider-Side Token Inflation in LLM Services",
+   "url": "https://arxiv.org/abs/2609.20370",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2609.20370v1 Announce Type: new Abstract: In pay-per-token LLM services, the more a model says, the more users pay. Dishonest providers can covertly manip…",
+   "tags": [
+    "大模型安全",
+    "学术研究"
+   ],
+   "title_zh": "说得越多，支付得越多：对LLM服务提供商侧Token通胀的黑盒审计"
+  },
+  {
+   "id": "ARXIV-CR-f78b8bc1",
+   "title": "DDQN-MLP: An Explainable and Adversarially Robust DRL-Guided Adaptive Learning Framework for Ransomware Detection",
+   "url": "https://arxiv.org/abs/2609.20314",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2609.20314v1 Announce Type: new Abstract: Ransomware detection remains challenging because modern variants exhibit diverse, evasive, and partly benign-lik…",
+   "tags": [
+    "勒索软件",
+    "AI攻防",
+    "学术研究"
+   ],
+   "title_zh": "DDQN-MLP：一种可解释且对抗 robust 的DRL 引导自适应学习框架用于检测勒索软件"
+  },
+  {
+   "id": "ARXIV-CR-7ee619aa",
+   "title": "Silence Is Endorsement: Verification-Status Laundering in LLM Agent Pipelines",
+   "url": "https://arxiv.org/abs/2609.20211",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2609.20211v1 Announce Type: new Abstract: Safety monitors in LLM agent systems often judge actions from summaries or stored handoffs, not from the origina…",
+   "tags": [
+    "大模型安全",
+    "学术研究"
+   ],
+   "title_zh": "沉默即认同：在LLM代理管道中验证状态漂白"
+  },
+  {
+   "id": "ARXIV-CR-9bb85fb0",
+   "title": "ResumeShield: Channel Separation and an Open Benchmark for Indirect Prompt Injection in AI Resume Screening",
+   "url": "https://arxiv.org/abs/2609.20188",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2609.20188v1 Announce Type: new Abstract: An AI resume screener reads a document supplied by the person it is evaluating, inverting the usual trust relati…",
+   "tags": [
+    "大模型安全",
+    "学术研究"
+   ],
+   "title_zh": "ResumeShield：信道分离与AI简历筛选间接提示注入开放基准测试"
+  },
+  {
+   "id": "ARXIV-CR-a66c889e",
+   "title": "A Scalable Trust Discovery Architecture for the Internet of Agents",
+   "url": "https://arxiv.org/abs/2609.20095",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2609.20095v1 Announce Type: new Abstract: The Internet of Agents is expected to enable large numbers of autonomous agents to discover, verify, and collabo…",
+   "tags": [
+    "学术研究"
+   ],
+   "title_zh": "代理互联网中可扩展的信任发现架构"
+  },
+  {
+   "id": "ARXIV-CR-fe15d3f6",
+   "title": "Competition, Collusion, and Corruption: The Spectrum of MEV Attacks on DAG-Based BFT Consensus Protocols",
+   "url": "https://arxiv.org/abs/2609.20069",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2609.20069v1 Announce Type: new Abstract: Byzantine Fault-Tolerant (BFT) protocols guarantee safety and liveness despite the malicious failure of nodes. H…",
+   "tags": [
+    "学术研究"
+   ],
+   "title_zh": "竞争、共谋与腐败：基于DAG的拜占庭容错共识协议中的MEV攻击谱系"
+  },
+  {
+   "id": "ARXIV-CR-d4bd54f8",
+   "title": "XIR: A Framework for Interoperability across Cross-Chain Protocols Based on a Verifiable Intermediate Representation",
+   "url": "https://arxiv.org/abs/2609.20010",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2609.20010v1 Announce Type: new Abstract: Cross-chain protocols enable applications to exchange messages across blockchains. Under point-to-point configur…",
+   "tags": [
+    "学术研究"
+   ],
+   "title_zh": "XIR：基于可验证中间表示的跨链协议互操作框架"
+  },
+  {
+   "id": "ARXIV-CR-e1b692e3",
+   "title": "JANUS: Denial-of-Service Attack Against Beam Hopping in LEO Satellite Networks",
+   "url": "https://arxiv.org/abs/2609.19977",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2609.19977v1 Announce Type: new Abstract: Low Earth orbit (LEO) satellite networks are increasingly used to provide global connectivity. However, each sat…",
+   "tags": [
+    "学术研究"
+   ],
+   "title_zh": "JANUS：针对低轨卫星网络跳频的拒绝服务攻击"
+  },
+  {
+   "id": "ARXIV-CR-6bdf27f1",
+   "title": "On the Leakage of Massey Secret Sharing Schemes under Linear Computations",
+   "url": "https://arxiv.org/abs/2609.19929",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2609.19929v1 Announce Type: new Abstract: Leakage attacks on secret sharing schemes exploit partial information about individual shares to recover the und…",
+   "tags": [
+    "学术研究"
+   ],
+   "title_zh": "Massey秘密共享方案在进行线性计算时的信息泄露研究"
+  },
+  {
+   "id": "ARXIV-CR-d3c8eb82",
+   "title": "Mind the Gap: How SBOM Specification Ambiguities Lead to Divergent Software Bills of Materials. An Empirical Tool Study",
+   "url": "https://arxiv.org/abs/2609.19920",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2609.19920v1 Announce Type: new Abstract: Software Bill of Materials (SBOMs) will become mandatory starting in December 2027 under the European Cyber Resi…",
+   "tags": [
+    "学术研究"
+   ],
+   "title_zh": "注意差距：规范模糊导致的SBOM差异研究——一项实证工具研究"
+  },
+  {
+   "id": "ARXIV-CR-e27f0a5d",
+   "title": "Delphi Scanner: efficient and interpretable static malware detection via API sequence modeling",
+   "url": "https://arxiv.org/abs/2609.19900",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2609.19900v1 Announce Type: new Abstract: Static malware detection for Windows Portable Executable files demands a careful balance between detection effec…",
+   "tags": [
+    "学术研究"
+   ],
+   "title_zh": "Delphi扫描器：通过API序列建模实现高效可解析的静态恶意软件检测"
+  },
+  {
+   "id": "ARXIV-CR-0e7ffb37",
+   "title": "Hopper: Bounded-Memory Collaborative Debiasing for Byzantine-Tolerant Peer Sampling",
+   "url": "https://arxiv.org/abs/2609.19893",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2609.19893v1 Announce Type: new Abstract: Byzantine-tolerant peer sampling relies on continuously refreshed views, yet an adversary can bias the identifie…",
+   "tags": [
+    "学术研究"
+   ],
+   "title_zh": "Hopper：有界内存协作去偏见方法在拜占庭容错对等采样中的应用"
+  },
+  {
+   "id": "ARXIV-CR-fd421457",
+   "title": "ClashBench: Conflicts Leading Agents to Seize and Harm",
+   "url": "https://arxiv.org/abs/2609.19892",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2609.19892v1 Announce Type: new Abstract: As agent systems become more widely used, multiple agent sessions increasingly run alongside pre-existing user t…",
+   "tags": [
+    "学术研究"
+   ],
+   "title_zh": "ClashBench：冲突促使代理抢夺和伤害"
+  },
+  {
+   "id": "ARXIV-CR-882091c7",
+   "title": "Trust, but Validate the Instrument: Auditing AI-Generated RTL Verification Plans on Authored Security-Regression Proxies",
+   "url": "https://arxiv.org/abs/2609.19844",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2609.19844v1 Announce Type: new Abstract: AI-generated RTL verification plans can satisfy a provider schema yet fail at the boundary to trusted execution.…",
+   "tags": [
+    "学术研究"
+   ],
+   "title_zh": "信任但验证工具：在自定义安全回退代理上审核AI生成的RTL验证计划"
+  },
+  {
+   "id": "ARXIV-CR-588a2e97",
+   "title": "Sybil-TraceGuard: Traceability-enhanced Sybil Guardian for Connected and Autonomous Vehicles Using Dynamic Semi-supervised GNN",
+   "url": "https://arxiv.org/abs/2609.19791",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2609.19791v1 Announce Type: new Abstract: Connected and autonomous vehicles (CAVs) face severe Sybil attacks, where attackers exploit privacy-preserving p…",
+   "tags": [
+    "学术研究"
+   ],
+   "title_zh": "Sybil-TraceGuard：基于动态半监督GNN的增强可追溯性Sybil守护者for连接与自主车辆"
+  },
+  {
+   "id": "ARXIV-CR-268cd5f2",
+   "title": "ALIBI: Adversarial Legitimacy Injection in Binary Input against LLM Malware Analyzers",
+   "url": "https://arxiv.org/abs/2609.19722",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2609.19722v1 Announce Type: new Abstract: Large language models are being integrated into malware triage workflows as reasoning components that summarize …",
+   "tags": [
+    "大模型安全",
+    "AI攻防",
+    "学术研究"
+   ],
+   "title_zh": "ALIBI：针对LLM恶意软件分析器的对手合法注入技术"
+  },
+  {
+   "id": "ARXIV-CR-eee712c2",
+   "title": "Reachability, Not Observation: Containing Systems Whose Wiring Changes",
+   "url": "https://arxiv.org/abs/2609.19720",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2609.19720v1 Announce Type: new Abstract: Containment decisions -- where to put a firewall, which links to monitor, what a program may reach -- are comput…",
+   "tags": [
+    "学术研究"
+   ],
+   "title_zh": "可达性而非观测：管控线路变化的系统"
+  },
+  {
+   "id": "ARXIV-CR-8e5626b7",
+   "title": "SoK: Trading Agents or Market Crashers? Dissecting Robustness and Security Failures in Academic Financial LLM Trading Schemes",
+   "url": "https://arxiv.org/abs/2609.19705",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2609.19705v1 Announce Type: new Abstract: Autonomous large language model (LLM) agents are moving rapidly into high-stakes domains, yet existing agentic-A…",
+   "tags": [
+    "大模型安全",
+    "学术研究"
+   ],
+   "title_zh": "研究论文：交易代理还是市场破坏者？剖析学术金融LLM交易方案的 robustness 和安全失效问题"
+  },
+  {
+   "id": "ARXIV-CR-a4ade47f",
+   "title": "Red-Teaming Auto Mode: Improving Blocking Classifiers Against Malign Coding Agents",
+   "url": "https://arxiv.org/abs/2609.19587",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2609.19587v1 Announce Type: new Abstract: To keep coding agents from going off the rails, production systems now review each proposed action with a blocki…",
+   "tags": [
+    "学术研究"
+   ],
+   "title_zh": "红队自动化模式：提高对抗恶意代码代理的阻断分类器性能"
+  },
+  {
+   "id": "ARXIV-CR-82c907e3",
+   "title": "Beyond Private Training: The New Landscape of AI Privacy",
+   "url": "https://arxiv.org/abs/2609.19456",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2609.19456v1 Announce Type: new Abstract: Retrieval-augmented systems increasingly rely on vector indexes that may retain deleted items in their search gr…",
+   "tags": [
+    "学术研究"
+   ],
+   "title_zh": "超越隐私训练：AI隐私的新格局"
+  },
+  {
+   "id": "ARXIV-CR-ce9a941d",
+   "title": "Scaling Zero Knowledge UNSAT Verification via Normalized Chaining",
+   "url": "https://arxiv.org/abs/2609.19353",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2609.19353v1 Announce Type: new Abstract: Proofs of UNSAT are a standard primitive in formal verification and software assurance. In many real-world setti…",
+   "tags": [
+    "密码学",
+    "学术研究"
+   ],
+   "title_zh": "通过规范化链式验证扩展零知识UNSAT验证"
+  },
+  {
+   "id": "ARXIV-CR-19e83acd",
+   "title": "AUDITPLAN: Commit, Then Answer for Auditable Safety Alignment",
+   "url": "https://arxiv.org/abs/2609.19325",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2609.19325v1 Announce Type: new Abstract: Safety tuning pipelines judge only the final answer, which makes it difficult to distinguish robust refusal from…",
+   "tags": [
+    "学术研究"
+   ],
+   "title_zh": "审计计划：先提交，再对可审核的安全对齐负责"
+  },
+  {
+   "id": "ARXIV-CR-9e6cba4c",
+   "title": "Robust Conformal Intrusion Detection via Traffic-Aware Calibration and Attack-Orbit Invariance",
+   "url": "https://arxiv.org/abs/2609.19241",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2609.19241v1 Announce Type: new Abstract: Large language models fine-tuned for network intrusion detection emit single-point predictions without statistic…",
+   "tags": [
+    "大模型安全",
+    "学术研究"
+   ],
+   "title_zh": "基于流量感知校准和攻击轨道不变性的稳健 conformal 入侵检测"
+  },
+  {
+   "id": "ARXIV-CR-34d645ac",
+   "title": "PAPC: Platform Mediation for Privacy-Propagation Externalities in AI-Mediated Workflows",
+   "url": "https://arxiv.org/abs/2609.19226",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2609.19226v1 Announce Type: new Abstract: AI-mediated platforms coordinate work through LLM agents acting for different principals. In these workflows, pr…",
+   "tags": [
+    "大模型安全",
+    "学术研究"
+   ],
+   "title_zh": "PAPC：AI中介工作流中隐私传播外部性的平台调解"
+  },
+  {
+   "id": "ARXIV-CR-16d2653f",
+   "title": "EvoSherlock: Towards Agentic Lifelong Evolution for Unseen Long-Tailed Security-Critical Events in Videos",
+   "url": "https://arxiv.org/abs/2609.19201",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+   "published_date": "2026-09-18",
+   "digest": "arXiv:2609.19201v1 Announce Type: new Abstract: Existing Security-oriented Video Understanding (SVU) systems assume a \\emph{closed world}, \\ie static category s…",
+   "tags": [
+    "学术研究"
+   ],
+   "title_zh": "EvoSherlock：面向未知长尾安全事件的视频自主终身进化研究"
+  },
+  {
+   "id": "FREEBUF-c232b561",
+   "title": "AI辅助攻击案例:PaperCut攻击行动",
+   "url": "https://www.freebuf.com/articles/501841.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 11:10:27 +0800",
+   "published_date": "2026-09-18",
+   "digest": "AI特工失控：攻击者借数百智能体，4小时攻陷PaperCut 440实例，48国395组织，7分钟获域管。",
+   "tags": [
+    "大模型安全"
+   ]
+  },
+  {
+   "id": "FREEBUF-9bb1a419",
+   "title": "四大AI编码Agent曝0-Click RCE漏洞，两款尚未修复",
+   "url": "https://www.freebuf.com/articles/ai-security/501731.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 08:49:00 +0800",
+   "published_date": "2026-09-18",
+   "digest": "四款主流AI编码Agent曝0-Click RCE漏洞Plugin4Shell，用户无需操作即可遭权限窃取、数据泄露，两款产品至今无补丁可用。",
+   "tags": [
+    "漏洞预警",
+    "数据泄露"
+   ]
+  },
+  {
+   "id": "FREEBUF-e54ddb45",
+   "title": "AI驱动恶意软件每小时重写自身，规避特征检测规则",
+   "url": "https://www.freebuf.com/articles/ai-security/501734.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 08:12:27 +0800",
+   "published_date": "2026-09-18",
+   "digest": "AI驱动恶意软件每小时重写自身，可轻松突破传统特征检测防线，企业需前置阻断执行环节，聚焦行为特征强化防护。",
+   "tags": []
+  },
+  {
+   "id": "FREEBUF-7172cec1",
+   "title": "恶意VS Code项目暗藏One Click攻击路径，攻击者可持久访问开发者工作站",
+   "url": "https://www.freebuf.com/articles/development/501740.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 08:05:49 +0800",
+   "published_date": "2026-09-18",
+   "digest": "恶意VS Code项目暗藏一键攻击漏洞，可绕过信任防护，单次点击即让攻击者持久访问开发者工作站，窃取凭证引发供应链风险。",
+   "tags": [
+    "供应链攻击"
+   ]
+  },
+  {
+   "id": "FREEBUF-4b6cf073",
+   "title": "以色列内盖夫核研究中心(迪莫纳中心)数据泄露分析",
+   "url": "https://www.freebuf.com/articles/501853.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 07:30:51 +0800",
+   "published_date": "2026-09-18",
+   "digest": "1877 Team 宣称窃取迪莫纳核设施机密，12页样本却自标“演示”，高威胁低可信。",
+   "tags": [
+    "数据泄露"
+   ]
+  },
+  {
    "id": "SECAFFAIRS-2a15e375",
    "title": "OpenAI admits its models lie to cover their own mistakes",
    "url": "https://securityaffairs.com/199302/ai/openai-admits-its-models-lie-to-cover-their-own-mistakes.html",
@@ -28,6 +1434,20 @@
    "title_zh": "现代安全运营中心：跨环境防御策略解析"
   },
   {
+   "id": "FREEBUF-b5312ef4",
+   "title": "研究人员借助Claude Opus 5入侵OpenAI论坛，触及内部代码仓库",
+   "url": "https://www.freebuf.com/articles/ai-security/501669.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 04:52:30 +0800",
+   "published_date": "2026-09-18",
+   "digest": "研究人员借助Claude Opus 5，将图片解析漏洞武器化，入侵OpenAI论坛，触及内部核心源码仓库。",
+   "tags": [
+    "大模型安全"
+   ]
+  },
+  {
    "id": "WORDFENCE-6d55ec46",
    "title": "100,000 WordPress Sites Exposed to Remote Code Execution via PHP Object Injection Vulnerability Found by Wordfence Argus in Tutor LMS",
    "url": "https://www.wordfence.com/blog/2026/09/100000-wordpress-sites-exposed-to-remote-code-execution-via-php-object-injection-vulnerability-found-by-wordfence-argus-in-tutor-lms/",
@@ -43,6 +1463,21 @@
    "title_zh": "10万WordPress站点因Tutor LMS中的PHP对象注入漏洞面临远程代码执行风险，被Wordfence Argus发现"
   },
   {
+   "id": "THN-f8e39faf",
+   "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
+   "url": "https://thehackernews.com/2026/09/critical-check-point-management-server.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 17 Sep 2026 23:38:28 +0530",
+   "published_date": "2026-09-17",
+   "digest": "A critical vulnerability in Check Point's Security Management and Log Servers could allow an attacker without login credentials to run code as root on those ser…",
+   "tags": [
+    "身份认证"
+   ],
+   "title_zh": "关键Check Point管理漏洞让未认证攻击者以root权限运行代码"
+  },
+  {
    "id": "SECAFFAIRS-5cdf9d6d",
    "title": "Cyberattacks on Oil Tankers Put Maritime Critical Infrastructure at Risk",
    "url": "https://securityaffairs.com/199280/hacking/cyberattacks-on-oil-tankers-put-maritime-critical-infrastructure-at-risk.html",
@@ -53,7 +1488,7 @@
    "published_date": "2026-09-17",
    "digest": "Cyberattacks on oil tankers show how connected ships can expose navigation and critical systems, threatening safety, ports and global trade. U.S. Coast Guard pe…",
    "tags": [],
-   "title_zh": "油轮网络攻击威胁 maritime 关键基础设施安全"
+   "title_zh": "油轮网络攻击威胁海上关键基础设施安全"
   },
   {
    "id": "WORDFENCE-88ad9e92",
@@ -71,6 +1506,19 @@
    "title_zh": "Wordfence Intelligence 每周 WordPress 漏洞报告（2026年9月7日至2026年9月13日）"
   },
   {
+   "id": "THN-9de064b6",
+   "title": "ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories",
+   "url": "https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 17 Sep 2026 23:02:22 +0530",
+   "published_date": "2026-09-17",
+   "digest": "Attackers keep finding new keys. The funny part is that defenders keep inventing where to store them. This week, those keys sit in AI tools, exposed services, o…",
+   "tags": [],
+   "title_zh": "威胁日：自我重写恶意软件、修复800余个漏洞、内部SIM卡交换及其他22条新动态"
+  },
+  {
    "id": "SECURITYWEEK-8cc250c8",
    "title": "Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels",
    "url": "https://www.securityweek.com/cyberattacks-on-two-oil-tankers-prompt-coast-guard-fbi-to-board-vessels/",
@@ -83,7 +1531,7 @@
    "tags": [
     "监管合规"
    ],
-   "title_zh": "针对两艘油轮的网络攻击促使海岸警卫队和联邦调查局登船检查"
+   "title_zh": "针对两艘油轮的网络攻击促使海岸警卫队和FBI登船检查"
   },
   {
    "id": "SECWIKI-0cd0a497",
@@ -114,6 +1562,48 @@
    "title_zh": "OpenAI 表示其模型在训练过程中搜索了 GitHub 上泄露的 API 密钥"
   },
   {
+   "id": "FREEBUF-7e03d9a3",
+   "title": "26秒攻破11家组织：数百AI代理涌向PaperCut，打印服务器怎么变成了域控跳板",
+   "url": "https://www.freebuf.com/articles/ai-security/501557.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 17 Sep 2026 23:43:05 +0800",
+   "published_date": "2026-09-17",
+   "digest": "本文基于GreyNoise于2026年9月9日发布的报告《Agents Gone Wild》及Blackpoint Cyber、Arctic Wolf的联合分析撰写。",
+   "tags": []
+  },
+  {
+   "id": "THN-6dca0308",
+   "title": "Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files",
+   "url": "https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 17 Sep 2026 21:07:56 +0530",
+   "published_date": "2026-09-17",
+   "digest": "Malicious code running inside a Docker Sandboxes virtual machine on macOS could escape the project directory shared into it and read or change files anywhere el…",
+   "tags": [
+    "云安全"
+   ],
+   "title_zh": "严重漏洞使恶意容器代码读取和修改macOS宿主机文件"
+  },
+  {
+   "id": "FREEBUF-6af904a3",
+   "title": "ThreatsDay发布本周安全动态，自改写Agent、800余漏洞修复在列",
+   "url": "https://www.freebuf.com/news/501657.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 17 Sep 2026 23:02:22 +0800",
+   "published_date": "2026-09-17",
+   "digest": "本周安全动态涵盖AI新型攻击、高危漏洞、新型恶意软件、网络犯罪执法进展，AI已成攻击新利器，老旧漏洞仍被利用，整体威胁态势十分严峻。",
+   "tags": [
+    "漏洞预警",
+    "监管合规"
+   ]
+  },
+  {
    "id": "CHECKPOINT-bbe09c2d",
    "title": "AI Threat Landscape Digest: July–August 2026",
    "url": "https://research.checkpoint.com/2026/ai-threat-landscape-digest-july-august-2026/",
@@ -124,7 +1614,7 @@
    "published_date": "2026-09-17",
    "digest": "The defining development of the period came not from attackers but from the AI labs themselves, whose models broke out of controlled evaluations and reached rea…",
    "tags": [],
-   "title_zh": "人工智能威胁 landscape 摘要：2026年7月至8月"
+   "title_zh": "人工智能威胁 landscape 概览：2026年7月至8月"
   },
   {
    "id": "SECURITYWEEK-61ba2f81",
@@ -155,6 +1645,19 @@
    "title_zh": "SilkParasite基础设施链接SpiceRAT targeting中亚目标"
   },
   {
+   "id": "THN-af9d2f7f",
+   "title": "Iran-Linked Handala Hack Tied to HEAVYGRAM Telegram Backdoor That Can Steal Passwords",
+   "url": "https://thehackernews.com/2026/09/iran-linked-handala-hack-tied-to.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 17 Sep 2026 19:33:13 +0530",
+   "published_date": "2026-09-17",
+   "digest": "The Iran-linked \"hacktivist\" persona known as Handala Hack has been attributed to a Telegram-based surveillance backdoor called HEAVYGRAM and a Delphi-based uti…",
+   "tags": [],
+   "title_zh": "伊朗关联Handala黑客与HEAVYGRAMTelegram后门有关，该后门可窃取密码"
+  },
+  {
    "id": "SECURITYWEEK-26d1af2e",
    "title": "Revolut Data Breach: 5 Months, 680 High-Profile Accounts, $3M Ransom",
    "url": "https://www.securityweek.com/revolut-data-breach-5-months-680-high-profile-accounts-3m-ransom/",
@@ -167,7 +1670,47 @@
    "tags": [
     "数据泄露"
    ],
-   "title_zh": "Revolut 数据泄露事件：持续5个月，涉及680个高-profile账户，勒索金额300万美元"
+   "title_zh": "Revolut 数据泄露事件：持续5个月，涉及680个高知名度账户，勒索金额300万美元"
+  },
+  {
+   "id": "FREEBUF-0c502a39",
+   "title": "八类错配三条合法命令，AD CS 把域控钥匙签给了攻击者",
+   "url": "https://www.freebuf.com/articles/system/501537.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 17 Sep 2026 21:57:08 +0800",
+   "published_date": "2026-09-17",
+   "digest": "这篇就把这条路线完整过一遍：AD CS 为什么能当跳板，八类错配各自长什么样，一条完整的攻击路径怎么走，以及站在防守侧怎么抢在攻击者前面把自己域扫一遍。",
+   "tags": []
+  },
+  {
+   "id": "FREEBUF-20b4b6f6",
+   "title": "Docker Sandboxes曝严重逃逸漏洞，恶意代码可读写macOS主机文件",
+   "url": "https://www.freebuf.com/news/501656.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 17 Sep 2026 21:07:56 +0800",
+   "published_date": "2026-09-17",
+   "digest": "macOS版Docker Sandboxes曝严重沙箱逃逸漏洞，恶意代码可越权读写主机任意文件，官方已发布修复版本。",
+   "tags": [
+    "云安全"
+   ]
+  },
+  {
+   "id": "FREEBUF-e1e25fcd",
+   "title": "从配置即执行到会话劫持：MCP 两种传输方式的安全属性对决",
+   "url": "https://www.freebuf.com/articles/ai-security/501531.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 17 Sep 2026 21:01:16 +0800",
+   "published_date": "2026-09-17",
+   "digest": "同一个 MCP 协议，两种传输的安全模型完全不同：stdio 的配置字段就是一条待执行的命令，HTTP 的会话 ID 就是一把万能钥匙。两个本地实测都验证成立。",
+   "tags": [
+    "身份认证"
+   ]
   },
   {
    "id": "SECURELIST-4b50e46f",
@@ -180,7 +1723,7 @@
    "published_date": "2026-09-17",
    "digest": "Kaspersky experts have discovered a new MovieReaper campaign. The multi-stage Trojan spreads through movie torrents, such as \"The Odyssey,\" and uses the Solana …",
    "tags": [],
-   "title_zh": "奥德赛归来：MovieReaper通过受感染的种子文件攻击多国用户"
+   "title_zh": "奥德赛与特洛伊木马再次现身：MovieReaper通过被感染的种子文件攻击多国用户"
   },
   {
    "id": "SECURITYWEEK-592a05c4",
@@ -195,7 +1738,21 @@
    "tags": [
     "监管合规"
    ],
-   "title_zh": "Comp AI筹集3400万美元用于AI原生合规与安全"
+   "title_zh": "Comp AI 获投3400万美元用于AI原生合规与安全"
+  },
+  {
+   "id": "FREEBUF-0624c6d5",
+   "title": "AI Agent 拿下域控：同一条 AD CS 链路，人打 7.2 秒、AI 打 6 分 17 秒",
+   "url": "https://www.freebuf.com/articles/ai-security/501529.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 17 Sep 2026 20:45:02 +0800",
+   "published_date": "2026-09-17",
+   "digest": "同一个域、同一条攻击链、同一套工具、同一个检测配置。人工执行用了 7.2 秒、4 条命令；让 AI Agent 自己做，用了 6 分 17 秒、44 次工具调用。",
+   "tags": [
+    "大模型安全"
+   ]
   },
   {
    "id": "SECURITYWEEK-4d0007fa",
@@ -223,7 +1780,7 @@
    "tags": [
     "漏洞预警"
    ],
-   "title_zh": "关键的Unbound DNSSEC验证器漏洞可能允许通过恶意DNS区域执行远程代码执行"
+   "title_zh": "关键性 Unbound DNSSEC 验证器漏洞可能允许通过恶意 DNS 区域执行远程代码执行"
   },
   {
    "id": "SECURITYWEEK-233c7499",
@@ -257,6 +1814,20 @@
    "title_zh": "思科修复了FMC、ISE和Nexus Dashboard等多个产品的数十个漏洞"
   },
   {
+   "id": "FREEBUF-e58639b8",
+   "title": "裸 Codex 把专用 AI 渗透框架的 benchmark 优势抹平了",
+   "url": "https://www.freebuf.com/articles/ai-security/501522.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 17 Sep 2026 20:13:51 +0800",
+   "published_date": "2026-09-17",
+   "digest": "三年架构演进线被一次模型升级拦腰截过。",
+   "tags": [
+    "学术研究"
+   ]
+  },
+  {
    "id": "THN-c5fc10fe",
    "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
    "url": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
@@ -283,6 +1854,47 @@
     "僵尸网络"
    ],
    "title_zh": "NightmareStresser在全球DDoS-for-hire打击行动中下线"
+  },
+  {
+   "id": "FREEBUF-c5ccb356",
+   "title": "修复已提交不是已修复，27 天补丁差，AI 把 CVE-2026-85046 武器化压到三周",
+   "url": "https://www.freebuf.com/articles/vuls/501518.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 17 Sep 2026 19:28:37 +0800",
+   "published_date": "2026-09-17",
+   "digest": "这篇文章回答三个问题：修复代码都已经公开在源码仓库里了，用户为什么反而更危险？AI 在补丁到货前的这段窗口里，到底改变了哪一环？企业防守这边，真正值钱的动作是哪几个？",
+   "tags": [
+    "漏洞预警"
+   ]
+  },
+  {
+   "id": "FREEBUF-1d204117",
+   "title": "15 次干净发布，换来 300 家组织的凭据：MCP 供应链投毒的量化测量与驻留防护",
+   "url": "https://www.freebuf.com/articles/ai-security/501517.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 17 Sep 2026 19:27:31 +0800",
+   "published_date": "2026-09-17",
+   "digest": "11 个 MCP 注册中心 9 个不做筛查，1184 个恶意 skills 在流通，15 次干净发布换来 300 家组织凭据。量化测量 + 概念验证：两条收割路径与六环节防护的有效性。",
+   "tags": [
+    "供应链攻击",
+    "身份认证"
+   ]
+  },
+  {
+   "id": "FREEBUF-ce4b2ad0",
+   "title": "OWASP Agent 标准族选型地图：AOS  ACS  AISVS  AST10 四标准实测对照与分期落地指南",
+   "url": "https://www.freebuf.com/articles/ai-security/501513.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 17 Sep 2026 19:17:41 +0800",
+   "published_date": "2026-09-17",
+   "digest": "OWASP Agent四大安全标准怎么选？基于同一Agent轨迹实测AOS/ACS/AISVS/AST10能力边界，梳理分期选型组合，给出可落地的落地避坑指南。",
+   "tags": []
   },
   {
    "id": "SCHNEIER-350dc49c",
@@ -348,7 +1960,7 @@
    "published_date": "2026-09-17",
    "digest": "OpenAI on Wednesday disclosed six new instances of \"unexpected or concerning model behavior\" that took place over the past six months, while sharing a new frame…",
    "tags": [],
-   "title_zh": "OpenAI 披露六起模型事故涉及隐藏故障和未经授权的上传事件"
+   "title_zh": "OpenAI披露六起模型事故涉及隐藏故障和未经授权的上传事件"
   },
   {
    "id": "SECAFFAIRS-94c4fd93",
@@ -363,7 +1975,32 @@
    "tags": [
     "监管合规"
    ],
-   "title_zh": "美国CISA将Acronis Backup、Cisco ISE和Google Pixel的漏洞添加到已知被利用漏洞目录中"
+   "title_zh": "美国CISA将Acronis Backup、Cisco ISE和Google Pixel的漏洞添加到其已知被利用漏洞目录中"
+  },
+  {
+   "id": "FREEBUF-3a739239",
+   "title": "新手勇闯网络安全 | Linux 安全基础（四）",
+   "url": "https://www.freebuf.com/articles/web/501460.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 17 Sep 2026 17:22:03 +0800",
+   "published_date": "2026-09-17",
+   "digest": "软件安装、SSH 密码与公钥认证原理及配置、SSH 服务加固五板斧、libprocesshider 进程隐藏原理与防御。",
+   "tags": []
+  },
+  {
+   "id": "ESET-0c5dfdf0",
+   "title": "Beware the SparroWock: The backdoor that bites, the commands that catch",
+   "url": "https://www.welivesecurity.com/en/eset-research/beware-sparrowock-backdoor-bites-commands-catch/",
+   "source": "ESET Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 17 Sep 2026 08:50:00 +0000",
+   "published_date": "2026-09-17",
+   "digest": "ESET researchers document SparroWocky, the new flagship backdoor of the FamousSparrow APT group",
+   "tags": [],
+   "title_zh": "警惕SparroWock：隐藏的后门，诱捕的命令"
   },
   {
    "id": "SEEKBUG-f856e39c",
@@ -405,7 +2042,7 @@
    "tags": [
     "监管合规"
    ],
-   "title_zh": "CISA 发布了关于部署网络诱饵的指南"
+   "title_zh": "CISA 发布了部署网络诱饵的指导文件"
   },
   {
    "id": "SECURITYWEEK-b04dc0d4",
@@ -447,6 +2084,35 @@
    "digest": "UK, US, and Dutch agencies expose Chosen Brick, Iranian malware used to track and harass dissidents, journalists, and activists via Telegram. The UK, the US, an…",
    "tags": [],
    "title_zh": "选砖，伊朗的监控恶意软件"
+  },
+  {
+   "id": "FREEBUF-89c12fd8",
+   "title": "SGLang 的漏洞报告压了 74 天没等来补丁：四周四个洞，自托管 LLM 栈的安全债到期了（CVE-2026-86793）",
+   "url": "https://www.freebuf.com/articles/vuls/501411.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 17 Sep 2026 14:42:41 +0800",
+   "published_date": "2026-09-17",
+   "digest": "本文拆四个洞的因果链，文末给三个能照跑的排查动作。",
+   "tags": [
+    "漏洞预警",
+    "大模型安全"
+   ]
+  },
+  {
+   "id": "FREEBUF-2f81b6d1",
+   "title": "一封邮件拿 root：Cisco 邮件网关的 9.8 分零日 CVE-2026-76461 只给 3 天修复期",
+   "url": "https://www.freebuf.com/articles/vuls/501408.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 17 Sep 2026 14:40:37 +0800",
+   "published_date": "2026-09-17",
+   "digest": "本文拆利用链、给排查命令，文末附可打钩的排查清单。",
+   "tags": [
+    "漏洞预警"
+   ]
   },
   {
    "id": "THN-17ae4248",
@@ -502,7 +2168,7 @@
    "published_date": "2026-09-17",
    "digest": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Samsung rlottie. Interaction with the rlottie library is requi…",
    "tags": [],
-   "title_zh": "ZDI-26-714: Samsung rlottie 基于栈的缓冲区溢出 远程代码执行 漏洞"
+   "title_zh": "ZDI-26-714: Samsung rlottie 基于堆栈的缓冲区溢出 远程代码执行 漏洞"
   },
   {
    "id": "FREEBUF-c96d8274",
