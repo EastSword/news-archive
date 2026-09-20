@@ -2,6 +2,221 @@
  "month": "2026-09",
  "items": [
   {
+   "id": "SECAFFAIRS-5b227499",
+   "title": "Security Affairs newsletter Round 595 by Pierluigi Paganini – INTERNATIONAL EDITION",
+   "url": "https://securityaffairs.com/199400/security/security-affairs-newsletter-round-595-by-pierluigi-paganini-international-edition.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 20 Sep 2026 00:08:59 +0000",
+   "published_date": "2026-09-20",
+   "digest": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjo…",
+   "tags": [],
+   "title_zh": "安全事务第595期简报由皮耶卢吉·帕加尼尼发布 - 国际版"
+  },
+  {
+   "id": "SECWIKI-6fb7f158",
+   "title": "SecWiki News 2026-09-19 Review",
+   "url": "http://www.sec-wiki.com/?2026-09-19",
+   "source": "SecWiki",
+   "category": "网络安全",
+   "priority": "P2",
+   "published_at": "\nSat, 19 Sep 2026 23:58:20 +0800",
+   "published_date": "2026-09-19",
+   "digest": "今日暂未更新资讯~ 更多最新文章，请访问 SecWiki",
+   "tags": [],
+   "title_zh": "SecWiki 新闻 2026-09-19 概览"
+  },
+  {
+   "id": "SECURITYWEEK-9d78f154",
+   "title": "TigerByte Cyber Emerges From Stealth With $3 Million in Funding",
+   "url": "https://www.securityweek.com/tigerbyte-cyber-emerges-from-stealth-with-3-million-in-funding/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 19 Sep 2026 14:30:00 +0000",
+   "published_date": "2026-09-19",
+   "digest": "The company has secured over $7 million in contracts with US government agencies, including the US Space Force, the US Navy, and DARPA. The post TigerByte Cyber…",
+   "tags": [],
+   "title_zh": "TigerByte网络安全公司低调推出，获300万美元融资"
+  },
+  {
+   "id": "SECAFFAIRS-92a26992",
+   "title": "Google Gemini also Broke Out of Its Test Environment",
+   "url": "https://securityaffairs.com/199392/ai/google-gemini-also-broke-out-of-its-test-environment.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 19 Sep 2026 14:09:34 +0000",
+   "published_date": "2026-09-19",
+   "digest": "Google Gemini escaped a cyber test environment, reached three real companies, and exposed why AI security tests need strict isolation. Google has confirmed that…",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "Google Gemini 也逃出了测试环境"
+  },
+  {
+   "id": "THN-e581b749",
+   "title": "Identity Visibility in 2026: The Foundation of Identity Security",
+   "url": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 19 Sep 2026 18:58:41 +0530",
+   "published_date": "2026-09-19",
+   "digest": "Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial acce…",
+   "tags": [
+    "身份认证"
+   ],
+   "title_zh": "2026年的身份可见性：身份安全的基础"
+  },
+  {
+   "id": "SECAFFAIRS-fd5406e3",
+   "title": "AI Helps Hackers Hijack OpenAI Staff Accounts Through a Forum",
+   "url": "https://securityaffairs.com/199378/ai/ai-helps-hackers-hijack-openai-staff-accounts-through-a-forum.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 19 Sep 2026 13:01:08 +0000",
+   "published_date": "2026-09-19",
+   "digest": "AI helped researchers exploit a Discourse flaw in under 72 hours, hijacking OpenAI staff accounts and exposing the risks of shared SSO. Three researchers at Hac…",
+   "tags": [
+    "身份认证"
+   ],
+   "title_zh": "AI辅助黑客通过论坛劫持OpenAI员工账号"
+  },
+  {
+   "id": "THN-4a256e8b",
+   "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
+   "url": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 19 Sep 2026 15:31:10 +0530",
+   "published_date": "2026-09-19",
+   "digest": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI…",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "Claude Opus 5 帮助研究人员通过连锁漏洞接管 OpenAI 员工账号"
+  },
+  {
+   "id": "THN-afe49286",
+   "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
+   "url": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 19 Sep 2026 15:01:17 +0530",
+   "published_date": "2026-09-19",
+   "digest": "SolarWinds has released security updates to address a high-severity flaw in Access Rights Manager (ARM) that, if successfully exploited, could lead to an unauth…",
+   "tags": [
+    "漏洞预警"
+   ],
+   "title_zh": "SolarWinds 修复 ARM 固化密钥漏洞 允许未认证远程代码执行"
+  },
+  {
+   "id": "TOPSEC-23c2911a",
+   "title": "Topsec Ireland Growth Summit 2027",
+   "url": "https://www.topsec.com/topsec-ireland-growth-summit-2027/",
+   "source": "天融信",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 19 Sep 2026 09:18:38 +0000",
+   "published_date": "2026-09-19",
+   "digest": "Discover why SLAs are the starting point in email security. Learn how proactive support, rapid response and real human service define true protection. The post …",
+   "tags": [],
+   "title_zh": "Tops安全爱尔兰增长峰会2027"
+  },
+  {
+   "id": "THN-56b4e7fd",
+   "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
+   "url": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 19 Sep 2026 13:48:54 +0530",
+   "published_date": "2026-09-19",
+   "digest": "A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet. The vulnerability in question is CVE-2026-581…",
+   "tags": [
+    "漏洞预警"
+   ],
+   "title_zh": "关键未授权RCE漏洞在野利用影响Orkes Conductor Workflow平台"
+  },
+  {
+   "id": "THN-fa6abc4d",
+   "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
+   "url": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 19 Sep 2026 13:21:34 +0530",
+   "published_date": "2026-09-19",
+   "digest": "Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity eva…",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "Google Gemini 在安全测试域名混用后入侵了真实公司系统"
+  },
+  {
+   "id": "FREEBUF-c6f6d2ba",
+   "title": "研究员借助Claude Opus 5串联漏洞，接管OpenAI员工账号",
+   "url": "https://www.freebuf.com/news/501978.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 19 Sep 2026 15:31:10 +0800",
+   "published_date": "2026-09-19",
+   "digest": "研究员借助Claude Opus 5，72小时内串联漏洞接管OpenAI员工账号、访问内部代码库，漏洞已修复，OpenAI已发放漏洞赏金。",
+   "tags": [
+    "大模型安全"
+   ]
+  },
+  {
+   "id": "THN-0a43adaf",
+   "title": "CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories",
+   "url": "https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 19 Sep 2026 12:44:54 +0530",
+   "published_date": "2026-09-19",
+   "digest": "An attacker copied about 170 of CrowdSec's private GitHub repositories on May 22 using the account of an employee who had just left, CrowdSec said on September …",
+   "tags": [
+    "供应链攻击"
+   ],
+   "title_zh": "CrowdSec 称 TanStack npm 攻击导致复制了 170 个私有 GitHub 仓库"
+  },
+  {
+   "id": "THN-052d204b",
+   "title": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild",
+   "url": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 19 Sep 2026 11:54:10 +0530",
+   "published_date": "2026-09-19",
+   "digest": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added three security flaws impacting the Linux kernel to its Known Exploited Vulnerab…",
+   "tags": [
+    "监管合规"
+   ],
+   "title_zh": "CISA标记三个Linux内核漏洞已被野蛮利用"
+  },
+  {
+   "id": "FREEBUF-013fb407",
+   "title": "Gemini在安全测试中入侵3家真实企业，配置失误致沙箱失效",
+   "url": "https://www.freebuf.com/articles/ai-security/501967.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 19 Sep 2026 08:59:08 +0800",
+   "published_date": "2026-09-19",
+   "digest": "Google Gemini在安全测试中因配置失误致沙箱失效，越界入侵3家真实企业，提示词绝非安全边界，AI测试需落实分层管控。",
+   "tags": [
+    "大模型安全"
+   ]
+  },
+  {
    "id": "SECAFFAIRS-562a03b5",
    "title": "Brevo Supply-Chain Attack Infected Over 100,000 Websites",
    "url": "https://securityaffairs.com/199355/hacking/brevo-supply-chain-attack-infected-over-100000-websites.html",
@@ -26,6 +241,20 @@
    "digest": "Short essay about squid egg sacs. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderat…",
    "tags": [],
    "title_zh": "周五鱿鱼日志：关于鱿鱼卵囊"
+  },
+  {
+   "id": "FREEBUF-3a36fa45",
+   "title": "BragJack攻击可让恶意扩展劫持AI Agent，波及5款主流浏览器",
+   "url": "https://www.freebuf.com/articles/ai-security/501930.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 19 Sep 2026 03:05:12 +0800",
+   "published_date": "2026-09-19",
+   "digest": "新型BragJack攻击可借恶意扩展劫持5款主流浏览器内置AI Agent，模型防护失效，可窃密越权，相关漏洞已部分修复，需及时升级防护。",
+   "tags": [
+    "大模型安全"
+   ]
   },
   {
    "id": "WORDFENCE-f0ccfd72",
@@ -83,7 +312,7 @@
    "tags": [
     "Web安全"
    ],
-   "title_zh": "新WordPress Click2Shell 漏洞强制安装主题，可链接到代码执行"
+   "title_zh": "新WordPress Click2Shell 漏洞强制安装主题，可链式执行代码"
   },
   {
    "id": "SECWIKI-46767de2",
@@ -99,7 +328,7 @@
     "供应链攻击",
     "大模型安全"
    ],
-   "title_zh": "SecWiki新闻2026-09-18回顾"
+   "title_zh": "SecWiki 新闻 2026-09-18 审查"
   },
   {
    "id": "FREEBUF-c3f6b90c",
@@ -185,7 +414,7 @@
    "tags": [
     "云安全"
    ],
-   "title_zh": "微软修复CVSS 10.0 分数的Azure AI Foundry 安全漏洞，该漏洞可导致未授权权限提升"
+   "title_zh": "微软修复CVSS 10.0 分数的Azure AI Foundry 安全漏洞，该漏洞可导致未经授权的权限提升"
   },
   {
    "id": "SECURITYWEEK-3dc86614",
@@ -211,6 +440,21 @@
    "published_date": "2026-09-18",
    "digest": "各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！",
    "tags": []
+  },
+  {
+   "id": "FREEBUF-aa984b2c",
+   "title": "FreeBuf早报 | BlackHatSect0r利用DeepSeek驱动AI Agent自动化攻击；Docker Sandboxes曝严重逃逸漏洞",
+   "url": "https://www.freebuf.com/news/501781.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 20:35:24 +0800",
+   "published_date": "2026-09-18",
+   "digest": "BlackHatSect0r解除AI安全限制，用DeepSeek驱动Agent仅凭常见配置漏洞窃得1.6万余凭证，自动化攻击放大配置缺陷危害。",
+   "tags": [
+    "大模型安全",
+    "云安全"
+   ]
   },
   {
    "id": "SECURITYWEEK-a232d1f3",
@@ -253,7 +497,7 @@
    "published_date": "2026-09-18",
    "digest": "In July 2025, someone registered a domain that used to belong to a content delivery network. The CDN had been wound down years earlier, and the domain it served…",
    "tags": [],
-   "title_zh": "弃用的CDN域名被重新注册。数千网站仍使用它。"
+   "title_zh": "弃用的CDN域名被重新注册。数千网站仍在使用。"
   },
   {
    "id": "THN-c51a41e0",
@@ -266,7 +510,7 @@
    "published_date": "2026-09-18",
    "digest": "A flaw in four widely used AI coding agents lets someone who controls a plugin's code repository swap the plugin an agent installs for a malicious one, even whe…",
    "tags": [],
-   "title_zh": "Plugin4Shell 让仓库所有者在四个 AI 代码生成器之间交换锁定的插件代码"
+   "title_zh": "Plugin4Shell 让仓库所有者在四个AI编码代理间交换锁定的插件代码"
   },
   {
    "id": "TRAILOFBITS-3b1b335a",
@@ -309,7 +553,7 @@
    "tags": [
     "供应链攻击"
    ],
-   "title_zh": "WeaselBiscuit 盗贼通过13个npm包传播以收割Chrome扩展存储内容"
+   "title_zh": "WeaselBiscuit 偷窥者通过13个npm包传播以窃取Chrome扩展存储数据"
   },
   {
    "id": "SECURITYWEEK-17f7861e",
@@ -340,7 +584,7 @@
     "移动安全",
     "身份认证"
    ],
-   "title_zh": "RatHat 将Android无障碍功能转变为攻击工具"
+   "title_zh": "RatHat 将AndroidAccessibility转换为攻击武器"
   },
   {
    "id": "UNIT42-396d395e",
@@ -357,7 +601,7 @@
     "云安全",
     "身份认证"
    ],
-   "title_zh": "一个堆视图的保险库：AgentCore Harness与身份之间的不舒适空间"
+   "title_zh": "一个堆视图的保险库：AgentCoreHarness与身份之间的不舒适空间"
   },
   {
    "id": "SECURITYWEEK-d32e6ec8",
@@ -401,7 +645,20 @@
    "published_date": "2026-09-18",
    "digest": "Discover why SLAs are the starting point in email security. Learn how proactive support, rapid response and real human service define true protection. The post …",
    "tags": [],
-   "title_zh": "Topsec加入Millennium Micro社区出席Congress 2026"
+   "title_zh": "topsec加入 millennium micro 社区出席 congress 2026"
+  },
+  {
+   "id": "ESET-6ec334cf",
+   "title": "‘Nudify’ apps: What to do if someone makes a fake nude of you",
+   "url": "https://www.welivesecurity.com/en/privacy/nudify-apps-fake-nude-you/",
+   "source": "ESET Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 09:00:00 +0000",
+   "published_date": "2026-09-18",
+   "digest": "Whether you’re a victim, the parent of a victim, or just concerned, here’s what you can do about fake nude images",
+   "tags": [],
+   "title_zh": "Nudify”应用：如果有人制作了你的 Nude 图像怎么办"
   },
   {
    "id": "SECURITYWEEK-7b572c22",
@@ -417,6 +674,18 @@
     "漏洞预警"
    ],
    "title_zh": "关键性 Orkes Conductor 漏洞被利用进行攻击"
+  },
+  {
+   "id": "FREEBUF-d6fcc3f3",
+   "title": "ZCode 静默上传全量 Git 历史",
+   "url": "https://www.freebuf.com/articles/501972.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 18 Sep 2026 16:10:35 +0800",
+   "published_date": "2026-09-18",
+   "digest": "ZCode 被曝骚操作：登录即静默上传全量 Git 历史，云端独占私钥，UI 无开关，删包只是打地鼠。",
+   "tags": []
   },
   {
    "id": "SECAFFAIRS-ab6894db",
@@ -444,7 +713,7 @@
    "published_date": "2026-09-18",
    "digest": "The company will use the funding to accelerate platform development and expand its presence in key enterprise markets. The post MIND Secures $72 Million for AI-…",
    "tags": [],
-   "title_zh": "MIND获得7200万美元用于AI驱动的数据泄露防护"
+   "title_zh": "MIND获7200万美元融资用于AI驱动的数据泄露防护"
   },
   {
    "id": "SECURITYWEEK-d6bfffbf",
@@ -515,7 +784,7 @@
    "tags": [
     "身份认证"
    ],
-   "title_zh": "Cisco ISE AlarmMessageDiskQueue术序列化远程代码执行漏洞(ZDI-26-717)"
+   "title_zh": "ZDI-26-717: Cisco Identity Services Engine AlarmMessageDiskQueue 未认证数据序列化远程代码执行漏洞"
   },
   {
    "id": "ZDI-PUBLISHED-d474ba33",
@@ -561,7 +830,7 @@
    "tags": [
     "学术研究"
    ],
-   "title_zh": "近最优机器遗忘实用工具：平滑强凸损失函数 scenarios"
+   "title_zh": "近最优机器遗忘实用工具：平滑强凸损失函数情况"
   },
   {
    "id": "ARXIV-CR-fe80cd88",
@@ -577,7 +846,7 @@
     "大模型安全",
     "学术研究"
    ],
-   "title_zh": "MAS-Shield：安全高效的LLM MAS防御框架"
+   "title_zh": "MAS-Shield：安全高效大语言模型MAS的防御框架"
   },
   {
    "id": "ARXIV-CR-8e176a87",
@@ -593,7 +862,7 @@
     "大模型安全",
     "学术研究"
    ],
-   "title_zh": "水印扩散语言模型"
+   "title_zh": "水印标记扩散语言模型"
   },
   {
    "id": "ARXIV-CR-64c1d6d3",
@@ -608,7 +877,7 @@
    "tags": [
     "学术研究"
    ],
-   "title_zh": "高效量子投票方案，信息论安全性"
+   "title_zh": "高效量子投票方案与信息论安全性"
   },
   {
    "id": "ARXIV-CR-653bd593",
@@ -655,7 +924,7 @@
    "tags": [
     "学术研究"
    ],
-   "title_zh": "合成表格数据的重建攻击研究（NIST CRC竞赛获胜见解）"
+   "title_zh": "SoK：合成表格数据的重建攻击（从赢得NIST CRC竞赛中获得的见解）"
   },
   {
    "id": "ARXIV-CR-8cc2eb5d",
@@ -670,7 +939,7 @@
    "tags": [
     "学术研究"
    ],
-   "title_zh": "对比隐私：一种基于语义的隐私度量方法"
+   "title_zh": "对比隐私：一种基于语义测量AI基-sanitization隐私的方法"
   },
   {
    "id": "ARXIV-CR-9d963c7d",
@@ -703,7 +972,7 @@
     "大模型安全",
     "学术研究"
    ],
-   "title_zh": "KUDA：通过偏离表示知识遗忘的大语言模型"
+   "title_zh": "KUDA：通过偏离表示学习大规模语言模型的知识遗忘"
   },
   {
    "id": "ARXIV-CR-4b793f45",
@@ -719,7 +988,7 @@
     "安全运营",
     "学术研究"
    ],
-   "title_zh": "使用小型语言模型进行高效威胁狩猎"
+   "title_zh": "使用小型语言模型进行高效威胁 hunting"
   },
   {
    "id": "ARXIV-CR-79865f2e",
@@ -795,7 +1064,7 @@
    "tags": [
     "学术研究"
    ],
-   "title_zh": "紧凑型视觉模型在呈现攻击仪器变化和环境退化条件下的虹膜欺骗检测"
+   "title_zh": "紧凑型视觉模型在呈现攻击仪器变化和环境退化下的虹膜欺骗检测"
   },
   {
    "id": "ARXIV-CR-7bdbfda1",
@@ -825,7 +1094,7 @@
    "tags": [
     "学术研究"
    ],
-   "title_zh": "网络出走：在线网络安全社区中的职业倦怠症状、离职意向及同行响应"
+   "title_zh": "网络出走：在线网络安全社区中的职业倦怠症状、离职意向及同伴反应"
   },
   {
    "id": "ARXIV-CR-8d38374c",
@@ -841,7 +1110,7 @@
     "大模型安全",
     "学术研究"
    ],
-   "title_zh": "超越界面的安全：通过大型语言模型的潜在状态检测危害"
+   "title_zh": "超越界面的安全：通过大型语言模型潜态检测危害"
   },
   {
    "id": "ARXIV-CR-049770c3",
@@ -857,7 +1126,7 @@
     "大模型安全",
     "学术研究"
    ],
-   "title_zh": "针对LLM代理工具幻觉的闭世界解决方案"
+   "title_zh": "针对LLM代理工具幻觉的闭世界解决方法"
   },
   {
    "id": "ARXIV-CR-da4d45c8",
@@ -873,7 +1142,7 @@
     "大模型安全",
     "学术研究"
    ],
-   "title_zh": "MAGS：多代理自动形式化保证代理输出的安全性"
+   "title_zh": "MAGS：多代理自动正规化保证代理输出安全"
   },
   {
    "id": "ARXIV-CR-0d992b12",
@@ -918,7 +1187,7 @@
    "tags": [
     "学术研究"
    ],
-   "title_zh": "差分隐私机制中随机性质量的实证分析"
+   "title_zh": "差分隐私机制中随机性质量的经验分析"
   },
   {
    "id": "ARXIV-CR-95636a5f",
@@ -966,7 +1235,7 @@
     "大模型安全",
     "学术研究"
    ],
-   "title_zh": "说得越多，支付得越多：对LLM服务提供商侧Token通胀的黑盒审计"
+   "title_zh": "说得越多，你付得越多：对LLM服务提供商侧代币通胀的黑盒审计"
   },
   {
    "id": "ARXIV-CR-f78b8bc1",
@@ -1015,7 +1284,7 @@
     "大模型安全",
     "学术研究"
    ],
-   "title_zh": "ResumeShield：信道分离与AI简历筛选间接提示注入开放基准测试"
+   "title_zh": "ResumeShield：通道分离与AI简历筛选间接提示注入公开基准测试"
   },
   {
    "id": "ARXIV-CR-a66c889e",
@@ -1165,7 +1434,7 @@
    "tags": [
     "学术研究"
    ],
-   "title_zh": "信任但验证工具：在自定义安全回退代理上审核AI生成的RTL验证计划"
+   "title_zh": "信任但验证工具：基于手写安全回退代理审计AI生成的RTL验证计划"
   },
   {
    "id": "ARXIV-CR-588a2e97",
@@ -1180,7 +1449,7 @@
    "tags": [
     "学术研究"
    ],
-   "title_zh": "Sybil-TraceGuard：基于动态半监督GNN的增强可追溯性Sybil守护者for连接与自主车辆"
+   "title_zh": "Sybil-TraceGuard：基于动态半监督GNN的增强可追溯性Sybil防护方案用于连接与自主车辆"
   },
   {
    "id": "ARXIV-CR-268cd5f2",
@@ -1197,7 +1466,7 @@
     "AI攻防",
     "学术研究"
    ],
-   "title_zh": "ALIBI：针对LLM恶意软件分析器的对手合法注入技术"
+   "title_zh": "ALIBI：针对LLM恶意软件分析器的二进制输入对抗合法化注入"
   },
   {
    "id": "ARXIV-CR-eee712c2",
@@ -1212,7 +1481,7 @@
    "tags": [
     "学术研究"
    ],
-   "title_zh": "可达性而非观测：管控线路变化的系统"
+   "title_zh": "可达性而非观测：控制电路变化的系统"
   },
   {
    "id": "ARXIV-CR-8e5626b7",
@@ -1228,7 +1497,7 @@
     "大模型安全",
     "学术研究"
    ],
-   "title_zh": "研究论文：交易代理还是市场破坏者？剖析学术金融LLM交易方案的 robustness 和安全失效问题"
+   "title_zh": "研究论文：交易代理还是市场破坏者？剖析学术金融LLM交易方案的稳健性和安全失效问题"
   },
   {
    "id": "ARXIV-CR-a4ade47f",
@@ -1243,7 +1512,7 @@
    "tags": [
     "学术研究"
    ],
-   "title_zh": "红队自动化模式：提高对抗恶意代码代理的阻断分类器性能"
+   "title_zh": "红队自动化模式：提升对抗恶意软件分类器性能"
   },
   {
    "id": "ARXIV-CR-82c907e3",
@@ -1305,7 +1574,7 @@
     "大模型安全",
     "学术研究"
    ],
-   "title_zh": "基于流量感知校准和攻击轨道不变性的稳健 conformal 入侵检测"
+   "title_zh": "基于流量感知校准和攻击轨道不变性的 robust 合成型入侵检测"
   },
   {
    "id": "ARXIV-CR-34d645ac",
@@ -1336,7 +1605,7 @@
    "tags": [
     "学术研究"
    ],
-   "title_zh": "EvoSherlock：面向未知长尾安全事件的视频自主终身进化研究"
+   "title_zh": "EvoSherlock：面向未见长期尾部安全事件的自主终身进化视频安全方法"
   },
   {
    "id": "FREEBUF-c232b561",
