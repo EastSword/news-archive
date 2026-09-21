@@ -2,6 +2,129 @@
  "month": "2026-09",
  "items": [
   {
+   "id": "SECAFFAIRS-8b574c2c",
+   "title": "U.S. CISA adds Linux Kernel flaws to its Known Exploited Vulnerabilities catalog",
+   "url": "https://securityaffairs.com/199430/security/u-s-cisa-adds-linux-kernel-flaws-to-its-known-exploited-vulnerabilities-catalog-2.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 20 Sep 2026 16:12:59 +0000",
+   "published_date": "2026-09-20",
+   "digest": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Linux Kernel flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and …",
+   "tags": [
+    "监管合规"
+   ],
+   "title_zh": "美国CISA将Linux内核漏洞添加到已知被利用漏洞目录中"
+  },
+  {
+   "id": "SECWIKI-99cb720a",
+   "title": "SecWiki News 2026-09-20 Review",
+   "url": "http://www.sec-wiki.com/?2026-09-20",
+   "source": "SecWiki",
+   "category": "网络安全",
+   "priority": "P2",
+   "published_at": "\nSun, 20 Sep 2026 23:58:20 +0800",
+   "published_date": "2026-09-20",
+   "digest": "今日暂未更新资讯~ 更多最新文章，请访问 SecWiki",
+   "tags": [],
+   "title_zh": "SecWiki 新闻 2026-09-20 概览"
+  },
+  {
+   "id": "SECAFFAIRS-600f54bf",
+   "title": "AI Hallucinations Nearly Triggered a US-China Military Confrontation",
+   "url": "https://securityaffairs.com/199415/ai/ai-hallucination-nearly-triggered-a-us-china-military-confrontation.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 20 Sep 2026 13:44:39 +0000",
+   "published_date": "2026-09-20",
+   "digest": "An AI-generated intelligence report falsely identified weapons on a Chinese ship, nearly triggering a US military operation during the Iran war. According to CN…",
+   "tags": [],
+   "title_zh": "AI幻觉险些引发中美军事对峙"
+  },
+  {
+   "id": "SECAFFAIRS-5d3ccb73",
+   "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 115",
+   "url": "https://securityaffairs.com/199409/malware/security-affairs-malware-newsletter-round-115.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 20 Sep 2026 12:22:06 +0000",
+   "published_date": "2026-09-20",
+   "digest": "Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape Malware Newsletter Gray Ra…",
+   "tags": [],
+   "title_zh": "安全事务恶意软件新闻第115期"
+  },
+  {
+   "id": "FREEBUF-e90ab47e",
+   "title": "FreeBuf早报 | Gemini在安全测试中入侵3家真实企业；Brevo供应链攻击感染超10万网站",
+   "url": "https://www.freebuf.com/news/502131.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 20 Sep 2026 18:50:07 +0800",
+   "published_date": "2026-09-20",
+   "digest": "Google Gemini在安全测试中因配置失误致沙箱失效，越界入侵3家真实企业，提示词绝非安全边界，AI测试需落实分层管控。",
+   "tags": [
+    "供应链攻击",
+    "大模型安全"
+   ]
+  },
+  {
+   "id": "FREEBUF-3f18bc49",
+   "title": "AI幻觉生成虚假军事情报，险些触发中美军事对抗",
+   "url": "https://www.freebuf.com/articles/ai-security/502157.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 20 Sep 2026 13:44:39 +0800",
+   "published_date": "2026-09-20",
+   "digest": "美军分析师使用AI分析情报时遭遇AI幻觉，误判中国船只载核部件，险些触发中美军事对抗，暴露军事情报场景下AI应用的致命风险。",
+   "tags": []
+  },
+  {
+   "id": "FREEBUF-d7a31209",
+   "title": "改一条组策略，几千台机器跟着执行，SharpGPOAbuse 把它变成全域后门",
+   "url": "https://www.freebuf.com/articles/defense/502053.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 20 Sep 2026 10:42:03 +0800",
+   "published_date": "2026-09-20",
+   "digest": "组策略是什么：一套集中配置下发机制，GPC（AD 对象）定范围，GPT（SYSVOL 文件）存内容，LSDOU 顺序决定谁覆盖谁，后台每 90 分钟刷新。为什么值得单写一篇：对 GPO 拿到写权限等于",
+   "tags": [
+    "大模型安全"
+   ]
+  },
+  {
+   "id": "SEEKBUG-577ae348",
+   "title": "大模型中转站研究与测评报告（2026）",
+   "url": "https://paper.seebug.org/3521",
+   "source": "Seebug Paper",
+   "category": "网络安全",
+   "priority": "P2",
+   "published_at": "Sun, 20 Sep 2026 10:40:03 +0800",
+   "published_date": "2026-09-20",
+   "digest": "作者：知道创宇404积极防御实验室 前言 随着大语言模型在编码、Agent（智能体）等场景中的深入应用，开发者对多模型、低成本、开箱即用的模型 API 需求持续增长，大模型中转站逐渐成为连接开发者与模型服务的重要基础设施。中转站对外提供与主流模型 API 兼容的统一接口，将不同模型厂商的服务进行聚合，调用者通常只需修改…",
+   "tags": [
+    "大模型安全"
+   ]
+  },
+  {
+   "id": "FREEBUF-49c39608",
+   "title": "补零到21字节切三段：MS-NLMP拆开NTLM，v2修好了预计算但没修中继",
+   "url": "https://www.freebuf.com/articles/defense/502050.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 20 Sep 2026 10:36:32 +0800",
+   "published_date": "2026-09-20",
+   "digest": "本文要点：三报文握手的流程、四种凭据工件的性质差异、v1 的彩虹表死因、v2 修了什么没修什么、防护从 LmCompatibilityLevel 到全量禁用的逐级加码关键词：域渗透｜Active Di",
+   "tags": [
+    "身份认证"
+   ]
+  },
+  {
    "id": "SECAFFAIRS-5b227499",
    "title": "Security Affairs newsletter Round 595 by Pierluigi Paganini – INTERNATIONAL EDITION",
    "url": "https://securityaffairs.com/199400/security/security-affairs-newsletter-round-595-by-pierluigi-paganini-international-edition.html",
@@ -12,7 +135,35 @@
    "published_date": "2026-09-20",
    "digest": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjo…",
    "tags": [],
-   "title_zh": "安全事务第595期简报由皮耶卢吉·帕加尼尼发布 - 国际版"
+   "title_zh": "安全事务第595期简报由皮耶路易吉·帕加尼尼发布 - 国际版"
+  },
+  {
+   "id": "FREEBUF-7edfe307",
+   "title": "Hugging Face遭AI意外入侵，实测数据校验自主攻击真实能力",
+   "url": "https://www.freebuf.com/articles/ai-security/502078.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 20 Sep 2026 05:09:00 +0800",
+   "published_date": "2026-09-20",
+   "digest": "OpenAI测试的AI Agent意外入侵Hugging Face，潜伏4天半未被察觉，自主AI攻击噪音极高，企业无需迷信AI对抗，应回归基础安全防控。",
+   "tags": [
+    "大模型安全"
+   ]
+  },
+  {
+   "id": "FREEBUF-7fec41fa",
+   "title": "勒索软件开始定向攻击AI模型和算力",
+   "url": "https://www.freebuf.com/articles/ai-security/502065.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 20 Sep 2026 04:42:15 +0800",
+   "published_date": "2026-09-20",
+   "digest": "勒索软件已将AI模型锁定为新的高价值目标，JADEPUFFER迭代专用工具定向加密AI全链路资产，传统备份失效，这不是预警是常态，需即刻构建针对性防护。",
+   "tags": [
+    "勒索软件"
+   ]
   },
   {
    "id": "SECWIKI-6fb7f158",
@@ -38,7 +189,7 @@
    "published_date": "2026-09-19",
    "digest": "The company has secured over $7 million in contracts with US government agencies, including the US Space Force, the US Navy, and DARPA. The post TigerByte Cyber…",
    "tags": [],
-   "title_zh": "TigerByte网络安全公司低调推出，获300万美元融资"
+   "title_zh": "TigerByte Cyber 低调推出，获300万美元融资"
   },
   {
    "id": "SECAFFAIRS-92a26992",
@@ -84,6 +235,20 @@
     "身份认证"
    ],
    "title_zh": "AI辅助黑客通过论坛劫持OpenAI员工账号"
+  },
+  {
+   "id": "FREEBUF-6b7febb9",
+   "title": "2026年身份可见性是身份安全核心基础，破解多云与Agentic AI身份盲区",
+   "url": "https://www.freebuf.com/articles/es/501995.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 19 Sep 2026 18:58:41 +0800",
+   "published_date": "2026-09-19",
+   "digest": "2026年身份可见性是身份安全核心基础，多云、Agentic AI催生的身份暗物质已成数据泄露核心突破口，需落地全链路身份管控筑牢安全防线。",
+   "tags": [
+    "数据泄露"
+   ]
   },
   {
    "id": "THN-4a256e8b",
@@ -156,7 +321,7 @@
    "tags": [
     "大模型安全"
    ],
-   "title_zh": "Google Gemini 在安全测试域名混用后入侵了真实公司系统"
+   "title_zh": "Google Gemini 安全测试域名混淆后入侵真实公司系统"
   },
   {
    "id": "FREEBUF-c6f6d2ba",
@@ -168,6 +333,20 @@
    "published_at": "Sat, 19 Sep 2026 15:31:10 +0800",
    "published_date": "2026-09-19",
    "digest": "研究员借助Claude Opus 5，72小时内串联漏洞接管OpenAI员工账号、访问内部代码库，漏洞已修复，OpenAI已发放漏洞赏金。",
+   "tags": [
+    "大模型安全"
+   ]
+  },
+  {
+   "id": "FREEBUF-87048ef6",
+   "title": "AutoRAN 复现：用 8B 弱模型自动化劫持大推理模型的“安全思维链”",
+   "url": "https://www.freebuf.com/articles/ai-security/500396.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 19 Sep 2026 15:17:38 +0800",
+   "published_date": "2026-09-19",
+   "digest": "一个去对齐的 8B 小模型，为什么能黑盒攻破 o3、Gemini-2.5-Flash、DeepSeek-R1 这类千亿参数级推理模型？",
    "tags": [
     "大模型安全"
    ]
@@ -188,6 +367,21 @@
    "title_zh": "CrowdSec 称 TanStack npm 攻击导致复制了 170 个私有 GitHub 仓库"
   },
   {
+   "id": "FREEBUF-4c21cbd4",
+   "title": "CISA通报Linux内核漏洞遭在野利用，要求3日内完成修复与取证排查",
+   "url": "https://www.freebuf.com/articles/system/502005.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 19 Sep 2026 15:09:43 +0800",
+   "published_date": "2026-09-19",
+   "digest": "CISA紧急通报：3个Linux内核漏洞正遭在野利用，最高CVSS评分9.8，要求3日内完成修复并排查入侵痕迹。",
+   "tags": [
+    "漏洞预警",
+    "安全运营"
+   ]
+  },
+  {
    "id": "THN-052d204b",
    "title": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild",
    "url": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html",
@@ -200,7 +394,7 @@
    "tags": [
     "监管合规"
    ],
-   "title_zh": "CISA标记三个Linux内核漏洞已被野蛮利用"
+   "title_zh": "CISA 标记三个已在野外利用的 Linux 内核漏洞"
   },
   {
    "id": "FREEBUF-013fb407",

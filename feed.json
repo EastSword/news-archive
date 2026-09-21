@@ -1,7 +1,130 @@
 {
- "generated_at": "2026-09-20 10:05",
- "total": 5237,
+ "generated_at": "2026-09-21 10:03",
+ "total": 5251,
  "items": [
+  {
+   "id": "SECAFFAIRS-8b574c2c",
+   "title": "U.S. CISA adds Linux Kernel flaws to its Known Exploited Vulnerabilities catalog",
+   "url": "https://securityaffairs.com/199430/security/u-s-cisa-adds-linux-kernel-flaws-to-its-known-exploited-vulnerabilities-catalog-2.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 20 Sep 2026 16:12:59 +0000",
+   "published_date": "2026-09-20",
+   "digest": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Linux Kernel flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and …",
+   "tags": [
+    "监管合规"
+   ],
+   "title_zh": "美国CISA将Linux内核漏洞添加到已知被利用漏洞目录中"
+  },
+  {
+   "id": "SECWIKI-99cb720a",
+   "title": "SecWiki News 2026-09-20 Review",
+   "url": "http://www.sec-wiki.com/?2026-09-20",
+   "source": "SecWiki",
+   "category": "网络安全",
+   "priority": "P2",
+   "published_at": "\nSun, 20 Sep 2026 23:58:20 +0800",
+   "published_date": "2026-09-20",
+   "digest": "今日暂未更新资讯~ 更多最新文章，请访问 SecWiki",
+   "tags": [],
+   "title_zh": "SecWiki 新闻 2026-09-20 概览"
+  },
+  {
+   "id": "SECAFFAIRS-600f54bf",
+   "title": "AI Hallucinations Nearly Triggered a US-China Military Confrontation",
+   "url": "https://securityaffairs.com/199415/ai/ai-hallucination-nearly-triggered-a-us-china-military-confrontation.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 20 Sep 2026 13:44:39 +0000",
+   "published_date": "2026-09-20",
+   "digest": "An AI-generated intelligence report falsely identified weapons on a Chinese ship, nearly triggering a US military operation during the Iran war. According to CN…",
+   "tags": [],
+   "title_zh": "AI幻觉险些引发中美军事对峙"
+  },
+  {
+   "id": "SECAFFAIRS-5d3ccb73",
+   "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 115",
+   "url": "https://securityaffairs.com/199409/malware/security-affairs-malware-newsletter-round-115.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 20 Sep 2026 12:22:06 +0000",
+   "published_date": "2026-09-20",
+   "digest": "Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape Malware Newsletter Gray Ra…",
+   "tags": [],
+   "title_zh": "安全事务恶意软件新闻第115期"
+  },
+  {
+   "id": "FREEBUF-e90ab47e",
+   "title": "FreeBuf早报 | Gemini在安全测试中入侵3家真实企业；Brevo供应链攻击感染超10万网站",
+   "url": "https://www.freebuf.com/news/502131.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 20 Sep 2026 18:50:07 +0800",
+   "published_date": "2026-09-20",
+   "digest": "Google Gemini在安全测试中因配置失误致沙箱失效，越界入侵3家真实企业，提示词绝非安全边界，AI测试需落实分层管控。",
+   "tags": [
+    "供应链攻击",
+    "大模型安全"
+   ]
+  },
+  {
+   "id": "FREEBUF-3f18bc49",
+   "title": "AI幻觉生成虚假军事情报，险些触发中美军事对抗",
+   "url": "https://www.freebuf.com/articles/ai-security/502157.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 20 Sep 2026 13:44:39 +0800",
+   "published_date": "2026-09-20",
+   "digest": "美军分析师使用AI分析情报时遭遇AI幻觉，误判中国船只载核部件，险些触发中美军事对抗，暴露军事情报场景下AI应用的致命风险。",
+   "tags": []
+  },
+  {
+   "id": "FREEBUF-d7a31209",
+   "title": "改一条组策略，几千台机器跟着执行，SharpGPOAbuse 把它变成全域后门",
+   "url": "https://www.freebuf.com/articles/defense/502053.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 20 Sep 2026 10:42:03 +0800",
+   "published_date": "2026-09-20",
+   "digest": "组策略是什么：一套集中配置下发机制，GPC（AD 对象）定范围，GPT（SYSVOL 文件）存内容，LSDOU 顺序决定谁覆盖谁，后台每 90 分钟刷新。为什么值得单写一篇：对 GPO 拿到写权限等于",
+   "tags": [
+    "大模型安全"
+   ]
+  },
+  {
+   "id": "SEEKBUG-577ae348",
+   "title": "大模型中转站研究与测评报告（2026）",
+   "url": "https://paper.seebug.org/3521",
+   "source": "Seebug Paper",
+   "category": "网络安全",
+   "priority": "P2",
+   "published_at": "Sun, 20 Sep 2026 10:40:03 +0800",
+   "published_date": "2026-09-20",
+   "digest": "作者：知道创宇404积极防御实验室 前言 随着大语言模型在编码、Agent（智能体）等场景中的深入应用，开发者对多模型、低成本、开箱即用的模型 API 需求持续增长，大模型中转站逐渐成为连接开发者与模型服务的重要基础设施。中转站对外提供与主流模型 API 兼容的统一接口，将不同模型厂商的服务进行聚合，调用者通常只需修改…",
+   "tags": [
+    "大模型安全"
+   ]
+  },
+  {
+   "id": "FREEBUF-49c39608",
+   "title": "补零到21字节切三段：MS-NLMP拆开NTLM，v2修好了预计算但没修中继",
+   "url": "https://www.freebuf.com/articles/defense/502050.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 20 Sep 2026 10:36:32 +0800",
+   "published_date": "2026-09-20",
+   "digest": "本文要点：三报文握手的流程、四种凭据工件的性质差异、v1 的彩虹表死因、v2 修了什么没修什么、防护从 LmCompatibilityLevel 到全量禁用的逐级加码关键词：域渗透｜Active Di",
+   "tags": [
+    "身份认证"
+   ]
+  },
   {
    "id": "SECAFFAIRS-5b227499",
    "title": "Security Affairs newsletter Round 595 by Pierluigi Paganini – INTERNATIONAL EDITION",
@@ -13,7 +136,35 @@
    "published_date": "2026-09-20",
    "digest": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjo…",
    "tags": [],
-   "title_zh": "安全事务第595期简报由皮耶卢吉·帕加尼尼发布 - 国际版"
+   "title_zh": "安全事务第595期简报由皮耶路易吉·帕加尼尼发布 - 国际版"
+  },
+  {
+   "id": "FREEBUF-7edfe307",
+   "title": "Hugging Face遭AI意外入侵，实测数据校验自主攻击真实能力",
+   "url": "https://www.freebuf.com/articles/ai-security/502078.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 20 Sep 2026 05:09:00 +0800",
+   "published_date": "2026-09-20",
+   "digest": "OpenAI测试的AI Agent意外入侵Hugging Face，潜伏4天半未被察觉，自主AI攻击噪音极高，企业无需迷信AI对抗，应回归基础安全防控。",
+   "tags": [
+    "大模型安全"
+   ]
+  },
+  {
+   "id": "FREEBUF-7fec41fa",
+   "title": "勒索软件开始定向攻击AI模型和算力",
+   "url": "https://www.freebuf.com/articles/ai-security/502065.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 20 Sep 2026 04:42:15 +0800",
+   "published_date": "2026-09-20",
+   "digest": "勒索软件已将AI模型锁定为新的高价值目标，JADEPUFFER迭代专用工具定向加密AI全链路资产，传统备份失效，这不是预警是常态，需即刻构建针对性防护。",
+   "tags": [
+    "勒索软件"
+   ]
   },
   {
    "id": "SECWIKI-6fb7f158",
@@ -39,7 +190,7 @@
    "published_date": "2026-09-19",
    "digest": "The company has secured over $7 million in contracts with US government agencies, including the US Space Force, the US Navy, and DARPA. The post TigerByte Cyber…",
    "tags": [],
-   "title_zh": "TigerByte网络安全公司低调推出，获300万美元融资"
+   "title_zh": "TigerByte Cyber 低调推出，获300万美元融资"
   },
   {
    "id": "SECAFFAIRS-92a26992",
@@ -85,6 +236,20 @@
     "身份认证"
    ],
    "title_zh": "AI辅助黑客通过论坛劫持OpenAI员工账号"
+  },
+  {
+   "id": "FREEBUF-6b7febb9",
+   "title": "2026年身份可见性是身份安全核心基础，破解多云与Agentic AI身份盲区",
+   "url": "https://www.freebuf.com/articles/es/501995.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 19 Sep 2026 18:58:41 +0800",
+   "published_date": "2026-09-19",
+   "digest": "2026年身份可见性是身份安全核心基础，多云、Agentic AI催生的身份暗物质已成数据泄露核心突破口，需落地全链路身份管控筑牢安全防线。",
+   "tags": [
+    "数据泄露"
+   ]
   },
   {
    "id": "THN-4a256e8b",
@@ -157,7 +322,7 @@
    "tags": [
     "大模型安全"
    ],
-   "title_zh": "Google Gemini 在安全测试域名混用后入侵了真实公司系统"
+   "title_zh": "Google Gemini 安全测试域名混淆后入侵真实公司系统"
   },
   {
    "id": "FREEBUF-c6f6d2ba",
@@ -171,178 +336,6 @@
    "digest": "研究员借助Claude Opus 5，72小时内串联漏洞接管OpenAI员工账号、访问内部代码库，漏洞已修复，OpenAI已发放漏洞赏金。",
    "tags": [
     "大模型安全"
-   ]
-  },
-  {
-   "id": "THN-0a43adaf",
-   "title": "CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories",
-   "url": "https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sat, 19 Sep 2026 12:44:54 +0530",
-   "published_date": "2026-09-19",
-   "digest": "An attacker copied about 170 of CrowdSec's private GitHub repositories on May 22 using the account of an employee who had just left, CrowdSec said on September …",
-   "tags": [
-    "供应链攻击"
-   ],
-   "title_zh": "CrowdSec 称 TanStack npm 攻击导致复制了 170 个私有 GitHub 仓库"
-  },
-  {
-   "id": "THN-052d204b",
-   "title": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild",
-   "url": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sat, 19 Sep 2026 11:54:10 +0530",
-   "published_date": "2026-09-19",
-   "digest": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added three security flaws impacting the Linux kernel to its Known Exploited Vulnerab…",
-   "tags": [
-    "监管合规"
-   ],
-   "title_zh": "CISA标记三个Linux内核漏洞已被野蛮利用"
-  },
-  {
-   "id": "FREEBUF-013fb407",
-   "title": "Gemini在安全测试中入侵3家真实企业，配置失误致沙箱失效",
-   "url": "https://www.freebuf.com/articles/ai-security/501967.html",
-   "source": "FreeBuf",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sat, 19 Sep 2026 08:59:08 +0800",
-   "published_date": "2026-09-19",
-   "digest": "Google Gemini在安全测试中因配置失误致沙箱失效，越界入侵3家真实企业，提示词绝非安全边界，AI测试需落实分层管控。",
-   "tags": [
-    "大模型安全"
-   ]
-  },
-  {
-   "id": "SECAFFAIRS-562a03b5",
-   "title": "Brevo Supply-Chain Attack Infected Over 100,000 Websites",
-   "url": "https://securityaffairs.com/199355/hacking/brevo-supply-chain-attack-infected-over-100000-websites.html",
-   "source": "Security Affairs",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 18 Sep 2026 21:38:15 +0000",
-   "published_date": "2026-09-18",
-   "digest": "A Brevo supply-chain attack used compromised Cloudflare access to inject malware into websites, potentially affecting over 100,000 sites. Brevo, formerly known …",
-   "tags": [],
-   "title_zh": "Brevo 供应链攻击感染超过100,000个网站"
-  },
-  {
-   "id": "SCHNEIER-f02e8de8",
-   "title": "Friday Squid Blogging: On Squid Egg Sacs",
-   "url": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-on-squid-egg-sacs.html",
-   "source": "Schneier",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 18 Sep 2026 21:06:00 +0000",
-   "published_date": "2026-09-18",
-   "digest": "Short essay about squid egg sacs. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderat…",
-   "tags": [],
-   "title_zh": "周五鱿鱼日志：关于鱿鱼卵囊"
-  },
-  {
-   "id": "FREEBUF-3a36fa45",
-   "title": "BragJack攻击可让恶意扩展劫持AI Agent，波及5款主流浏览器",
-   "url": "https://www.freebuf.com/articles/ai-security/501930.html",
-   "source": "FreeBuf",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sat, 19 Sep 2026 03:05:12 +0800",
-   "published_date": "2026-09-19",
-   "digest": "新型BragJack攻击可借恶意扩展劫持5款主流浏览器内置AI Agent，模型防护失效，可窃密越权，相关漏洞已部分修复，需及时升级防护。",
-   "tags": [
-    "大模型安全"
-   ]
-  },
-  {
-   "id": "WORDFENCE-f0ccfd72",
-   "title": "Wordfence Argus Discovers Critical Vulnerability in libheif, the Library That Opens iPhone Photos on Your Server",
-   "url": "https://www.wordfence.com/blog/2026/09/wordfence-argus-discovers-critical-vulnerability-in-libheif-the-library-that-opens-iphone-photos-on-your-server/",
-   "source": "Wordfence",
-   "category": "网络安全",
-   "priority": "P2",
-   "published_at": "Fri, 18 Sep 2026 18:22:24 +0000",
-   "published_date": "2026-09-18",
-   "digest": "Wordfence Argus found a critical CVSS 9.8 vulnerability in libheif, a library many servers use to process HEIC images. We demonstrated protected-file disclosure…",
-   "tags": [
-    "移动安全"
-   ],
-   "title_zh": "Wordfence Argus 发现 libheif 库的严重漏洞，该库用于在服务器上打开 iPhone 图片"
-  },
-  {
-   "id": "THN-00d4421d",
-   "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
-   "url": "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 18 Sep 2026 23:32:24 +0530",
-   "published_date": "2026-09-18",
-   "digest": "A security researcher has released working exploit code for four Linux kernel flaws that each let a local user gain root, the highest level of access on a machi…",
-   "tags": [],
-   "title_zh": "公开发布了针对四个Linux内核漏洞的本地根权限利用工具"
-  },
-  {
-   "id": "SECAFFAIRS-06d2b0db",
-   "title": "Gyazo Data Breach Exposes 23 Million User Records",
-   "url": "https://securityaffairs.com/199338/data-breach/gyazo-data-breach-exposes-23-million-user-records.html",
-   "source": "Security Affairs",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 18 Sep 2026 17:10:37 +0000",
-   "published_date": "2026-09-18",
-   "digest": "A Gyazo breach exposed 23 million user records after attackers exploited a vulnerability in Helpfeel’s image upload server. Japanese software company Helpfeel i…",
-   "tags": [
-    "数据泄露"
-   ],
-   "title_zh": "Gyazo数据泄露暴露2300万用户记录"
-  },
-  {
-   "id": "THN-8c8f28e8",
-   "title": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution",
-   "url": "https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 18 Sep 2026 22:26:19 +0530",
-   "published_date": "2026-09-18",
-   "digest": "WordPress today released patches to fix a new set of vulnerabilities in its core software, one of which could allow a crafted web link, opened by a logged-in ad…",
-   "tags": [
-    "Web安全"
-   ],
-   "title_zh": "新WordPress Click2Shell 漏洞强制安装主题，可链式执行代码"
-  },
-  {
-   "id": "SECWIKI-46767de2",
-   "title": "SecWiki News 2026-09-18 Review",
-   "url": "http://www.sec-wiki.com/?2026-09-18",
-   "source": "SecWiki",
-   "category": "网络安全",
-   "priority": "P2",
-   "published_at": "\nFri, 18 Sep 2026 23:58:20 +0800",
-   "published_date": "2026-09-18",
-   "digest": "LLM 供应链中恶意中间人攻击的实测研究 by ourren 更多最新文章，请访问 SecWiki",
-   "tags": [
-    "供应链攻击",
-    "大模型安全"
-   ],
-   "title_zh": "SecWiki 新闻 2026-09-18 审查"
-  },
-  {
-   "id": "FREEBUF-c3f6b90c",
-   "title": "研究人员公开四个Linux内核漏洞利用代码，可本地获取root权限",
-   "url": "https://www.freebuf.com/articles/system/501893.html",
-   "source": "FreeBuf",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 18 Sep 2026 23:32:24 +0800",
-   "published_date": "2026-09-18",
-   "digest": "四个Linux内核漏洞利用代码已公开，可本地提权获取root权限，运行旧内核的设备必须尽快打补丁防入侵。",
-   "tags": [
-    "漏洞预警"
    ]
   }
  ]
