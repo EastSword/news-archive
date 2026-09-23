@@ -1,342 +1,352 @@
 {
- "generated_at": "2026-09-21 10:03",
- "total": 5251,
+ "generated_at": "2026-09-23 10:05",
+ "total": 5428,
  "items": [
   {
-   "id": "SECAFFAIRS-8b574c2c",
-   "title": "U.S. CISA adds Linux Kernel flaws to its Known Exploited Vulnerabilities catalog",
-   "url": "https://securityaffairs.com/199430/security/u-s-cisa-adds-linux-kernel-flaws-to-its-known-exploited-vulnerabilities-catalog-2.html",
-   "source": "Security Affairs",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sun, 20 Sep 2026 16:12:59 +0000",
-   "published_date": "2026-09-20",
-   "digest": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Linux Kernel flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and …",
-   "tags": [
-    "监管合规"
-   ],
-   "title_zh": "美国CISA将Linux内核漏洞添加到已知被利用漏洞目录中"
-  },
-  {
-   "id": "SECWIKI-99cb720a",
-   "title": "SecWiki News 2026-09-20 Review",
-   "url": "http://www.sec-wiki.com/?2026-09-20",
-   "source": "SecWiki",
+   "id": "WORDFENCE-313ce054",
+   "title": "PSA: Critical Unauthenticated Path Traversal Vulnerability Patched in WordPress Core",
+   "url": "https://www.wordfence.com/blog/2026/09/psa-critical-unauthenticated-path-traversal-vulnerability-patched-in-wordpress-core/",
+   "source": "Wordfence",
    "category": "网络安全",
    "priority": "P2",
-   "published_at": "\nSun, 20 Sep 2026 23:58:20 +0800",
-   "published_date": "2026-09-20",
-   "digest": "今日暂未更新资讯~ 更多最新文章，请访问 SecWiki",
-   "tags": [],
-   "title_zh": "SecWiki 新闻 2026-09-20 概览"
+   "published_at": "Tue, 22 Sep 2026 22:21:11 +0000",
+   "published_date": "2026-09-22",
+   "digest": "WordPress has released security updates for a critical unauthenticated path traversal vulnerability that can lead to local PHP file inclusion and, on affected s…",
+   "tags": [
+    "Web安全"
+   ],
+   "title_zh": "预警：WordPress 核心已修复严重未授权路径遍历漏洞"
   },
   {
-   "id": "SECAFFAIRS-600f54bf",
-   "title": "AI Hallucinations Nearly Triggered a US-China Military Confrontation",
-   "url": "https://securityaffairs.com/199415/ai/ai-hallucination-nearly-triggered-a-us-china-military-confrontation.html",
+   "id": "SECAFFAIRS-5b23e105",
+   "title": "Check Point Fixes a New Actively Exploited Critical Security Flaw",
+   "url": "https://securityaffairs.com/199549/security/check-point-fixes-a-new-actively-exploited-critical-security-flaw.html",
    "source": "Security Affairs",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Sun, 20 Sep 2026 13:44:39 +0000",
-   "published_date": "2026-09-20",
-   "digest": "An AI-generated intelligence report falsely identified weapons on a Chinese ship, nearly triggering a US military operation during the Iran war. According to CN…",
-   "tags": [],
-   "title_zh": "AI幻觉险些引发中美军事对峙"
+   "published_at": "Tue, 22 Sep 2026 19:31:40 +0000",
+   "published_date": "2026-09-22",
+   "digest": "Check Point fixes an actively exploited flaw that lets unauthenticated attackers upload and run scripts on vulnerable Security Management Servers. Check Point h…",
+   "tags": [
+    "漏洞预警"
+   ],
+   "title_zh": "Check Point修复了 newly actively exploited 严重安全漏洞"
   },
   {
-   "id": "SECAFFAIRS-5d3ccb73",
-   "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 115",
-   "url": "https://securityaffairs.com/199409/malware/security-affairs-malware-newsletter-round-115.html",
-   "source": "Security Affairs",
+   "id": "THN-e863c132",
+   "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
+   "url": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
+   "source": "The Hacker News",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Sun, 20 Sep 2026 12:22:06 +0000",
-   "published_date": "2026-09-20",
-   "digest": "Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape Malware Newsletter Gray Ra…",
+   "published_at": "Tue, 22 Sep 2026 23:59:39 +0530",
+   "published_date": "2026-09-22",
+   "digest": "Attackers exploited a previously unknown flaw in Check Point's Security Management Server in a handful of targeted attacks on July 23, the company said. The fla…",
    "tags": [],
-   "title_zh": "安全事务恶意软件新闻第115期"
+   "title_zh": "Check Point警告管理服务器零日漏洞被针对性攻击利用"
   },
   {
-   "id": "FREEBUF-e90ab47e",
-   "title": "FreeBuf早报 | Gemini在安全测试中入侵3家真实企业；Brevo供应链攻击感染超10万网站",
-   "url": "https://www.freebuf.com/news/502131.html",
-   "source": "FreeBuf",
+   "id": "THN-4b0ea5b3",
+   "title": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers",
+   "url": "https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html",
+   "source": "The Hacker News",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Sun, 20 Sep 2026 18:50:07 +0800",
-   "published_date": "2026-09-20",
-   "digest": "Google Gemini在安全测试中因配置失误致沙箱失效，越界入侵3家真实企业，提示词绝非安全边界，AI测试需落实分层管控。",
+   "published_at": "Tue, 22 Sep 2026 23:33:10 +0530",
+   "published_date": "2026-09-22",
+   "digest": "WordPress has fixed a critical flaw in its core software that lets an attacker with no account make a site load a PHP file from outside its theme folders. On so…",
+   "tags": [
+    "Web安全"
+   ],
+   "title_zh": "WordPress 发布补丁修复关键漏洞 可在某些服务器上启用代码执行"
+  },
+  {
+   "id": "THN-290c6f3c",
+   "title": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials",
+   "url": "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 22 Sep 2026 23:28:15 +0530",
+   "published_date": "2026-09-22",
+   "digest": "Cybersecurity researchers have disclosed details of a malicious npm package named \"tw-pkgprobe-7731\" that masquerades as a security tool targeting developers in…",
    "tags": [
     "供应链攻击",
-    "大模型安全"
-   ]
-  },
-  {
-   "id": "FREEBUF-3f18bc49",
-   "title": "AI幻觉生成虚假军事情报，险些触发中美军事对抗",
-   "url": "https://www.freebuf.com/articles/ai-security/502157.html",
-   "source": "FreeBuf",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sun, 20 Sep 2026 13:44:39 +0800",
-   "published_date": "2026-09-20",
-   "digest": "美军分析师使用AI分析情报时遭遇AI幻觉，误判中国船只载核部件，险些触发中美军事对抗，暴露军事情报场景下AI应用的致命风险。",
-   "tags": []
-  },
-  {
-   "id": "FREEBUF-d7a31209",
-   "title": "改一条组策略，几千台机器跟着执行，SharpGPOAbuse 把它变成全域后门",
-   "url": "https://www.freebuf.com/articles/defense/502053.html",
-   "source": "FreeBuf",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sun, 20 Sep 2026 10:42:03 +0800",
-   "published_date": "2026-09-20",
-   "digest": "组策略是什么：一套集中配置下发机制，GPC（AD 对象）定范围，GPT（SYSVOL 文件）存内容，LSDOU 顺序决定谁覆盖谁，后台每 90 分钟刷新。为什么值得单写一篇：对 GPO 拿到写权限等于",
-   "tags": [
-    "大模型安全"
-   ]
-  },
-  {
-   "id": "SEEKBUG-577ae348",
-   "title": "大模型中转站研究与测评报告（2026）",
-   "url": "https://paper.seebug.org/3521",
-   "source": "Seebug Paper",
-   "category": "网络安全",
-   "priority": "P2",
-   "published_at": "Sun, 20 Sep 2026 10:40:03 +0800",
-   "published_date": "2026-09-20",
-   "digest": "作者：知道创宇404积极防御实验室 前言 随着大语言模型在编码、Agent（智能体）等场景中的深入应用，开发者对多模型、低成本、开箱即用的模型 API 需求持续增长，大模型中转站逐渐成为连接开发者与模型服务的重要基础设施。中转站对外提供与主流模型 API 兼容的统一接口，将不同模型厂商的服务进行聚合，调用者通常只需修改…",
-   "tags": [
-    "大模型安全"
-   ]
-  },
-  {
-   "id": "FREEBUF-49c39608",
-   "title": "补零到21字节切三段：MS-NLMP拆开NTLM，v2修好了预计算但没修中继",
-   "url": "https://www.freebuf.com/articles/defense/502050.html",
-   "source": "FreeBuf",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sun, 20 Sep 2026 10:36:32 +0800",
-   "published_date": "2026-09-20",
-   "digest": "本文要点：三报文握手的流程、四种凭据工件的性质差异、v1 的彩虹表死因、v2 修了什么没修什么、防护从 LmCompatibilityLevel 到全量禁用的逐级加码关键词：域渗透｜Active Di",
-   "tags": [
     "身份认证"
-   ]
+   ],
+   "title_zh": "恶意npm包伪装成Twilio漏洞赏金调查，可窃取凭证"
   },
   {
-   "id": "SECAFFAIRS-5b227499",
-   "title": "Security Affairs newsletter Round 595 by Pierluigi Paganini – INTERNATIONAL EDITION",
-   "url": "https://securityaffairs.com/199400/security/security-affairs-newsletter-round-595-by-pierluigi-paganini-international-edition.html",
-   "source": "Security Affairs",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sun, 20 Sep 2026 00:08:59 +0000",
-   "published_date": "2026-09-20",
-   "digest": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjo…",
-   "tags": [],
-   "title_zh": "安全事务第595期简报由皮耶路易吉·帕加尼尼发布 - 国际版"
-  },
-  {
-   "id": "FREEBUF-7edfe307",
-   "title": "Hugging Face遭AI意外入侵，实测数据校验自主攻击真实能力",
-   "url": "https://www.freebuf.com/articles/ai-security/502078.html",
-   "source": "FreeBuf",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sun, 20 Sep 2026 05:09:00 +0800",
-   "published_date": "2026-09-20",
-   "digest": "OpenAI测试的AI Agent意外入侵Hugging Face，潜伏4天半未被察觉，自主AI攻击噪音极高，企业无需迷信AI对抗，应回归基础安全防控。",
-   "tags": [
-    "大模型安全"
-   ]
-  },
-  {
-   "id": "FREEBUF-7fec41fa",
-   "title": "勒索软件开始定向攻击AI模型和算力",
-   "url": "https://www.freebuf.com/articles/ai-security/502065.html",
-   "source": "FreeBuf",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sun, 20 Sep 2026 04:42:15 +0800",
-   "published_date": "2026-09-20",
-   "digest": "勒索软件已将AI模型锁定为新的高价值目标，JADEPUFFER迭代专用工具定向加密AI全链路资产，传统备份失效，这不是预警是常态，需即刻构建针对性防护。",
-   "tags": [
-    "勒索软件"
-   ]
-  },
-  {
-   "id": "SECWIKI-6fb7f158",
-   "title": "SecWiki News 2026-09-19 Review",
-   "url": "http://www.sec-wiki.com/?2026-09-19",
-   "source": "SecWiki",
-   "category": "网络安全",
-   "priority": "P2",
-   "published_at": "\nSat, 19 Sep 2026 23:58:20 +0800",
-   "published_date": "2026-09-19",
-   "digest": "今日暂未更新资讯~ 更多最新文章，请访问 SecWiki",
-   "tags": [],
-   "title_zh": "SecWiki 新闻 2026-09-19 概览"
-  },
-  {
-   "id": "SECURITYWEEK-9d78f154",
-   "title": "TigerByte Cyber Emerges From Stealth With $3 Million in Funding",
-   "url": "https://www.securityweek.com/tigerbyte-cyber-emerges-from-stealth-with-3-million-in-funding/",
+   "id": "SECURITYWEEK-7f320a04",
+   "title": "BigCommerce Data Stolen via Ribon Apps Hack",
+   "url": "https://www.securityweek.com/bigcommerce-data-stolen-via-ribon-apps-hack/",
    "source": "SecurityWeek",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Sat, 19 Sep 2026 14:30:00 +0000",
-   "published_date": "2026-09-19",
-   "digest": "The company has secured over $7 million in contracts with US government agencies, including the US Space Force, the US Navy, and DARPA. The post TigerByte Cyber…",
+   "published_at": "Tue, 22 Sep 2026 17:58:00 +0000",
+   "published_date": "2026-09-22",
+   "digest": "The attackers used a compromised BigCommerce application key held by Ribon to access customer data. The post BigCommerce Data Stolen via Ribon Apps Hack appeare…",
    "tags": [],
-   "title_zh": "TigerByte Cyber 低调推出，获300万美元融资"
+   "title_zh": "BigCommerce 数据通过 Ribon Apps 破绽被盗取"
   },
   {
-   "id": "SECAFFAIRS-92a26992",
-   "title": "Google Gemini also Broke Out of Its Test Environment",
-   "url": "https://securityaffairs.com/199392/ai/google-gemini-also-broke-out-of-its-test-environment.html",
-   "source": "Security Affairs",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sat, 19 Sep 2026 14:09:34 +0000",
-   "published_date": "2026-09-19",
-   "digest": "Google Gemini escaped a cyber test environment, reached three real companies, and exposed why AI security tests need strict isolation. Google has confirmed that…",
-   "tags": [
-    "大模型安全"
-   ],
-   "title_zh": "Google Gemini 也逃出了测试环境"
-  },
-  {
-   "id": "THN-e581b749",
-   "title": "Identity Visibility in 2026: The Foundation of Identity Security",
-   "url": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
+   "id": "THN-1d188102",
+   "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
+   "url": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
    "source": "The Hacker News",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Sat, 19 Sep 2026 18:58:41 +0530",
-   "published_date": "2026-09-19",
-   "digest": "Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial acce…",
+   "published_at": "Tue, 22 Sep 2026 22:33:31 +0530",
+   "published_date": "2026-09-22",
+   "digest": "Microsoft on Tuesday announced the takedown of the EvilTokens device code phishing service that it said used artificial intelligence (AI) \"at every step of the …",
    "tags": [
-    "身份认证"
+    "钓鱼攻击"
    ],
-   "title_zh": "2026年的身份可见性：身份安全的基础"
+   "title_zh": "微软关闭EvilTokens设备代码钓鱼服务，关联1.2万邮箱 compromisations"
   },
   {
-   "id": "SECAFFAIRS-fd5406e3",
-   "title": "AI Helps Hackers Hijack OpenAI Staff Accounts Through a Forum",
-   "url": "https://securityaffairs.com/199378/ai/ai-helps-hackers-hijack-openai-staff-accounts-through-a-forum.html",
-   "source": "Security Affairs",
+   "id": "THN-01268293",
+   "title": "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials",
+   "url": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
+   "source": "The Hacker News",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Sat, 19 Sep 2026 13:01:08 +0000",
-   "published_date": "2026-09-19",
-   "digest": "AI helped researchers exploit a Discourse flaw in under 72 hours, hijacking OpenAI staff accounts and exposing the risks of shared SSO. Three researchers at Hac…",
+   "published_at": "Tue, 22 Sep 2026 22:11:12 +0530",
+   "published_date": "2026-09-22",
+   "digest": "A critical vulnerability in Bifrost, an open-source AI gateway that routes requests to more than 20 LLM providers, allows an unauthenticated attacker to run arb…",
    "tags": [
+    "大模型安全",
     "身份认证"
    ],
-   "title_zh": "AI辅助黑客通过论坛劫持OpenAI员工账号"
+   "title_zh": "关键漏洞Bifrost AI网关让攻击者无凭据运行命令"
   },
   {
-   "id": "FREEBUF-6b7febb9",
-   "title": "2026年身份可见性是身份安全核心基础，破解多云与Agentic AI身份盲区",
-   "url": "https://www.freebuf.com/articles/es/501995.html",
+   "id": "THN-c184db15",
+   "title": "Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates",
+   "url": "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 22 Sep 2026 21:44:04 +0530",
+   "published_date": "2026-09-22",
+   "digest": "A zero-day proof-of-concept tool that stops Microsoft Defender from installing platform and signature updates by filling all available disk space was published …",
+   "tags": [],
+   "title_zh": "研究人员发布BigDiskBuster零日PoC阻止Microsoft Defender更新"
+  },
+  {
+   "id": "SECWIKI-66051254",
+   "title": "SecWiki News 2026-09-22 Review",
+   "url": "http://www.sec-wiki.com/?2026-09-22",
+   "source": "SecWiki",
+   "category": "网络安全",
+   "priority": "P2",
+   "published_at": "\nTue, 22 Sep 2026 23:58:20 +0800",
+   "published_date": "2026-09-22",
+   "digest": "开源AI仓库潜伏式污染攻击事件 by ourren 2026第二届湾区杯网络安全大赛决赛（AI专项赛道静态题wp） by ourren Evilginx3钓鱼攻击框架 by ourren 更多最新文章，请访问 SecWiki",
+   "tags": [
+    "钓鱼攻击"
+   ],
+   "title_zh": "SecWiki 新闻 2026-09-22 概览"
+  },
+  {
+   "id": "FREEBUF-7d988a1f",
+   "title": "Cisco Talos披露新型AI恶意软件，四模型投票决策战术行动",
+   "url": "https://www.freebuf.com/articles/ai-security/502742.html",
    "source": "FreeBuf",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Sat, 19 Sep 2026 18:58:41 +0800",
-   "published_date": "2026-09-19",
-   "digest": "2026年身份可见性是身份安全核心基础，多云、Agentic AI催生的身份暗物质已成数据泄露核心突破口，需落地全链路身份管控筑牢安全防线。",
+   "published_at": "Tue, 22 Sep 2026 23:44:32 +0800",
+   "published_date": "2026-09-22",
+   "digest": "思科Talos发现无需C2与人工操控、靠四个大模型投票决策战术行动的AI窃密恶意软件，同步开源专用狩猎工具CAIRN，提醒防御方把握应对窗口期。",
    "tags": [
-    "数据泄露"
+    "大模型安全"
    ]
   },
   {
-   "id": "THN-4a256e8b",
-   "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
-   "url": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
-   "source": "The Hacker News",
+   "id": "WORDFENCE-2c4c5e71",
+   "title": "Inside a Malicious, Stealthy WordPress Must Use Plugin",
+   "url": "https://www.wordfence.com/blog/2026/09/inside-a-malicious-stealthy-wordpress-must-use-plugin/",
+   "source": "Wordfence",
    "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sat, 19 Sep 2026 15:31:10 +0530",
-   "published_date": "2026-09-19",
-   "digest": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI…",
+   "priority": "P2",
+   "published_at": "Tue, 22 Sep 2026 14:56:17 +0000",
+   "published_date": "2026-09-22",
+   "digest": "The Wordfence Threat Intelligence Team identified an interesting malware sample in mid June during a site clean. TThe malware was installed as a must-use plugin…",
    "tags": [
-    "大模型安全"
+    "Web安全"
    ],
-   "title_zh": "Claude Opus 5 帮助研究人员通过连锁漏洞接管 OpenAI 员工账号"
+   "title_zh": "恶意隐蔽的WordPress必用插件内幕"
   },
   {
-   "id": "THN-afe49286",
-   "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
-   "url": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html",
-   "source": "The Hacker News",
+   "id": "SECURITYWEEK-ce31c793",
+   "title": "Cyera Raises $400 Million at $12+ Billion Valuation",
+   "url": "https://www.securityweek.com/cyera-raises-400-million-at-12-billion-valuation/",
+   "source": "SecurityWeek",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Sat, 19 Sep 2026 15:01:17 +0530",
-   "published_date": "2026-09-19",
-   "digest": "SolarWinds has released security updates to address a high-severity flaw in Access Rights Manager (ARM) that, if successfully exploited, could lead to an unauth…",
-   "tags": [
-    "漏洞预警"
-   ],
-   "title_zh": "SolarWinds 修复 ARM 固化密钥漏洞 允许未认证远程代码执行"
-  },
-  {
-   "id": "TOPSEC-23c2911a",
-   "title": "Topsec Ireland Growth Summit 2027",
-   "url": "https://www.topsec.com/topsec-ireland-growth-summit-2027/",
-   "source": "天融信",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sat, 19 Sep 2026 09:18:38 +0000",
-   "published_date": "2026-09-19",
-   "digest": "Discover why SLAs are the starting point in email security. Learn how proactive support, rapid response and real human service define true protection. The post …",
+   "published_at": "Tue, 22 Sep 2026 14:29:34 +0000",
+   "published_date": "2026-09-22",
+   "digest": "The data security company received the new investment from Goldman Sachs Alternatives, extending its Series G funding round. The post Cyera Raises $400 Million …",
    "tags": [],
-   "title_zh": "Tops安全爱尔兰增长峰会2027"
+   "title_zh": "Cyera融资4亿美元，估值超120亿"
   },
   {
-   "id": "THN-56b4e7fd",
-   "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
-   "url": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html",
+   "id": "SECAFFAIRS-4d28d911",
+   "title": "Chaotic Eclipse Released BigDiskBuster, A PoC For Windows Defender Update DoS Zero-Day",
+   "url": "https://securityaffairs.com/199538/hacking/chaotic-eclipse-released-bigdiskbuster-a-poc-for-windows-defender-update-dos-zero-day.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 22 Sep 2026 14:04:00 +0000",
+   "published_date": "2026-09-22",
+   "digest": "The researcher Chaotic Eclipse released BigDiskBuster, a PoC exploit for a Windows Defender Update DoS Zero-Day vulnerability. Security researcher Chaotic Eclip…",
+   "tags": [],
+   "title_zh": "Chaos Eclipse 发布了 BigDiskBuster，一个针对 Windows Defender 更新的PoC DoS 零日漏洞"
+  },
+  {
+   "id": "SECURITYWEEK-958558aa",
+   "title": "Nightmare Eclipse Drops New Microsoft Defender Exploit After Revealing Identity",
+   "url": "https://www.securityweek.com/nightmare-eclipse-drops-new-microsoft-defender-exploit-after-revealing-identity/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 22 Sep 2026 13:26:51 +0000",
+   "published_date": "2026-09-22",
+   "digest": "Abdelhamid Naceri, a former Microsoft Germany employee, is the exploit leaker Nightmare Eclipse, aka Chaotic Eclipse. The post Nightmare Eclipse Drops New Micro…",
+   "tags": [
+    "身份认证"
+   ],
+   "title_zh": "Nightmare Eclipse 恶意软件释放新 Microsoft Defender 利用工具revealing自身身份"
+  },
+  {
+   "id": "THN-58ac3e3c",
+   "title": "AI Agents Are Rewriting the Rules of Lateral Movement",
+   "url": "https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html",
    "source": "The Hacker News",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Sat, 19 Sep 2026 13:48:54 +0530",
-   "published_date": "2026-09-19",
-   "digest": "A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet. The vulnerability in question is CVE-2026-581…",
+   "published_at": "Tue, 22 Sep 2026 18:00:00 +0530",
+   "published_date": "2026-09-22",
+   "digest": "Security teams have spent decades asking whether an identity has too much access. AI agents raise a harder question: how can we determine which paths an autonom…",
+   "tags": [
+    "大模型安全",
+    "身份认证"
+   ],
+   "title_zh": "AI代理正在重写横向移动的规则"
+  },
+  {
+   "id": "THN-e2d7a4fe",
+   "title": "New CVSS 10.0 VeloCloud Orchestrator Flaw Actively Exploited in Certificate-Based Setups",
+   "url": "https://thehackernews.com/2026/09/new-cvss-100-velocloud-orchestrator.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 22 Sep 2026 17:59:00 +0530",
+   "published_date": "2026-09-22",
+   "digest": "Attackers are exploiting a new flaw in on-premises VeloCloud Orchestrator (VCO), the server that manages the Edge devices in a VeloCloud SD-WAN, Arista said on …",
    "tags": [
     "漏洞预警"
    ],
-   "title_zh": "关键未授权RCE漏洞在野利用影响Orkes Conductor Workflow平台"
+   "title_zh": "新的CVSS 10.0 VeloCloud Orchestrator 漏洞在基于证书的设置中被积极利用"
   },
   {
-   "id": "THN-fa6abc4d",
-   "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
-   "url": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html",
+   "id": "SECURITYWEEK-598759cd",
+   "title": "Only 13% of OT Network Segments Are Fully Isolated: Analysis",
+   "url": "https://www.securityweek.com/only-13-of-ot-network-segments-are-fully-isolated-analysis/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 22 Sep 2026 12:24:30 +0000",
+   "published_date": "2026-09-22",
+   "digest": "Forescout’s new network segmentation research shows that OT and medical devices often share network segments with other enterprise assets. The post Only 13% of …",
+   "tags": [],
+   "title_zh": "只有13%的OT网络段完全隔离：分析"
+  },
+  {
+   "id": "SECURITYWEEK-537801ac",
+   "title": "Recent ZyXEL Switch Vulnerability Exploited by Chinese Hackers",
+   "url": "https://www.securityweek.com/recent-zyxel-switch-vulnerability-exploited-by-chinese-hackers/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 22 Sep 2026 11:55:20 +0000",
+   "published_date": "2026-09-22",
+   "digest": "A Chinese threat actor has exploited the bug to exfiltrate sensitive information from nearly 1,000 ZyXEL switches. The post Recent ZyXEL Switch Vulnerability Ex…",
+   "tags": [],
+   "title_zh": "近期ZyXEL交换机漏洞被中国黑客利用"
+  },
+  {
+   "id": "THN-38f73adb",
+   "title": "DORA Year Two: Can Your SOC Actually See the Attack?",
+   "url": "https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html",
    "source": "The Hacker News",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Sat, 19 Sep 2026 13:21:34 +0530",
-   "published_date": "2026-09-19",
-   "digest": "Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity eva…",
-   "tags": [
-    "大模型安全"
-   ],
-   "title_zh": "Google Gemini 安全测试域名混淆后入侵真实公司系统"
+   "published_at": "Tue, 22 Sep 2026 17:15:00 +0530",
+   "published_date": "2026-09-22",
+   "digest": "When the Digital Operational Resilience Act (DORA) became enforceable across the European Union in January 2025, it triggered an administrative sprint. Financia…",
+   "tags": [],
+   "title_zh": "DORA第二年：你的SOC真的能发现攻击吗？"
   },
   {
-   "id": "FREEBUF-c6f6d2ba",
-   "title": "研究员借助Claude Opus 5串联漏洞，接管OpenAI员工账号",
-   "url": "https://www.freebuf.com/news/501978.html",
+   "id": "THN-4059bac5",
+   "title": "New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory",
+   "url": "https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 22 Sep 2026 17:08:40 +0530",
+   "published_date": "2026-09-22",
+   "digest": "A new flaw in the Linux kernel's KVM virtualization code for ARM64 processors can leave a freed piece of host memory exposed to a guest virtual machine on hosts…",
+   "tags": [],
+   "title_zh": "新的Linux内核漏洞使ARM64 KVM虚拟机可读写宿主内存"
+  },
+  {
+   "id": "SECURITYWEEK-91bd9d3a",
+   "title": "Malicious B-tree NPM Package Accumulates Millions of Downloads",
+   "url": "https://www.securityweek.com/malicious-b-tree-npm-package-accumulates-millions-of-downloads/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 22 Sep 2026 11:33:59 +0000",
+   "published_date": "2026-09-22",
+   "digest": "Posing as the legitimate sorted-btree package, indexed-btree hides a malware trigger in its prototype method. The post Malicious B-tree NPM Package Accumulates …",
+   "tags": [
+    "供应链攻击"
+   ],
+   "title_zh": "恶意 B-树 NPM 包累积数百万次下载"
+  },
+  {
+   "id": "FREEBUF-00b47b44",
+   "title": "FreeBuf早报 | 比亚迪Shark 6实测遭远程破解；Meta Muse AI Agent存在0Day漏洞",
+   "url": "https://www.freebuf.com/news/502585.html",
    "source": "FreeBuf",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Sat, 19 Sep 2026 15:31:10 +0800",
-   "published_date": "2026-09-19",
-   "digest": "研究员借助Claude Opus 5，72小时内串联漏洞接管OpenAI员工账号、访问内部代码库，漏洞已修复，OpenAI已发放漏洞赏金。",
+   "published_at": "Tue, 22 Sep 2026 19:31:18 +0800",
+   "published_date": "2026-09-22",
+   "digest": "比亚迪Shark 6遭无密码远程破解，可被操控车载功能、窃听信息、实时定位，研究员称“比亚迪直接把前门敞开着”，暴露联网车安全风险与监管空白。",
    "tags": [
-    "大模型安全"
+    "漏洞预警",
+    "大模型安全",
+    "物联网安全",
+    "监管合规"
    ]
+  },
+  {
+   "id": "THN-758e8557",
+   "title": "SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE",
+   "url": "https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 22 Sep 2026 16:47:41 +0530",
+   "published_date": "2026-09-22",
+   "digest": "A SharePoint Server vulnerability that Microsoft initially classified as a spoofing flaw with a CVSS score of 6.5 actually enables authenticated remote code exe…",
+   "tags": [
+    "漏洞预警"
+   ],
+   "title_zh": "SharePoint 存在的初始列为欺骗漏洞最终启用认证远程代码执行"
   }
  ]
 }
