@@ -1,352 +1,342 @@
 {
- "generated_at": "2026-09-23 10:05",
- "total": 5428,
+ "generated_at": "2026-09-30 09:36",
+ "total": 5477,
  "items": [
   {
-   "id": "WORDFENCE-313ce054",
-   "title": "PSA: Critical Unauthenticated Path Traversal Vulnerability Patched in WordPress Core",
-   "url": "https://www.wordfence.com/blog/2026/09/psa-critical-unauthenticated-path-traversal-vulnerability-patched-in-wordpress-core/",
-   "source": "Wordfence",
+   "id": "RISKYBIZ-48c4a484",
+   "title": "Soap Box: HD Moore talks OT security, frontier fearmongering and more",
+   "url": "https://risky.biz/SOAPBOX111/",
+   "source": "Risky Business",
    "category": "网络安全",
-   "priority": "P2",
-   "published_at": "Tue, 22 Sep 2026 22:21:11 +0000",
-   "published_date": "2026-09-22",
-   "digest": "WordPress has released security updates for a critical unauthenticated path traversal vulnerability that can lead to local PHP file inclusion and, on affected s…",
-   "tags": [
-    "Web安全"
-   ],
-   "title_zh": "预警：WordPress 核心已修复严重未授权路径遍历漏洞"
+   "priority": "P1",
+   "published_at": "Wed, 30 Sep 2026 08:50:32 +1000",
+   "published_date": "2026-09-30",
+   "digest": "In this sponsored Soap Box edition of the Risky Business podcast Patrick Gray chats with industry legend HD Moore about how his company runZero wound up being u…",
+   "tags": [],
+   "title_zh": "Soap Box：HD Moore谈OT安全、边界恐惧营销及其他"
   },
   {
-   "id": "SECAFFAIRS-5b23e105",
-   "title": "Check Point Fixes a New Actively Exploited Critical Security Flaw",
-   "url": "https://securityaffairs.com/199549/security/check-point-fixes-a-new-actively-exploited-critical-security-flaw.html",
+   "id": "SECAFFAIRS-7cb84466",
+   "title": "Japanese railway operators Keio Corporation and Tokyo Metro disclose security breaches",
+   "url": "https://securityaffairs.com/200027/data-breach/japanese-railway-operators-keio-corporation-and-tokyo-metro-disclose-security-breaches.html",
    "source": "Security Affairs",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Tue, 22 Sep 2026 19:31:40 +0000",
-   "published_date": "2026-09-22",
-   "digest": "Check Point fixes an actively exploited flaw that lets unauthenticated attackers upload and run scripts on vulnerable Security Management Servers. Check Point h…",
+   "published_at": "Tue, 29 Sep 2026 20:54:29 +0000",
+   "published_date": "2026-09-29",
+   "digest": "Keio, a major Japanese railway operator, was hit by ransomware, disrupting business systems and forcing the company to shut down its network. Keio Corporation, …",
    "tags": [
-    "漏洞预警"
+    "勒索软件"
    ],
-   "title_zh": "Check Point修复了 newly actively exploited 严重安全漏洞"
+   "title_zh": "日本铁路运营商Keio Corporation和Tokyo Metro披露安全漏洞"
   },
   {
-   "id": "THN-e863c132",
-   "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
-   "url": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 22 Sep 2026 23:59:39 +0530",
-   "published_date": "2026-09-22",
-   "digest": "Attackers exploited a previously unknown flaw in Check Point's Security Management Server in a handful of targeted attacks on July 23, the company said. The fla…",
-   "tags": [],
-   "title_zh": "Check Point警告管理服务器零日漏洞被针对性攻击利用"
-  },
-  {
-   "id": "THN-4b0ea5b3",
-   "title": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers",
-   "url": "https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 22 Sep 2026 23:33:10 +0530",
-   "published_date": "2026-09-22",
-   "digest": "WordPress has fixed a critical flaw in its core software that lets an attacker with no account make a site load a PHP file from outside its theme folders. On so…",
-   "tags": [
-    "Web安全"
-   ],
-   "title_zh": "WordPress 发布补丁修复关键漏洞 可在某些服务器上启用代码执行"
-  },
-  {
-   "id": "THN-290c6f3c",
-   "title": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials",
-   "url": "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 22 Sep 2026 23:28:15 +0530",
-   "published_date": "2026-09-22",
-   "digest": "Cybersecurity researchers have disclosed details of a malicious npm package named \"tw-pkgprobe-7731\" that masquerades as a security tool targeting developers in…",
-   "tags": [
-    "供应链攻击",
-    "身份认证"
-   ],
-   "title_zh": "恶意npm包伪装成Twilio漏洞赏金调查，可窃取凭证"
-  },
-  {
-   "id": "SECURITYWEEK-7f320a04",
-   "title": "BigCommerce Data Stolen via Ribon Apps Hack",
-   "url": "https://www.securityweek.com/bigcommerce-data-stolen-via-ribon-apps-hack/",
+   "id": "SECURITYWEEK-f9bb9e29",
+   "title": "OpenAI CEO Announces New AI Agent and Avoids Mention of Security Concerns at Developer Conference",
+   "url": "https://www.securityweek.com/openai-ceo-announces-new-ai-agent-and-avoids-mention-of-security-concerns-at-developer-conference/",
    "source": "SecurityWeek",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Tue, 22 Sep 2026 17:58:00 +0000",
-   "published_date": "2026-09-22",
-   "digest": "The attackers used a compromised BigCommerce application key held by Ribon to access customer data. The post BigCommerce Data Stolen via Ribon Apps Hack appeare…",
-   "tags": [],
-   "title_zh": "BigCommerce 数据通过 Ribon Apps 破绽被盗取"
-  },
-  {
-   "id": "THN-1d188102",
-   "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
-   "url": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 22 Sep 2026 22:33:31 +0530",
-   "published_date": "2026-09-22",
-   "digest": "Microsoft on Tuesday announced the takedown of the EvilTokens device code phishing service that it said used artificial intelligence (AI) \"at every step of the …",
+   "published_at": "Tue, 29 Sep 2026 20:14:44 +0000",
+   "published_date": "2026-09-29",
+   "digest": "Altman made a slew of product announcements and updates, including the company’s new agents, called Dots. The post OpenAI CEO Announces New AI Agent and Avoids …",
    "tags": [
-    "钓鱼攻击"
+    "大模型安全"
    ],
-   "title_zh": "微软关闭EvilTokens设备代码钓鱼服务，关联1.2万邮箱 compromisations"
+   "title_zh": "OpenAI CEO 在开发者大会上宣布新 AI 代理，回避提及安全顾虑"
   },
   {
-   "id": "THN-01268293",
-   "title": "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials",
-   "url": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
-   "source": "The Hacker News",
+   "id": "WORDFENCE-07788795",
+   "title": "Quarterly WordPress Threat Intelligence Report – Q2 2026",
+   "url": "https://www.wordfence.com/blog/2026/09/quarterly-wordpress-threat-intelligence-report-q2-2026/",
+   "source": "Wordfence",
    "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 22 Sep 2026 22:11:12 +0530",
-   "published_date": "2026-09-22",
-   "digest": "A critical vulnerability in Bifrost, an open-source AI gateway that routes requests to more than 20 LLM providers, allows an unauthenticated attacker to run arb…",
+   "priority": "P2",
+   "published_at": "Tue, 29 Sep 2026 18:15:47 +0000",
+   "published_date": "2026-09-29",
+   "digest": "As the leader in WordPress security, Wordfence provides unparalleled security coverage that fully encompasses protection, active monitoring, detection, and resp…",
    "tags": [
-    "大模型安全",
-    "身份认证"
+    "Web安全"
    ],
-   "title_zh": "关键漏洞Bifrost AI网关让攻击者无凭据运行命令"
+   "title_zh": "2026年第二季度WordPress威胁情报报告"
   },
   {
-   "id": "THN-c184db15",
-   "title": "Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates",
-   "url": "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html",
+   "id": "THN-9633066a",
+   "title": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks",
+   "url": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
    "source": "The Hacker News",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Tue, 22 Sep 2026 21:44:04 +0530",
-   "published_date": "2026-09-22",
-   "digest": "A zero-day proof-of-concept tool that stops Microsoft Defender from installing platform and signature updates by filling all available disk space was published …",
+   "published_at": "Tue, 29 Sep 2026 23:17:01 +0530",
+   "published_date": "2026-09-29",
+   "digest": "An attacker used stolen passwords of staff at France's tax administration to take tax data on hundreds of thousands of taxpayers and businesses in June and July…",
    "tags": [],
-   "title_zh": "研究人员发布BigDiskBuster零日PoC阻止Microsoft Defender更新"
+   "title_zh": "法国税务数据被盗用偷取员工密码七周未被发现"
   },
   {
-   "id": "SECWIKI-66051254",
-   "title": "SecWiki News 2026-09-22 Review",
-   "url": "http://www.sec-wiki.com/?2026-09-22",
+   "id": "SECURITYWEEK-4df4b2b9",
+   "title": "DARPA Selects Xint to Use AI in Securing Military Messaging Apps",
+   "url": "https://www.securityweek.com/darpa-selects-xint-to-use-ai-in-securing-military-messaging-apps/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 29 Sep 2026 17:24:04 +0000",
+   "published_date": "2026-09-29",
+   "digest": "The AIxCC competition winner will analyze messaging app code and compiled binaries for vulnerabilities, with technology that could also help commercial customer…",
+   "tags": [],
+   "title_zh": "DARPA 选择 Xint 使用 AI 保护军事消息应用安全"
+  },
+  {
+   "id": "THN-13123f51",
+   "title": "Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor",
+   "url": "https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 29 Sep 2026 22:50:08 +0530",
+   "published_date": "2026-09-29",
+   "digest": "Russian state hackers known as Star Blizzard have been using fake event invitations to trick people into installing a backdoor on their Windows computers, accor…",
+   "tags": [],
+   "title_zh": "俄罗斯星暴恶意软件家族针对100余家组织通过虚假活动邀请分发后门"
+  },
+  {
+   "id": "THN-7fa9ff19",
+   "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
+   "url": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 29 Sep 2026 22:30:00 +0530",
+   "published_date": "2026-09-29",
+   "digest": "A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT)…",
+   "tags": [],
+   "title_zh": "新Spectre-v2 BTR攻击即使在现有防御措施存在的情况下仍泄漏Linux内存"
+  },
+  {
+   "id": "SECURITYWEEK-b894c803",
+   "title": "New Spectre v2 Variant Exposes Intel, AMD, Arm CPUs to Data Leaks",
+   "url": "https://www.securityweek.com/new-spectre-v2-variant-exposes-intel-amd-arm-cpus-to-data-leaks/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 29 Sep 2026 17:00:00 +0000",
+   "published_date": "2026-09-29",
+   "digest": "Branch Target Reuse (BTR) is a new Spectre v2 attack targeting JIT compilers in web browsers, language runtimes, and the operating system kernel The post New Sp…",
+   "tags": [],
+   "title_zh": "新Spectre v2变种使Intel、AMD、Arm CPU面临数据泄露风险"
+  },
+  {
+   "id": "SECWIKI-ab6acdbd",
+   "title": "SecWiki News 2026-09-29 Review",
+   "url": "http://www.sec-wiki.com/?2026-09-29",
    "source": "SecWiki",
    "category": "网络安全",
    "priority": "P2",
-   "published_at": "\nTue, 22 Sep 2026 23:58:20 +0800",
-   "published_date": "2026-09-22",
-   "digest": "开源AI仓库潜伏式污染攻击事件 by ourren 2026第二届湾区杯网络安全大赛决赛（AI专项赛道静态题wp） by ourren Evilginx3钓鱼攻击框架 by ourren 更多最新文章，请访问 SecWiki",
-   "tags": [
-    "钓鱼攻击"
-   ],
-   "title_zh": "SecWiki 新闻 2026-09-22 概览"
+   "published_at": "\nTue, 29 Sep 2026 23:58:20 +0800",
+   "published_date": "2026-09-29",
+   "digest": "今日暂未更新资讯~ 更多最新文章，请访问 SecWiki",
+   "tags": [],
+   "title_zh": "SecWiki 新闻 2026-09-29 概览"
   },
   {
-   "id": "FREEBUF-7d988a1f",
-   "title": "Cisco Talos披露新型AI恶意软件，四模型投票决策战术行动",
-   "url": "https://www.freebuf.com/articles/ai-security/502742.html",
-   "source": "FreeBuf",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 22 Sep 2026 23:44:32 +0800",
-   "published_date": "2026-09-22",
-   "digest": "思科Talos发现无需C2与人工操控、靠四个大模型投票决策战术行动的AI窃密恶意软件，同步开源专用狩猎工具CAIRN，提醒防御方把握应对窗口期。",
-   "tags": [
-    "大模型安全"
-   ]
-  },
-  {
-   "id": "WORDFENCE-2c4c5e71",
-   "title": "Inside a Malicious, Stealthy WordPress Must Use Plugin",
-   "url": "https://www.wordfence.com/blog/2026/09/inside-a-malicious-stealthy-wordpress-must-use-plugin/",
-   "source": "Wordfence",
-   "category": "网络安全",
-   "priority": "P2",
-   "published_at": "Tue, 22 Sep 2026 14:56:17 +0000",
-   "published_date": "2026-09-22",
-   "digest": "The Wordfence Threat Intelligence Team identified an interesting malware sample in mid June during a site clean. TThe malware was installed as a must-use plugin…",
-   "tags": [
-    "Web安全"
-   ],
-   "title_zh": "恶意隐蔽的WordPress必用插件内幕"
-  },
-  {
-   "id": "SECURITYWEEK-ce31c793",
-   "title": "Cyera Raises $400 Million at $12+ Billion Valuation",
-   "url": "https://www.securityweek.com/cyera-raises-400-million-at-12-billion-valuation/",
+   "id": "SECURITYWEEK-da2f3fc8",
+   "title": "RemoteThreat Launches With $7 Million for Offensive Operations Platform",
+   "url": "https://www.securityweek.com/remotethreat-launches-with-7-million-for-offensive-operations-platform/",
    "source": "SecurityWeek",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Tue, 22 Sep 2026 14:29:34 +0000",
-   "published_date": "2026-09-22",
-   "digest": "The data security company received the new investment from Goldman Sachs Alternatives, extending its Series G funding round. The post Cyera Raises $400 Million …",
+   "published_at": "Tue, 29 Sep 2026 14:38:07 +0000",
+   "published_date": "2026-09-29",
+   "digest": "The company emerged from stealth mode with pre-seed funding from Osage University Partners and DataTribe. The post RemoteThreat Launches With $7 Million for Off…",
    "tags": [],
-   "title_zh": "Cyera融资4亿美元，估值超120亿"
+   "title_zh": "远程威胁发起进攻操作平台运营，筹得700万美元"
   },
   {
-   "id": "SECAFFAIRS-4d28d911",
-   "title": "Chaotic Eclipse Released BigDiskBuster, A PoC For Windows Defender Update DoS Zero-Day",
-   "url": "https://securityaffairs.com/199538/hacking/chaotic-eclipse-released-bigdiskbuster-a-poc-for-windows-defender-update-dos-zero-day.html",
+   "id": "THN-39316ce0",
+   "title": "Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown",
+   "url": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 29 Sep 2026 19:43:20 +0530",
+   "published_date": "2026-09-29",
+   "digest": "Kiteworks on Monday said it worked with federal intelligence authorities over the weekend as it identified and addressed a critical security vulnerability durin…",
+   "tags": [],
+   "title_zh": "Kiteworks修复九小时预防性停机期间发现的严重漏洞"
+  },
+  {
+   "id": "SECAFFAIRS-7c15f772",
+   "title": "Three Million Affected in Pentagon Personnel Agency Data Breach",
+   "url": "https://securityaffairs.com/200017/uncategorized/three-million-affected-in-pentagon-personnel-agency-data-breach.html",
    "source": "Security Affairs",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Tue, 22 Sep 2026 14:04:00 +0000",
-   "published_date": "2026-09-22",
-   "digest": "The researcher Chaotic Eclipse released BigDiskBuster, a PoC exploit for a Windows Defender Update DoS Zero-Day vulnerability. Security researcher Chaotic Eclip…",
-   "tags": [],
-   "title_zh": "Chaos Eclipse 发布了 BigDiskBuster，一个针对 Windows Defender 更新的PoC DoS 零日漏洞"
-  },
-  {
-   "id": "SECURITYWEEK-958558aa",
-   "title": "Nightmare Eclipse Drops New Microsoft Defender Exploit After Revealing Identity",
-   "url": "https://www.securityweek.com/nightmare-eclipse-drops-new-microsoft-defender-exploit-after-revealing-identity/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 22 Sep 2026 13:26:51 +0000",
-   "published_date": "2026-09-22",
-   "digest": "Abdelhamid Naceri, a former Microsoft Germany employee, is the exploit leaker Nightmare Eclipse, aka Chaotic Eclipse. The post Nightmare Eclipse Drops New Micro…",
+   "published_at": "Tue, 29 Sep 2026 14:09:04 +0000",
+   "published_date": "2026-09-29",
+   "digest": "Pentagon personnel agency breach exposed data of 3 million people after attackers accessed a file-sharing server for about nine months. The U.S. Defense Manpowe…",
    "tags": [
-    "身份认证"
+    "数据泄露"
    ],
-   "title_zh": "Nightmare Eclipse 恶意软件释放新 Microsoft Defender 利用工具revealing自身身份"
+   "title_zh": "五角大楼人事局数据泄露影响三百万用户"
   },
   {
-   "id": "THN-58ac3e3c",
-   "title": "AI Agents Are Rewriting the Rules of Lateral Movement",
-   "url": "https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html",
+   "id": "THN-34d32e96",
+   "title": "101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent",
+   "url": "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html",
    "source": "The Hacker News",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Tue, 22 Sep 2026 18:00:00 +0530",
-   "published_date": "2026-09-22",
-   "digest": "Security teams have spent decades asking whether an identity has too much access. AI agents raise a harder question: how can we determine which paths an autonom…",
-   "tags": [
-    "大模型安全",
-    "身份认证"
-   ],
-   "title_zh": "AI代理正在重写横向移动的规则"
-  },
-  {
-   "id": "THN-e2d7a4fe",
-   "title": "New CVSS 10.0 VeloCloud Orchestrator Flaw Actively Exploited in Certificate-Based Setups",
-   "url": "https://thehackernews.com/2026/09/new-cvss-100-velocloud-orchestrator.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 22 Sep 2026 17:59:00 +0530",
-   "published_date": "2026-09-22",
-   "digest": "Attackers are exploiting a new flaw in on-premises VeloCloud Orchestrator (VCO), the server that manages the Edge devices in a VeloCloud SD-WAN, Arista said on …",
-   "tags": [
-    "漏洞预警"
-   ],
-   "title_zh": "新的CVSS 10.0 VeloCloud Orchestrator 漏洞在基于证书的设置中被积极利用"
-  },
-  {
-   "id": "SECURITYWEEK-598759cd",
-   "title": "Only 13% of OT Network Segments Are Fully Isolated: Analysis",
-   "url": "https://www.securityweek.com/only-13-of-ot-network-segments-are-fully-isolated-analysis/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 22 Sep 2026 12:24:30 +0000",
-   "published_date": "2026-09-22",
-   "digest": "Forescout’s new network segmentation research shows that OT and medical devices often share network segments with other enterprise assets. The post Only 13% of …",
-   "tags": [],
-   "title_zh": "只有13%的OT网络段完全隔离：分析"
-  },
-  {
-   "id": "SECURITYWEEK-537801ac",
-   "title": "Recent ZyXEL Switch Vulnerability Exploited by Chinese Hackers",
-   "url": "https://www.securityweek.com/recent-zyxel-switch-vulnerability-exploited-by-chinese-hackers/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 22 Sep 2026 11:55:20 +0000",
-   "published_date": "2026-09-22",
-   "digest": "A Chinese threat actor has exploited the bug to exfiltrate sensitive information from nearly 1,000 ZyXEL switches. The post Recent ZyXEL Switch Vulnerability Ex…",
-   "tags": [],
-   "title_zh": "近期ZyXEL交换机漏洞被中国黑客利用"
-  },
-  {
-   "id": "THN-38f73adb",
-   "title": "DORA Year Two: Can Your SOC Actually See the Attack?",
-   "url": "https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 22 Sep 2026 17:15:00 +0530",
-   "published_date": "2026-09-22",
-   "digest": "When the Digital Operational Resilience Act (DORA) became enforceable across the European Union in January 2025, it triggered an administrative sprint. Financia…",
-   "tags": [],
-   "title_zh": "DORA第二年：你的SOC真的能发现攻击吗？"
-  },
-  {
-   "id": "THN-4059bac5",
-   "title": "New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory",
-   "url": "https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 22 Sep 2026 17:08:40 +0530",
-   "published_date": "2026-09-22",
-   "digest": "A new flaw in the Linux kernel's KVM virtualization code for ARM64 processors can leave a freed piece of host memory exposed to a guest virtual machine on hosts…",
-   "tags": [],
-   "title_zh": "新的Linux内核漏洞使ARM64 KVM虚拟机可读写宿主内存"
-  },
-  {
-   "id": "SECURITYWEEK-91bd9d3a",
-   "title": "Malicious B-tree NPM Package Accumulates Millions of Downloads",
-   "url": "https://www.securityweek.com/malicious-b-tree-npm-package-accumulates-millions-of-downloads/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 22 Sep 2026 11:33:59 +0000",
-   "published_date": "2026-09-22",
-   "digest": "Posing as the legitimate sorted-btree package, indexed-btree hides a malware trigger in its prototype method. The post Malicious B-tree NPM Package Accumulates …",
+   "published_at": "Tue, 29 Sep 2026 19:15:10 +0530",
+   "published_date": "2026-09-29",
+   "digest": "Cybersecurity researchers have identified a cluster of 101 npm packages that are used to trap developers into a WhatsApp group subscriber campaign dubbed Phanto…",
    "tags": [
     "供应链攻击"
    ],
-   "title_zh": "恶意 B-树 NPM 包累积数百万次下载"
+   "title_zh": "101恶意npm包未经同意将开发者的WhatsApp账号添加到群组中"
   },
   {
-   "id": "FREEBUF-00b47b44",
-   "title": "FreeBuf早报 | 比亚迪Shark 6实测遭远程破解；Meta Muse AI Agent存在0Day漏洞",
-   "url": "https://www.freebuf.com/news/502585.html",
+   "id": "SECAFFAIRS-d4aaaa62",
+   "title": "Apple Patches CoreGraphics Zero-Day Linked to Sophisticated Targeted Attacks",
+   "url": "https://securityaffairs.com/200001/hacking/apple-patches-coregraphics-zero-day-linked-to-sophisticated-targeted-attacks.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 29 Sep 2026 13:28:24 +0000",
+   "published_date": "2026-09-29",
+   "digest": "Apple patched zero-day CVE-2026-86950 in CoreGraphics, exploited in sophisticated targeted attacks against specific iOS users. Apple has released security updat…",
+   "tags": [
+    "漏洞预警",
+    "移动安全"
+   ],
+   "title_zh": "苹果修复CoreGraphics零日漏洞，该漏洞与复杂定向攻击相关"
+  },
+  {
+   "id": "SECURITYWEEK-44ac5875",
+   "title": "Reco Raises $55 Million for Agentic Security",
+   "url": "https://www.securityweek.com/reco-raises-55-million-for-agentic-security/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 29 Sep 2026 13:20:53 +0000",
+   "published_date": "2026-09-29",
+   "digest": "The company will use the funds to expand its sales, partnerships, channels, and customer support teams. The post Reco Raises $55 Million for Agentic Security ap…",
+   "tags": [],
+   "title_zh": "Reco筹集5500万美元用于Agentic安全"
+  },
+  {
+   "id": "SECURITYWEEK-1dcf29a0",
+   "title": "Hackers Use ChatGPT Custom GPTs in ClickFix Attacks",
+   "url": "https://www.securityweek.com/hackers-use-chatgpt-custom-gpts-in-clickfix-attacks/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 29 Sep 2026 13:03:35 +0000",
+   "published_date": "2026-09-29",
+   "digest": "The personalized versions of ChatGPT were used to impersonate legitimate products and trick users into executing PowerShell commands. The post Hackers Use ChatG…",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "黑客使用自定义ChatGPT在ClickFix攻击中,\"); 注意：\"Custom GPTs\"可能需要根据上下文进一步确认是否为技术术语或特定指代，此处暂按直译处理。"
+  },
+  {
+   "id": "FREEBUF-0cb95161",
+   "title": "FreeBuf早报 | 五角大楼证实发生重大数据泄露；OpenAI暂停最强模型工具使用",
+   "url": "https://www.freebuf.com/news/503960.html",
    "source": "FreeBuf",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Tue, 22 Sep 2026 19:31:18 +0800",
-   "published_date": "2026-09-22",
-   "digest": "比亚迪Shark 6遭无密码远程破解，可被操控车载功能、窃听信息、实时定位，研究员称“比亚迪直接把前门敞开着”，暴露联网车安全风险与监管空白。",
+   "published_at": "Tue, 29 Sep 2026 21:00:10 +0800",
+   "published_date": "2026-09-29",
+   "digest": "美国五角大楼证实DMDC系统遭入侵长达9个月，超300万人未加密敏感信息外泄，数据可被用于身份盗窃、情报活动，风险极高。",
    "tags": [
-    "漏洞预警",
-    "大模型安全",
-    "物联网安全",
-    "监管合规"
+    "数据泄露",
+    "身份认证"
    ]
   },
   {
-   "id": "THN-758e8557",
-   "title": "SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE",
-   "url": "https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html",
-   "source": "The Hacker News",
+   "id": "SECURITYWEEK-56aa40ab",
+   "title": "Pentagon Personnel Agency Data Breach Impacts 3 Million People",
+   "url": "https://www.securityweek.com/pentagon-personnel-agency-data-breach-impacts-3-million-people/",
+   "source": "SecurityWeek",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Tue, 22 Sep 2026 16:47:41 +0530",
-   "published_date": "2026-09-22",
-   "digest": "A SharePoint Server vulnerability that Microsoft initially classified as a spoofing flaw with a CVSS score of 6.5 actually enables authenticated remote code exe…",
+   "published_at": "Tue, 29 Sep 2026 12:25:12 +0000",
+   "published_date": "2026-09-29",
+   "digest": "The data breach affects the Defense Manpower Data Center (DMDC), which maintains personnel records for the Department of Defense. The post Pentagon Personnel Ag…",
    "tags": [
-    "漏洞预警"
+    "数据泄露"
    ],
-   "title_zh": "SharePoint 存在的初始列为欺骗漏洞最终启用认证远程代码执行"
+   "title_zh": "五角大楼人事局数据泄露影响300万人"
+  },
+  {
+   "id": "SECURITYWEEK-7eade486",
+   "title": "Rig Security Emerges From Stealth With $12M to Tackle Agentic AI Identity Risks",
+   "url": "https://www.securityweek.com/rig-security-emerges-from-stealth-with-12m-to-tackle-agentic-ai-identity-risks/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 29 Sep 2026 12:00:00 +0000",
+   "published_date": "2026-09-29",
+   "digest": "Rig provides an identity dependencies graph to distinguish between legitimate users and rogue AI agents The post Rig Security Emerges From Stealth With $12M to …",
+   "tags": [
+    "大模型安全",
+    "身份认证"
+   ],
+   "title_zh": "Rig安全低调 emergence 12M 投资 应对 Agentic AI 身份风险"
+  },
+  {
+   "id": "SECURITYWEEK-30883ee0",
+   "title": "Four Cyber Threats Harboring Big Plans for the Future",
+   "url": "https://www.securityweek.com/four-cyber-threats-harboring-big-plans-for-the-future/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 29 Sep 2026 11:30:00 +0000",
+   "published_date": "2026-09-29",
+   "digest": "- AI, supply-chain exposure, quantum computing and geopolitical conflict are testing security programs. Preparing for disruption must become part of day-to-day …",
+   "tags": [],
+   "title_zh": "四大网络威胁蓄势待发规划未来"
+  },
+  {
+   "id": "SECURITYWEEK-a795a220",
+   "title": "OpenAI Calls Off GPT-6.1 Astra Launch, Details Safety Cases for Frontier Training",
+   "url": "https://www.securityweek.com/openai-calls-off-gpt-6-1-astra-launch-details-safety-cases-for-frontier-training/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 29 Sep 2026 11:15:59 +0000",
+   "published_date": "2026-09-29",
+   "digest": "The GPT-6.1 Astra model was slated to debut in ChatGPT and Codex in October, but it fell short of expectations. The post OpenAI Calls Off GPT-6.1 Astra Launch, …",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "OpenAI叫停GPT-6.1 Astra发射，详述前沿训练安全论据"
+  },
+  {
+   "id": "SCHNEIER-ca5d9a25",
+   "title": "Using Device Linking to Eavesdrop on WhatsApp and Signal",
+   "url": "https://www.schneier.com/blog/archives/2026/09/using-device-linking-to-eavesdrop-on-whatsapp-and-signal.html",
+   "source": "Schneier",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 29 Sep 2026 11:02:19 +0000",
+   "published_date": "2026-09-29",
+   "digest": "Modern messaging apps allow users to link their phone accounts to their computer desktop. Eavesdroppers are taking advantage of this capability: Apps such as Wh…",
+   "tags": [],
+   "title_zh": "使用设备链接窃听WhatsApp和Signal"
+  },
+  {
+   "id": "SECURITYWEEK-7fcddfdd",
+   "title": "Dutch Police Arrest Convicted Hacker in ShinyHunters Investigation",
+   "url": "https://www.securityweek.com/dutch-police-arrest-convicted-hacker-in-shinyhunters-investigation/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 29 Sep 2026 11:01:55 +0000",
+   "published_date": "2026-09-29",
+   "digest": "Pepijn van der Stap was convicted in 2023 for hacking multiple organizations, stealing their data, and extorting them. The post Dutch Police Arrest Convicted Ha…",
+   "tags": [],
+   "title_zh": "荷兰警方在ShinyHunters调查中逮捕惯犯黑客"
   }
  ]
 }
