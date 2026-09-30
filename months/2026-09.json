@@ -2,6 +2,19 @@
  "month": "2026-09",
  "items": [
   {
+   "id": "SECURITYWEEK-0729026f",
+   "title": "Trump Says Top Tech Firms Have Signed Accord to ‘Self-Police’ AI Development",
+   "url": "https://www.securityweek.com/trump-says-top-tech-firms-have-signed-accord-to-self-police-ai-development/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 30 Sep 2026 01:48:21 +0000",
+   "published_date": "2026-09-30",
+   "digest": "The accord opened the door to future regulation but focused on four voluntary steps for the companies to take. The post Trump Says Top Tech Firms Have Signed Ac…",
+   "tags": [],
+   "title_zh": "特朗普称顶级科技公司已签署协议进行“自我监管”AI开发"
+  },
+  {
    "id": "RISKYBIZ-48c4a484",
    "title": "Soap Box: HD Moore talks OT security, frontier fearmongering and more",
    "url": "https://risky.biz/SOAPBOX111/",
@@ -12,7 +25,7 @@
    "published_date": "2026-09-30",
    "digest": "In this sponsored Soap Box edition of the Risky Business podcast Patrick Gray chats with industry legend HD Moore about how his company runZero wound up being u…",
    "tags": [],
-   "title_zh": "Soap Box：HD Moore谈OT安全、边界恐惧营销及其他"
+   "title_zh": "Soap Box: HD Moore 讨论 OT 安全、边界恐惧营销等话题"
   },
   {
    "id": "SECAFFAIRS-7cb84466",
@@ -42,7 +55,7 @@
    "tags": [
     "大模型安全"
    ],
-   "title_zh": "OpenAI CEO 在开发者大会上宣布新 AI 代理，回避提及安全顾虑"
+   "title_zh": "OpenAI 首席执行官在开发者大会上宣布新AI代理，并回避提及安全顾虑"
   },
   {
    "id": "WORDFENCE-07788795",
@@ -70,7 +83,7 @@
    "published_date": "2026-09-29",
    "digest": "An attacker used stolen passwords of staff at France's tax administration to take tax data on hundreds of thousands of taxpayers and businesses in June and July…",
    "tags": [],
-   "title_zh": "法国税务数据被盗用偷取员工密码七周未被发现"
+   "title_zh": "法国税务数据被盗用已连续七周未被发现，使用的是窃取的员工密码"
   },
   {
    "id": "SECURITYWEEK-4df4b2b9",
@@ -96,7 +109,7 @@
    "published_date": "2026-09-29",
    "digest": "Russian state hackers known as Star Blizzard have been using fake event invitations to trick people into installing a backdoor on their Windows computers, accor…",
    "tags": [],
-   "title_zh": "俄罗斯星暴恶意软件家族针对100余家组织通过虚假活动邀请分发后门"
+   "title_zh": "俄罗斯星暴恶意软件家族针对100余家组织通过假活动邀请分发后门"
   },
   {
    "id": "THN-7fa9ff19",
@@ -109,7 +122,7 @@
    "published_date": "2026-09-29",
    "digest": "A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT)…",
    "tags": [],
-   "title_zh": "新Spectre-v2 BTR攻击即使在现有防御措施存在的情况下仍泄漏Linux内存"
+   "title_zh": "新Spectre-v2 BTR攻击即便存在防御措施仍泄露Linux内存"
   },
   {
    "id": "SECURITYWEEK-b894c803",
@@ -122,7 +135,7 @@
    "published_date": "2026-09-29",
    "digest": "Branch Target Reuse (BTR) is a new Spectre v2 attack targeting JIT compilers in web browsers, language runtimes, and the operating system kernel The post New Sp…",
    "tags": [],
-   "title_zh": "新Spectre v2变种使Intel、AMD、Arm CPU面临数据泄露风险"
+   "title_zh": "新Spectre v2变体使Intel、AMD、Arm CPU面临数据泄露风险"
   },
   {
    "id": "SECWIKI-ab6acdbd",
@@ -148,7 +161,7 @@
    "published_date": "2026-09-29",
    "digest": "The company emerged from stealth mode with pre-seed funding from Osage University Partners and DataTribe. The post RemoteThreat Launches With $7 Million for Off…",
    "tags": [],
-   "title_zh": "远程威胁发起进攻操作平台运营，筹得700万美元"
+   "title_zh": "远程威胁发起进攻操作平台筹资700万美元"
   },
   {
    "id": "THN-39316ce0",
@@ -235,7 +248,7 @@
    "tags": [
     "大模型安全"
    ],
-   "title_zh": "黑客使用自定义ChatGPT在ClickFix攻击中,\"); 注意：\"Custom GPTs\"可能需要根据上下文进一步确认是否为技术术语或特定指代，此处暂按直译处理。"
+   "title_zh": "黑客使用自定义GPT在ClickFix攻击中作弊"
   },
   {
    "id": "FREEBUF-0cb95161",
@@ -281,7 +294,7 @@
     "大模型安全",
     "身份认证"
    ],
-   "title_zh": "Rig安全低调 emergence 12M 投资 应对 Agentic AI 身份风险"
+   "title_zh": "Rig安全悄然 emergence 並筹集1200万美元以应对Agentic AI身份风险"
   },
   {
    "id": "SECURITYWEEK-30883ee0",
@@ -294,7 +307,7 @@
    "published_date": "2026-09-29",
    "digest": "- AI, supply-chain exposure, quantum computing and geopolitical conflict are testing security programs. Preparing for disruption must become part of day-to-day …",
    "tags": [],
-   "title_zh": "四大网络威胁蓄势待发规划未来"
+   "title_zh": "四大网络威胁蓄谋未来"
   },
   {
    "id": "SECURITYWEEK-a795a220",
@@ -309,7 +322,7 @@
    "tags": [
     "大模型安全"
    ],
-   "title_zh": "OpenAI叫停GPT-6.1 Astra发射，详述前沿训练安全论据"
+   "title_zh": "OpenAI叫停GPT-6.1 Astra发布，详细说明Frontier训练的安全性"
   },
   {
    "id": "SCHNEIER-ca5d9a25",
@@ -362,7 +375,7 @@
    "tags": [
     "云安全"
    ],
-   "title_zh": "OperTraitors：如何以Kubernetes操作器之名背叛你的安全态势"
+   "title_zh": "OperTraitors：如何以Kubernetes操作器危害你的安全态势"
   },
   {
    "id": "SECURITYWEEK-7f7412ee",
@@ -514,7 +527,7 @@
     "漏洞预警",
     "移动安全"
    ],
-   "title_zh": "苹果修复了Meta报告的零日漏洞，该漏洞与“极其复杂的攻击”相关"
+   "title_zh": "苹果修复了元报告的零日漏洞，与“极其复杂的攻击”相关"
   },
   {
    "id": "THN-7a8f58b5",
@@ -667,7 +680,7 @@
    "tags": [
     "钓鱼攻击"
    ],
-   "title_zh": "邮件中的威胁依然存在——但披上了新外衣"
+   "title_zh": "devil仍在邮件中作祟——但换上了新面具"
   },
   {
    "id": "FREEBUF-3292758e",

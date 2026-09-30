@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-30 09:36",
+ "generated_at": "2026-09-30 10:02",
  "source_count": 83,
- "total": 5477,
+ "total": 5478,
  "months": [
   {
    "month": "2026-09",
-   "count": 2026
+   "count": 2027
   },
   {
    "month": "2026-08",
@@ -82,14 +82,14 @@
  ],
  "facets": {
   "categories": {
-   "网络安全": 2944,
+   "网络安全": 2945,
    "AI安全": 2533
   },
   "sources": {
    "arXiv cs.CR": 2502,
    "FreeBuf": 770,
    "The Hacker News": 512,
-   "SecurityWeek": 428,
+   "SecurityWeek": 429,
    "ZDI Published": 322,
    "Security Affairs": 288,
    "ESET Research": 117,
@@ -117,7 +117,7 @@
    "Volexity": 3
   },
   "priorities": {
-   "P1": 5008,
+   "P1": 5009,
    "P2": 136,
    "P0": 333
   },
