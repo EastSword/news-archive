@@ -1,342 +1,341 @@
 {
- "generated_at": "2026-09-30 10:02",
- "total": 5478,
+ "generated_at": "2026-10-01 10:03",
+ "total": 5617,
  "items": [
   {
-   "id": "SECURITYWEEK-0729026f",
-   "title": "Trump Says Top Tech Firms Have Signed Accord to ‘Self-Police’ AI Development",
-   "url": "https://www.securityweek.com/trump-says-top-tech-firms-have-signed-accord-to-self-police-ai-development/",
+   "id": "SECURITYWEEK-a6c374cc",
+   "title": "FTC is Investigating OpenAI and Anthropic Over Possible risks to Consumers",
+   "url": "https://www.securityweek.com/ftc-is-investigating-openai-and-anthropic-over-possible-risks-to-consumers/",
    "source": "SecurityWeek",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Wed, 30 Sep 2026 01:48:21 +0000",
+   "published_at": "Wed, 30 Sep 2026 23:43:51 +0000",
    "published_date": "2026-09-30",
-   "digest": "The accord opened the door to future regulation but focused on four voluntary steps for the companies to take. The post Trump Says Top Tech Firms Have Signed Ac…",
+   "digest": "An FTC spokesperson confirmed the investigation but declined further comment. The post FTC is Investigating OpenAI and Anthropic Over Possible risks to Consumer…",
    "tags": [],
-   "title_zh": "特朗普称顶级科技公司已签署协议进行“自我监管”AI开发"
+   "title_zh": "FTC正在调查OpenAI和Anthropic可能对消费者构成的风险"
   },
   {
-   "id": "RISKYBIZ-48c4a484",
-   "title": "Soap Box: HD Moore talks OT security, frontier fearmongering and more",
-   "url": "https://risky.biz/SOAPBOX111/",
-   "source": "Risky Business",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Wed, 30 Sep 2026 08:50:32 +1000",
-   "published_date": "2026-09-30",
-   "digest": "In this sponsored Soap Box edition of the Risky Business podcast Patrick Gray chats with industry legend HD Moore about how his company runZero wound up being u…",
-   "tags": [],
-   "title_zh": "Soap Box: HD Moore 讨论 OT 安全、边界恐惧营销等话题"
-  },
-  {
-   "id": "SECAFFAIRS-7cb84466",
-   "title": "Japanese railway operators Keio Corporation and Tokyo Metro disclose security breaches",
-   "url": "https://securityaffairs.com/200027/data-breach/japanese-railway-operators-keio-corporation-and-tokyo-metro-disclose-security-breaches.html",
+   "id": "SECAFFAIRS-708339b6",
+   "title": "WatchGuard fixes critical Fireware OS flaw allowing remote code execution",
+   "url": "https://securityaffairs.com/200108/security/watchguard-fixes-critical-fireware-os-flaw-allowing-remote-code-execution.html",
    "source": "Security Affairs",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Tue, 29 Sep 2026 20:54:29 +0000",
-   "published_date": "2026-09-29",
-   "digest": "Keio, a major Japanese railway operator, was hit by ransomware, disrupting business systems and forcing the company to shut down its network. Keio Corporation, …",
+   "published_at": "Wed, 30 Sep 2026 19:29:45 +0000",
+   "published_date": "2026-09-30",
+   "digest": "WatchGuard fixes 15 Fireware OS flaws, including a critical RCE bug that could give attackers root access to vulnerable Firebox appliances. WatchGuard has relea…",
    "tags": [
-    "勒索软件"
+    "漏洞预警"
    ],
-   "title_zh": "日本铁路运营商Keio Corporation和Tokyo Metro披露安全漏洞"
+   "title_zh": "WatchGuard修复Fireware OS严重漏洞允许远程代码执行"
   },
   {
-   "id": "SECURITYWEEK-f9bb9e29",
-   "title": "OpenAI CEO Announces New AI Agent and Avoids Mention of Security Concerns at Developer Conference",
-   "url": "https://www.securityweek.com/openai-ceo-announces-new-ai-agent-and-avoids-mention-of-security-concerns-at-developer-conference/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 29 Sep 2026 20:14:44 +0000",
-   "published_date": "2026-09-29",
-   "digest": "Altman made a slew of product announcements and updates, including the company’s new agents, called Dots. The post OpenAI CEO Announces New AI Agent and Avoids …",
-   "tags": [
-    "大模型安全"
-   ],
-   "title_zh": "OpenAI 首席执行官在开发者大会上宣布新AI代理，并回避提及安全顾虑"
-  },
-  {
-   "id": "WORDFENCE-07788795",
-   "title": "Quarterly WordPress Threat Intelligence Report – Q2 2026",
-   "url": "https://www.wordfence.com/blog/2026/09/quarterly-wordpress-threat-intelligence-report-q2-2026/",
-   "source": "Wordfence",
-   "category": "网络安全",
-   "priority": "P2",
-   "published_at": "Tue, 29 Sep 2026 18:15:47 +0000",
-   "published_date": "2026-09-29",
-   "digest": "As the leader in WordPress security, Wordfence provides unparalleled security coverage that fully encompasses protection, active monitoring, detection, and resp…",
-   "tags": [
-    "Web安全"
-   ],
-   "title_zh": "2026年第二季度WordPress威胁情报报告"
-  },
-  {
-   "id": "THN-9633066a",
-   "title": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks",
-   "url": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
+   "id": "THN-dee2877c",
+   "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
+   "url": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
    "source": "The Hacker News",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Tue, 29 Sep 2026 23:17:01 +0530",
-   "published_date": "2026-09-29",
-   "digest": "An attacker used stolen passwords of staff at France's tax administration to take tax data on hundreds of thousands of taxpayers and businesses in June and July…",
+   "published_at": "Wed, 30 Sep 2026 22:16:29 +0530",
+   "published_date": "2026-09-30",
+   "digest": "Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to finding…",
    "tags": [],
-   "title_zh": "法国税务数据被盗用已连续七周未被发现，使用的是窃取的员工密码"
+   "title_zh": "攻击者利用Zimbra漏洞部署Web shell并窃取认证密钥"
   },
   {
-   "id": "SECURITYWEEK-4df4b2b9",
-   "title": "DARPA Selects Xint to Use AI in Securing Military Messaging Apps",
-   "url": "https://www.securityweek.com/darpa-selects-xint-to-use-ai-in-securing-military-messaging-apps/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 29 Sep 2026 17:24:04 +0000",
-   "published_date": "2026-09-29",
-   "digest": "The AIxCC competition winner will analyze messaging app code and compiled binaries for vulnerabilities, with technology that could also help commercial customer…",
-   "tags": [],
-   "title_zh": "DARPA 选择 Xint 使用 AI 保护军事消息应用安全"
-  },
-  {
-   "id": "THN-13123f51",
-   "title": "Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor",
-   "url": "https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html",
+   "id": "THN-6893e432",
+   "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
+   "url": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
    "source": "The Hacker News",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Tue, 29 Sep 2026 22:50:08 +0530",
-   "published_date": "2026-09-29",
-   "digest": "Russian state hackers known as Star Blizzard have been using fake event invitations to trick people into installing a backdoor on their Windows computers, accor…",
-   "tags": [],
-   "title_zh": "俄罗斯星暴恶意软件家族针对100余家组织通过假活动邀请分发后门"
+   "published_at": "Wed, 30 Sep 2026 22:02:59 +0530",
+   "published_date": "2026-09-30",
+   "digest": "Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting i…",
+   "tags": [
+    "钓鱼攻击"
+   ],
+   "title_zh": "攻击者利用MSP360部署ScreenConnect进行双RMM钓鱼攻击"
   },
   {
-   "id": "THN-7fa9ff19",
-   "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
-   "url": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 29 Sep 2026 22:30:00 +0530",
-   "published_date": "2026-09-29",
-   "digest": "A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT)…",
-   "tags": [],
-   "title_zh": "新Spectre-v2 BTR攻击即便存在防御措施仍泄露Linux内存"
-  },
-  {
-   "id": "SECURITYWEEK-b894c803",
-   "title": "New Spectre v2 Variant Exposes Intel, AMD, Arm CPUs to Data Leaks",
-   "url": "https://www.securityweek.com/new-spectre-v2-variant-exposes-intel-amd-arm-cpus-to-data-leaks/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 29 Sep 2026 17:00:00 +0000",
-   "published_date": "2026-09-29",
-   "digest": "Branch Target Reuse (BTR) is a new Spectre v2 attack targeting JIT compilers in web browsers, language runtimes, and the operating system kernel The post New Sp…",
-   "tags": [],
-   "title_zh": "新Spectre v2变体使Intel、AMD、Arm CPU面临数据泄露风险"
-  },
-  {
-   "id": "SECWIKI-ab6acdbd",
-   "title": "SecWiki News 2026-09-29 Review",
-   "url": "http://www.sec-wiki.com/?2026-09-29",
+   "id": "SECWIKI-fc0e7f9c",
+   "title": "SecWiki News 2026-09-30 Review",
+   "url": "http://www.sec-wiki.com/?2026-09-30",
    "source": "SecWiki",
    "category": "网络安全",
    "priority": "P2",
-   "published_at": "\nTue, 29 Sep 2026 23:58:20 +0800",
-   "published_date": "2026-09-29",
-   "digest": "今日暂未更新资讯~ 更多最新文章，请访问 SecWiki",
-   "tags": [],
-   "title_zh": "SecWiki 新闻 2026-09-29 概览"
-  },
-  {
-   "id": "SECURITYWEEK-da2f3fc8",
-   "title": "RemoteThreat Launches With $7 Million for Offensive Operations Platform",
-   "url": "https://www.securityweek.com/remotethreat-launches-with-7-million-for-offensive-operations-platform/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 29 Sep 2026 14:38:07 +0000",
-   "published_date": "2026-09-29",
-   "digest": "The company emerged from stealth mode with pre-seed funding from Osage University Partners and DataTribe. The post RemoteThreat Launches With $7 Million for Off…",
-   "tags": [],
-   "title_zh": "远程威胁发起进攻操作平台筹资700万美元"
-  },
-  {
-   "id": "THN-39316ce0",
-   "title": "Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown",
-   "url": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 29 Sep 2026 19:43:20 +0530",
-   "published_date": "2026-09-29",
-   "digest": "Kiteworks on Monday said it worked with federal intelligence authorities over the weekend as it identified and addressed a critical security vulnerability durin…",
-   "tags": [],
-   "title_zh": "Kiteworks修复九小时预防性停机期间发现的严重漏洞"
-  },
-  {
-   "id": "SECAFFAIRS-7c15f772",
-   "title": "Three Million Affected in Pentagon Personnel Agency Data Breach",
-   "url": "https://securityaffairs.com/200017/uncategorized/three-million-affected-in-pentagon-personnel-agency-data-breach.html",
-   "source": "Security Affairs",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 29 Sep 2026 14:09:04 +0000",
-   "published_date": "2026-09-29",
-   "digest": "Pentagon personnel agency breach exposed data of 3 million people after attackers accessed a file-sharing server for about nine months. The U.S. Defense Manpowe…",
-   "tags": [
-    "数据泄露"
-   ],
-   "title_zh": "五角大楼人事局数据泄露影响三百万用户"
-  },
-  {
-   "id": "THN-34d32e96",
-   "title": "101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent",
-   "url": "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 29 Sep 2026 19:15:10 +0530",
-   "published_date": "2026-09-29",
-   "digest": "Cybersecurity researchers have identified a cluster of 101 npm packages that are used to trap developers into a WhatsApp group subscriber campaign dubbed Phanto…",
+   "published_at": "\nWed, 30 Sep 2026 23:58:20 +0800",
+   "published_date": "2026-09-30",
+   "digest": "大语言模型重塑军事开源情报 by ourren 2026 供应链安全年度总结 · 上卷 by ourren 更多最新文章，请访问 SecWiki",
    "tags": [
     "供应链攻击"
    ],
-   "title_zh": "101恶意npm包未经同意将开发者的WhatsApp账号添加到群组中"
+   "title_zh": "SecWiki 新闻 2026-09-30 概览"
   },
   {
-   "id": "SECAFFAIRS-d4aaaa62",
-   "title": "Apple Patches CoreGraphics Zero-Day Linked to Sophisticated Targeted Attacks",
-   "url": "https://securityaffairs.com/200001/hacking/apple-patches-coregraphics-zero-day-linked-to-sophisticated-targeted-attacks.html",
+   "id": "THN-733046bd",
+   "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
+   "url": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 30 Sep 2026 20:54:54 +0530",
+   "published_date": "2026-09-30",
+   "digest": "Attackers are exploiting a critical flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN networks, Cisco said in an advi…",
+   "tags": [],
+   "title_zh": "Cisco警告攻击者利用SD-WAN Manager关键身份验证绕过漏洞"
+  },
+  {
+   "id": "THN-4f42cd66",
+   "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
+   "url": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 30 Sep 2026 20:30:15 +0530",
+   "published_date": "2026-09-30",
+   "digest": "Threat actors are abusing ChatGPT Custom GPTs to disguise them as legitimate product offerings and direct unsuspecting victims to malicious sites that employ Cl…",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "攻击者利用ChatGPT自定义模型分发RAT点击诱饵ClickFix"
+  },
+  {
+   "id": "SECURITYWEEK-fcc26535",
+   "title": "Google: AI Is Changing the Pace and Profile of Vulnerability Discovery",
+   "url": "https://www.securityweek.com/google-ai-is-changing-the-pace-and-profile-of-vulnerability-discovery/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 30 Sep 2026 14:05:58 +0000",
+   "published_date": "2026-09-30",
+   "digest": "Google’s analysis found that AI-discovered vulnerabilities are more likely to enable remote code execution. The post Google: AI Is Changing the Pace and Profile…",
+   "tags": [],
+   "title_zh": "谷歌：AI正改变漏洞发现的速度与特征"
+  },
+  {
+   "id": "SECAFFAIRS-68207995",
+   "title": "Oxygen Forensics, A Russian-run forensics firm spent a decade inside European police departments",
+   "url": "https://securityaffairs.com/200090/intelligence/oxygen-forensics-a-russian-run-forensics-firm-spent-a-decade-inside-european-police-departments.html",
    "source": "Security Affairs",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Tue, 29 Sep 2026 13:28:24 +0000",
-   "published_date": "2026-09-29",
-   "digest": "Apple patched zero-day CVE-2026-86950 in CoreGraphics, exploited in sophisticated targeted attacks against specific iOS users. Apple has released security updat…",
+   "published_at": "Wed, 30 Sep 2026 13:26:20 +0000",
+   "published_date": "2026-09-30",
+   "digest": "DOJ charges against Oxygen Forensics reveal the Russian-linked firm also sold forensic software to EU projects and European police forces for years. Last week’s…",
    "tags": [
-    "漏洞预警",
-    "移动安全"
+    "安全运营"
    ],
-   "title_zh": "苹果修复CoreGraphics零日漏洞，该漏洞与复杂定向攻击相关"
+   "title_zh": "氧气取证，由俄罗斯运营的取证公司十年间入驻欧洲警察部门"
   },
   {
-   "id": "SECURITYWEEK-44ac5875",
-   "title": "Reco Raises $55 Million for Agentic Security",
-   "url": "https://www.securityweek.com/reco-raises-55-million-for-agentic-security/",
+   "id": "SECURITYWEEK-79f582e9",
+   "title": "WatchGuard Patches Critical Fireware OS Code Injection Vulnerability",
+   "url": "https://www.securityweek.com/watchguard-patches-critical-fireware-os-code-injection-vulnerability/",
    "source": "SecurityWeek",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Tue, 29 Sep 2026 13:20:53 +0000",
-   "published_date": "2026-09-29",
-   "digest": "The company will use the funds to expand its sales, partnerships, channels, and customer support teams. The post Reco Raises $55 Million for Agentic Security ap…",
+   "published_at": "Wed, 30 Sep 2026 13:16:56 +0000",
+   "published_date": "2026-09-30",
+   "digest": "WatchGuard has rolled out patches for 15 code execution, DoS, authorization, and path traversal bugs in Fireware OS. The post WatchGuard Patches Critical Firewa…",
    "tags": [],
-   "title_zh": "Reco筹集5500万美元用于Agentic安全"
+   "title_zh": "WatchGuard修复了Critical Fireware OS代码注入漏洞"
   },
   {
-   "id": "SECURITYWEEK-1dcf29a0",
-   "title": "Hackers Use ChatGPT Custom GPTs in ClickFix Attacks",
-   "url": "https://www.securityweek.com/hackers-use-chatgpt-custom-gpts-in-clickfix-attacks/",
+   "id": "SECURITYWEEK-690fbf5f",
+   "title": "Government, Finance Orgs Targeted in Weeks-Long NetScaler Zero-Day Attacks",
+   "url": "https://www.securityweek.com/government-finance-orgs-targeted-in-weeks-long-netscaler-zero-day-attacks/",
    "source": "SecurityWeek",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Tue, 29 Sep 2026 13:03:35 +0000",
-   "published_date": "2026-09-29",
-   "digest": "The personalized versions of ChatGPT were used to impersonate legitimate products and trick users into executing PowerShell commands. The post Hackers Use ChatG…",
+   "published_at": "Wed, 30 Sep 2026 12:48:20 +0000",
+   "published_date": "2026-09-30",
+   "digest": "Several security firms have confirmed seeing exploitation of the NetScaler vulnerabilities CVE-2026-88771 and CVE-2026-88772. The post Government, Finance Orgs …",
+   "tags": [
+    "漏洞预警"
+   ],
+   "title_zh": "政府和金融机构在数周内的NetScaler零日攻击中受 targeted"
+  },
+  {
+   "id": "SECURITYWEEK-1aed2476",
+   "title": "Chrome, Firefox Updates Patch Over 100 Vulnerabilities",
+   "url": "https://www.securityweek.com/chrome-firefox-updates-patch-over-100-vulnerabilities/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 30 Sep 2026 12:16:52 +0000",
+   "published_date": "2026-09-30",
+   "digest": "Some of the flaws could allow remote attackers to execute arbitrary code or escape the browser sandbox. The post Chrome, Firefox Updates Patch Over 100 Vulnerab…",
+   "tags": [],
+   "title_zh": "Chrome、Firefox 更新修复逾百个漏洞"
+  },
+  {
+   "id": "THN-4d36c718",
+   "title": "Know Your Enemy: Browser-Based Attack Techniques in 2026",
+   "url": "https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 30 Sep 2026 17:28:00 +0530",
+   "published_date": "2026-09-30",
+   "digest": "Given that the browser is where business apps are accessed and used, it makes sense that attacks are happening there too. Most breaches today begin in a browser…",
+   "tags": [],
+   "title_zh": "了解敌人：2026年的浏览器攻击技术"
+  },
+  {
+   "id": "HIBP-5a4c26a1",
+   "title": "Medela - 423,947 breached accounts",
+   "url": "https://haveibeenpwned.com/Breach/Medela",
+   "source": "Have I Been Pwned",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 30 Sep 2026 11:48:28 Z",
+   "published_date": "2026-09-30",
+   "digest": "In September 2026, Swiss medical device company Medela was the target of a ShinyHunters \"pay or leak\" extortion campaign . The data allegedly obtained in the br…",
+   "tags": [],
+   "title_zh": "Medela - 423,947泄露账户"
+  },
+  {
+   "id": "THN-2ef8e65c",
+   "title": "AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub",
+   "url": "https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 30 Sep 2026 17:00:00 +0530",
+   "published_date": "2026-09-30",
+   "digest": "AI coding agents asked to share screenshots of code changes for review have put internal company images in public GitHub repositories, security company Glow sai…",
+   "tags": [],
+   "title_zh": "AI编码代理在GitHub上暴露了13000张内部图片，包括计费记录"
+  },
+  {
+   "id": "SECURITYWEEK-ce17c346",
+   "title": "Anthropic Flags AI Agent Liability Risks as OpenAI Faces Hacking Lawsuit",
+   "url": "https://www.securityweek.com/anthropic-flags-ai-agent-liability-risks-as-openai-faces-hacking-lawsuit/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 30 Sep 2026 11:19:00 +0000",
+   "published_date": "2026-09-30",
+   "digest": "Attacks by autonomous AI agents are moving out of the lab and into the courtroom, raising unsettled questions about who is liable for what agents do. The post A…",
    "tags": [
     "大模型安全"
    ],
-   "title_zh": "黑客使用自定义GPT在ClickFix攻击中作弊"
+   "title_zh": "Anthropic警告AI代理责任风险，OpenAI面临黑客诉讼"
   },
   {
-   "id": "FREEBUF-0cb95161",
-   "title": "FreeBuf早报 | 五角大楼证实发生重大数据泄露；OpenAI暂停最强模型工具使用",
-   "url": "https://www.freebuf.com/news/503960.html",
-   "source": "FreeBuf",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 29 Sep 2026 21:00:10 +0800",
-   "published_date": "2026-09-29",
-   "digest": "美国五角大楼证实DMDC系统遭入侵长达9个月，超300万人未加密敏感信息外泄，数据可被用于身份盗窃、情报活动，风险极高。",
-   "tags": [
-    "数据泄露",
-    "身份认证"
-   ]
-  },
-  {
-   "id": "SECURITYWEEK-56aa40ab",
-   "title": "Pentagon Personnel Agency Data Breach Impacts 3 Million People",
-   "url": "https://www.securityweek.com/pentagon-personnel-agency-data-breach-impacts-3-million-people/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 29 Sep 2026 12:25:12 +0000",
-   "published_date": "2026-09-29",
-   "digest": "The data breach affects the Defense Manpower Data Center (DMDC), which maintains personnel records for the Department of Defense. The post Pentagon Personnel Ag…",
-   "tags": [
-    "数据泄露"
-   ],
-   "title_zh": "五角大楼人事局数据泄露影响300万人"
-  },
-  {
-   "id": "SECURITYWEEK-7eade486",
-   "title": "Rig Security Emerges From Stealth With $12M to Tackle Agentic AI Identity Risks",
-   "url": "https://www.securityweek.com/rig-security-emerges-from-stealth-with-12m-to-tackle-agentic-ai-identity-risks/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 29 Sep 2026 12:00:00 +0000",
-   "published_date": "2026-09-29",
-   "digest": "Rig provides an identity dependencies graph to distinguish between legitimate users and rogue AI agents The post Rig Security Emerges From Stealth With $12M to …",
-   "tags": [
-    "大模型安全",
-    "身份认证"
-   ],
-   "title_zh": "Rig安全悄然 emergence 並筹集1200万美元以应对Agentic AI身份风险"
-  },
-  {
-   "id": "SECURITYWEEK-30883ee0",
-   "title": "Four Cyber Threats Harboring Big Plans for the Future",
-   "url": "https://www.securityweek.com/four-cyber-threats-harboring-big-plans-for-the-future/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 29 Sep 2026 11:30:00 +0000",
-   "published_date": "2026-09-29",
-   "digest": "- AI, supply-chain exposure, quantum computing and geopolitical conflict are testing security programs. Preparing for disruption must become part of day-to-day …",
-   "tags": [],
-   "title_zh": "四大网络威胁蓄谋未来"
-  },
-  {
-   "id": "SECURITYWEEK-a795a220",
-   "title": "OpenAI Calls Off GPT-6.1 Astra Launch, Details Safety Cases for Frontier Training",
-   "url": "https://www.securityweek.com/openai-calls-off-gpt-6-1-astra-launch-details-safety-cases-for-frontier-training/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 29 Sep 2026 11:15:59 +0000",
-   "published_date": "2026-09-29",
-   "digest": "The GPT-6.1 Astra model was slated to debut in ChatGPT and Codex in October, but it fell short of expectations. The post OpenAI Calls Off GPT-6.1 Astra Launch, …",
-   "tags": [
-    "大模型安全"
-   ],
-   "title_zh": "OpenAI叫停GPT-6.1 Astra发布，详细说明Frontier训练的安全性"
-  },
-  {
-   "id": "SCHNEIER-ca5d9a25",
-   "title": "Using Device Linking to Eavesdrop on WhatsApp and Signal",
-   "url": "https://www.schneier.com/blog/archives/2026/09/using-device-linking-to-eavesdrop-on-whatsapp-and-signal.html",
+   "id": "SCHNEIER-02856f3b",
+   "title": "I Want Better Reporting on AI Genie Behavior",
+   "url": "https://www.schneier.com/blog/archives/2026/09/i-want-better-reporting-on-ai-genie-behavior.html",
    "source": "Schneier",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Tue, 29 Sep 2026 11:02:19 +0000",
-   "published_date": "2026-09-29",
-   "digest": "Modern messaging apps allow users to link their phone accounts to their computer desktop. Eavesdroppers are taking advantage of this capability: Apps such as Wh…",
+   "published_at": "Wed, 30 Sep 2026 11:05:35 +0000",
+   "published_date": "2026-09-30",
+   "digest": "AI systems are regularly completing tasks in ways that their prompters don’t want or intend. Some of them are disturbing, and some of them are dangerous. This i…",
    "tags": [],
-   "title_zh": "使用设备链接窃听WhatsApp和Signal"
+   "title_zh": "我想要更好地报告AI精灵的行为"
+  },
+  {
+   "id": "SECURITYWEEK-01f5e3f6",
+   "title": "Russian APT Star Blizzard Uses ‘RedFlick’ Infection Chain in Recent Attacks",
+   "url": "https://www.securityweek.com/russian-apt-star-blizzard-uses-redflick-infection-chain-in-recent-attacks/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 30 Sep 2026 10:59:30 +0000",
+   "published_date": "2026-09-30",
+   "digest": "The state-sponsored group has launched larger-scale phishing campaigns to deploy the CosmicPulse backdoor. The post Russian APT Star Blizzard Uses ‘RedFlick’ In…",
+   "tags": [
+    "钓鱼攻击"
+   ],
+   "title_zh": "俄罗斯APT组织Star Blizzard近期使用“RedFlick”感染链进行攻击"
+  },
+  {
+   "id": "FREEBUF-d71bdc38",
+   "title": "回车即沦陷：TrustFall 本地复现——恶意仓库如何让 Claude Code 全权限执行 MCP",
+   "url": "https://www.freebuf.com/articles/ai-security/504188.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 30 Sep 2026 18:49:14 +0800",
+   "published_date": "2026-09-30",
+   "digest": "一次回车，Claude Code 便以你的身份无沙箱运行攻击者的 MCP Server。2.1.263 实测：链仍通、零二次确认。厂商八个月修了五个同根 CVE，却只修对话框之前。",
+   "tags": [
+    "大模型安全"
+   ]
+  },
+  {
+   "id": "THN-7ec4d141",
+   "title": "US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access",
+   "url": "https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 30 Sep 2026 16:15:00 +0530",
+   "published_date": "2026-09-30",
+   "digest": "ANY.RUN researchers traced a US-focused CSuite phishing campaign across 351 sandbox analyses, with 51% of submissions coming from the United States. Technology,…",
+   "tags": [
+    "钓鱼攻击"
+   ],
+   "title_zh": "针对CSuite的美国地区网络钓鱼攻击窃取Microsoft 365会话并部署RMM工具以实现远程访问"
+  },
+  {
+   "id": "SECURITYWEEK-9da2ed6d",
+   "title": "ShinyHunters Defiant After FBI Calls on Members to Come Forward",
+   "url": "https://www.securityweek.com/shinyhunters-defiant-after-fbi-calls-on-members-to-come-forward/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 30 Sep 2026 10:20:02 +0000",
+   "published_date": "2026-09-30",
+   "digest": "In the wake of a suspected leader’s arrest, ShinyHunters says it never intended to publish data stolen from the FBI. The post ShinyHunters Defiant After FBI Cal…",
+   "tags": [
+    "监管合规"
+   ],
+   "title_zh": "ShinyHunters拒不响应FBI劝告"
+  },
+  {
+   "id": "SECAFFAIRS-6ac064c8",
+   "title": "Attackers Abuse ChatGPT Custom GPTs to Deploy a Full-Featured RAT",
+   "url": "https://securityaffairs.com/200079/ai/attackers-abuse-chatgpt-custom-gpts-to-deploy-a-full-featured-rat.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 30 Sep 2026 09:14:36 +0000",
+   "published_date": "2026-09-30",
+   "digest": "Threat actors abused fake ChatGPT Custom GPTs and ClickFix to deliver a multi-stage RAT. ChatGPT’s Custom GPT feature is the latest legitimate surface being tur…",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "攻击者利用ChatGPT自定义模型部署全功能RAT"
+  },
+  {
+   "id": "THN-00ee02ec",
+   "title": "Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT",
+   "url": "https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 30 Sep 2026 13:54:35 +0530",
+   "published_date": "2026-09-30",
+   "digest": "Unknown threat actors have been observed exploiting a newly patched security flaw in Citrix NetScaler ADC and NetScaler Gateway appliances to target organizatio…",
+   "tags": [],
+   "title_zh": "攻击者利用NetScaler漏洞获取根访问权限，并部署WHIPSHOT和SLAPSHOT"
+  },
+  {
+   "id": "THN-2b7e7ccc",
+   "title": "OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted",
+   "url": "https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 30 Sep 2026 13:39:28 +0530",
+   "published_date": "2026-09-30",
+   "digest": "A High-severity OpenSSL flaw can leak heap memory to the other side of a DTLS connection or crash the program, OpenSSL said on September 29 as it released fixes…",
+   "tags": [],
+   "title_zh": "OpenSSL修复高危DTLS漏洞可能泄露明文堆内存"
   }
  ]
 }
