@@ -1,8 +1,12 @@
 {
- "generated_at": "2026-10-01 10:03",
+ "generated_at": "2026-10-03 10:03",
  "source_count": 83,
- "total": 5617,
+ "total": 5738,
  "months": [
+  {
+   "month": "2026-10",
+   "count": 121
+  },
   {
    "month": "2026-09",
    "count": 2166
@@ -82,19 +86,19 @@
  ],
  "facets": {
   "categories": {
-   "网络安全": 2997,
-   "AI安全": 2620
+   "网络安全": 3022,
+   "AI安全": 2716
   },
   "sources": {
-   "arXiv cs.CR": 2589,
-   "FreeBuf": 792,
-   "The Hacker News": 522,
-   "SecurityWeek": 438,
+   "arXiv cs.CR": 2685,
+   "FreeBuf": 793,
+   "The Hacker News": 529,
+   "SecurityWeek": 445,
    "ZDI Published": 324,
-   "Security Affairs": 293,
+   "Security Affairs": 298,
    "ESET Research": 118,
-   "Schneier": 83,
-   "SecWiki": 69,
+   "Schneier": 86,
+   "SecWiki": 70,
    "Wordfence": 40,
    "嘶吼": 40,
    "Unit 42": 30,
@@ -107,7 +111,7 @@
    "天融信": 18,
    "SentinelOne Blog": 18,
    "Risky Business": 14,
-   "Trail of Bits": 11,
+   "Trail of Bits": 12,
    "Praetorian Blog": 11,
    "Krebs on Security": 11,
    "DFIR Report": 11,
@@ -117,29 +121,29 @@
    "Volexity": 3
   },
   "priorities": {
-   "P1": 5145,
-   "P2": 137,
+   "P1": 5265,
+   "P2": 138,
    "P0": 335
   },
   "tags": {
-   "学术研究": 2612,
-   "大模型安全": 896,
-   "漏洞预警": 666,
-   "身份认证": 151,
-   "监管合规": 134,
+   "学术研究": 2708,
+   "大模型安全": 928,
+   "漏洞预警": 667,
+   "身份认证": 157,
+   "监管合规": 138,
+   "AI攻防": 132,
    "数据泄露": 132,
-   "AI攻防": 125,
    "安全运营": 123,
    "钓鱼攻击": 106,
-   "供应链攻击": 99,
-   "Web安全": 88,
-   "勒索软件": 83,
-   "云安全": 81,
-   "物联网安全": 80,
-   "密码学": 80,
-   "移动安全": 58,
-   "加密货币犯罪": 55,
-   "网络诈骗": 54,
+   "供应链攻击": 100,
+   "Web安全": 90,
+   "云安全": 86,
+   "勒索软件": 84,
+   "密码学": 81,
+   "物联网安全": 81,
+   "移动安全": 59,
+   "加密货币犯罪": 56,
+   "网络诈骗": 55,
    "APT组织": 44,
    "僵尸网络": 33,
    "工控安全": 25

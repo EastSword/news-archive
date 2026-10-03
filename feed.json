@@ -1,341 +1,348 @@
 {
- "generated_at": "2026-10-01 10:03",
- "total": 5617,
+ "generated_at": "2026-10-03 10:03",
+ "total": 5738,
  "items": [
   {
-   "id": "SECURITYWEEK-a6c374cc",
-   "title": "FTC is Investigating OpenAI and Anthropic Over Possible risks to Consumers",
-   "url": "https://www.securityweek.com/ftc-is-investigating-openai-and-anthropic-over-possible-risks-to-consumers/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Wed, 30 Sep 2026 23:43:51 +0000",
-   "published_date": "2026-09-30",
-   "digest": "An FTC spokesperson confirmed the investigation but declined further comment. The post FTC is Investigating OpenAI and Anthropic Over Possible risks to Consumer…",
-   "tags": [],
-   "title_zh": "FTC正在调查OpenAI和Anthropic可能对消费者构成的风险"
-  },
-  {
-   "id": "SECAFFAIRS-708339b6",
-   "title": "WatchGuard fixes critical Fireware OS flaw allowing remote code execution",
-   "url": "https://securityaffairs.com/200108/security/watchguard-fixes-critical-fireware-os-flaw-allowing-remote-code-execution.html",
+   "id": "SECAFFAIRS-c6f0801a",
+   "title": "U.S. CISA adds Zammad GmbH Zammad flaws to its Known Exploited Vulnerabilities catalog",
+   "url": "https://securityaffairs.com/200248/security/u-s-cisa-adds-zammad-gmbh-zammad-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
    "source": "Security Affairs",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Wed, 30 Sep 2026 19:29:45 +0000",
-   "published_date": "2026-09-30",
-   "digest": "WatchGuard fixes 15 Fireware OS flaws, including a critical RCE bug that could give attackers root access to vulnerable Firebox appliances. WatchGuard has relea…",
-   "tags": [
-    "漏洞预警"
-   ],
-   "title_zh": "WatchGuard修复Fireware OS严重漏洞允许远程代码执行"
-  },
-  {
-   "id": "THN-dee2877c",
-   "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
-   "url": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Wed, 30 Sep 2026 22:16:29 +0530",
-   "published_date": "2026-09-30",
-   "digest": "Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to finding…",
-   "tags": [],
-   "title_zh": "攻击者利用Zimbra漏洞部署Web shell并窃取认证密钥"
-  },
-  {
-   "id": "THN-6893e432",
-   "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
-   "url": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Wed, 30 Sep 2026 22:02:59 +0530",
-   "published_date": "2026-09-30",
-   "digest": "Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting i…",
-   "tags": [
-    "钓鱼攻击"
-   ],
-   "title_zh": "攻击者利用MSP360部署ScreenConnect进行双RMM钓鱼攻击"
-  },
-  {
-   "id": "SECWIKI-fc0e7f9c",
-   "title": "SecWiki News 2026-09-30 Review",
-   "url": "http://www.sec-wiki.com/?2026-09-30",
-   "source": "SecWiki",
-   "category": "网络安全",
-   "priority": "P2",
-   "published_at": "\nWed, 30 Sep 2026 23:58:20 +0800",
-   "published_date": "2026-09-30",
-   "digest": "大语言模型重塑军事开源情报 by ourren 2026 供应链安全年度总结 · 上卷 by ourren 更多最新文章，请访问 SecWiki",
-   "tags": [
-    "供应链攻击"
-   ],
-   "title_zh": "SecWiki 新闻 2026-09-30 概览"
-  },
-  {
-   "id": "THN-733046bd",
-   "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
-   "url": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Wed, 30 Sep 2026 20:54:54 +0530",
-   "published_date": "2026-09-30",
-   "digest": "Attackers are exploiting a critical flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN networks, Cisco said in an advi…",
-   "tags": [],
-   "title_zh": "Cisco警告攻击者利用SD-WAN Manager关键身份验证绕过漏洞"
-  },
-  {
-   "id": "THN-4f42cd66",
-   "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
-   "url": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Wed, 30 Sep 2026 20:30:15 +0530",
-   "published_date": "2026-09-30",
-   "digest": "Threat actors are abusing ChatGPT Custom GPTs to disguise them as legitimate product offerings and direct unsuspecting victims to malicious sites that employ Cl…",
-   "tags": [
-    "大模型安全"
-   ],
-   "title_zh": "攻击者利用ChatGPT自定义模型分发RAT点击诱饵ClickFix"
-  },
-  {
-   "id": "SECURITYWEEK-fcc26535",
-   "title": "Google: AI Is Changing the Pace and Profile of Vulnerability Discovery",
-   "url": "https://www.securityweek.com/google-ai-is-changing-the-pace-and-profile-of-vulnerability-discovery/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Wed, 30 Sep 2026 14:05:58 +0000",
-   "published_date": "2026-09-30",
-   "digest": "Google’s analysis found that AI-discovered vulnerabilities are more likely to enable remote code execution. The post Google: AI Is Changing the Pace and Profile…",
-   "tags": [],
-   "title_zh": "谷歌：AI正改变漏洞发现的速度与特征"
-  },
-  {
-   "id": "SECAFFAIRS-68207995",
-   "title": "Oxygen Forensics, A Russian-run forensics firm spent a decade inside European police departments",
-   "url": "https://securityaffairs.com/200090/intelligence/oxygen-forensics-a-russian-run-forensics-firm-spent-a-decade-inside-european-police-departments.html",
-   "source": "Security Affairs",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Wed, 30 Sep 2026 13:26:20 +0000",
-   "published_date": "2026-09-30",
-   "digest": "DOJ charges against Oxygen Forensics reveal the Russian-linked firm also sold forensic software to EU projects and European police forces for years. Last week’s…",
-   "tags": [
-    "安全运营"
-   ],
-   "title_zh": "氧气取证，由俄罗斯运营的取证公司十年间入驻欧洲警察部门"
-  },
-  {
-   "id": "SECURITYWEEK-79f582e9",
-   "title": "WatchGuard Patches Critical Fireware OS Code Injection Vulnerability",
-   "url": "https://www.securityweek.com/watchguard-patches-critical-fireware-os-code-injection-vulnerability/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Wed, 30 Sep 2026 13:16:56 +0000",
-   "published_date": "2026-09-30",
-   "digest": "WatchGuard has rolled out patches for 15 code execution, DoS, authorization, and path traversal bugs in Fireware OS. The post WatchGuard Patches Critical Firewa…",
-   "tags": [],
-   "title_zh": "WatchGuard修复了Critical Fireware OS代码注入漏洞"
-  },
-  {
-   "id": "SECURITYWEEK-690fbf5f",
-   "title": "Government, Finance Orgs Targeted in Weeks-Long NetScaler Zero-Day Attacks",
-   "url": "https://www.securityweek.com/government-finance-orgs-targeted-in-weeks-long-netscaler-zero-day-attacks/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Wed, 30 Sep 2026 12:48:20 +0000",
-   "published_date": "2026-09-30",
-   "digest": "Several security firms have confirmed seeing exploitation of the NetScaler vulnerabilities CVE-2026-88771 and CVE-2026-88772. The post Government, Finance Orgs …",
-   "tags": [
-    "漏洞预警"
-   ],
-   "title_zh": "政府和金融机构在数周内的NetScaler零日攻击中受 targeted"
-  },
-  {
-   "id": "SECURITYWEEK-1aed2476",
-   "title": "Chrome, Firefox Updates Patch Over 100 Vulnerabilities",
-   "url": "https://www.securityweek.com/chrome-firefox-updates-patch-over-100-vulnerabilities/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Wed, 30 Sep 2026 12:16:52 +0000",
-   "published_date": "2026-09-30",
-   "digest": "Some of the flaws could allow remote attackers to execute arbitrary code or escape the browser sandbox. The post Chrome, Firefox Updates Patch Over 100 Vulnerab…",
-   "tags": [],
-   "title_zh": "Chrome、Firefox 更新修复逾百个漏洞"
-  },
-  {
-   "id": "THN-4d36c718",
-   "title": "Know Your Enemy: Browser-Based Attack Techniques in 2026",
-   "url": "https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Wed, 30 Sep 2026 17:28:00 +0530",
-   "published_date": "2026-09-30",
-   "digest": "Given that the browser is where business apps are accessed and used, it makes sense that attacks are happening there too. Most breaches today begin in a browser…",
-   "tags": [],
-   "title_zh": "了解敌人：2026年的浏览器攻击技术"
-  },
-  {
-   "id": "HIBP-5a4c26a1",
-   "title": "Medela - 423,947 breached accounts",
-   "url": "https://haveibeenpwned.com/Breach/Medela",
-   "source": "Have I Been Pwned",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Wed, 30 Sep 2026 11:48:28 Z",
-   "published_date": "2026-09-30",
-   "digest": "In September 2026, Swiss medical device company Medela was the target of a ShinyHunters \"pay or leak\" extortion campaign . The data allegedly obtained in the br…",
-   "tags": [],
-   "title_zh": "Medela - 423,947泄露账户"
-  },
-  {
-   "id": "THN-2ef8e65c",
-   "title": "AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub",
-   "url": "https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Wed, 30 Sep 2026 17:00:00 +0530",
-   "published_date": "2026-09-30",
-   "digest": "AI coding agents asked to share screenshots of code changes for review have put internal company images in public GitHub repositories, security company Glow sai…",
-   "tags": [],
-   "title_zh": "AI编码代理在GitHub上暴露了13000张内部图片，包括计费记录"
-  },
-  {
-   "id": "SECURITYWEEK-ce17c346",
-   "title": "Anthropic Flags AI Agent Liability Risks as OpenAI Faces Hacking Lawsuit",
-   "url": "https://www.securityweek.com/anthropic-flags-ai-agent-liability-risks-as-openai-faces-hacking-lawsuit/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Wed, 30 Sep 2026 11:19:00 +0000",
-   "published_date": "2026-09-30",
-   "digest": "Attacks by autonomous AI agents are moving out of the lab and into the courtroom, raising unsettled questions about who is liable for what agents do. The post A…",
-   "tags": [
-    "大模型安全"
-   ],
-   "title_zh": "Anthropic警告AI代理责任风险，OpenAI面临黑客诉讼"
-  },
-  {
-   "id": "SCHNEIER-02856f3b",
-   "title": "I Want Better Reporting on AI Genie Behavior",
-   "url": "https://www.schneier.com/blog/archives/2026/09/i-want-better-reporting-on-ai-genie-behavior.html",
-   "source": "Schneier",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Wed, 30 Sep 2026 11:05:35 +0000",
-   "published_date": "2026-09-30",
-   "digest": "AI systems are regularly completing tasks in ways that their prompters don’t want or intend. Some of them are disturbing, and some of them are dangerous. This i…",
-   "tags": [],
-   "title_zh": "我想要更好地报告AI精灵的行为"
-  },
-  {
-   "id": "SECURITYWEEK-01f5e3f6",
-   "title": "Russian APT Star Blizzard Uses ‘RedFlick’ Infection Chain in Recent Attacks",
-   "url": "https://www.securityweek.com/russian-apt-star-blizzard-uses-redflick-infection-chain-in-recent-attacks/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Wed, 30 Sep 2026 10:59:30 +0000",
-   "published_date": "2026-09-30",
-   "digest": "The state-sponsored group has launched larger-scale phishing campaigns to deploy the CosmicPulse backdoor. The post Russian APT Star Blizzard Uses ‘RedFlick’ In…",
-   "tags": [
-    "钓鱼攻击"
-   ],
-   "title_zh": "俄罗斯APT组织Star Blizzard近期使用“RedFlick”感染链进行攻击"
-  },
-  {
-   "id": "FREEBUF-d71bdc38",
-   "title": "回车即沦陷：TrustFall 本地复现——恶意仓库如何让 Claude Code 全权限执行 MCP",
-   "url": "https://www.freebuf.com/articles/ai-security/504188.html",
-   "source": "FreeBuf",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Wed, 30 Sep 2026 18:49:14 +0800",
-   "published_date": "2026-09-30",
-   "digest": "一次回车，Claude Code 便以你的身份无沙箱运行攻击者的 MCP Server。2.1.263 实测：链仍通、零二次确认。厂商八个月修了五个同根 CVE，却只修对话框之前。",
-   "tags": [
-    "大模型安全"
-   ]
-  },
-  {
-   "id": "THN-7ec4d141",
-   "title": "US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access",
-   "url": "https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Wed, 30 Sep 2026 16:15:00 +0530",
-   "published_date": "2026-09-30",
-   "digest": "ANY.RUN researchers traced a US-focused CSuite phishing campaign across 351 sandbox analyses, with 51% of submissions coming from the United States. Technology,…",
-   "tags": [
-    "钓鱼攻击"
-   ],
-   "title_zh": "针对CSuite的美国地区网络钓鱼攻击窃取Microsoft 365会话并部署RMM工具以实现远程访问"
-  },
-  {
-   "id": "SECURITYWEEK-9da2ed6d",
-   "title": "ShinyHunters Defiant After FBI Calls on Members to Come Forward",
-   "url": "https://www.securityweek.com/shinyhunters-defiant-after-fbi-calls-on-members-to-come-forward/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Wed, 30 Sep 2026 10:20:02 +0000",
-   "published_date": "2026-09-30",
-   "digest": "In the wake of a suspected leader’s arrest, ShinyHunters says it never intended to publish data stolen from the FBI. The post ShinyHunters Defiant After FBI Cal…",
+   "published_at": "Fri, 02 Oct 2026 22:46:18 +0000",
+   "published_date": "2026-10-02",
+   "digest": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Zammad GmbH Zammad flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurit…",
    "tags": [
     "监管合规"
    ],
-   "title_zh": "ShinyHunters拒不响应FBI劝告"
+   "title_zh": "美国CISA将Zammad GmbH Zammad漏洞添加到已知被利用漏洞目录中"
   },
   {
-   "id": "SECAFFAIRS-6ac064c8",
-   "title": "Attackers Abuse ChatGPT Custom GPTs to Deploy a Full-Featured RAT",
-   "url": "https://securityaffairs.com/200079/ai/attackers-abuse-chatgpt-custom-gpts-to-deploy-a-full-featured-rat.html",
+   "id": "SCHNEIER-e87db040",
+   "title": "Friday Squid Blogging: EU is Trying to Fight Unregulated Squid Fishing",
+   "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-eu-is-trying-to-fight-unregulated-squid-fishing.html",
+   "source": "Schneier",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 02 Oct 2026 21:02:18 +0000",
+   "published_date": "2026-10-02",
+   "digest": "The EU is recommending import controls to combat unregulated squid fishing in the Southwest Atlantic. I’m not optimistic. As usual, you can also use this squid …",
+   "tags": [],
+   "title_zh": "周五鱿鱼博客：欧盟试图打击无监管的鱿鱼捕捞"
+  },
+  {
+   "id": "THN-338fbf4b",
+   "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
+   "url": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 02 Oct 2026 23:03:31 +0530",
+   "published_date": "2026-10-02",
+   "digest": "A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions, GitLab sa…",
+   "tags": [],
+   "title_zh": "GitLab 修复了关键性 9.9 AI 网关漏洞，该漏洞允许在自托管服务器上执行命令"
+  },
+  {
+   "id": "THN-f4dbf246",
+   "title": "Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign",
+   "url": "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 02 Oct 2026 23:03:16 +0530",
+   "published_date": "2026-10-02",
+   "digest": "Government and policy organizations across Asia have become the target of a new campaign orchestrated by a China-nexus threat actor. The activity, which has tar…",
+   "tags": [],
+   "title_zh": "Antino 后门在中国- nexus 间谍活动中使用 Outlook 和 OneDrive 进行 C2通信"
+  },
+  {
+   "id": "THN-aeec1ad7",
+   "title": "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes",
+   "url": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 02 Oct 2026 22:32:12 +0530",
+   "published_date": "2026-10-02",
+   "digest": "Dell has released security updates to address multiple critical security flaws in Dell Container Storage Modules (CSM) that could be exploited by bad actors to …",
+   "tags": [
+    "云安全"
+   ],
+   "title_zh": "戴尔CSM漏洞使未认证用户可获得Kubernetes节点的管理员权限和root访问权"
+  },
+  {
+   "id": "SECWIKI-496b3999",
+   "title": "SecWiki News 2026-10-02 Review",
+   "url": "http://www.sec-wiki.com/?2026-10-02",
+   "source": "SecWiki",
+   "category": "网络安全",
+   "priority": "P2",
+   "published_at": "\nFri, 02 Oct 2026 23:58:20 +0800",
+   "published_date": "2026-10-02",
+   "digest": "今日暂未更新资讯~ 更多最新文章，请访问 SecWiki",
+   "tags": [],
+   "title_zh": "SecWiki 新闻 2026-10-02 概览"
+  },
+  {
+   "id": "SCHNEIER-e7e175b8",
+   "title": "Unidentified Flock Cameras in Florida",
+   "url": "https://www.schneier.com/blog/archives/2026/10/unidentified-flock-cameras-in-florida.html",
+   "source": "Schneier",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 02 Oct 2026 14:52:46 +0000",
+   "published_date": "2026-10-02",
+   "digest": "St. Lucie County in Florida discovered ( alt link ) a dozen Flock cameras whose ownership it can’t identify, and that the county government had not permitted. I…",
+   "tags": [],
+   "title_zh": "佛罗里达州不明鹊群摄像头"
+  },
+  {
+   "id": "SECURITYWEEK-a680e282",
+   "title": "In Other News: $15K iCloud Spoofing Bugs, AI Policy Experts Phished, Adblocker Spies on AI Chats",
+   "url": "https://www.securityweek.com/in-other-news-15k-icloud-spoofing-bugs-ai-policy-experts-phished-adblocker-spies-on-ai-chats/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 02 Oct 2026 14:30:00 +0000",
+   "published_date": "2026-10-02",
+   "digest": "Noteworthy stories that might have slipped under the radar: Kiteworks patches over 100 vulnerabilities, Microsoft publishes 2026 Digital Defense Report, AI find…",
+   "tags": [],
+   "title_zh": "其他新闻：15000美元iCloud冒充漏洞，AI政策专家遭遇钓鱼攻击，广告拦截器窥探AI对话"
+  },
+  {
+   "id": "SECAFFAIRS-7355926a",
+   "title": "AI Agents Attempt SQL Injection While Searching Government Data",
+   "url": "https://securityaffairs.com/200234/ai/ai-agents-attempt-sql-injection-while-searching-government-data.html",
    "source": "Security Affairs",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Wed, 30 Sep 2026 09:14:36 +0000",
-   "published_date": "2026-09-30",
-   "digest": "Threat actors abused fake ChatGPT Custom GPTs and ClickFix to deliver a multi-stage RAT. ChatGPT’s Custom GPT feature is the latest legitimate surface being tur…",
+   "published_at": "Fri, 02 Oct 2026 14:19:28 +0000",
+   "published_date": "2026-10-02",
+   "digest": "AI agents probing US and Canadian government sites made SQL injection attempts while seeking data, but investigators found no evidence of compromise. Autonomous…",
+   "tags": [
+    "大模型安全",
+    "Web安全"
+   ],
+   "title_zh": "AI代理尝试在搜索政府数据时进行SQL注入攻击"
+  },
+  {
+   "id": "SECURITYWEEK-9fa171bc",
+   "title": "macOS Users Targeted by Fake Zoom Installer Carrying CloudSyncD Backdoor",
+   "url": "https://www.securityweek.com/macos-users-targeted-by-fake-zoom-installer-carrying-cloudsyncd-backdoor/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 02 Oct 2026 13:15:00 +0000",
+   "published_date": "2026-10-02",
+   "digest": "The dropper “carries a complete universal Mach-O inside itself, roughly 756 KB in the development build, and extracts it at runtime. The post macOS Users Target…",
+   "tags": [],
+   "title_zh": "macOS用户受到假冒Zoom安装包的 targeting，该安装包携带CloudSyncD后门"
+  },
+  {
+   "id": "THN-08b82521",
+   "title": "OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling",
+   "url": "https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 02 Oct 2026 17:53:15 +0530",
+   "published_date": "2026-10-02",
+   "digest": "OpenAI has parted ways with three members of its safety team after they leaked private information in violation of company policies, The Wall Street Journal rep…",
+   "tags": [],
+   "title_zh": "OpenAI与三位安全研究人员解除合作关系，原因是对敏感信息管理不当"
+  },
+  {
+   "id": "SECURITYWEEK-6d60a001",
+   "title": "Crypto Scammers Hijack Microsoft’s Official X Account",
+   "url": "https://www.securityweek.com/crypto-scammers-hijack-microsofts-official-x-account/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 02 Oct 2026 11:46:10 +0000",
+   "published_date": "2026-10-02",
+   "digest": "Hackers used the account, which has 13 million followers, to amplify a Clippy-themed cryptocurrency account. The post Crypto Scammers Hijack Microsoft’s Officia…",
+   "tags": [
+    "网络诈骗",
+    "加密货币犯罪"
+   ],
+   "title_zh": "加密诈骗者劫持Microsoft官方X账户"
+  },
+  {
+   "id": "THN-8b2d4469",
+   "title": "Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report",
+   "url": "https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 02 Oct 2026 17:00:00 +0530",
+   "published_date": "2026-10-02",
+   "digest": "The quarterly board meeting is two weeks out. The security team is pulling exports from the identity provider, the cloud posture tool, the vulnerability scanner…",
+   "tags": [
+    "云安全",
+    "身份认证"
+   ],
+   "title_zh": "为什么CISO难以回答董事会的三个最难问题，以及如何改进报告"
+  },
+  {
+   "id": "SECURITYWEEK-0210688e",
+   "title": "In Rare Move, Alleged Iranian State Hacker Extradited to US",
+   "url": "https://www.securityweek.com/in-rare-move-iranian-hacker-accused-of-working-for-irgc-extradited-to-us/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 02 Oct 2026 11:14:34 +0000",
+   "published_date": "2026-10-02",
+   "digest": "Amir Barati, an alleged member of the Mabna Institute, was indicted for targeting universities, private organizations, and government entities in the US and abr…",
+   "tags": [
+    "监管合规"
+   ],
+   "title_zh": "疑似伊朗国家黑客罕见被 extradited 至美国"
+  },
+  {
+   "id": "SCHNEIER-82cd3bbc",
+   "title": "How American Political Campaigns Are Using AI—and What They’re Spending on the Tools",
+   "url": "https://www.schneier.com/blog/archives/2026/10/how-american-political-campaigns-are-using-ai-and-what-theyre-spending-on-the-tools.html",
+   "source": "Schneier",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 02 Oct 2026 11:02:19 +0000",
+   "published_date": "2026-10-02",
+   "digest": "This essay was written with Nathan E. Sanders, and originally appeared in The Guardian . New campaign finance disclosure data shines a light on which US politic…",
+   "tags": [],
+   "title_zh": "美国政治竞选如何使用AI及其工具支出情况"
+  },
+  {
+   "id": "TRAILOFBITS-00d5e97d",
+   "title": "SequenceHash: multihashing for the rest of us",
+   "url": "https://blog.trailofbits.com/2026/10/02/sequencehash-multihashing-for-the-rest-of-us/",
+   "source": "Trail of Bits",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 02 Oct 2026 07:00:00 -0400",
+   "published_date": "2026-10-02",
+   "digest": "Multihashing is one of those cryptographic tasks that’s easy not to think about too much. This is unfortunate, because multihashing is a common stumbling point …",
+   "tags": [],
+   "title_zh": "SequenceHash：为普通用户提供的多哈希方案"
+  },
+  {
+   "id": "SECURITYWEEK-84e64463",
+   "title": "Warlock Expands SharePoint Exploitation in Critical Infrastructure Attacks",
+   "url": "https://www.securityweek.com/warlock-expands-sharepoint-exploitation-in-critical-infrastructure-attacks/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 02 Oct 2026 09:34:41 +0000",
+   "published_date": "2026-10-02",
+   "digest": "The China-based hacking group has been exploiting SharePoint vulnerabilities since July 2025. The post Warlock Expands SharePoint Exploitation in Critical Infra…",
+   "tags": [],
+   "title_zh": "巫师扩大了对关键基础设施SharePoint的利用攻击"
+  },
+  {
+   "id": "SECURITYWEEK-8b6dce51",
+   "title": "AI Agents Aimed SQL Injection at US and Canadian Government Sites",
+   "url": "https://www.securityweek.com/ai-agents-aimed-sql-injection-at-us-and-canadian-government-sites/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 02 Oct 2026 08:38:46 +0000",
+   "published_date": "2026-10-02",
+   "digest": "The attacks targeted the US Department of Education and Library and Archives Canada, and researchers linked some agents to OpenAI. The post AI Agents Aimed SQL …",
+   "tags": [
+    "大模型安全",
+    "Web安全"
+   ],
+   "title_zh": "AI代理针对美国和加拿大政府网站发起SQL注入攻击"
+  },
+  {
+   "id": "SECURITYWEEK-07d36e7d",
+   "title": "Exploited Fortinet FortiMail Zero-Day Calls for Urgent Action",
+   "url": "https://www.securityweek.com/exploited-fortinet-fortimail-zero-day-calls-for-urgent-action/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 02 Oct 2026 08:07:33 +0000",
+   "published_date": "2026-10-02",
+   "digest": "CVE-2026-104286 is a critical-severity path traversal vulnerability that could allow attackers to write arbitrary files to the system. The post Exploited Fortin…",
+   "tags": [
+    "漏洞预警"
+   ],
+   "title_zh": "利用Fortinet FortiMail 零日漏洞呼吁紧急行动"
+  },
+  {
+   "id": "THN-7bd6e8c4",
+   "title": "Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools",
+   "url": "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 02 Oct 2026 13:31:30 +0530",
+   "published_date": "2026-10-02",
+   "digest": "Google has announced a new security measure that limits access to Android's accessibility services to verified applications classified as Accessibility Tools wh…",
+   "tags": [
+    "移动安全"
+   ],
+   "title_zh": "Android 17高级保护锁定无障碍服务仅限受验证的无障碍工具使用"
+  },
+  {
+   "id": "SECAFFAIRS-a448fc43",
+   "title": "Investigators trace an AI agent ‘s path from research task to reconnaissance",
+   "url": "https://securityaffairs.com/200215/ai/investigators-trace-an-ai-agent-s-path-from-research-task-to-reconnaissance.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 02 Oct 2026 06:05:52 +0000",
+   "published_date": "2026-10-02",
+   "digest": "Asymmetric Security traces rogue OpenAI AI agent activity that probed government sites, accessed staging servers, and evaded sandbox limits. Researchers at Asym…",
    "tags": [
     "大模型安全"
    ],
-   "title_zh": "攻击者利用ChatGPT自定义模型部署全功能RAT"
+   "title_zh": "调查人员追踪AI代理从研究任务到侦察活动的路径"
   },
   {
-   "id": "THN-00ee02ec",
-   "title": "Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT",
-   "url": "https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html",
+   "id": "SECAFFAIRS-a0abede1",
+   "title": "U.S. CISA adds Fortinet FortiMail flaw to its Known Exploited Vulnerabilities catalog",
+   "url": "https://securityaffairs.com/200224/security/u-s-cisa-adds-fortinet-fortimail-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 02 Oct 2026 05:50:36 +0000",
+   "published_date": "2026-10-02",
+   "digest": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Fortinet FortiMail flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity…",
+   "tags": [
+    "监管合规"
+   ],
+   "title_zh": "美国CISA将Fortinet FortiMail漏洞添加到已知被利用漏洞目录中"
+  },
+  {
+   "id": "THN-7bb01c75",
+   "title": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes",
+   "url": "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html",
    "source": "The Hacker News",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Wed, 30 Sep 2026 13:54:35 +0530",
-   "published_date": "2026-09-30",
-   "digest": "Unknown threat actors have been observed exploiting a newly patched security flaw in Citrix NetScaler ADC and NetScaler Gateway appliances to target organizatio…",
-   "tags": [],
-   "title_zh": "攻击者利用NetScaler漏洞获取根访问权限，并部署WHIPSHOT和SLAPSHOT"
+   "published_at": "Fri, 02 Oct 2026 11:19:50 +0530",
+   "published_date": "2026-10-02",
+   "digest": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added a critical security flaw impacting Fortinet FortiMail to its Known Exploite…",
+   "tags": [
+    "监管合规"
+   ],
+   "title_zh": "关键Fortinet FortiMail零日漏洞被利用攻击 允许未认证的任意文件写入"
   },
   {
-   "id": "THN-2b7e7ccc",
-   "title": "OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted",
-   "url": "https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
+   "id": "ARXIV-CR-251ed325",
+   "title": "Evaluating Neural Decompilation of Dart AOT Binaries: Fine-Tuning, Metric Validity, Specification Leakage, and Reliability",
+   "url": "https://arxiv.org/abs/2607.06125",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
    "priority": "P1",
-   "published_at": "Wed, 30 Sep 2026 13:39:28 +0530",
-   "published_date": "2026-09-30",
-   "digest": "A High-severity OpenSSL flaw can leak heap memory to the other side of a DTLS connection or crash the program, OpenSSL said on September 29 as it released fixes…",
-   "tags": [],
-   "title_zh": "OpenSSL修复高危DTLS漏洞可能泄露明文堆内存"
+   "published_at": "Fri, 02 Oct 2026 00:00:00 -0400",
+   "published_date": "2026-10-02",
+   "digest": "arXiv:2607.06125v2 Announce Type: replace-cross Abstract: We present an execution-based evaluation of neural decompilation for Dart ahead-of-time binaries and a…",
+   "tags": [
+    "学术研究"
+   ],
+   "title_zh": "评估Dart AOT二进制神经去编译：细调、度量有效性、规范泄露与可靠性"
   }
  ]
 }
