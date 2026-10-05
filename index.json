@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-04 10:12",
+ "generated_at": "2026-10-05 10:06",
  "source_count": 83,
- "total": 5749,
+ "total": 5760,
  "months": [
   {
    "month": "2026-10",
-   "count": 132
+   "count": 143
   },
   {
    "month": "2026-09",
@@ -86,19 +86,19 @@
  ],
  "facets": {
   "categories": {
-   "网络安全": 3033,
+   "网络安全": 3044,
    "AI安全": 2716
   },
   "sources": {
    "arXiv cs.CR": 2685,
-   "FreeBuf": 795,
-   "The Hacker News": 532,
-   "SecurityWeek": 447,
+   "FreeBuf": 797,
+   "The Hacker News": 534,
+   "SecurityWeek": 448,
    "ZDI Published": 324,
-   "Security Affairs": 301,
+   "Security Affairs": 306,
    "ESET Research": 118,
    "Schneier": 86,
-   "SecWiki": 71,
+   "SecWiki": 72,
    "Wordfence": 40,
    "嘶吼": 40,
    "Unit 42": 30,
@@ -121,24 +121,24 @@
    "Volexity": 3
   },
   "priorities": {
-   "P2": 139,
-   "P1": 5275,
+   "P2": 140,
+   "P1": 5285,
    "P0": 335
   },
   "tags": {
    "学术研究": 2708,
-   "大模型安全": 929,
-   "漏洞预警": 669,
-   "身份认证": 157,
-   "监管合规": 138,
+   "大模型安全": 930,
+   "漏洞预警": 670,
+   "身份认证": 158,
+   "监管合规": 140,
    "AI攻防": 132,
    "数据泄露": 132,
-   "安全运营": 123,
-   "钓鱼攻击": 106,
+   "安全运营": 124,
+   "钓鱼攻击": 107,
    "供应链攻击": 100,
    "Web安全": 90,
    "云安全": 87,
-   "勒索软件": 85,
+   "勒索软件": 86,
    "密码学": 81,
    "物联网安全": 81,
    "移动安全": 59,

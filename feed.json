@@ -1,7 +1,163 @@
 {
- "generated_at": "2026-10-04 10:12",
- "total": 5749,
+ "generated_at": "2026-10-05 10:06",
+ "total": 5760,
  "items": [
+  {
+   "id": "SECWIKI-15f382fe",
+   "title": "SecWiki News 2026-10-04 Review",
+   "url": "http://www.sec-wiki.com/?2026-10-04",
+   "source": "SecWiki",
+   "category": "网络安全",
+   "priority": "P2",
+   "published_at": "\nSun, 04 Oct 2026 23:58:20 +0800",
+   "published_date": "2026-10-04",
+   "digest": "Obsius-AI: AI驱动的智能体协作工具 by ourren 更多最新文章，请访问 SecWiki",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "SecWiki 新闻 2026-10-04 概览"
+  },
+  {
+   "id": "SECAFFAIRS-b92bcdd8",
+   "title": "SECURITY AFFAIRS AI-CYBERSECURITY NEWSLETTER ROUND 2",
+   "url": "https://securityaffairs.com/200367/ai/security-affairs-ai-cybersecurity-newsletter-round-2.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 04 Oct 2026 15:28:51 +0000",
+   "published_date": "2026-10-04",
+   "digest": "Security Affairs AI-CYBERSECURITY newsletter includes a collection of the best articles and research on AI in the international landscape Artificial intelligenc…",
+   "tags": [],
+   "title_zh": "安全事务AI-网络安全新闻简报 第二期"
+  },
+  {
+   "id": "SECURITYWEEK-471d09df",
+   "title": "Trump Names National Intelligence Director Jay Clayton to Lead a New Federal AI Task Force",
+   "url": "https://www.securityweek.com/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 04 Oct 2026 14:57:25 +0000",
+   "published_date": "2026-10-04",
+   "digest": "The announcement comes after Trump hosted top executives of AI companies at the White House last week. The post Trump Names National Intelligence Director Jay C…",
+   "tags": [],
+   "title_zh": "特朗普任命国家情报总监杰伊·克莱顿领导新成立的联邦AI任务组"
+  },
+  {
+   "id": "SECAFFAIRS-7641554f",
+   "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 117",
+   "url": "https://securityaffairs.com/200354/security/security-affairs-malware-newsletter-round-117.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 04 Oct 2026 14:00:02 +0000",
+   "published_date": "2026-10-04",
+   "digest": "Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape Malware Newsletter Lunex U…",
+   "tags": [],
+   "title_zh": "安全事务恶意软件新闻简报第117期"
+  },
+  {
+   "id": "SECAFFAIRS-8a4092f4",
+   "title": "ShinyHunters Suspect Detained in Jordan Helps FBI Track Down the Group",
+   "url": "https://securityaffairs.com/200338/cyber-crime/shinyhunters-suspect-detained-in-jordan-helps-fbi-track-down-the-group.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 04 Oct 2026 13:41:21 +0000",
+   "published_date": "2026-10-04",
+   "digest": "A suspected ShinyHunters member arrested in Jordan is reportedly cooperating with the FBI, helping investigators track down the group. A suspected member of Shi…",
+   "tags": [
+    "监管合规"
+   ],
+   "title_zh": "ShinyHunters嫌疑人被约旦拘留有助于FBI追踪该团伙"
+  },
+  {
+   "id": "SECAFFAIRS-721d9c3f",
+   "title": "Security Affairs newsletter Round 598 by Pierluigi Paganini – INTERNATIONAL EDITION",
+   "url": "https://securityaffairs.com/200326/breaking-news/security-affairs-newsletter-round-598-by-pierluigi-paganini-international-edition.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 04 Oct 2026 07:58:06 +0000",
+   "published_date": "2026-10-04",
+   "digest": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjo…",
+   "tags": [],
+   "title_zh": "安全事务第598期简报由皮耶路易吉·帕加尼尼发布 - 国际版"
+  },
+  {
+   "id": "SECAFFAIRS-d07e2421",
+   "title": "Warlock Ransomware Still Exploits Year-Old SharePoint Flaws to Hit Critical Infrastructure",
+   "url": "https://securityaffairs.com/200304/malware/warlock-ransomware-still-exploits-year-old-sharepoint-flaws-to-hit-critical-infrastructure.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 04 Oct 2026 07:49:27 +0000",
+   "published_date": "2026-10-04",
+   "digest": "Warlock ransomware continues to exploit unpatched SharePoint flaws to breach water utilities, telecoms, governments, and universities worldwide. Warlock ransomw…",
+   "tags": [
+    "勒索软件"
+   ],
+   "title_zh": "Warlock 勒索软件仍利用一年前的 SharePoint 漏洞攻击关键基础设施"
+  },
+  {
+   "id": "THN-41bb60c6",
+   "title": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members",
+   "url": "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 04 Oct 2026 12:52:05 +0530",
+   "published_date": "2026-10-04",
+   "digest": "A suspected member of the ShinyHunters digital extortion group, who goes by the online alias \"Rey,\" has been allegedly detained by authorities in Jordan, Reuter…",
+   "tags": [
+    "监管合规"
+   ],
+   "title_zh": "ShinyHunters 疑犯 Rey 据报在约旦被捕，协助 FBI 识别团伙成员"
+  },
+  {
+   "id": "THN-45602fa3",
+   "title": "China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing",
+   "url": "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 04 Oct 2026 12:50:32 +0530",
+   "published_date": "2026-10-04",
+   "digest": "A new China-nexus cyber espionage group known as TA419 has been attributed to multiple credential phishing campaigns targeting artificial intelligence (AI) expe…",
+   "tags": [
+    "钓鱼攻击",
+    "身份认证"
+   ],
+   "title_zh": "中国-aligned TA419针对美国AI政策专家进行Microsoft AitM钓鱼攻击"
+  },
+  {
+   "id": "FREEBUF-9b7933ca",
+   "title": "从告警堆砌到决策中枢：企业威胁情报中心，到底该怎么建？",
+   "url": "https://www.freebuf.com/articles/es/504658.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 04 Oct 2026 08:20:06 +0800",
+   "published_date": "2026-10-04",
+   "digest": "很多企业TIS做成高级日志聚合器，误报泛滥，检出率不足1%；杭州企业缺APT预警泄露15万数据。",
+   "tags": [
+    "安全运营"
+   ]
+  },
+  {
+   "id": "FREEBUF-5bce4fa0",
+   "title": "Vercel确认KVM 0Day虚拟机逃逸漏洞，研究员获5万美元最高奖励",
+   "url": "https://www.freebuf.com/articles/system/504651.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 04 Oct 2026 02:05:48 +0800",
+   "published_date": "2026-10-04",
+   "digest": "Vercel确认存在可致完整虚拟机逃逸的KVM 0Day漏洞，利用该漏洞可从客户机获取宿主机root权限，上报该漏洞的研究员获5万美元最高奖励。",
+   "tags": [
+    "漏洞预警"
+   ]
+  },
   {
    "id": "SECWIKI-1329b22d",
    "title": "SecWiki News 2026-10-03 Review",
@@ -13,7 +169,7 @@
    "published_date": "2026-10-03",
    "digest": "今日暂未更新资讯~ 更多最新文章，请访问 SecWiki",
    "tags": [],
-   "title_zh": "SecWiki 新闻 2026-10-03 概览"
+   "title_zh": "SecWiki 新闻 2026-10-03 回顾"
   },
   {
    "id": "SECAFFAIRS-7e26f867",
@@ -26,7 +182,7 @@
    "published_date": "2026-10-03",
    "digest": "Jamf Threat Labs details CloudSyncD, a fake macOS Zoom installer that hides a phished password using invisible zero-width Unicode characters. Jamf Threat Labs f…",
    "tags": [],
-   "title_zh": "假冒Zoom安装包隐藏macOS后门CloudSyncD"
+   "title_zh": "假冒Zoom安装程序隐藏macOS后门CloudSyncD"
   },
   {
    "id": "THN-74b897e7",
@@ -180,160 +336,6 @@
    "tags": [
     "漏洞预警"
    ]
-  },
-  {
-   "id": "THN-338fbf4b",
-   "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
-   "url": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 02 Oct 2026 23:03:31 +0530",
-   "published_date": "2026-10-02",
-   "digest": "A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions, GitLab sa…",
-   "tags": [],
-   "title_zh": "GitLab 修复了关键性 9.9 AI 网关漏洞，该漏洞允许在自托管服务器上执行命令"
-  },
-  {
-   "id": "THN-f4dbf246",
-   "title": "Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign",
-   "url": "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 02 Oct 2026 23:03:16 +0530",
-   "published_date": "2026-10-02",
-   "digest": "Government and policy organizations across Asia have become the target of a new campaign orchestrated by a China-nexus threat actor. The activity, which has tar…",
-   "tags": [],
-   "title_zh": "Antino 后门利用Outlook和OneDrive进行C2通信在中国- nexus间谍活动中"
-  },
-  {
-   "id": "THN-aeec1ad7",
-   "title": "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes",
-   "url": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 02 Oct 2026 22:32:12 +0530",
-   "published_date": "2026-10-02",
-   "digest": "Dell has released security updates to address multiple critical security flaws in Dell Container Storage Modules (CSM) that could be exploited by bad actors to …",
-   "tags": [
-    "云安全"
-   ],
-   "title_zh": "戴尔CSM漏洞使未认证用户可获取Kubernetes节点的管理员权限和root访问权"
-  },
-  {
-   "id": "SECWIKI-496b3999",
-   "title": "SecWiki News 2026-10-02 Review",
-   "url": "http://www.sec-wiki.com/?2026-10-02",
-   "source": "SecWiki",
-   "category": "网络安全",
-   "priority": "P2",
-   "published_at": "\nFri, 02 Oct 2026 23:58:20 +0800",
-   "published_date": "2026-10-02",
-   "digest": "今日暂未更新资讯~ 更多最新文章，请访问 SecWiki",
-   "tags": [],
-   "title_zh": "SecWiki 新闻 2026-10-02 概览"
-  },
-  {
-   "id": "SCHNEIER-e7e175b8",
-   "title": "Unidentified Flock Cameras in Florida",
-   "url": "https://www.schneier.com/blog/archives/2026/10/unidentified-flock-cameras-in-florida.html",
-   "source": "Schneier",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 02 Oct 2026 14:52:46 +0000",
-   "published_date": "2026-10-02",
-   "digest": "St. Lucie County in Florida discovered ( alt link ) a dozen Flock cameras whose ownership it can’t identify, and that the county government had not permitted. I…",
-   "tags": [],
-   "title_zh": "佛罗里达州未识别的Flock摄像头"
-  },
-  {
-   "id": "SECURITYWEEK-a680e282",
-   "title": "In Other News: $15K iCloud Spoofing Bugs, AI Policy Experts Phished, Adblocker Spies on AI Chats",
-   "url": "https://www.securityweek.com/in-other-news-15k-icloud-spoofing-bugs-ai-policy-experts-phished-adblocker-spies-on-ai-chats/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 02 Oct 2026 14:30:00 +0000",
-   "published_date": "2026-10-02",
-   "digest": "Noteworthy stories that might have slipped under the radar: Kiteworks patches over 100 vulnerabilities, Microsoft publishes 2026 Digital Defense Report, AI find…",
-   "tags": [],
-   "title_zh": "其他新闻：15000美元的iCloud冒充漏洞，AI政策专家遭遇钓鱼攻击，广告拦截器窥探AI对话"
-  },
-  {
-   "id": "SECAFFAIRS-7355926a",
-   "title": "AI Agents Attempt SQL Injection While Searching Government Data",
-   "url": "https://securityaffairs.com/200234/ai/ai-agents-attempt-sql-injection-while-searching-government-data.html",
-   "source": "Security Affairs",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 02 Oct 2026 14:19:28 +0000",
-   "published_date": "2026-10-02",
-   "digest": "AI agents probing US and Canadian government sites made SQL injection attempts while seeking data, but investigators found no evidence of compromise. Autonomous…",
-   "tags": [
-    "大模型安全",
-    "Web安全"
-   ],
-   "title_zh": "AI代理尝试在搜索政府数据时进行SQL注入攻击"
-  },
-  {
-   "id": "SECURITYWEEK-9fa171bc",
-   "title": "macOS Users Targeted by Fake Zoom Installer Carrying CloudSyncD Backdoor",
-   "url": "https://www.securityweek.com/macos-users-targeted-by-fake-zoom-installer-carrying-cloudsyncd-backdoor/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 02 Oct 2026 13:15:00 +0000",
-   "published_date": "2026-10-02",
-   "digest": "The dropper “carries a complete universal Mach-O inside itself, roughly 756 KB in the development build, and extracts it at runtime. The post macOS Users Target…",
-   "tags": [],
-   "title_zh": "macOS 用户受假冒Zoom安装包攻击，携CloudSyncD后门"
-  },
-  {
-   "id": "THN-08b82521",
-   "title": "OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling",
-   "url": "https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 02 Oct 2026 17:53:15 +0530",
-   "published_date": "2026-10-02",
-   "digest": "OpenAI has parted ways with three members of its safety team after they leaked private information in violation of company policies, The Wall Street Journal rep…",
-   "tags": [],
-   "title_zh": "OpenAI与三位安全研究人员解除合作关系，原因是对敏感信息管理不当"
-  },
-  {
-   "id": "SECURITYWEEK-6d60a001",
-   "title": "Crypto Scammers Hijack Microsoft’s Official X Account",
-   "url": "https://www.securityweek.com/crypto-scammers-hijack-microsofts-official-x-account/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 02 Oct 2026 11:46:10 +0000",
-   "published_date": "2026-10-02",
-   "digest": "Hackers used the account, which has 13 million followers, to amplify a Clippy-themed cryptocurrency account. The post Crypto Scammers Hijack Microsoft’s Officia…",
-   "tags": [
-    "网络诈骗",
-    "加密货币犯罪"
-   ],
-   "title_zh": "加密诈骗者劫持Microsoft官方X账户"
-  },
-  {
-   "id": "THN-8b2d4469",
-   "title": "Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report",
-   "url": "https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 02 Oct 2026 17:00:00 +0530",
-   "published_date": "2026-10-02",
-   "digest": "The quarterly board meeting is two weeks out. The security team is pulling exports from the identity provider, the cloud posture tool, the vulnerability scanner…",
-   "tags": [
-    "云安全",
-    "身份认证"
-   ],
-   "title_zh": "为什么CISO难以回答董事会的三个最难问题，以及如何改进报告"
   }
  ]
 }
