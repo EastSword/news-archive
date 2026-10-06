@@ -1,341 +1,339 @@
 {
- "generated_at": "2026-10-05 10:06",
- "total": 5760,
+ "generated_at": "2026-10-06 10:03",
+ "total": 5847,
  "items": [
   {
-   "id": "SECWIKI-15f382fe",
-   "title": "SecWiki News 2026-10-04 Review",
-   "url": "http://www.sec-wiki.com/?2026-10-04",
-   "source": "SecWiki",
-   "category": "网络安全",
-   "priority": "P2",
-   "published_at": "\nSun, 04 Oct 2026 23:58:20 +0800",
-   "published_date": "2026-10-04",
-   "digest": "Obsius-AI: AI驱动的智能体协作工具 by ourren 更多最新文章，请访问 SecWiki",
-   "tags": [
-    "大模型安全"
-   ],
-   "title_zh": "SecWiki 新闻 2026-10-04 概览"
-  },
-  {
-   "id": "SECAFFAIRS-b92bcdd8",
-   "title": "SECURITY AFFAIRS AI-CYBERSECURITY NEWSLETTER ROUND 2",
-   "url": "https://securityaffairs.com/200367/ai/security-affairs-ai-cybersecurity-newsletter-round-2.html",
+   "id": "SECAFFAIRS-50d6abc5",
+   "title": "Anthropic Mythos Found A Bug in Rejetto HFS. Attackers Are Now Exploiting It.",
+   "url": "https://securityaffairs.com/200444/ai/anthropic-mythos-found-a-bug-in-rejetto-hfs-attackers-are-now-exploiting-it.html",
    "source": "Security Affairs",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Sun, 04 Oct 2026 15:28:51 +0000",
-   "published_date": "2026-10-04",
-   "digest": "Security Affairs AI-CYBERSECURITY newsletter includes a collection of the best articles and research on AI in the international landscape Artificial intelligenc…",
+   "published_at": "Mon, 05 Oct 2026 18:15:12 +0000",
+   "published_date": "2026-10-05",
+   "digest": "AI-assisted research uncovered a critical Rejetto HFS flaw that enables authentication bypass and remote code execution, now exploited in the wild. A Rejetto HF…",
    "tags": [],
-   "title_zh": "安全事务AI-网络安全新闻简报 第二期"
+   "title_zh": "Anthropic Mythos 在 Rejetto HFS 中发现漏洞，攻击者现已利用该漏洞。"
   },
   {
-   "id": "SECURITYWEEK-471d09df",
-   "title": "Trump Names National Intelligence Director Jay Clayton to Lead a New Federal AI Task Force",
-   "url": "https://www.securityweek.com/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force/",
-   "source": "SecurityWeek",
+   "id": "ZDI-BLOG-802a1c7b",
+   "title": "Pwn2Own Ireland 2026 - The Full Schedule",
+   "url": "https://www.thezdi.com/blog/2026/10/5/pwn2own-ireland-2026-the-full-schedule",
+   "source": "ZDI Blog",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Sun, 04 Oct 2026 14:57:25 +0000",
-   "published_date": "2026-10-04",
-   "digest": "The announcement comes after Trump hosted top executives of AI companies at the White House last week. The post Trump Names National Intelligence Director Jay C…",
+   "published_at": "Mon, 05 Oct 2026 18:11:29 +0000",
+   "published_date": "2026-10-05",
+   "digest": "Fáilte! Pwn2Own Ireland 2026 has arrived in Cork, and the world's top security researchers are ready. We've got more phone entries than we've ever had, and more…",
    "tags": [],
-   "title_zh": "特朗普任命国家情报总监杰伊·克莱顿领导新成立的联邦AI任务组"
+   "title_zh": "Pwn2Own 爱尔兰 2026 - 全部日程"
   },
   {
-   "id": "SECAFFAIRS-7641554f",
-   "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 117",
-   "url": "https://securityaffairs.com/200354/security/security-affairs-malware-newsletter-round-117.html",
-   "source": "Security Affairs",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sun, 04 Oct 2026 14:00:02 +0000",
-   "published_date": "2026-10-04",
-   "digest": "Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape Malware Newsletter Lunex U…",
-   "tags": [],
-   "title_zh": "安全事务恶意软件新闻简报第117期"
-  },
-  {
-   "id": "SECAFFAIRS-8a4092f4",
-   "title": "ShinyHunters Suspect Detained in Jordan Helps FBI Track Down the Group",
-   "url": "https://securityaffairs.com/200338/cyber-crime/shinyhunters-suspect-detained-in-jordan-helps-fbi-track-down-the-group.html",
-   "source": "Security Affairs",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sun, 04 Oct 2026 13:41:21 +0000",
-   "published_date": "2026-10-04",
-   "digest": "A suspected ShinyHunters member arrested in Jordan is reportedly cooperating with the FBI, helping investigators track down the group. A suspected member of Shi…",
-   "tags": [
-    "监管合规"
-   ],
-   "title_zh": "ShinyHunters嫌疑人被约旦拘留有助于FBI追踪该团伙"
-  },
-  {
-   "id": "SECAFFAIRS-721d9c3f",
-   "title": "Security Affairs newsletter Round 598 by Pierluigi Paganini – INTERNATIONAL EDITION",
-   "url": "https://securityaffairs.com/200326/breaking-news/security-affairs-newsletter-round-598-by-pierluigi-paganini-international-edition.html",
-   "source": "Security Affairs",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sun, 04 Oct 2026 07:58:06 +0000",
-   "published_date": "2026-10-04",
-   "digest": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjo…",
-   "tags": [],
-   "title_zh": "安全事务第598期简报由皮耶路易吉·帕加尼尼发布 - 国际版"
-  },
-  {
-   "id": "SECAFFAIRS-d07e2421",
-   "title": "Warlock Ransomware Still Exploits Year-Old SharePoint Flaws to Hit Critical Infrastructure",
-   "url": "https://securityaffairs.com/200304/malware/warlock-ransomware-still-exploits-year-old-sharepoint-flaws-to-hit-critical-infrastructure.html",
-   "source": "Security Affairs",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sun, 04 Oct 2026 07:49:27 +0000",
-   "published_date": "2026-10-04",
-   "digest": "Warlock ransomware continues to exploit unpatched SharePoint flaws to breach water utilities, telecoms, governments, and universities worldwide. Warlock ransomw…",
-   "tags": [
-    "勒索软件"
-   ],
-   "title_zh": "Warlock 勒索软件仍利用一年前的 SharePoint 漏洞攻击关键基础设施"
-  },
-  {
-   "id": "THN-41bb60c6",
-   "title": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members",
-   "url": "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html",
+   "id": "THN-1ad56db9",
+   "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
+   "url": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html",
    "source": "The Hacker News",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Sun, 04 Oct 2026 12:52:05 +0530",
-   "published_date": "2026-10-04",
-   "digest": "A suspected member of the ShinyHunters digital extortion group, who goes by the online alias \"Rey,\" has been allegedly detained by authorities in Jordan, Reuter…",
-   "tags": [
-    "监管合规"
-   ],
-   "title_zh": "ShinyHunters 疑犯 Rey 据报在约旦被捕，协助 FBI 识别团伙成员"
+   "published_at": "Mon, 05 Oct 2026 21:51:52 +0530",
+   "published_date": "2026-10-05",
+   "digest": "Microsoft has released out-of-band security updates to address a high-severity flaw in Microsoft Exchange Server that could allow an attacker to escalate privil…",
+   "tags": [],
+   "title_zh": "Microsoft Exchange 存漏洞使认证攻击者可读取其他用户邮箱"
   },
   {
-   "id": "THN-45602fa3",
-   "title": "China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing",
-   "url": "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sun, 04 Oct 2026 12:50:32 +0530",
-   "published_date": "2026-10-04",
-   "digest": "A new China-nexus cyber espionage group known as TA419 has been attributed to multiple credential phishing campaigns targeting artificial intelligence (AI) expe…",
-   "tags": [
-    "钓鱼攻击",
-    "身份认证"
-   ],
-   "title_zh": "中国-aligned TA419针对美国AI政策专家进行Microsoft AitM钓鱼攻击"
-  },
-  {
-   "id": "FREEBUF-9b7933ca",
-   "title": "从告警堆砌到决策中枢：企业威胁情报中心，到底该怎么建？",
-   "url": "https://www.freebuf.com/articles/es/504658.html",
-   "source": "FreeBuf",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sun, 04 Oct 2026 08:20:06 +0800",
-   "published_date": "2026-10-04",
-   "digest": "很多企业TIS做成高级日志聚合器，误报泛滥，检出率不足1%；杭州企业缺APT预警泄露15万数据。",
-   "tags": [
-    "安全运营"
-   ]
-  },
-  {
-   "id": "FREEBUF-5bce4fa0",
-   "title": "Vercel确认KVM 0Day虚拟机逃逸漏洞，研究员获5万美元最高奖励",
-   "url": "https://www.freebuf.com/articles/system/504651.html",
-   "source": "FreeBuf",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sun, 04 Oct 2026 02:05:48 +0800",
-   "published_date": "2026-10-04",
-   "digest": "Vercel确认存在可致完整虚拟机逃逸的KVM 0Day漏洞，利用该漏洞可从客户机获取宿主机root权限，上报该漏洞的研究员获5万美元最高奖励。",
-   "tags": [
-    "漏洞预警"
-   ]
-  },
-  {
-   "id": "SECWIKI-1329b22d",
-   "title": "SecWiki News 2026-10-03 Review",
-   "url": "http://www.sec-wiki.com/?2026-10-03",
+   "id": "SECWIKI-6b8af162",
+   "title": "SecWiki News 2026-10-05 Review",
+   "url": "http://www.sec-wiki.com/?2026-10-05",
    "source": "SecWiki",
    "category": "网络安全",
    "priority": "P2",
-   "published_at": "\nSat, 03 Oct 2026 23:58:20 +0800",
-   "published_date": "2026-10-03",
+   "published_at": "\nMon, 05 Oct 2026 23:58:20 +0800",
+   "published_date": "2026-10-05",
    "digest": "今日暂未更新资讯~ 更多最新文章，请访问 SecWiki",
    "tags": [],
-   "title_zh": "SecWiki 新闻 2026-10-03 回顾"
+   "title_zh": "SecWiki 新闻 2026-10-05 回顾"
   },
   {
-   "id": "SECAFFAIRS-7e26f867",
-   "title": "Fake Zoom installer hides macOS backdoor CloudSyncD",
-   "url": "https://securityaffairs.com/200293/malware/fake-zoom-installer-hides-macos-backdoor-cloudsyncd.html",
-   "source": "Security Affairs",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sat, 03 Oct 2026 15:11:16 +0000",
-   "published_date": "2026-10-03",
-   "digest": "Jamf Threat Labs details CloudSyncD, a fake macOS Zoom installer that hides a phished password using invisible zero-width Unicode characters. Jamf Threat Labs f…",
-   "tags": [],
-   "title_zh": "假冒Zoom安装程序隐藏macOS后门CloudSyncD"
-  },
-  {
-   "id": "THN-74b897e7",
-   "title": "MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics",
-   "url": "https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sat, 03 Oct 2026 20:08:46 +0530",
-   "published_date": "2026-10-03",
-   "digest": "The U.K.'s domestic intelligence and security agency has warned that more than 100 academics have helped China boost its intelligence gathering efforts on behal…",
-   "tags": [],
-   "title_zh": "MI5 称中国 MSS 资助涉及百余名英国关联学者的研究"
-  },
-  {
-   "id": "THN-c333863c",
-   "title": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
-   "url": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sat, 03 Oct 2026 20:06:33 +0530",
-   "published_date": "2026-10-03",
-   "digest": "The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in atta…",
-   "tags": [
-    "勒索软件"
-   ],
-   "title_zh": "巫师利用SharePoint漏洞禁用安全工具并部署勒索软件"
-  },
-  {
-   "id": "SECURITYWEEK-633f9607",
-   "title": "doxx.net Raises $38 Million to Prevent AI Agent-on-the-Internet Misadventures",
-   "url": "https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/",
+   "id": "SECURITYWEEK-c8ddedd3",
+   "title": "Google Narrows Open Source Bug Bounty Amid Wave of Invalid Automated Reports",
+   "url": "https://www.securityweek.com/google-narrows-open-source-bug-bounty-amid-wave-of-invalid-automated-reports/",
    "source": "SecurityWeek",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Sat, 03 Oct 2026 11:45:00 +0000",
-   "published_date": "2026-10-03",
-   "digest": "doxx.net’s new ADN platform prevents agentic misadventure while the agent is operating under the user’s authority. The post doxx.net Raises $38 Million to Preve…",
-   "tags": [
-    "大模型安全"
-   ],
-   "title_zh": "doxx.net筹集3800万美元以防止AI代理在网上误操作"
-  },
-  {
-   "id": "SECURITYWEEK-a0a70065",
-   "title": "Fortra Patches Critical Vulnerabilities in BoKS",
-   "url": "https://www.securityweek.com/fortra-patches-critical-vulnerabilities-in-boks/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sat, 03 Oct 2026 11:34:00 +0000",
-   "published_date": "2026-10-03",
-   "digest": "The bugs could lead to authentication bypass, shell command execution, and memory corruption. The post Fortra Patches Critical Vulnerabilities in BoKS appeared …",
+   "published_at": "Mon, 05 Oct 2026 14:26:00 +0000",
+   "published_date": "2026-10-05",
+   "digest": "Google has temporarily stopped accepting product vulnerability reports through its Open Source Software Vulnerability Reward Program (OSS VRP). The post Google …",
    "tags": [],
-   "title_zh": "Fortra修复了BoKS中的关键漏洞"
+   "title_zh": "谷歌缩减开源漏洞赏金计划以应对大量无效自动化报告"
   },
   {
-   "id": "THN-d2569772",
-   "title": "The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations",
-   "url": "https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html",
+   "id": "THN-b88e60f4",
+   "title": "⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests",
+   "url": "https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html",
    "source": "The Hacker News",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Sat, 03 Oct 2026 16:30:00 +0530",
-   "published_date": "2026-10-03",
-   "digest": "Featuring: Cybersecurity is being reshaped by the expansion of cloud infrastructure, AI, distributed systems, and increasingly complex digital environments. As …",
+   "published_at": "Mon, 05 Oct 2026 19:50:43 +0530",
+   "published_date": "2026-10-05",
+   "digest": "A blank field. A public repo. One reply to an email. A box left exposed. None of this sounds dramatic, which is partly the problem. This week’s threats keep fin…",
    "tags": [
-    "云安全"
-   ],
-   "title_zh": "2026年网络安全状况：关键领域、洞察与创新"
-  },
-  {
-   "id": "SECAFFAIRS-a76d5aa0",
-   "title": "CVE-2026-90970: Critical GitLab AI Gateway Flaw Fixed",
-   "url": "https://securityaffairs.com/200283/hacking/cve-2026-90970-critical-gitlab-ai-gateway-flaw-fixed.html",
-   "source": "Security Affairs",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sat, 03 Oct 2026 10:43:39 +0000",
-   "published_date": "2026-10-03",
-   "digest": "GitLab fixes critical AI Gateway flaw that could let authenticated Duo users escape a prompt sandbox and execute commands on self-hosted gateways. GitLab has re…",
-   "tags": [
+    "勒索软件",
     "漏洞预警"
    ],
-   "title_zh": "CVE-2026-90970: Critical GitLab AI Gateway 漏洞修复"
+   "title_zh": "每周回顾：NetScaler和FortiMail零日漏洞，AI编码泄露，Spectre v2及勒索软件逮捕事件"
   },
   {
-   "id": "SECAFFAIRS-c5ef0020",
-   "title": "Antino Backdoor Lets China-Linked UAT-11587 Turn Microsoft 365 Into a C2 Channel",
-   "url": "https://securityaffairs.com/200264/apt/antino-backdoor-uses-your-inbox-as-its-control-panel.html",
-   "source": "Security Affairs",
+   "id": "CHECKPOINT-8074e31a",
+   "title": "5th October – Threat Intelligence Report",
+   "url": "https://research.checkpoint.com/2026/5th-october-threat-intelligence-report/",
+   "source": "Check Point Research",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Sat, 03 Oct 2026 09:26:04 +0000",
-   "published_date": "2026-10-03",
-   "digest": "Cisco Talos details UAT-11587, a China-linked group using the Antino backdoor and Microsoft 365 as cover to spy on Asian governments. Cisco Talos has been track…",
+   "published_at": "Mon, 05 Oct 2026 13:57:30 +0000",
+   "published_date": "2026-10-05",
+   "digest": "For the latest discoveries in cyber research for the week of 5th October, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Arizona’s s…",
    "tags": [],
-   "title_zh": "Antino 后门让与中国关联的UAT-11587将Microsoft 365转变为C2信道"
+   "title_zh": "10月5日 - 威胁情报报告"
   },
   {
-   "id": "SECAFFAIRS-c6f0801a",
-   "title": "U.S. CISA adds Zammad GmbH Zammad flaws to its Known Exploited Vulnerabilities catalog",
-   "url": "https://securityaffairs.com/200248/security/u-s-cisa-adds-zammad-gmbh-zammad-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+   "id": "SECAFFAIRS-3bf95659",
+   "title": "Denmark ’s Population Registry Breached, 8.8 Million Affected",
+   "url": "https://securityaffairs.com/200437/data-breach/denmark-s-population-registry-breached-8-8-million-affected.html",
    "source": "Security Affairs",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Fri, 02 Oct 2026 22:46:18 +0000",
-   "published_date": "2026-10-02",
-   "digest": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Zammad GmbH Zammad flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurit…",
+   "published_at": "Mon, 05 Oct 2026 13:49:43 +0000",
+   "published_date": "2026-10-05",
+   "digest": "Hackers accessed names, addresses and CPR numbers of 8.8 million people in Denmark through a third-party company with legal registry access. A hacker broke into…",
+   "tags": [],
+   "title_zh": "丹麦人口登记数据库泄露，影响880万用户"
+  },
+  {
+   "id": "SECAFFAIRS-7d755d7d",
+   "title": "U.S. CISA adds Citrix NetScaler flaw to its Known Exploited Vulnerabilities catalog",
+   "url": "https://securityaffairs.com/200414/security/u-s-cisa-adds-citrix-netscaler-flaw-to-its-known-exploited-vulnerabilities-catalog-3.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 05 Oct 2026 13:10:28 +0000",
+   "published_date": "2026-10-05",
+   "digest": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Citrix NetScaler flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity a…",
    "tags": [
     "监管合规"
    ],
-   "title_zh": "美国CISA将Zammad GmbH Zammad漏洞添加到已知被利用漏洞目录中"
+   "title_zh": "美国CISA将Citrix NetScaler漏洞添加到已知被利用漏洞目录中"
   },
   {
-   "id": "FREEBUF-c635c3c5",
-   "title": "当 AI 开始自己打渗透：One's Vibe 上的安全工具巡礼",
-   "url": "https://www.freebuf.com/articles/504646.html",
-   "source": "FreeBuf",
+   "id": "SECURITYWEEK-7e044668",
+   "title": "Linux Backdoor Abuses STUN Protocol, Exploits Dozens of Flaws",
+   "url": "https://www.securityweek.com/linux-backdoor-abuses-stun-protocol-exploits-dozens-of-flaws/",
+   "source": "SecurityWeek",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Sat, 03 Oct 2026 05:23:21 +0800",
-   "published_date": "2026-10-03",
-   "digest": "一万多个 AI 应用中 342 个做安全：在攻击者之前攻破你的 AI endpoint，漏洞正被批量生产。",
-   "tags": []
+   "published_at": "Mon, 05 Oct 2026 13:00:00 +0000",
+   "published_date": "2026-10-05",
+   "digest": "ClingSTUN operates as a back-connect proxy backdoor, sets up persistence, and contains exploits for self-propagation. The post Linux Backdoor Abuses STUN Protoc…",
+   "tags": [],
+   "title_zh": "Linux后门滥用STUN协议，利用数十个漏洞"
   },
   {
-   "id": "SCHNEIER-e87db040",
-   "title": "Friday Squid Blogging: EU is Trying to Fight Unregulated Squid Fishing",
-   "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-eu-is-trying-to-fight-unregulated-squid-fishing.html",
+   "id": "SECURITYWEEK-f6dcc75a",
+   "title": "250,000 Impacted by Data Breaches at New Jersey, Texas Healthcare Firms",
+   "url": "https://www.securityweek.com/250000-impacted-by-data-breaches-at-new-jersey-texas-healthcare-firms/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 05 Oct 2026 12:35:15 +0000",
+   "published_date": "2026-10-05",
+   "digest": "Hackers stole patient information from Clover Health Investments and AngMar Management Services in July. The post 250,000 Impacted by Data Breaches at New Jerse…",
+   "tags": [
+    "数据泄露"
+   ],
+   "title_zh": "新泽西和德克萨斯州医疗企业数据泄露影响250000人"
+  },
+  {
+   "id": "THN-b6894c15",
+   "title": "The Credential Layer Is Expanding Faster Than Security Teams Can See It",
+   "url": "https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 05 Oct 2026 17:25:00 +0530",
+   "published_date": "2026-10-05",
+   "digest": "Every modern enterprise depends on credentials. This is how humans, systems, and now AI, all connect to data, services, and each other securely. GitGuardian hel…",
+   "tags": [
+    "身份认证"
+   ],
+   "title_zh": "凭证层扩展速度超过安全团队的可见范围"
+  },
+  {
+   "id": "THN-ff27ba0a",
+   "title": "Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2",
+   "url": "https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 05 Oct 2026 17:16:25 +0530",
+   "published_date": "2026-10-05",
+   "digest": "Threat actors have been observed attempting to exploit a now-patched critical security flaw impacting the Realtek Jungle software development kit (SDK) to deplo…",
+   "tags": [
+    "僵尸网络"
+   ],
+   "title_zh": "Realtek Jungle SDK 漏洞利用尝试分发 Cling 僵尸网络，使用 STUN 基础 C2"
+  },
+  {
+   "id": "SCHNEIER-04804fed",
+   "title": "Another Historic Cipher Falls to AI",
+   "url": "https://www.schneier.com/blog/archives/2026/10/another-historic-cipher-falls-to-ai.html",
    "source": "Schneier",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Fri, 02 Oct 2026 21:02:18 +0000",
-   "published_date": "2026-10-02",
-   "digest": "The EU is recommending import controls to combat unregulated squid fishing in the Southwest Atlantic. I’m not optimistic. As usual, you can also use this squid …",
+   "published_at": "Mon, 05 Oct 2026 11:04:47 +0000",
+   "published_date": "2026-10-05",
+   "digest": "This one is from 1809, written by Napoleon’s nephew.",
    "tags": [],
-   "title_zh": "周五鱿鱼博客：欧盟试图打击无监管的鱿鱼捕捞"
+   "title_zh": "又一历史级密码算法被AI攻破"
   },
   {
-   "id": "FREEBUF-bb2feeb6",
-   "title": "GitLab发布AI Gateway紧急更新，修复严重远程代码执行漏洞",
-   "url": "https://www.freebuf.com/articles/ai-security/504606.html",
+   "id": "SECURITYWEEK-775ddbfa",
+   "title": "Exploitation Hits Rejetto HFS Vulnerability Discovered by AI",
+   "url": "https://www.securityweek.com/exploitation-hits-rejetto-hfs-vulnerability-discovered-by-ai/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 05 Oct 2026 11:00:05 +0000",
+   "published_date": "2026-10-05",
+   "digest": "CVE-2026-61500 allows attackers to recover the session-cookie signing key and gain administrative access and RCE. The post Exploitation Hits Rejetto HFS Vulnera…",
+   "tags": [
+    "漏洞预警"
+   ],
+   "title_zh": "利用攻击 targeting Rejetto HFS 漏洞被AI发现"
+  },
+  {
+   "id": "SECURITYWEEK-78fa57ec",
+   "title": "Senate Passes Bipartisan Bill to Strengthen Healthcare Cybersecurity",
+   "url": "https://www.securityweek.com/senate-passes-bipartisan-bill-to-strengthen-healthcare-cybersecurity/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 05 Oct 2026 10:42:19 +0000",
+   "published_date": "2026-10-05",
+   "digest": "More than 730 cyber breaches affected over 270 million Americans last year, costing an average of $10 million per breach. The post Senate Passes Bipartisan Bill…",
+   "tags": [],
+   "title_zh": "参两党法案加强医疗网络安全"
+  },
+  {
+   "id": "THN-43caaedb",
+   "title": "Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access",
+   "url": "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 05 Oct 2026 16:08:50 +0530",
+   "published_date": "2026-10-05",
+   "digest": "Apple has announced that it's taking steps to tighten controls around a macOS setting called Full Disk Access (FDA) due to security risks posed by artificial in…",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "苹果计划加强对AI代理数据访问的全磁盘访问控制"
+  },
+  {
+   "id": "FREEBUF-b7f17910",
+   "title": "攻击者利用Realtek Jungle SDK漏洞，投放基于STUN C2的Cling僵尸网络",
+   "url": "https://www.freebuf.com/news/504785.html",
    "source": "FreeBuf",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Sat, 03 Oct 2026 04:11:34 +0800",
-   "published_date": "2026-10-03",
-   "digest": "GitLab紧急修复AI Gateway严重RCE漏洞（CVSS9.9），认证攻击者可远程执行任意代码，自托管用户需立即升级。",
+   "published_at": "Mon, 05 Oct 2026 17:16:25 +0800",
+   "published_date": "2026-10-05",
+   "digest": "Realtek Jungle SDK关键漏洞利用激增，攻击者大肆投放Cling僵尸网络，其伪装STUN流量隐蔽难测，可横向扩散、发起DoS攻击。",
+   "tags": [
+    "漏洞预警",
+    "僵尸网络"
+   ]
+  },
+  {
+   "id": "SECAFFAIRS-4291baad",
+   "title": "MI5 Raises Alarm Over Chinese Funding of UK Academic Research",
+   "url": "https://securityaffairs.com/200396/intelligence/mi5-raises-alarm-over-chinese-funding-of-uk-academic-research.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 05 Oct 2026 09:12:58 +0000",
+   "published_date": "2026-10-05",
+   "digest": "MI5 warns UK universities that over 100 academics may have unknowingly worked on research funded by a Chinese institute linked to the MSS. On September 30, MI5 …",
+   "tags": [],
+   "title_zh": "MI5 对中国资助英国学术研究表示警觉"
+  },
+  {
+   "id": "SECAFFAIRS-844fc765",
+   "title": "Iranian hacker accused of draining 31TB from university inboxes extradited to the US",
+   "url": "https://securityaffairs.com/200387/security/iranian-hacker-accused-of-draining-31tb-from-university-inboxes-extradited-to-the-us.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 05 Oct 2026 08:33:57 +0000",
+   "published_date": "2026-10-05",
+   "digest": "Iranian hacker Amir Barati faces extradition to the US over an alleged Iranian campaign that stole 31TB of data from universities. Amir Barati spent June 25 get…",
+   "tags": [],
+   "title_zh": "伊朗黑客因从大学邮箱中窃取3.1TB数据被引渡至美国"
+  },
+  {
+   "id": "TOPSEC-85c1d1e2",
+   "title": "A Proud New Chapter for the Frank Maher Classical Music Awards",
+   "url": "https://www.topsec.com/a-proud-new-chapter-for-the-frank-maher-classical-music-awards/",
+   "source": "天融信",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 05 Oct 2026 08:33:52 +0000",
+   "published_date": "2026-10-05",
+   "digest": "Discover why SLAs are the starting point in email security. Learn how proactive support, rapid response and real human service define true protection. The post …",
+   "tags": [],
+   "title_zh": "弗兰克·梅哈古典音乐奖的新篇章"
+  },
+  {
+   "id": "THN-9275b3af",
+   "title": "Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE",
+   "url": "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 05 Oct 2026 13:39:23 +0530",
+   "published_date": "2026-10-05",
+   "digest": "A critical security flaw impacting Rejetto HTTP File Server (HFS) is witnessing active exploitation attempts, according to VulnCheck. The vulnerability in quest…",
    "tags": [
     "漏洞预警"
-   ]
+   ],
+   "title_zh": "攻击者 targeting Rejetto HFS 漏洞 以实现管理员会话伪造和远程代码执行"
+  },
+  {
+   "id": "SECAFFAIRS-b6e511ce",
+   "title": "Another OpenAI Safety Expert Quits and Raises New AI Safety Concerns",
+   "url": "https://securityaffairs.com/200372/security/another-openai-safety-expert-quits-and-raises-new-ai-safety-concerns.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 05 Oct 2026 07:30:04 +0000",
+   "published_date": "2026-10-05",
+   "digest": "OpenAI safety veteran David Robinson resigns, warning that the company’s culture and fast AI development model could create bigger risks. OpenAI safety veteran …",
+   "tags": [],
+   "title_zh": "又一位OpenAI安全专家离职并提出新的AI安全担忧"
+  },
+  {
+   "id": "SECURITYWEEK-a3c707ed",
+   "title": "Alleged ShinyHunters Leader Arrested in Jordan",
+   "url": "https://www.securityweek.com/alleged-shinyhunters-leader-arrested-in-jordan/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 05 Oct 2026 07:16:53 +0000",
+   "published_date": "2026-10-05",
+   "digest": "Known as Rey, the suspect is reportedly helping the FBI identify and locate other members of the extortion group. The post Alleged ShinyHunters Leader Arrested …",
+   "tags": [
+    "监管合规"
+   ],
+   "title_zh": "alleged ShinyHunters 领导人被约旦逮捕"
   }
  ]
 }

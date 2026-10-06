@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-05 10:06",
+ "generated_at": "2026-10-06 10:03",
  "source_count": 83,
- "total": 5760,
+ "total": 5847,
  "months": [
   {
    "month": "2026-10",
-   "count": 143
+   "count": 230
   },
   {
    "month": "2026-09",
@@ -86,29 +86,29 @@
  ],
  "facets": {
   "categories": {
-   "网络安全": 3044,
-   "AI安全": 2716
+   "网络安全": 3077,
+   "AI安全": 2770
   },
   "sources": {
-   "arXiv cs.CR": 2685,
-   "FreeBuf": 797,
-   "The Hacker News": 534,
-   "SecurityWeek": 448,
+   "arXiv cs.CR": 2739,
+   "FreeBuf": 805,
+   "The Hacker News": 541,
+   "SecurityWeek": 455,
    "ZDI Published": 324,
-   "Security Affairs": 306,
+   "Security Affairs": 312,
    "ESET Research": 118,
-   "Schneier": 86,
-   "SecWiki": 72,
+   "Schneier": 87,
+   "SecWiki": 73,
    "Wordfence": 40,
    "嘶吼": 40,
    "Unit 42": 30,
    "Securelist (Kaspersky)": 30,
-   "Check Point Research": 28,
+   "Check Point Research": 29,
    "Seebug Paper": 28,
    "Have I Been Pwned": 25,
    "绿盟科技博客": 22,
    "Future of Life Institute": 21,
-   "天融信": 18,
+   "天融信": 19,
    "SentinelOne Blog": 18,
    "Risky Business": 14,
    "Trail of Bits": 12,
@@ -117,36 +117,36 @@
    "DFIR Report": 11,
    "Red Canary": 11,
    "Adversa AI": 10,
-   "ZDI Blog": 7,
+   "ZDI Blog": 8,
    "Volexity": 3
   },
   "priorities": {
-   "P2": 140,
-   "P1": 5285,
+   "P1": 5371,
+   "P2": 141,
    "P0": 335
   },
   "tags": {
-   "学术研究": 2708,
-   "大模型安全": 930,
-   "漏洞预警": 670,
-   "身份认证": 158,
-   "监管合规": 140,
-   "AI攻防": 132,
-   "数据泄露": 132,
+   "学术研究": 2762,
+   "大模型安全": 949,
+   "漏洞预警": 678,
+   "身份认证": 159,
+   "监管合规": 142,
+   "AI攻防": 135,
+   "数据泄露": 133,
    "安全运营": 124,
    "钓鱼攻击": 107,
    "供应链攻击": 100,
    "Web安全": 90,
-   "云安全": 87,
-   "勒索软件": 86,
-   "密码学": 81,
+   "云安全": 88,
+   "勒索软件": 87,
+   "密码学": 82,
    "物联网安全": 81,
-   "移动安全": 59,
-   "加密货币犯罪": 56,
+   "移动安全": 60,
+   "加密货币犯罪": 57,
    "网络诈骗": 55,
    "APT组织": 44,
-   "僵尸网络": 33,
-   "工控安全": 25
+   "僵尸网络": 35,
+   "工控安全": 26
   }
  }
 }
