@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-08 10:05",
+ "generated_at": "2026-10-09 10:04",
  "source_count": 83,
- "total": 6048,
+ "total": 6161,
  "months": [
   {
    "month": "2026-10",
-   "count": 431
+   "count": 544
   },
   {
    "month": "2026-09",
@@ -86,25 +86,25 @@
  ],
  "facets": {
   "categories": {
-   "网络安全": 3154,
-   "AI安全": 2894
+   "网络安全": 3201,
+   "AI安全": 2960
   },
   "sources": {
-   "arXiv cs.CR": 2863,
-   "FreeBuf": 822,
-   "The Hacker News": 562,
-   "SecurityWeek": 473,
+   "arXiv cs.CR": 2929,
+   "FreeBuf": 837,
+   "The Hacker News": 572,
+   "SecurityWeek": 483,
+   "Security Affairs": 327,
    "ZDI Published": 324,
-   "Security Affairs": 321,
-   "ESET Research": 119,
-   "Schneier": 89,
-   "SecWiki": 75,
-   "Wordfence": 40,
+   "ESET Research": 120,
+   "Schneier": 90,
+   "SecWiki": 76,
+   "Wordfence": 41,
    "嘶吼": 40,
    "Unit 42": 32,
    "Securelist (Kaspersky)": 30,
+   "Seebug Paper": 29,
    "Check Point Research": 29,
-   "Seebug Paper": 28,
    "Have I Been Pwned": 27,
    "绿盟科技博客": 22,
    "Future of Life Institute": 21,
@@ -113,40 +113,40 @@
    "Risky Business": 14,
    "Krebs on Security": 12,
    "Trail of Bits": 12,
+   "ZDI Blog": 11,
    "Praetorian Blog": 11,
    "DFIR Report": 11,
    "Red Canary": 11,
-   "ZDI Blog": 10,
    "Adversa AI": 10,
    "Volexity": 3
   },
   "priorities": {
-   "P1": 5569,
-   "P2": 143,
+   "P2": 146,
+   "P1": 5679,
    "P0": 336
   },
   "tags": {
-   "学术研究": 2886,
-   "大模型安全": 994,
-   "漏洞预警": 683,
-   "身份认证": 164,
-   "监管合规": 149,
-   "AI攻防": 146,
-   "数据泄露": 141,
-   "安全运营": 126,
-   "钓鱼攻击": 109,
-   "供应链攻击": 104,
+   "学术研究": 2953,
+   "大模型安全": 1016,
+   "漏洞预警": 691,
+   "身份认证": 167,
+   "AI攻防": 153,
+   "监管合规": 151,
+   "数据泄露": 143,
+   "安全运营": 130,
+   "钓鱼攻击": 110,
+   "供应链攻击": 107,
+   "勒索软件": 95,
+   "云安全": 94,
+   "物联网安全": 92,
    "Web安全": 92,
-   "勒索软件": 91,
-   "云安全": 90,
-   "物联网安全": 87,
    "密码学": 82,
    "移动安全": 64,
-   "加密货币犯罪": 59,
-   "网络诈骗": 56,
+   "加密货币犯罪": 60,
+   "网络诈骗": 59,
    "APT组织": 44,
    "僵尸网络": 36,
-   "工控安全": 27
+   "工控安全": 28
   }
  }
 }
