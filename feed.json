@@ -1,335 +1,352 @@
 {
- "generated_at": "2026-10-09 10:04",
- "total": 6161,
+ "generated_at": "2026-10-10 10:04",
+ "total": 6287,
  "items": [
   {
-   "id": "WORDFENCE-00389ba4",
-   "title": "Cybersecurity Imperatives Will Demand AI Math",
-   "url": "https://www.wordfence.com/blog/2026/10/cybersecurity-imperatives-will-demand-ai-math/",
-   "source": "Wordfence",
+   "id": "KREBS-ebf8282e",
+   "title": "FBI Arrests Founder of Ransomware Negotiation Firm",
+   "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
+   "source": "Krebs on Security",
    "category": "网络安全",
-   "priority": "P2",
-   "published_at": "Thu, 08 Oct 2026 21:06:29 +0000",
-   "published_date": "2026-10-08",
-   "digest": "Cybersecurity is built on math, and if public key encryption falls and we don’t have a replacement ready, the Web grinds to a halt. The post Cybersecurity Imper…",
-   "tags": [],
-   "title_zh": "网络安全需求将要求运用AI数学方法"
+   "priority": "P0",
+   "published_at": "Sat, 10 Oct 2026 00:17:42 +0000",
+   "published_date": "2026-10-10",
+   "digest": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation i…",
+   "tags": [
+    "勒索软件",
+    "监管合规"
+   ],
+   "title_zh": "FBI逮捕勒索软件谈判公司创始人"
   },
   {
-   "id": "SECAFFAIRS-a7359fd0",
-   "title": "Italy’s Foreign Ministry Under Cyberattack as Embassy Sites Come Under Review",
-   "url": "https://securityaffairs.com/200650/cyber-warfare-2/italys-foreign-ministry-under-cyberattack-as-embassy-sites-come-under-review.html",
-   "source": "Security Affairs",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Thu, 08 Oct 2026 19:33:08 +0000",
-   "published_date": "2026-10-08",
-   "digest": "Italy’s Foreign Ministry is defending its website against a cyberattack, checking embassy sites and pushing for EU action to identify attackers. On the morning …",
-   "tags": [],
-   "title_zh": "意大利外交部长遭遇网络攻击，大使馆网站接受审查"
-  },
-  {
-   "id": "SECAFFAIRS-4d4a8749",
-   "title": "Italy’s Foreign Ministry Under Cyberattack as Embassy Sites Come Under Review",
-   "url": "https://securityaffairs.com/200650/uncategorized/italys-foreign-ministry-under-cyberattack-as-embassy-sites-come-under-review.html",
-   "source": "Security Affairs",
+   "id": "SECURITYWEEK-09b987ec",
+   "title": "OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks",
+   "url": "https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/",
+   "source": "SecurityWeek",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Thu, 08 Oct 2026 19:33:08 +0000",
-   "published_date": "2026-10-08",
-   "digest": "Italy’s Foreign Ministry is defending its website against a cyberattack, checking embassy sites and pushing for EU action to identify attackers. On the morning …",
-   "tags": [],
-   "title_zh": "意大利外交部长官署遭受网络攻击，大使馆网站正在审查中"
+   "published_at": "Fri, 09 Oct 2026 21:07:46 +0000",
+   "published_date": "2026-10-09",
+   "digest": "The ChatGPT maker said the researchers \"violated clear policies on handling sensitive information.” The post OpenAI Fires 3 Safety Researchers in Dispute Over A…",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "OpenAI解雇三位安全研究人员就AI风险争议"
   },
   {
-   "id": "THN-bc0b1700",
-   "title": "FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails",
-   "url": "https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html",
+   "id": "SCHNEIER-307e72e1",
+   "title": "Friday Squid Blogging: I Caught a Squid",
+   "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-i-caught-a-squid.html",
+   "source": "Schneier",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 09 Oct 2026 20:24:45 +0000",
+   "published_date": "2026-10-09",
+   "digest": "On Wednesday I spent a day fishing, on a small boat out of Gloucester, MA. We caught many cod (none of which we could keep), and a bunch of hake and mackerel (a…",
+   "tags": [],
+   "title_zh": "周五鱿鱼博客：我捉到一只鱿鱼"
+  },
+  {
+   "id": "THN-823fa1cb",
+   "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
+   "url": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
    "source": "The Hacker News",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Fri, 09 Oct 2026 00:02:21 +0530",
+   "published_at": "Sat, 10 Oct 2026 00:44:28 +0530",
+   "published_date": "2026-10-10",
+   "digest": "Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer accounts t…",
+   "tags": [
+    "身份认证"
+   ],
+   "title_zh": "凭证窃取的GitHub Actions工作流植入 tens of thousands 个仓库"
+  },
+  {
+   "id": "SECAFFAIRS-1d73c4f3",
+   "title": "Germany Arrests Suspected Qilin Ransomware Leader After Japan Detention",
+   "url": "https://securityaffairs.com/200695/uncategorized/germany-arrests-suspected-qilin-ransomware-leader-after-japan-detention.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 09 Oct 2026 18:45:43 +0000",
    "published_date": "2026-10-09",
-   "digest": "Hackers tied to a Chinese cybersecurity company stole email from government organizations, law enforcement agencies, healthcare systems, and religious instituti…",
+   "digest": "Japan helped extradite a Russian suspect linked to Qilin ransomware to Germany, but the gang continued attacking victims after his arrest. Germany has arrested …",
+   "tags": [
+    "勒索软件"
+   ],
+   "title_zh": "德国在日 interceptions后逮捕疑似Qilin勒索软件头目"
+  },
+  {
+   "id": "THN-d3a688aa",
+   "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
+   "url": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 09 Oct 2026 23:15:26 +0530",
+   "published_date": "2026-10-09",
+   "digest": "The FBI has arrested another suspected co-conspirator of ShinyHunters, FBI Director Kash Patel said on October 9 in a post on X. ShinyHunters is the extortion g…",
    "tags": [
     "监管合规"
    ],
-   "title_zh": "FBI 称与中国有关的黑客运行portal向第三方提供被盗邮件访问权"
+   "title_zh": "FBI 另捕一名涉嫌参与 ShinyHunters 职位招聘网站黑客攻击的嫌疑人"
   },
   {
-   "id": "THN-62aa4b91",
-   "title": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories",
-   "url": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
+   "id": "PRAETORIAN-91b760fa",
+   "title": "Hunt, Triage, and Act on Guard Findings in Slack",
+   "url": "https://www.praetorian.com/blog/slack-integration/",
+   "source": "Praetorian Blog",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 09 Oct 2026 17:15:18 +0000",
+   "published_date": "2026-10-09",
+   "digest": "Block Kit alerts, threaded conversations with Marcus, and every action tied to a verified Guard identity. The alert that matters usually lands in Slack. Someone…",
+   "tags": [
+    "身份认证"
+   ],
+   "title_zh": "在 Slack 中搜索、分类和应对 Guard 发现"
+  },
+  {
+   "id": "WORDFENCE-33a02d82",
+   "title": "Wordfence Intelligence Weekly WordPress Vulnerability Report (September 28, 2026 to October 4, 2026)",
+   "url": "https://www.wordfence.com/blog/2026/10/wordfence-intelligence-weekly-wordpress-vulnerability-report-september-28-2026-to-october-4-2026/",
+   "source": "Wordfence",
+   "category": "网络安全",
+   "priority": "P2",
+   "published_at": "Fri, 09 Oct 2026 16:42:54 +0000",
+   "published_date": "2026-10-09",
+   "digest": "Last week, there were disclosed in and that have been added to the Wordfence Intelligence Vulnerability Database, and there were that contributed to WordPress S…",
+   "tags": [
+    "Web安全"
+   ],
+   "title_zh": "Wordfence Intelligence 每周 WordPress 漏洞报告（2026年9月28日至10月4日）"
+  },
+  {
+   "id": "THN-482b120b",
+   "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
+   "url": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
    "source": "The Hacker News",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Thu, 08 Oct 2026 23:28:02 +0530",
-   "published_date": "2026-10-08",
-   "digest": "The crooks have trust problems of their own. One ransomware affiliate decided to keep the profits for himself. Elsewhere, an attacker left a server exposed, com…",
+   "published_at": "Fri, 09 Oct 2026 21:59:55 +0530",
+   "published_date": "2026-10-09",
+   "digest": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. \"Compared with the variant…",
    "tags": [
-    "勒索软件"
+    "移动安全"
    ],
-   "title_zh": "威胁日：勒索软件附属背叛、WhatsApp RAT、泄露的黑客工具及其他十二篇报道"
+   "title_zh": "P7 DarkSword iOS exploit kit 添加加密钱包数据窃取和远程命令功能"
   },
   {
-   "id": "SECAFFAIRS-e207785b",
-   "title": "Hunt.io Finds New Infrastructure Of BraZetsu Access Broker Months Before Disclosure",
-   "url": "https://securityaffairs.com/200634/cyber-crime/hunt-io-finds-new-brazetsu-infrastructure-months-before-disclosure.html",
-   "source": "Security Affairs",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Thu, 08 Oct 2026 17:47:35 +0000",
-   "published_date": "2026-10-08",
-   "digest": "Hunt.io traced BraZetsu ‘s infrastructure and found that hosting patterns and certificate data remained useful after published IOCs became outdated. Group-IB re…",
-   "tags": [],
-   "title_zh": "Hunt.io 在披露前几个月发现 BraZetsu 访问代理的新基础设施"
-  },
-  {
-   "id": "SECWIKI-d33a496f",
-   "title": "SecWiki News 2026-10-08 Review",
-   "url": "http://www.sec-wiki.com/?2026-10-08",
+   "id": "SECWIKI-230e376b",
+   "title": "SecWiki News 2026-10-09 Review",
+   "url": "http://www.sec-wiki.com/?2026-10-09",
    "source": "SecWiki",
    "category": "网络安全",
    "priority": "P2",
-   "published_at": "\nThu, 08 Oct 2026 23:58:20 +0800",
-   "published_date": "2026-10-08",
-   "digest": "今日暂未更新资讯~ 更多最新文章，请访问 SecWiki",
+   "published_at": "\nFri, 09 Oct 2026 23:58:20 +0800",
+   "published_date": "2026-10-09",
+   "digest": "CTF多层内网渗透辅助工具 by ourren 2026年卫星产业报告 by ourren 更多最新文章，请访问 SecWiki",
    "tags": [],
-   "title_zh": "SecWiki 新闻 2026-10-08 概览"
+   "title_zh": "SecWiki 新闻 2026-10-09 概览"
   },
   {
-   "id": "THN-ec18ded3",
-   "title": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks",
-   "url": "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Thu, 08 Oct 2026 21:15:56 +0530",
-   "published_date": "2026-10-08",
-   "digest": "Attackers behind a string of personal data leaks at Japanese organizations have abused APIs for mobile apps and targeted known software flaws, the JPCERT Coordi…",
-   "tags": [],
-   "title_zh": "日本遭遇移动API滥用和Metabase攻击导致Web数据泄露激增"
-  },
-  {
-   "id": "SECURITYWEEK-90bdf6d7",
-   "title": "Cisco Patches a Dozen Critical Vulnerabilities",
-   "url": "https://www.securityweek.com/cisco-patches-a-dozen-critical-vulnerabilities/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Thu, 08 Oct 2026 15:28:06 +0000",
-   "published_date": "2026-10-08",
-   "digest": "The security defects could lead to unauthorized access, information leaks, privilege escalation, DoS attacks, and remote code execution. The post Cisco Patches …",
-   "tags": [],
-   "title_zh": "思科修复了十二个关键漏洞"
-  },
-  {
-   "id": "THN-3fd29c4e",
-   "title": "UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML",
-   "url": "https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Thu, 08 Oct 2026 20:56:56 +0530",
-   "published_date": "2026-10-08",
-   "digest": "The Russia-aligned threat actor known as UAC-0099 has been attributed to a previously undocumented .NET infostealer and remote access trojan (RAT) codenamed ASH…",
-   "tags": [],
-   "title_zh": "UAC-0099 targeting Ukrainian government personnel with ASHVEIN RAT,隐藏命令于HTML中"
-  },
-  {
-   "id": "SECURITYWEEK-f04155bb",
-   "title": "Security Awareness Training Isn’t Dead, but It Needs a Rethink",
-   "url": "https://www.securityweek.com/security-awareness-training-isnt-dead-but-it-needs-a-rethink/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Thu, 08 Oct 2026 14:30:00 +0000",
-   "published_date": "2026-10-08",
-   "digest": "All enterprises conduct security awareness training for their employees. But whether this has tangible benefits is debatable. The post Security Awareness Traini…",
-   "tags": [],
-   "title_zh": "安全意识培训并未死亡，但需重新思考"
-  },
-  {
-   "id": "THN-3c770f50",
-   "title": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms",
-   "url": "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Thu, 08 Oct 2026 19:42:34 +0530",
-   "published_date": "2026-10-08",
-   "digest": "Cybersecurity researchers have disclosed details of a targeted campaign aimed at South Korean financial organizations that used an artificial intelligence (AI) …",
-   "tags": [],
-   "title_zh": "ARTEX AI 漏洞利用工具用于韩国金融机构数据窃取攻击"
-  },
-  {
-   "id": "SECURITYWEEK-df0f3911",
-   "title": "Attackers Target Critical Atlassian Vulnerability Within Hours of PoC Publication",
-   "url": "https://www.securityweek.com/attackers-target-critical-atlassian-vulnerability-within-hours-of-poc-publication/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Thu, 08 Oct 2026 14:04:44 +0000",
-   "published_date": "2026-10-08",
-   "digest": "Threat actors have started targeting CVE-2026-21589, a critical vulnerability in Atlassian’s self-hosted Data Center products. The post Attackers Target Critica…",
-   "tags": [
-    "漏洞预警"
-   ],
-   "title_zh": "攻击者在 poc 发布后数小时内 targeting 致命的 atlassian 漏洞"
-  },
-  {
-   "id": "SECAFFAIRS-aae0e6b9",
-   "title": "MonsterCloud Owner Charged With Secretly Paying Ransomware Demands",
-   "url": "https://securityaffairs.com/200621/cyber-crime/monstercloud-owner-charged-with-secretly-paying-ransomware-demands.html",
-   "source": "Security Affairs",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Thu, 08 Oct 2026 13:37:49 +0000",
-   "published_date": "2026-10-08",
-   "digest": "MonsterCloud owner Zohar Pinhasi allegedly paid ransomware demands behind clients’ backs, then charged them millions for the supposed recovery. Zohar Pinhasi, t…",
-   "tags": [
-    "勒索软件"
-   ],
-   "title_zh": "恶意软件所有者因秘密支付勒索软件赎金被起诉"
-  },
-  {
-   "id": "FREEBUF-39a64451",
-   "title": "日本Web数据泄露事件激增，移动API遭滥用Metabase漏洞被利用",
-   "url": "https://www.freebuf.com/articles/database/505380.html",
+   "id": "FREEBUF-d6aff7d4",
+   "title": "P7 DarkSword iOS漏洞利用工具包升级，新增加密钱包窃取与远程命令功能",
+   "url": "https://www.freebuf.com/news/505598.html",
    "source": "FreeBuf",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Thu, 08 Oct 2026 21:15:56 +0800",
-   "published_date": "2026-10-08",
-   "digest": "日本近期Web数据泄露事件激增，攻击者无差别滥用移动API、利用Metabase漏洞窃取千万级用户信息，需紧急防范。",
+   "published_at": "Fri, 09 Oct 2026 21:59:55 +0800",
+   "published_date": "2026-10-09",
+   "digest": "P7 DarkSword iOS漏洞利用工具包升级，可窃取加密钱包、钥匙串敏感数据并远程控制设备，已在野扩散威胁iPhone用户安全。",
+   "tags": [
+    "漏洞预警",
+    "移动安全"
+   ]
+  },
+  {
+   "id": "SECAFFAIRS-72da89ac",
+   "title": "Claude Helps Secure Open Source as Anthropic Offers Free Vulnerability Scanning",
+   "url": "https://securityaffairs.com/200685/ai/claude-helps-secure-open-source-as-anthropic-offers-free-vulnerability-scanning.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 09 Oct 2026 13:56:30 +0000",
+   "published_date": "2026-10-09",
+   "digest": "Anthropic launches free OSS Scanner, using AI to find open-source vulnerabilities and help maintainers fix bugs before attackers exploit them. Anthropic is laun…",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "Claude助力开源安全 Anthropic提供免费漏洞扫描服务"
+  },
+  {
+   "id": "THN-ce13d3af",
+   "title": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties",
+   "url": "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 09 Oct 2026 18:52:53 +0530",
+   "published_date": "2026-10-09",
+   "digest": "Four more U.S. states sued router maker TP-Link Systems on October 6, bringing the total to five, with Texas filing a suit in February. Florida, Iowa, Montana a…",
+   "tags": [
+    "物联网安全"
+   ],
+   "title_zh": "四州再起诉TP-Link路由器安全及中资问题"
+  },
+  {
+   "id": "THN-0c9c173a",
+   "title": "Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access",
+   "url": "https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 09 Oct 2026 18:29:22 +0530",
+   "published_date": "2026-10-09",
+   "digest": "Security researchers have published a full working exploit for a pre-authentication remote code execution flaw in AnyDesk Linux that gives attackers root access…",
+   "tags": [],
+   "title_zh": "研究人员发布针对预认证AnyDesk Linux漏洞的工作利用，可获得root权限"
+  },
+  {
+   "id": "THN-bb39ac57",
+   "title": "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
+   "url": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 09 Oct 2026 18:17:28 +0530",
+   "published_date": "2026-10-09",
+   "digest": "Anthropic on Thursday unveiled OSS Scanner as an opt-in vulnerability scanner to help secure the open-source ecosystem using artificial intelligence (AI). \"It's…",
+   "tags": [],
+   "title_zh": "Anthropic 推出免费开源项目AI漏洞扫描器"
+  },
+  {
+   "id": "THN-a5e017c4",
+   "title": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge",
+   "url": "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 09 Oct 2026 18:17:26 +0530",
+   "published_date": "2026-10-09",
+   "digest": "Threat actors have been observed exploiting two recently disclosed flaws in the AhsayCBS backup utility to seize control of affected devices and deploy web shel…",
+   "tags": [],
+   "title_zh": "攻击者利用AhsayCBS漏洞部署伪装成Microsoft Edge的XMRig挖矿软件"
+  },
+  {
+   "id": "THN-1515d6cb",
+   "title": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies",
+   "url": "https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 09 Oct 2026 17:51:51 +0530",
+   "published_date": "2026-10-09",
+   "digest": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added five security flaws to its Known Exploited Vulnerabilities (KEV) catalog, fol…",
+   "tags": [
+    "监管合规"
+   ],
+   "title_zh": "Flax Typhoon 利用五个漏洞，CISA 给联邦机构设定了10月11日的修复期限"
+  },
+  {
+   "id": "SECURITYWEEK-589788aa",
+   "title": "In Other News: AI Used in Korean Bank Breaches, Poem-Guided Botnet, Empire Admin Gets 40 Years",
+   "url": "https://www.securityweek.com/in-other-news-ai-used-in-korean-bank-breaches-poem-guided-botnet-empire-admin-gets-40-years/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 09 Oct 2026 12:03:50 +0000",
+   "published_date": "2026-10-09",
+   "digest": "Noteworthy stories that might have slipped under the radar: Tensorlake npm SDK compromised, Empire Market co-founder gets 40 years, exposed NVIDIA GPU monitors …",
+   "tags": [
+    "供应链攻击",
+    "僵尸网络"
+   ],
+   "title_zh": "韩国银行遭AI攻击，诗引导僵尸网络事件，Empire管理员获刑40年"
+  },
+  {
+   "id": "SECURITYWEEK-ec32a9c8",
+   "title": "Google Domains Impacted by Recent ccTLD Hijacks",
+   "url": "https://www.securityweek.com/google-domains-impacted-by-recent-cctld-domain-hijacks/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 09 Oct 2026 11:43:14 +0000",
+   "published_date": "2026-10-09",
+   "digest": "Hackers hijacked the .gh, .sl, and .as ccTLDs and obtained HTTPS certificates for several Google domains. The post Google Domains Impacted by Recent ccTLD Hijac…",
+   "tags": [],
+   "title_zh": "Google Domains受近期ccTLD劫持影响"
+  },
+  {
+   "id": "THN-7bc21632",
+   "title": "The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition",
+   "url": "https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 09 Oct 2026 17:00:00 +0530",
+   "published_date": "2026-10-09",
+   "digest": "As enterprises race to deploy autonomous AI agents to accelerate business, a new report reveals they are tethered to security architectures built for a differen…",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "AI速度悖论：安全为何落后于AI雄心数十年"
+  },
+  {
+   "id": "FREEBUF-a3059890",
+   "title": "FreeBuf早报 | 黑客利用AI工具入侵韩国金融机构；日本Web数据泄露事件激增",
+   "url": "https://www.freebuf.com/news/505534.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 09 Oct 2026 19:04:11 +0800",
+   "published_date": "2026-10-09",
+   "digest": "单黑客仅凭开源AI渗透工具ARTEX入侵韩国多家金融机构，窃取客户及员工敏感数据，凸显AI降低网络攻击门槛的严峻安全风险。",
    "tags": [
     "数据泄露"
    ]
   },
   {
-   "id": "SECURITYWEEK-e72eb5a5",
-   "title": "US Seeks Alleged Chinese Hafnium Hacker With $10 Million Reward",
-   "url": "https://www.securityweek.com/us-seeks-alleged-chinese-hafnium-hacker-with-10-million-reward/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Thu, 08 Oct 2026 12:46:21 +0000",
-   "published_date": "2026-10-08",
-   "digest": "Zhang Yu was charged alongside Xu Zewei, who was extradited from Italy to the US in April 2026. The post US Seeks Alleged Chinese Hafnium Hacker With $10 Millio…",
-   "tags": [],
-   "title_zh": "美国悬赏捉拿 alleged 中企哈弗尼乌姆黑客，奖金 1000 万美元"
-  },
-  {
-   "id": "SECURITYWEEK-a366d979",
-   "title": "SonicWall and Splunk Patch Critical Vulnerabilities",
-   "url": "https://www.securityweek.com/sonicwall-and-splunk-patch-critical-vulnerabilities/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Thu, 08 Oct 2026 12:37:32 +0000",
-   "published_date": "2026-10-08",
-   "digest": "Critical and high-severity vulnerabilities could allow attackers to bypass authentication, execute arbitrary code, and elevate their privileges. The post SonicW…",
-   "tags": [],
-   "title_zh": "思科系统与Splunk修复关键漏洞"
-  },
-  {
-   "id": "SECURITYWEEK-7ff45ce2",
-   "title": "Rein Security Raises $25 Million to Guard AI Agents at Runtime",
-   "url": "https://www.securityweek.com/rein-security-raises-25-million-to-guard-ai-agents-at-runtime/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Thu, 08 Oct 2026 11:11:28 +0000",
-   "published_date": "2026-10-08",
-   "digest": "The cybersecurity startup will invest in product innovation, agentic research, and employee base expansion. The post Rein Security Raises $25 Million to Guard A…",
-   "tags": [
-    "大模型安全"
-   ],
-   "title_zh": "Rein安全公司筹集2500万美元以运行时保护AI代理"
-  },
-  {
-   "id": "SCHNEIER-3f516fdc",
-   "title": "How Technology Empowers—and Imperils—Dictators",
-   "url": "https://www.schneier.com/blog/archives/2026/10/how-technology-empowers-and-imperils-dictators.html",
-   "source": "Schneier",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Thu, 08 Oct 2026 11:07:35 +0000",
-   "published_date": "2026-10-08",
-   "digest": "This essay was written with Seva Gunitsky, and originally appeared in Foreign Affairs . Two weeks after Moscow’s full-scale invasion of Ukraine in March 2022, t…",
-   "tags": [],
-   "title_zh": "技术如何赋能并威胁独裁者"
-  },
-  {
-   "id": "ZDI-BLOG-a17a6d33",
-   "title": "Pwn2Own Ireland 2026 - Day Three Results & Master of Pwn",
-   "url": "https://www.thezdi.com/blog/2026/10/8/pwn2own-ireland-2026-day-three-results-amp-master-of-pwn",
-   "source": "ZDI Blog",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Thu, 08 Oct 2026 10:41:14 +0000",
-   "published_date": "2026-10-08",
-   "digest": "Day Three of Pwn2Own Ireland 2026 wrapsup with 17 attempts scheduled, roughly $1.33 million on the board. The headliner is the Google Pixel 10, which draws thre…",
-   "tags": [],
-   "title_zh": "Pwn2Own爱尔兰2026第三天成果及破解大师"
-  },
-  {
-   "id": "THN-45df25a0",
-   "title": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia",
-   "url": "https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Thu, 08 Oct 2026 16:00:00 +0530",
-   "published_date": "2026-10-08",
-   "digest": "Phishing kits are no longer limited to copying a familiar login page and waiting for a victim to enter credentials. Attackers are increasingly building filterin…",
-   "tags": [
-    "钓鱼攻击",
-    "身份认证"
-   ],
-   "title_zh": "Wazza Phishkit 钓鱼工具针对美国、欧盟和澳大利亚的银行、政府及制造业"
-  },
-  {
-   "id": "SECURITYWEEK-1a4eea4d",
-   "title": "TP-Link Faces State Lawsuits and New Scrutiny Over ISP Router Flaws",
-   "url": "https://www.securityweek.com/tp-link-faces-state-lawsuits-and-new-scrutiny-over-isp-router-flaws/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Thu, 08 Oct 2026 10:24:04 +0000",
-   "published_date": "2026-10-08",
-   "digest": "SEC Consult has published technical details on vulnerabilities mentioned in a complaint filed by several US states. The post TP-Link Faces State Lawsuits and Ne…",
-   "tags": [
-    "物联网安全"
-   ],
-   "title_zh": "TP-Link面临州级诉讼及对ISP路由器漏洞的新审查"
-  },
-  {
-   "id": "SECAFFAIRS-aad02306",
-   "title": "U.S. Offers $10 Million Reward for Alleged HAFNIUM Hacker Zhang Yu",
-   "url": "https://securityaffairs.com/200608/intelligence/u-s-offers-10-million-reward-for-alleged-hafnium-hacker-zhang-yu.html",
+   "id": "SECAFFAIRS-e9282dd0",
+   "title": "US Disrupts China-Linked Integrity Tech ‘s Cyber Espionage Tools",
+   "url": "https://securityaffairs.com/200673/security/us-disrupts-china-linked-integrity-tech-cyber-espionage-tools.html",
    "source": "Security Affairs",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Thu, 08 Oct 2026 10:11:44 +0000",
-   "published_date": "2026-10-08",
-   "digest": "The U.S. offers $10M for Zhang Yu, accused of helping run HAFNIUM attacks that compromised thousands of organizations worldwide. The U.S. State Department is of…",
-   "tags": [],
-   "title_zh": "美国悬赏1000万美元缉拿疑似HAFNIUM黑客张宇"
+   "published_at": "Fri, 09 Oct 2026 10:49:22 +0000",
+   "published_date": "2026-10-09",
+   "digest": "DOJ and FBI seized China-linked hacking tools Microscan and FishHub, linked to Integrity Tech and attacks on critical infrastructure worldwide. The Justice Depa…",
+   "tags": [
+    "监管合规"
+   ],
+   "title_zh": "美国中断与中国关联的Integrity Tech网络间谍工具"
   },
   {
-   "id": "FREEBUF-ef57bb3b",
-   "title": "FreeBuf早报 | Pwn2Own 2026首日赛果出炉；OpenAI曝出沙箱逃逸漏洞",
-   "url": "https://www.freebuf.com/news/505262.html",
+   "id": "SECURITYWEEK-6999744f",
+   "title": "Unpatched AhsayCBS Vulnerabilities Exploited in the Wild",
+   "url": "https://www.securityweek.com/unpatched-ahsaycbs-vulnerabilities-exploited-in-the-wild/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 09 Oct 2026 10:23:42 +0000",
+   "published_date": "2026-10-09",
+   "digest": "The flaws, CVE-2026-105133 and CVE-2026-105134, allow attackers to bypass authentication and inject OS commands. The post Unpatched AhsayCBS Vulnerabilities Exp…",
+   "tags": [
+    "漏洞预警"
+   ],
+   "title_zh": "未修补的AhsayCBS漏洞在野外被利用"
+  },
+  {
+   "id": "FREEBUF-4f075361",
+   "title": "Anthropic推出免费AI漏洞扫描器，面向开源项目开放使用",
+   "url": "https://www.freebuf.com/news/505577.html",
    "source": "FreeBuf",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Thu, 08 Oct 2026 17:54:59 +0800",
-   "published_date": "2026-10-08",
-   "digest": "Pwn2Own 2026首日，研究人员用32个0Day攻破三星S26、OpenAI Codex等产品，累计揽获奖金38.85万美元，Google Pixel 10未被攻破。",
-   "tags": [
-    "漏洞预警"
-   ]
+   "published_at": "Fri, 09 Oct 2026 18:17:28 +0800",
+   "published_date": "2026-10-09",
+   "digest": "Anthropic推出面向开源项目的免费AI漏洞扫描器，配套关键基础设施防护计划，对冲AI拉低攻击门槛的风险，预判未来AI将更利好网络安全防御侧。",
+   "tags": []
   }
  ]
 }
