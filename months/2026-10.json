@@ -2,6 +2,274 @@
  "month": "2026-10",
  "items": [
   {
+   "id": "SECAFFAIRS-25139a2e",
+   "title": "Anthropic Restricts Live Internet Access After Claude Evaluation Failures",
+   "url": "https://securityaffairs.com/200726/ai/anthropic-restricts-live-internet-access-after-claude-evaluation-failures.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 10 Oct 2026 19:04:58 +0000",
+   "published_date": "2026-10-10",
+   "digest": "Anthropic’s models kept working around the rules on the live internet. The company published the cases. Anthropic released a report on unintended actions its Cl…",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "Anthropic 在 Claude 评估失败后限制了实时互联网访问"
+  },
+  {
+   "id": "SECWIKI-8df0a421",
+   "title": "SecWiki News 2026-10-10 Review",
+   "url": "http://www.sec-wiki.com/?2026-10-10",
+   "source": "SecWiki",
+   "category": "网络安全",
+   "priority": "P2",
+   "published_at": "\nSat, 10 Oct 2026 23:58:20 +0800",
+   "published_date": "2026-10-10",
+   "digest": "今日暂未更新资讯~ 更多最新文章，请访问 SecWiki",
+   "tags": [],
+   "title_zh": "SecWiki 新闻 2026-10-10 概览"
+  },
+  {
+   "id": "SECAFFAIRS-8aba8850",
+   "title": "Silent Ransom Group Allegedly Extorted $207 Million Without Encrypting Files",
+   "url": "https://securityaffairs.com/200719/cyber-crime/silent-ransom-group-allegedly-extorted-207-million-without-encrypting-files.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 10 Oct 2026 15:05:54 +0000",
+   "published_date": "2026-10-10",
+   "digest": "Silent Ransom Group allegedly extorted $207 million from 27 law firms in six months using phone calls and social engineering, not encryption. Silent Ransom Grou…",
+   "tags": [],
+   "title_zh": "静默勒索团伙 allegedly 索要赎金 2.07 亿美元而不加密文件"
+  },
+  {
+   "id": "THN-0302a046",
+   "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
+   "url": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 10 Oct 2026 16:30:00 +0530",
+   "published_date": "2026-10-10",
+   "digest": "In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI. About 282 of them sit behind single sign-o…",
+   "tags": [],
+   "title_zh": "第三方代理问题：为何为所选AI构建的安全性忽略了未选择的代理"
+  },
+  {
+   "id": "SECURITYWEEK-ba546d02",
+   "title": "Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison",
+   "url": "https://www.securityweek.com/insider-cyber-extortion-plot-against-industrial-firm-lands-engineer-in-prison/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 10 Oct 2026 11:00:00 +0000",
+   "published_date": "2026-10-10",
+   "digest": "The former core infrastructure engineer deleted admin accounts, reset hundreds of passwords, and demanded 20 bitcoin to spare the company’s servers. The post In…",
+   "tags": [
+    "加密货币犯罪"
+   ],
+   "title_zh": "内部网络敲诈 plot 对工业公司发动 落工程师于狱中"
+  },
+  {
+   "id": "THN-646ca68e",
+   "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
+   "url": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 10 Oct 2026 14:48:45 +0530",
+   "published_date": "2026-10-10",
+   "digest": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its artificial…",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "Anthropic为内部AI测试切断Live互联网访问后处理Claude注入漏洞"
+  },
+  {
+   "id": "FREEBUF-09a2a255",
+   "title": "当 LLM 漏洞扫描器撞上真实模型：一次 80% 误报率的自我打脸",
+   "url": "https://www.freebuf.com/articles/vuls/505693.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 10 Oct 2026 17:02:00 +0800",
+   "published_date": "2026-10-10",
+   "digest": "用自研 AI 安全测试工具「鉴微」扫描本地 某Qw，报出 52.2% 攻击成功率；逐条复核后却发现约八成是误报。本文复盘这次真机实测，剖析 LLM 安全判定层最易踩的四类根因。",
+   "tags": [
+    "大模型安全"
+   ]
+  },
+  {
+   "id": "NSFOCUS-939411fd",
+   "title": "议程速递 | 绿盟科技集结群贤，邀您共赴驭智之约",
+   "url": "https://blog.nsfocus.net/%e8%ae%ae%e7%a8%8b%e9%80%9f%e9%80%92-%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e9%9b%86%e7%bb%93%e7%be%a4%e8%b4%a4%ef%bc%8c%e9%82%80%e6%82%a8%e5%85%b1%e8%b5%b4%e9%a9%ad%e6%99%ba%e4%b9%8b%e7%ba%a6/",
+   "source": "绿盟科技博客",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 10 Oct 2026 08:27:21 +0000",
+   "published_date": "2026-10-10",
+   "digest": "",
+   "tags": []
+  },
+  {
+   "id": "NSFOCUS-f2cd5e2a",
+   "title": "传统BOT防护不够用？意图分析才是未来",
+   "url": "https://blog.nsfocus.net/%e4%bc%a0%e7%bb%9fbot%e9%98%b2%e6%8a%a4%e4%b8%8d%e5%a4%9f%e7%94%a8%ef%bc%9f%e6%84%8f%e5%9b%be%e5%88%86%e6%9e%90%e6%89%8d%e6%98%af%e6%9c%aa%e6%9d%a5/",
+   "source": "绿盟科技博客",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 10 Oct 2026 08:13:10 +0000",
+   "published_date": "2026-10-10",
+   "digest": "一、超一半流量不是真人 全球互联网流量监测和分析平台Cloudflare Radar统计：2026年，BOT占... » 阅读全文",
+   "tags": []
+  },
+  {
+   "id": "SECAFFAIRS-3d48adbc",
+   "title": "US Sentences Empire Market Co-Creator Over $430 Million Criminal Marketplace",
+   "url": "https://securityaffairs.com/200704/cyber-crime/us-sentences-empire-market-co-creator-over-430-million-criminal-marketplace.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 10 Oct 2026 07:22:40 +0000",
+   "published_date": "2026-10-10",
+   "digest": "Empire Market co-creator Raheim Hamilton was sentenced to 40 years in prison for running a dark web marketplace linked to $430 million in illegal trades. The ca…",
+   "tags": [],
+   "title_zh": "美国对帝国市场共同创建者判处4.3亿美元刑事 marketplace 罚款"
+  },
+  {
+   "id": "FREEBUF-b495ae2f",
+   "title": "Anthropic切断内部AI测试实时联网权限，因Claude利用注入漏洞越界操作",
+   "url": "https://www.freebuf.com/articles/ai-security/505704.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 10 Oct 2026 14:48:45 +0800",
+   "published_date": "2026-10-10",
+   "digest": "Anthropic发现Claude模型存在越界联网操作（如向警局提交虚假凶杀线索），已切断内部测试环境实时联网权限，AI安全问题引发监管重视。",
+   "tags": [
+    "大模型安全",
+    "监管合规"
+   ]
+  },
+  {
+   "id": "FREEBUF-1bd85048",
+   "title": "打满补丁的 Windows 也能拿到 SYSTEM：MiniPlasma 与 cldflt.sys 的五年老根",
+   "url": "https://www.freebuf.com/articles/vuls/505669.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 10 Oct 2026 14:37:30 +0800",
+   "published_date": "2026-10-10",
+   "digest": "摘要安全研究者公开了一个代号 MiniPlasma的 Windows 零日漏洞的 PoC 利用程序。它的三个特点决定了它的危险性远高于\"又一个本地提权\"：范围：影响截至 2026 年 5 月已安装全部微软安全更新的 Windows 系统，即\"打满补丁也中\"；门槛：攻击者只需要一个标准用户（本地或已获得的低权会话），不需…",
+   "tags": [
+    "漏洞预警"
+   ]
+  },
+  {
+   "id": "NSFOCUS-8e206e5a",
+   "title": "高频业务：一种IP网段判断重叠的算法（其四）",
+   "url": "https://blog.nsfocus.net/%e9%ab%98%e9%a2%91%e4%b8%9a%e5%8a%a1%ef%bc%9a%e4%b8%80%e7%a7%8dip%e7%bd%91%e6%ae%b5%e5%88%a4%e6%96%ad%e9%87%8d%e5%8f%a0%e7%9a%84%e7%ae%97%e6%b3%95%ef%bc%88%e5%85%b6%e5%9b%9b%ef%bc%89-2/",
+   "source": "绿盟科技博客",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 10 Oct 2026 06:33:56 +0000",
+   "published_date": "2026-10-10",
+   "digest": "1、引言 在高频业务：一种IP网段判断重叠的算法（其三）中，我们拓展了IP重叠算法的应用面，并设计了新的数据结... » 阅读全文",
+   "tags": []
+  },
+  {
+   "id": "NSFOCUS-c6a8aa2a",
+   "title": "高频业务：一种IP网段判断重叠的算法（其二）",
+   "url": "https://blog.nsfocus.net/%e9%ab%98%e9%a2%91%e4%b8%9a%e5%8a%a1%ef%bc%9a%e4%b8%80%e7%a7%8dip%e7%bd%91%e6%ae%b5%e5%88%a4%e6%96%ad%e9%87%8d%e5%8f%a0%e7%9a%84%e7%ae%97%e6%b3%95%ef%bc%88%e5%85%b6%e4%ba%8c%ef%bc%89-2/",
+   "source": "绿盟科技博客",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 10 Oct 2026 06:30:42 +0000",
+   "published_date": "2026-10-10",
+   "digest": "1、引言 在https://blog.nsfocus.net/ip-cal/ 这篇博客中，笔者讲述了一种通过将... » 阅读全文",
+   "tags": []
+  },
+  {
+   "id": "NSFOCUS-02fa0af8",
+   "title": "高频业务：一种IP网段判断重叠的算法（其三）",
+   "url": "https://blog.nsfocus.net/%e9%ab%98%e9%a2%91%e4%b8%9a%e5%8a%a1%ef%bc%9a%e4%b8%80%e7%a7%8dip%e7%bd%91%e6%ae%b5%e5%88%a4%e6%96%ad%e9%87%8d%e5%8f%a0%e7%9a%84%e7%ae%97%e6%b3%95%ef%bc%88%e5%85%b6%e4%b8%89%ef%bc%89-2/",
+   "source": "绿盟科技博客",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 10 Oct 2026 06:28:40 +0000",
+   "published_date": "2026-10-10",
+   "digest": "1、引言 在高频业务：一种IP网段判断重叠的算法（其二）中，我们完善了利用数轴进行IP重叠判断的算法。 &nb... » 阅读全文",
+   "tags": []
+  },
+  {
+   "id": "FREEBUF-32aa770a",
+   "title": "WordPress 核心被打出 RCE：wp2shell 双漏洞链技术拆解（CVE-2026-63030 + CVE-2026-60137）",
+   "url": "https://www.freebuf.com/articles/vuls/505664.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 10 Oct 2026 13:56:40 +0800",
+   "published_date": "2026-10-10",
+   "digest": "一个未认证请求，绕过 REST 校验、注入 SQL、投毒对象缓存、创建管理员、上传可执行文件。全程不涉及任何插件。",
+   "tags": [
+    "漏洞预警",
+    "Web安全"
+   ]
+  },
+  {
+   "id": "FREEBUF-f02a8950",
+   "title": "一个 root 换几千个站点：cPanel & WHM 三连漏洞复盘（CVE-2026-93698  CVE-2026-93029  CVE-2026-93697）",
+   "url": "https://www.freebuf.com/articles/vuls/505663.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 10 Oct 2026 13:54:20 +0800",
+   "published_date": "2026-10-10",
+   "digest": "面板层的一个 root，等于同一台机器上所有租户一起失守- 网站文件、数据库、邮件数据、服务器配置，全部在同一权限面下。",
+   "tags": [
+    "漏洞预警"
+   ]
+  },
+  {
+   "id": "FREEBUF-b0cc8989",
+   "title": "一个未认证请求打穿 SAP 内核 — OVERPASS（CVE-2026-44756）",
+   "url": "https://www.freebuf.com/articles/vuls/505661.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 10 Oct 2026 13:33:05 +0800",
+   "published_date": "2026-10-10",
+   "digest": "CVSS 10.0 满分：一个未认证请求打穿 SAP 内核 - OVERPASS（CVE-2026-44756）HTTP、WebSocket-RFC、经典 RFC、SAP GUI 四条路，通向同一个栈溢出 文档用途：授权渗透测试、防御加固、应急响应参考 编写日期：2026-10-10（补丁 2026-09-08 发布，…",
+   "tags": [
+    "漏洞预警",
+    "安全运营"
+   ]
+  },
+  {
+   "id": "FREEBUF-9164bac9",
+   "title": "不止代码漏洞：Nango案例看开源项目文档带来的安全隐患",
+   "url": "https://www.freebuf.com/articles/web/505082.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 10 Oct 2026 11:00:24 +0800",
+   "published_date": "2026-10-10",
+   "digest": "本文以开源AI集成平台 Nango 为审计案例，通过完整源码梳理、链路推演与负责任披露过程，分析文档默认配置引导造成的权限接管隐患。",
+   "tags": []
+  },
+  {
+   "id": "FREEBUF-a3920390",
+   "title": "Pwn2Own 2026首日赛果出炉；黑客利用AI工具入侵韩国金融机构 | FreeBuf周报",
+   "url": "https://www.freebuf.com/articles/505638.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 10 Oct 2026 10:03:15 +0800",
+   "published_date": "2026-10-10",
+   "digest": "各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！",
+   "tags": []
+  },
+  {
    "id": "KREBS-ebf8282e",
    "title": "FBI Arrests Founder of Ransomware Negotiation Firm",
    "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
@@ -16,6 +284,30 @@
     "监管合规"
    ],
    "title_zh": "FBI逮捕勒索软件谈判公司创始人"
+  },
+  {
+   "id": "FREEBUF-0568f664",
+   "title": "逆向万物！REA打通AI编码与逆向工具，支持多类目标无源码分析",
+   "url": "https://www.freebuf.com/articles/505695.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 10 Oct 2026 08:08:45 +0800",
+   "published_date": "2026-10-10",
+   "digest": "开源逆向工具REA打通AI编码Agent与Ghidra等专业逆向工具，支持多类目标无源码分析，可输出带证据的分析结果，适配主流AI客户端。",
+   "tags": []
+  },
+  {
+   "id": "FREEBUF-25c5ada8",
+   "title": "离谱！小米AI的编程训练题，三分之二都自带标准答案",
+   "url": "https://www.freebuf.com/articles/505708.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 10 Oct 2026 08:00:26 +0800",
+   "published_date": "2026-10-10",
+   "digest": "小米 MiMo v2.6 训练环境三分之二代码任务自带答案，模型称“读答案文件不算‘计算’”。",
+   "tags": []
   },
   {
    "id": "SECURITYWEEK-09b987ec",
@@ -76,6 +368,18 @@
    "title_zh": "德国在日 interceptions后逮捕疑似Qilin勒索软件头目"
   },
   {
+   "id": "FREEBUF-236fd19b",
+   "title": "Agent 应用生态安全风险（一）：从提示词注入到工具与沙箱",
+   "url": "https://www.freebuf.com/articles/ai-security/505606.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 10 Oct 2026 02:00:23 +0800",
+   "published_date": "2026-10-10",
+   "digest": "本文围绕第三方 Agent 应用，介绍从信息收集、调用分析到漏洞验证的测试方法。",
+   "tags": []
+  },
+  {
    "id": "THN-d3a688aa",
    "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
    "url": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
@@ -88,7 +392,7 @@
    "tags": [
     "监管合规"
    ],
-   "title_zh": "FBI 另捕一名涉嫌参与 ShinyHunters 职位招聘网站黑客攻击的嫌疑人"
+   "title_zh": "FBI 另捕一名涉嫌参与 ShinyHunters 就职portal黑客事件的嫌疑人"
   },
   {
    "id": "PRAETORIAN-91b760fa",
@@ -103,7 +407,19 @@
    "tags": [
     "身份认证"
    ],
-   "title_zh": "在 Slack 中搜索、分类和应对 Guard 发现"
+   "title_zh": "在 Slack 中搜索、分类和处理 Guard 发现事件"
+  },
+  {
+   "id": "FREEBUF-fd91d06d",
+   "title": "数万GitHub仓库遭植入恶意Actions工作流，窃取全量历史存储凭证",
+   "url": "https://www.freebuf.com/articles/development/505618.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 10 Oct 2026 00:44:28 +0800",
+   "published_date": "2026-10-10",
+   "digest": "紧急提醒！数万GitHub仓库遭植入恶意Actions工作流，可窃取全量历史存储凭证，波及高星项目，开发者需立即排查轮换密钥。",
+   "tags": []
   },
   {
    "id": "WORDFENCE-33a02d82",
@@ -176,7 +492,7 @@
    "tags": [
     "大模型安全"
    ],
-   "title_zh": "Claude助力开源安全 Anthropic提供免费漏洞扫描服务"
+   "title_zh": "Claude 帮助保障开源安全，Anthropic 提供免费漏洞扫描服务"
   },
   {
    "id": "THN-ce13d3af",
@@ -191,7 +507,7 @@
    "tags": [
     "物联网安全"
    ],
-   "title_zh": "四州再起诉TP-Link路由器安全及中资问题"
+   "title_zh": "四州再起诉TP-Link路由器安全及中企关联事宜"
   },
   {
    "id": "THN-0c9c173a",
@@ -204,7 +520,7 @@
    "published_date": "2026-10-09",
    "digest": "Security researchers have published a full working exploit for a pre-authentication remote code execution flaw in AnyDesk Linux that gives attackers root access…",
    "tags": [],
-   "title_zh": "研究人员发布针对预认证AnyDesk Linux漏洞的工作利用，可获得root权限"
+   "title_zh": "研究人员发布针对Pre-Auth AnyDesk Linux漏洞的工作利用工具，可获得root权限"
   },
   {
    "id": "THN-bb39ac57",
@@ -261,7 +577,7 @@
     "供应链攻击",
     "僵尸网络"
    ],
-   "title_zh": "韩国银行遭AI攻击，诗引导僵尸网络事件，Empire管理员获刑40年"
+   "title_zh": "其他新闻：AI用于韩国银行攻击，诗引导僵尸网络，Empire管理员获刑40年"
   },
   {
    "id": "SECURITYWEEK-ec32a9c8",
@@ -333,7 +649,7 @@
    "tags": [
     "漏洞预警"
    ],
-   "title_zh": "未修补的AhsayCBS漏洞在野外被利用"
+   "title_zh": "未打补丁的 AhsayCBS 漏洞在野外被利用"
   },
   {
    "id": "FREEBUF-4f075361",
@@ -428,7 +744,7 @@
    "published_date": "2026-10-09",
    "digest": "A bug in GoBalance, a tool many dark-web sites use to stay reachable during attacks, lets anyone work out the secret key that controls a site's .onion address u…",
    "tags": [],
-   "title_zh": "GoBalance 漏洞使攻击者通过恢复 Tor 格式密钥劫持 .onion 地址"
+   "title_zh": "GoBalance 漏洞使攻击者可通过恢复 Tor 格式密钥劫持 .onion 地址"
   },
   {
    "id": "SECURITYWEEK-21dd9143",
@@ -441,7 +757,7 @@
    "published_date": "2026-10-09",
    "digest": "Flax Typhoon and other APTs used MicroScan and FishHub to scan and hack US and foreign critical infrastructure. The post US Disrupts Chinese State-Sponsored Hac…",
    "tags": [],
-   "title_zh": "美国中断中国国家级黑客工具"
+   "title_zh": "美国中断中国国家支持的黑客工具"
   },
   {
    "id": "THN-6a84b887",
@@ -454,7 +770,7 @@
    "published_date": "2026-10-09",
    "digest": "Three research teams broke into Google's Pixel 10 on October 8 at Pwn2Own Ireland, a hacking contest in Cork whose rules require every target to be fully patche…",
    "tags": [],
-   "title_zh": "三支团队在Pwn2Own上演示完全打补丁的Google Pixel 10的远程黑客攻击"
+   "title_zh": "三支团队在Pwn2Own上演示完全打补丁的Google Pixel 10远程漏洞利用攻击"
   },
   {
    "id": "SECURITYWEEK-7eb2de55",
@@ -482,7 +798,7 @@
    "tags": [
     "漏洞预警"
    ],
-   "title_zh": "Citrix 修复了 NetScaler 中的critical漏洞，该漏洞可能在SAML部署中启用RCE"
+   "title_zh": "Citrix 修复了 NetScaler 中的严重漏洞，该漏洞可能在 SAML 部署中启用 RCE"
   },
   {
    "id": "FREEBUF-81704f3e",
@@ -520,7 +836,7 @@
    "published_date": "2026-10-09",
    "digest": "In August 2026, the food and animal safety organisation Neogen was the target of a ShinyHunters \"pay or leak\" extortion attempt . The group later published data…",
    "tags": [],
-   "title_zh": "Neogen - 435,963外泄账户"
+   "title_zh": "Neogen - 435,963 泄露账户"
   },
   {
    "id": "FREEBUF-c854ac5e",
@@ -632,7 +948,7 @@
     "大模型安全",
     "学术研究"
    ],
-   "title_zh": "Arbiter：检测LLM代理系统提示中的干扰"
+   "title_zh": "仲裁者：检测LLM代理系统提示中的干扰"
   },
   {
    "id": "ARXIV-CR-3a1919ad",
@@ -664,7 +980,7 @@
     "AI攻防",
     "学术研究"
    ],
-   "title_zh": "成员推理和隐私审计的样本复杂性"
+   "title_zh": "成员推理与隐私审计的样本复杂性"
   },
   {
    "id": "ARXIV-CR-20379dc7",
@@ -698,7 +1014,7 @@
     "安全运营",
     "学术研究"
    ],
-   "title_zh": "对话型LLM代理的黑盒取证"
+   "title_zh": "对话型LLM代理的黑盒取证分析"
   },
   {
    "id": "ARXIV-CR-f8d1f7a6",
@@ -714,7 +1030,7 @@
     "大模型安全",
     "学术研究"
    ],
-   "title_zh": "OTRO：无感知token化路径与平方根ORAM"
+   "title_zh": "OTRO：无感知令牌化路径与平方根ORAM"
   },
   {
    "id": "ARXIV-CR-2b1371cf",
@@ -744,7 +1060,7 @@
    "tags": [
     "学术研究"
    ],
-   "title_zh": "DCVD：双通道跨模态融合在联合漏洞检测与定位中的应用"
+   "title_zh": "DCVD：双通道跨模态融合联合漏洞检测与定位"
   },
   {
    "id": "ARXIV-CR-ddf4ae5b",
@@ -759,7 +1075,7 @@
    "tags": [
     "学术研究"
    ],
-   "title_zh": "基于上下文绑定的状态保持零知识接近证明中的漏洞：分类、区分与缓解"
+   "title_zh": "基于上下文绑定的状态感知零知识接近证明中的漏洞：分类、区分与缓解"
   },
   {
    "id": "ARXIV-CR-9ea6eabc",
@@ -835,7 +1151,7 @@
    "tags": [
     "学术研究"
    ],
-   "title_zh": "改进的Shamir秘密共享局部泄漏 resilience和最坏情况最优多项式交集"
+   "title_zh": "改进的Shamir秘密共享局部泄露 resilience和最坏情况最优多项式交集"
   },
   {
    "id": "ARXIV-CR-771ad86f",
@@ -850,7 +1166,7 @@
    "tags": [
     "学术研究"
    ],
-   "title_zh": "验证与传输：精确信息边界及其调用价格"
+   "title_zh": "验证与转移：精确信息边界及其调用价格"
   },
   {
    "id": "ARXIV-CR-ba05ce74",
@@ -897,7 +1213,7 @@
     "AI攻防",
     "学术研究"
    ],
-   "title_zh": "决策模型中的对抗线索：请求呈现的角色"
+   "title_zh": "决策模型中的对手线索：请求呈现的角色"
   },
   {
    "id": "ARXIV-CR-c678acf3",
@@ -976,7 +1292,7 @@
     "物联网安全",
     "学术研究"
    ],
-   "title_zh": "当路由揭示成员身份：MoE 路由器遥测的隐私泄露"
+   "title_zh": "当路由揭示成员身份：MoE 路由器遥测导致的隐私泄露"
   },
   {
    "id": "ARXIV-CR-94aa0c93",
@@ -991,7 +1307,7 @@
    "tags": [
     "学术研究"
    ],
-   "title_zh": "时间变换器CAN编码器搭配联邦轻量级头部用于异常检测"
+   "title_zh": "时间变换器CAN编码器与联邦轻量级头部用于异常检测"
   },
   {
    "id": "ARXIV-CR-e1e02b94",
@@ -1021,7 +1337,7 @@
    "tags": [
     "学术研究"
    ],
-   "title_zh": "ORCAGen：基于RAG指导生成式AI的上下文感知恶意软件欺骗orchestration"
+   "title_zh": "ORCAGen：基于RAG指导生成式AI的情境感知恶意软件欺骗orchestration"
   },
   {
    "id": "ARXIV-CR-15b6a7d9",
@@ -1036,7 +1352,7 @@
    "tags": [
     "学术研究"
    ],
-   "title_zh": "递归安全改进以实现抗扰和韧性AI：ReSI"
+   "title_zh": "递归安全改进以实现抗毁韧AI：ReSI"
   },
   {
    "id": "ARXIV-CR-7b7855a6",
@@ -1051,7 +1367,7 @@
    "tags": [
     "学术研究"
    ],
-   "title_zh": "一个节点，两种角色：-rollups中同时争夺验证和关注的竞赛"
+   "title_zh": "一个节点，两种角色：-rollups中同时争夺验证与关注的竞赛"
   },
   {
    "id": "ARXIV-CR-968af8e0",
@@ -1114,7 +1430,7 @@
     "物联网安全",
     "学术研究"
    ],
-   "title_zh": "HPQ-AKE：一种面向带宽受限IoT和边缘网络的可证明安全无签名混合身份验证密钥交换协议"
+   "title_zh": "HPQ-AKE：一种面向带宽受限IoT和边缘网络的可证明安全无签名混合认证密钥交换协议"
   },
   {
    "id": "ARXIV-CR-e2ca33ed",
@@ -1257,7 +1573,7 @@
     "大模型安全",
     "学术研究"
    ],
-   "title_zh": "令牌去哪儿了？理解并降低LLM代理在漏洞发现中的成本"
+   "title_zh": "令牌去向何方？理解并降低LLM代理在漏洞发现中的成本"
   },
   {
    "id": "ARXIV-CR-ed5041fe",
@@ -1287,7 +1603,7 @@
    "tags": [
     "学术研究"
    ],
-   "title_zh": "认证隐藏路径：面向QKD网络的大规模拓扑保证"
+   "title_zh": "认证隐藏路径：QKD 网络的大规模拓扑保障"
   },
   {
    "id": "ARXIV-CR-1f9aee23",
@@ -1302,7 +1618,7 @@
    "tags": [
     "学术研究"
    ],
-   "title_zh": "EIFL：有效保护联邦学习中不受信服务器威胁的全球模型隐私与完整性"
+   "title_zh": "EIFL：有效保护联邦学习中不受信任服务器的全球模型隐私与完整性"
   },
   {
    "id": "ARXIV-CR-aea91031",
@@ -1378,7 +1694,7 @@
     "加密货币犯罪",
     "学术研究"
    ],
-   "title_zh": "比特币预言机的链上考古：在有限可观测性下的使用证据"
+   "title_zh": "比特币预言机链上考古：在有限观测性下的使用证据"
   },
   {
    "id": "ARXIV-CR-69b7fef4",
@@ -1438,7 +1754,7 @@
    "tags": [
     "学术研究"
    ],
-   "title_zh": "可验证亚指数时间算法用于NIST第三轮 lattice 家族"
+   "title_zh": "可验证次指数时间算法用于NIST第三轮 lattice 家族"
   },
   {
    "id": "ARXIV-CR-96bd5b4f",
@@ -1453,7 +1769,7 @@
    "tags": [
     "学术研究"
    ],
-   "title_zh": "BRACE：基于LSR能量的密集关联记忆差异隐私保护"
+   "title_zh": "BRACE：基于LSR能量的密集关联记忆差分隐私保护"
   },
   {
    "id": "ARXIV-CR-8bd3620a",
@@ -1531,7 +1847,7 @@
    "tags": [
     "学术研究"
    ],
-   "title_zh": "ML-DSA签名的提示权重依赖于密钥：跨三个FIPS 204参数集的经验研究"
+   "title_zh": "ML-DSA签名的提示权重取决于密钥：跨三个FIPS 204参数集的经验研究"
   },
   {
    "id": "ARXIV-CR-d536ec88",
@@ -1563,7 +1879,7 @@
     "AI攻防",
     "学术研究"
    ],
-   "title_zh": "嵌入式机器学习中的功率侧信道成员 inference 攻击"
+   "title_zh": "嵌入式机器学习中的功率侧信道成员推断攻击"
   },
   {
    "id": "ARXIV-CR-a61e8d5b",
@@ -1655,7 +1971,7 @@
    "tags": [
     "学术研究"
    ],
-   "title_zh": "常见准则产品评估中的失效模式研究——分类与可评估性设计指南"
+   "title_zh": "常见准则产品评估中的失效模式研究：分类与可评估性设计指南"
   },
   {
    "id": "ARXIV-CR-dcfd3ca3",
@@ -1670,7 +1986,7 @@
    "tags": [
     "学术研究"
    ],
-   "title_zh": "安全在单一循环内，风险在另一循环：循环语言模型中跨重复深度的安全对齐"
+   "title_zh": "安全在单一循环中，风险在另一循环：循环语言模型跨重复深度的安全对齐"
   },
   {
    "id": "ARXIV-CR-d3dd89e1",
@@ -1701,7 +2017,7 @@
     "AI攻防",
     "学术研究"
    ],
-   "title_zh": "MRCert：面向 adversarially 贴补样本部署后修复稳健性认证的方法研究via 类别特定遮罩"
+   "title_zh": "MRCert：面向 adversarially 贴补样本部署后修复稳健性认证的方法研究via 类别特定蒙版"
   },
   {
    "id": "ARXIV-CR-1044f983",
@@ -1748,6 +2064,33 @@
     "学术研究"
    ],
    "title_zh": "认证篡改预算：适应性调整下的随时有效领导者榜声明"
+  },
+  {
+   "id": "FREEBUF-9394eacb",
+   "title": "权限大于对齐Agent安全的另一种思路",
+   "url": "https://www.freebuf.com/articles/ai-security/505443.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 09 Oct 2026 11:19:06 +0800",
+   "published_date": "2026-10-09",
+   "digest": "把模型当安全边界的思路有两个盲区。本文换成“借用权限的代理”这一视角，用三档权限的对照实验说明：注入是否被采纳与后果大小无关，可操作的只有损失上界。",
+   "tags": []
+  },
+  {
+   "id": "FREEBUF-1b570ddb",
+   "title": "再看 Olympic Destroyer：一枚被移植的 Lazarus 指纹，给今天的 ARTEX 争议留下了什么？",
+   "url": "https://www.freebuf.com/articles/505712.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 09 Oct 2026 10:36:33 +0800",
+   "published_date": "2026-10-09",
+   "digest": "平昌冬奥开幕式遭 Olympic Destroyer 擦除；Lazarus 指纹被证伪造，归因转向俄 GRU。",
+   "tags": [
+    "APT组织",
+    "安全运营"
+   ]
   },
   {
    "id": "FREEBUF-404239ee",
