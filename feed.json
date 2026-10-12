@@ -1,7 +1,90 @@
 {
- "generated_at": "2026-10-11 10:04",
- "total": 6313,
+ "generated_at": "2026-10-12 10:02",
+ "total": 6320,
  "items": [
+  {
+   "id": "SECAFFAIRS-12ba0779",
+   "title": "SECURITY AFFAIRS AI-CYBERSECURITY NEWSLETTER ROUND 3",
+   "url": "https://securityaffairs.com/200794/ai/security-affairs-ai-cybersecurity-newsletter-round-3.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 11 Oct 2026 18:43:54 +0000",
+   "published_date": "2026-10-11",
+   "digest": "Security Affairs AI-CYBERSECURITY newsletter includes a collection of the best articles and research on AI in the international landscape Artificial intelligenc…",
+   "tags": [],
+   "title_zh": "安全事务AI-网络安全新闻简报第3期"
+  },
+  {
+   "id": "SECWIKI-d7e9fa70",
+   "title": "SecWiki News 2026-10-11 Review",
+   "url": "http://www.sec-wiki.com/?2026-10-11",
+   "source": "SecWiki",
+   "category": "网络安全",
+   "priority": "P2",
+   "published_at": "\nSun, 11 Oct 2026 23:58:20 +0800",
+   "published_date": "2026-10-11",
+   "digest": "今日暂未更新资讯~ 更多最新文章，请访问 SecWiki",
+   "tags": [],
+   "title_zh": "SecWiki 新闻 2026-10-11 概览"
+  },
+  {
+   "id": "SECAFFAIRS-111b28fa",
+   "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 118",
+   "url": "https://securityaffairs.com/200775/breaking-news/security-affairs-malware-newsletter-round-118.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 11 Oct 2026 15:23:21 +0000",
+   "published_date": "2026-10-11",
+   "digest": "Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape Malware Newsletter ClingST…",
+   "tags": [],
+   "title_zh": "安全事务恶意软件新闻简报第118期"
+  },
+  {
+   "id": "SECAFFAIRS-92dd5928",
+   "title": "Bitdefender finds preinstalled Android malware you can’t uninstall, seen in 150 countries",
+   "url": "https://securityaffairs.com/200759/malware/bitdefender-finds-preinstalled-android-malware-you-cant-uninstall-seen-in-150-countries.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 11 Oct 2026 14:41:18 +0000",
+   "published_date": "2026-10-11",
+   "digest": "Bitdefender finds Midnight Mimosa, preinstalled Android malware on cheap MediaTek phones that fakes ad clicks, drops apps and builds a proxy botnet. Bitdefender…",
+   "tags": [
+    "僵尸网络",
+    "移动安全"
+   ],
+   "title_zh": "Bitdefender发现预装在Android设备上的无法卸载恶意软件，涉及150个国家"
+  },
+  {
+   "id": "SECAFFAIRS-8c6679d6",
+   "title": "Security Affairs newsletter Round 599 by Pierluigi Paganini – INTERNATIONAL EDITION",
+   "url": "https://securityaffairs.com/200752/breaking-news/security-affairs-newsletter-round-599-by-pierluigi-paganini-international-edition.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 11 Oct 2026 13:34:01 +0000",
+   "published_date": "2026-10-11",
+   "digest": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjo…",
+   "tags": [],
+   "title_zh": "安全事务第599期简报由皮耶路易吉·帕加尼尼发布 - 国际版"
+  },
+  {
+   "id": "SECAFFAIRS-cc0a0bea",
+   "title": "U.S. CISA adds ProFTPD, ONLYOFFICE Docs, Strapi, Apache Struts, and ISC BIND flaws to its Known Exploited Vulnerabilities catalog",
+   "url": "https://securityaffairs.com/200734/security/u-s-cisa-adds-proftpd-onlyoffice-docs-strapi-apache-struts-and-isc-bind-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 11 Oct 2026 09:18:56 +0000",
+   "published_date": "2026-10-11",
+   "digest": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds ProFTPD, ONLYOFFICE Docs, Strapi, Apache Struts, and ISC BIND to its Known Exploited Vulnerabi…",
+   "tags": [
+    "监管合规"
+   ],
+   "title_zh": "美国CISA将ProFTPD、ONLYOFFICE Docs、Strapi、Apache Struts和ISC BIND的漏洞添加到已知被利用漏洞目录中"
+  },
   {
    "id": "SECAFFAIRS-25139a2e",
    "title": "Anthropic Restricts Live Internet Access After Claude Evaluation Failures",
@@ -15,7 +98,7 @@
    "tags": [
     "大模型安全"
    ],
-   "title_zh": "Anthropic 在 Claude 评估失败后限制了实时互联网访问"
+   "title_zh": "Anthropic 在 Claude 评估失败后限制了实时互联网访问权限"
   },
   {
    "id": "SECWIKI-8df0a421",
@@ -41,7 +124,7 @@
    "published_date": "2026-10-10",
    "digest": "Silent Ransom Group allegedly extorted $207 million from 27 law firms in six months using phone calls and social engineering, not encryption. Silent Ransom Grou…",
    "tags": [],
-   "title_zh": "静默勒索团伙 allegedly 索要赎金 2.07 亿美元而不加密文件"
+   "title_zh": "静默勒索团伙涉嫌敲诈勒索2.07亿美元未加密文件"
   },
   {
    "id": "THN-0302a046",
@@ -69,7 +152,19 @@
    "tags": [
     "加密货币犯罪"
    ],
-   "title_zh": "内部网络敲诈 plot 对工业公司发动 落工程师于狱中"
+   "title_zh": "内部网络勒索 plot 对工业公司发动 落工程师于狱中"
+  },
+  {
+   "id": "FREEBUF-24c7e61b",
+   "title": "FreeBuf早报 | REA打通AI编码与逆向工具；Anthropic推出免费AI漏洞扫描器",
+   "url": "https://www.freebuf.com/news/505702.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 10 Oct 2026 17:57:35 +0800",
+   "published_date": "2026-10-10",
+   "digest": "开源逆向工具REA打通AI编码Agent与Ghidra等专业逆向工具，支持多类目标无源码分析，可输出带证据的分析结果，适配主流AI客户端。",
+   "tags": []
   },
   {
    "id": "THN-646ca68e",
@@ -135,7 +230,7 @@
    "published_date": "2026-10-10",
    "digest": "Empire Market co-creator Raheim Hamilton was sentenced to 40 years in prison for running a dark web marketplace linked to $430 million in illegal trades. The ca…",
    "tags": [],
-   "title_zh": "美国对帝国市场共同创建者判处4.3亿美元刑事 marketplace 罚款"
+   "title_zh": "美国以超过4.3亿美元的刑事市场判处Empire Market联合创建者"
   },
   {
    "id": "FREEBUF-b495ae2f",
@@ -230,100 +325,6 @@
    "tags": [
     "漏洞预警"
    ]
-  },
-  {
-   "id": "FREEBUF-b0cc8989",
-   "title": "一个未认证请求打穿 SAP 内核 — OVERPASS（CVE-2026-44756）",
-   "url": "https://www.freebuf.com/articles/vuls/505661.html",
-   "source": "FreeBuf",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sat, 10 Oct 2026 13:33:05 +0800",
-   "published_date": "2026-10-10",
-   "digest": "CVSS 10.0 满分：一个未认证请求打穿 SAP 内核 - OVERPASS（CVE-2026-44756）HTTP、WebSocket-RFC、经典 RFC、SAP GUI 四条路，通向同一个栈溢出 文档用途：授权渗透测试、防御加固、应急响应参考 编写日期：2026-10-10（补丁 2026-09-08 发布，…",
-   "tags": [
-    "漏洞预警",
-    "安全运营"
-   ]
-  },
-  {
-   "id": "FREEBUF-9164bac9",
-   "title": "不止代码漏洞：Nango案例看开源项目文档带来的安全隐患",
-   "url": "https://www.freebuf.com/articles/web/505082.html",
-   "source": "FreeBuf",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sat, 10 Oct 2026 11:00:24 +0800",
-   "published_date": "2026-10-10",
-   "digest": "本文以开源AI集成平台 Nango 为审计案例，通过完整源码梳理、链路推演与负责任披露过程，分析文档默认配置引导造成的权限接管隐患。",
-   "tags": []
-  },
-  {
-   "id": "FREEBUF-a3920390",
-   "title": "Pwn2Own 2026首日赛果出炉；黑客利用AI工具入侵韩国金融机构 | FreeBuf周报",
-   "url": "https://www.freebuf.com/articles/505638.html",
-   "source": "FreeBuf",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sat, 10 Oct 2026 10:03:15 +0800",
-   "published_date": "2026-10-10",
-   "digest": "各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！",
-   "tags": []
-  },
-  {
-   "id": "KREBS-ebf8282e",
-   "title": "FBI Arrests Founder of Ransomware Negotiation Firm",
-   "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
-   "source": "Krebs on Security",
-   "category": "网络安全",
-   "priority": "P0",
-   "published_at": "Sat, 10 Oct 2026 00:17:42 +0000",
-   "published_date": "2026-10-10",
-   "digest": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation i…",
-   "tags": [
-    "勒索软件",
-    "监管合规"
-   ],
-   "title_zh": "FBI逮捕勒索软件谈判公司创始人"
-  },
-  {
-   "id": "FREEBUF-0568f664",
-   "title": "逆向万物！REA打通AI编码与逆向工具，支持多类目标无源码分析",
-   "url": "https://www.freebuf.com/articles/505695.html",
-   "source": "FreeBuf",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sat, 10 Oct 2026 08:08:45 +0800",
-   "published_date": "2026-10-10",
-   "digest": "开源逆向工具REA打通AI编码Agent与Ghidra等专业逆向工具，支持多类目标无源码分析，可输出带证据的分析结果，适配主流AI客户端。",
-   "tags": []
-  },
-  {
-   "id": "FREEBUF-25c5ada8",
-   "title": "离谱！小米AI的编程训练题，三分之二都自带标准答案",
-   "url": "https://www.freebuf.com/articles/505708.html",
-   "source": "FreeBuf",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sat, 10 Oct 2026 08:00:26 +0800",
-   "published_date": "2026-10-10",
-   "digest": "小米 MiMo v2.6 训练环境三分之二代码任务自带答案，模型称“读答案文件不算‘计算’”。",
-   "tags": []
-  },
-  {
-   "id": "SECURITYWEEK-09b987ec",
-   "title": "OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks",
-   "url": "https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 09 Oct 2026 21:07:46 +0000",
-   "published_date": "2026-10-09",
-   "digest": "The ChatGPT maker said the researchers \"violated clear policies on handling sensitive information.” The post OpenAI Fires 3 Safety Researchers in Dispute Over A…",
-   "tags": [
-    "大模型安全"
-   ],
-   "title_zh": "OpenAI解雇三位安全研究人员就AI风险争议"
   }
  ]
 }
