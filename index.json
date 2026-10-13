@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-12 10:02",
+ "generated_at": "2026-10-13 10:03",
  "source_count": 83,
- "total": 6320,
+ "total": 6412,
  "months": [
   {
    "month": "2026-10",
-   "count": 703
+   "count": 795
   },
   {
    "month": "2026-09",
@@ -86,27 +86,27 @@
  ],
  "facets": {
   "categories": {
-   "网络安全": 3286,
-   "AI安全": 3034
+   "网络安全": 3328,
+   "AI安全": 3084
   },
   "sources": {
-   "arXiv cs.CR": 3003,
-   "FreeBuf": 868,
-   "The Hacker News": 587,
-   "SecurityWeek": 493,
-   "Security Affairs": 340,
+   "arXiv cs.CR": 3053,
+   "FreeBuf": 883,
+   "The Hacker News": 593,
+   "SecurityWeek": 501,
+   "Security Affairs": 345,
    "ZDI Published": 324,
    "ESET Research": 121,
-   "Schneier": 91,
-   "SecWiki": 79,
-   "Wordfence": 42,
+   "Schneier": 92,
+   "SecWiki": 80,
+   "Wordfence": 43,
    "嘶吼": 40,
    "Unit 42": 32,
+   "绿盟科技博客": 31,
+   "Check Point Research": 30,
+   "Seebug Paper": 30,
    "Securelist (Kaspersky)": 30,
-   "绿盟科技博客": 29,
-   "Seebug Paper": 29,
-   "Check Point Research": 29,
-   "Have I Been Pwned": 28,
+   "Have I Been Pwned": 29,
    "Future of Life Institute": 21,
    "天融信": 19,
    "SentinelOne Blog": 18,
@@ -121,32 +121,32 @@
    "Volexity": 3
   },
   "priorities": {
-   "P1": 5833,
-   "P2": 150,
+   "P1": 5922,
+   "P2": 153,
    "P0": 337
   },
   "tags": {
-   "学术研究": 3027,
-   "大模型安全": 1045,
-   "漏洞预警": 701,
-   "身份认证": 171,
-   "监管合规": 159,
-   "AI攻防": 159,
-   "数据泄露": 144,
+   "学术研究": 3078,
+   "大模型安全": 1061,
+   "漏洞预警": 712,
+   "身份认证": 174,
+   "监管合规": 164,
+   "AI攻防": 160,
+   "数据泄露": 145,
    "安全运营": 134,
-   "钓鱼攻击": 110,
-   "供应链攻击": 109,
-   "勒索软件": 97,
+   "供应链攻击": 111,
+   "钓鱼攻击": 111,
+   "Web安全": 102,
+   "勒索软件": 99,
    "物联网安全": 96,
    "云安全": 95,
-   "Web安全": 94,
    "密码学": 82,
-   "移动安全": 68,
-   "加密货币犯罪": 62,
-   "网络诈骗": 60,
+   "移动安全": 69,
+   "加密货币犯罪": 63,
+   "网络诈骗": 61,
    "APT组织": 45,
-   "僵尸网络": 39,
-   "工控安全": 28
+   "僵尸网络": 41,
+   "工控安全": 29
   }
  }
 }

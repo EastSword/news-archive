@@ -1,329 +1,349 @@
 {
- "generated_at": "2026-10-12 10:02",
- "total": 6320,
+ "generated_at": "2026-10-13 10:03",
+ "total": 6412,
  "items": [
   {
-   "id": "SECAFFAIRS-12ba0779",
-   "title": "SECURITY AFFAIRS AI-CYBERSECURITY NEWSLETTER ROUND 3",
-   "url": "https://securityaffairs.com/200794/ai/security-affairs-ai-cybersecurity-newsletter-round-3.html",
+   "id": "HIBP-16c3abd4",
+   "title": "Sharecare - 318,185 breached accounts",
+   "url": "https://haveibeenpwned.com/Breach/Sharecare",
+   "source": "Have I Been Pwned",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 12 Oct 2026 23:28:32 Z",
+   "published_date": "2026-10-12",
+   "digest": "In August 2026, the digital health company Sharecare was the target of a ShinyHunters \"pay or leak\" extortion campaign . The group subsequently published data i…",
+   "tags": [],
+   "title_zh": "Sharecare - 318,185 账户泄露"
+  },
+  {
+   "id": "SECAFFAIRS-39463be2",
+   "title": "ShinyHunters arrest number three: a Canadian ransomware negotiator",
+   "url": "https://securityaffairs.com/200847/cyber-crime/shinyhunters-arrest-number-three-a-canadian-ransomware-negotiator.html",
    "source": "Security Affairs",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Sun, 11 Oct 2026 18:43:54 +0000",
-   "published_date": "2026-10-11",
-   "digest": "Security Affairs AI-CYBERSECURITY newsletter includes a collection of the best articles and research on AI in the international landscape Artificial intelligenc…",
-   "tags": [],
-   "title_zh": "安全事务AI-网络安全新闻简报第3期"
-  },
-  {
-   "id": "SECWIKI-d7e9fa70",
-   "title": "SecWiki News 2026-10-11 Review",
-   "url": "http://www.sec-wiki.com/?2026-10-11",
-   "source": "SecWiki",
-   "category": "网络安全",
-   "priority": "P2",
-   "published_at": "\nSun, 11 Oct 2026 23:58:20 +0800",
-   "published_date": "2026-10-11",
-   "digest": "今日暂未更新资讯~ 更多最新文章，请访问 SecWiki",
-   "tags": [],
-   "title_zh": "SecWiki 新闻 2026-10-11 概览"
-  },
-  {
-   "id": "SECAFFAIRS-111b28fa",
-   "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 118",
-   "url": "https://securityaffairs.com/200775/breaking-news/security-affairs-malware-newsletter-round-118.html",
-   "source": "Security Affairs",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sun, 11 Oct 2026 15:23:21 +0000",
-   "published_date": "2026-10-11",
-   "digest": "Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape Malware Newsletter ClingST…",
-   "tags": [],
-   "title_zh": "安全事务恶意软件新闻简报第118期"
-  },
-  {
-   "id": "SECAFFAIRS-92dd5928",
-   "title": "Bitdefender finds preinstalled Android malware you can’t uninstall, seen in 150 countries",
-   "url": "https://securityaffairs.com/200759/malware/bitdefender-finds-preinstalled-android-malware-you-cant-uninstall-seen-in-150-countries.html",
-   "source": "Security Affairs",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sun, 11 Oct 2026 14:41:18 +0000",
-   "published_date": "2026-10-11",
-   "digest": "Bitdefender finds Midnight Mimosa, preinstalled Android malware on cheap MediaTek phones that fakes ad clicks, drops apps and builds a proxy botnet. Bitdefender…",
+   "published_at": "Mon, 12 Oct 2026 21:26:12 +0000",
+   "published_date": "2026-10-12",
+   "digest": "A Canadian ransomware negotiator faces extortion charges in the FBI’s ShinyHunters crackdown. Here’s what is known, and what isn’t. ShinyHunters is the focus of…",
    "tags": [
-    "僵尸网络",
-    "移动安全"
-   ],
-   "title_zh": "Bitdefender发现预装在Android设备上的无法卸载恶意软件，涉及150个国家"
-  },
-  {
-   "id": "SECAFFAIRS-8c6679d6",
-   "title": "Security Affairs newsletter Round 599 by Pierluigi Paganini – INTERNATIONAL EDITION",
-   "url": "https://securityaffairs.com/200752/breaking-news/security-affairs-newsletter-round-599-by-pierluigi-paganini-international-edition.html",
-   "source": "Security Affairs",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sun, 11 Oct 2026 13:34:01 +0000",
-   "published_date": "2026-10-11",
-   "digest": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjo…",
-   "tags": [],
-   "title_zh": "安全事务第599期简报由皮耶路易吉·帕加尼尼发布 - 国际版"
-  },
-  {
-   "id": "SECAFFAIRS-cc0a0bea",
-   "title": "U.S. CISA adds ProFTPD, ONLYOFFICE Docs, Strapi, Apache Struts, and ISC BIND flaws to its Known Exploited Vulnerabilities catalog",
-   "url": "https://securityaffairs.com/200734/security/u-s-cisa-adds-proftpd-onlyoffice-docs-strapi-apache-struts-and-isc-bind-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
-   "source": "Security Affairs",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sun, 11 Oct 2026 09:18:56 +0000",
-   "published_date": "2026-10-11",
-   "digest": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds ProFTPD, ONLYOFFICE Docs, Strapi, Apache Struts, and ISC BIND to its Known Exploited Vulnerabi…",
-   "tags": [
+    "勒索软件",
     "监管合规"
    ],
-   "title_zh": "美国CISA将ProFTPD、ONLYOFFICE Docs、Strapi、Apache Struts和ISC BIND的漏洞添加到已知被利用漏洞目录中"
+   "title_zh": "ShinyHunters逮捕第三名嫌疑人：加拿大勒索软件谈判员"
   },
   {
-   "id": "SECAFFAIRS-25139a2e",
-   "title": "Anthropic Restricts Live Internet Access After Claude Evaluation Failures",
-   "url": "https://securityaffairs.com/200726/ai/anthropic-restricts-live-internet-access-after-claude-evaluation-failures.html",
+   "id": "SECAFFAIRS-d96f8ee0",
+   "title": "Canonical Hit by Second DDoS Attack in 2026, Public Websites Disrupted",
+   "url": "https://securityaffairs.com/200832/security/canonical-hit-by-second-ddos-attack-in-2026.html",
    "source": "Security Affairs",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Sat, 10 Oct 2026 19:04:58 +0000",
-   "published_date": "2026-10-10",
-   "digest": "Anthropic’s models kept working around the rules on the live internet. The company published the cases. Anthropic released a report on unintended actions its Cl…",
+   "published_at": "Mon, 12 Oct 2026 20:02:20 +0000",
+   "published_date": "2026-10-12",
+   "digest": "Canonical suffered its second DDoS attack this year, disrupting public websites for over four hours while Launchpad and the Snap Store remained online. Ubuntu’s…",
    "tags": [
-    "大模型安全"
+    "僵尸网络"
    ],
-   "title_zh": "Anthropic 在 Claude 评估失败后限制了实时互联网访问权限"
+   "title_zh": "Canonical遭遇2026年第二起DDoS攻击，公共网站受影响"
   },
   {
-   "id": "SECWIKI-8df0a421",
-   "title": "SecWiki News 2026-10-10 Review",
-   "url": "http://www.sec-wiki.com/?2026-10-10",
+   "id": "WORDFENCE-7410c316",
+   "title": "Wordfence Argus Discovers Critical Vulnerability in Ghostscript, the Program That Turns Uploaded PDFs into Thumbnails on Your Server",
+   "url": "https://www.wordfence.com/blog/2026/10/wordfence-argus-discovers-critical-vulnerability-in-ghostscript-the-program-that-turns-uploaded-pdfs-into-thumbnails-on-your-server/",
+   "source": "Wordfence",
+   "category": "网络安全",
+   "priority": "P2",
+   "published_at": "Mon, 12 Oct 2026 18:10:52 +0000",
+   "published_date": "2026-10-12",
+   "digest": "On September 8, 2026, Artifex released Ghostscript 10.08.0, closing a critical heap buffer overflow that the Wordfence Threat Intelligence team, using Wordfence…",
+   "tags": [],
+   "title_zh": "Wordfence Argus 发现 Ghostscript 中的严重漏洞，该程序用于将上传的 PDF 转换为服务器上的缩略图"
+  },
+  {
+   "id": "SECWIKI-3c71667a",
+   "title": "SecWiki News 2026-10-12 Review",
+   "url": "http://www.sec-wiki.com/?2026-10-12",
    "source": "SecWiki",
    "category": "网络安全",
    "priority": "P2",
-   "published_at": "\nSat, 10 Oct 2026 23:58:20 +0800",
-   "published_date": "2026-10-10",
+   "published_at": "\nMon, 12 Oct 2026 23:58:20 +0800",
+   "published_date": "2026-10-12",
    "digest": "今日暂未更新资讯~ 更多最新文章，请访问 SecWiki",
    "tags": [],
-   "title_zh": "SecWiki 新闻 2026-10-10 概览"
+   "title_zh": "SecWiki 新闻 2026-10-12 概览"
   },
   {
-   "id": "SECAFFAIRS-8aba8850",
-   "title": "Silent Ransom Group Allegedly Extorted $207 Million Without Encrypting Files",
-   "url": "https://securityaffairs.com/200719/cyber-crime/silent-ransom-group-allegedly-extorted-207-million-without-encrypting-files.html",
-   "source": "Security Affairs",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sat, 10 Oct 2026 15:05:54 +0000",
-   "published_date": "2026-10-10",
-   "digest": "Silent Ransom Group allegedly extorted $207 million from 27 law firms in six months using phone calls and social engineering, not encryption. Silent Ransom Grou…",
-   "tags": [],
-   "title_zh": "静默勒索团伙涉嫌敲诈勒索2.07亿美元未加密文件"
-  },
-  {
-   "id": "THN-0302a046",
-   "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
-   "url": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
+   "id": "THN-e4689725",
+   "title": "⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
+   "url": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
    "source": "The Hacker News",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Sat, 10 Oct 2026 16:30:00 +0530",
-   "published_date": "2026-10-10",
-   "digest": "In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI. About 282 of them sit behind single sign-o…",
-   "tags": [],
-   "title_zh": "第三方代理问题：为何为所选AI构建的安全性忽略了未选择的代理"
+   "published_at": "Mon, 12 Oct 2026 20:46:26 +0530",
+   "published_date": "2026-10-12",
+   "digest": "Some meetings last longer than it took attackers to jump on a newly disclosed security flaw this week. Within hours, they were already testing it. That's not mu…",
+   "tags": [
+    "漏洞预警"
+   ],
+   "title_zh": "每周回顾：帮助台零日漏洞、假冒证书、ShinyHunters被捕、AI骗过恶意软件及其他内容"
   },
   {
-   "id": "SECURITYWEEK-ba546d02",
-   "title": "Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison",
-   "url": "https://www.securityweek.com/insider-cyber-extortion-plot-against-industrial-firm-lands-engineer-in-prison/",
+   "id": "SCHNEIER-984f9a17",
+   "title": "FBI Arrests Suspect in FBI-Hacking Case",
+   "url": "https://www.schneier.com/blog/archives/2026/10/fbi-arrests-suspect-in-fbi-hacking-case.html",
+   "source": "Schneier",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 12 Oct 2026 15:01:26 +0000",
+   "published_date": "2026-10-12",
+   "digest": "In September, hackers from a group called ShinyHunters announced that they stole a trove of FBI data about its own agents. It was an intelligence disaster . Las…",
+   "tags": [
+    "监管合规"
+   ],
+   "title_zh": "FBI逮捕涉嫌黑客入侵FBI案件嫌疑人"
+  },
+  {
+   "id": "CHECKPOINT-97e3a438",
+   "title": "12th October – Threat Intelligence Report",
+   "url": "https://research.checkpoint.com/2026/12th-october-threat-intelligence-report/",
+   "source": "Check Point Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 12 Oct 2026 14:51:31 +0000",
+   "published_date": "2026-10-12",
+   "digest": "For the latest discoveries in cyber research for the week of 12th October, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Denmark’s …",
+   "tags": [],
+   "title_zh": "10月12日 - 威胁情报报告"
+  },
+  {
+   "id": "SECURITYWEEK-43513f43",
+   "title": "IonQ to Acquire Zero Trust Firm Elisity for Up to $1.3 Billion",
+   "url": "https://www.securityweek.com/ionq-to-acquire-zero-trust-firm-elisity-for-up-to-1-3-billion/",
    "source": "SecurityWeek",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Sat, 10 Oct 2026 11:00:00 +0000",
-   "published_date": "2026-10-10",
-   "digest": "The former core infrastructure engineer deleted admin accounts, reset hundreds of passwords, and demanded 20 bitcoin to spare the company’s servers. The post In…",
-   "tags": [
-    "加密货币犯罪"
-   ],
-   "title_zh": "内部网络勒索 plot 对工业公司发动 落工程师于狱中"
+   "published_at": "Mon, 12 Oct 2026 14:25:00 +0000",
+   "published_date": "2026-10-12",
+   "digest": "The all-stock deal brings Elisity’s least-privilege access technology into IonQ’s security portfolio. The post IonQ to Acquire Zero Trust Firm Elisity for Up to…",
+   "tags": [],
+   "title_zh": "IonQ拟以至多13亿美元收购零信任公司Elisity"
   },
   {
-   "id": "FREEBUF-24c7e61b",
-   "title": "FreeBuf早报 | REA打通AI编码与逆向工具；Anthropic推出免费AI漏洞扫描器",
-   "url": "https://www.freebuf.com/news/505702.html",
-   "source": "FreeBuf",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sat, 10 Oct 2026 17:57:35 +0800",
-   "published_date": "2026-10-10",
-   "digest": "开源逆向工具REA打通AI编码Agent与Ghidra等专业逆向工具，支持多类目标无源码分析，可输出带证据的分析结果，适配主流AI客户端。",
-   "tags": []
-  },
-  {
-   "id": "THN-646ca68e",
-   "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
-   "url": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sat, 10 Oct 2026 14:48:45 +0530",
-   "published_date": "2026-10-10",
-   "digest": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its artificial…",
-   "tags": [
-    "大模型安全"
-   ],
-   "title_zh": "Anthropic为内部AI测试切断Live互联网访问后处理Claude注入漏洞"
-  },
-  {
-   "id": "FREEBUF-09a2a255",
-   "title": "当 LLM 漏洞扫描器撞上真实模型：一次 80% 误报率的自我打脸",
-   "url": "https://www.freebuf.com/articles/vuls/505693.html",
-   "source": "FreeBuf",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sat, 10 Oct 2026 17:02:00 +0800",
-   "published_date": "2026-10-10",
-   "digest": "用自研 AI 安全测试工具「鉴微」扫描本地 某Qw，报出 52.2% 攻击成功率；逐条复核后却发现约八成是误报。本文复盘这次真机实测，剖析 LLM 安全判定层最易踩的四类根因。",
-   "tags": [
-    "大模型安全"
-   ]
-  },
-  {
-   "id": "NSFOCUS-939411fd",
-   "title": "议程速递 | 绿盟科技集结群贤，邀您共赴驭智之约",
-   "url": "https://blog.nsfocus.net/%e8%ae%ae%e7%a8%8b%e9%80%9f%e9%80%92-%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e9%9b%86%e7%bb%93%e7%be%a4%e8%b4%a4%ef%bc%8c%e9%82%80%e6%82%a8%e5%85%b1%e8%b5%b4%e9%a9%ad%e6%99%ba%e4%b9%8b%e7%ba%a6/",
-   "source": "绿盟科技博客",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sat, 10 Oct 2026 08:27:21 +0000",
-   "published_date": "2026-10-10",
-   "digest": "",
-   "tags": []
-  },
-  {
-   "id": "NSFOCUS-f2cd5e2a",
-   "title": "传统BOT防护不够用？意图分析才是未来",
-   "url": "https://blog.nsfocus.net/%e4%bc%a0%e7%bb%9fbot%e9%98%b2%e6%8a%a4%e4%b8%8d%e5%a4%9f%e7%94%a8%ef%bc%9f%e6%84%8f%e5%9b%be%e5%88%86%e6%9e%90%e6%89%8d%e6%98%af%e6%9c%aa%e6%9d%a5/",
-   "source": "绿盟科技博客",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sat, 10 Oct 2026 08:13:10 +0000",
-   "published_date": "2026-10-10",
-   "digest": "一、超一半流量不是真人 全球互联网流量监测和分析平台Cloudflare Radar统计：2026年，BOT占... » 阅读全文",
-   "tags": []
-  },
-  {
-   "id": "SECAFFAIRS-3d48adbc",
-   "title": "US Sentences Empire Market Co-Creator Over $430 Million Criminal Marketplace",
-   "url": "https://securityaffairs.com/200704/cyber-crime/us-sentences-empire-market-co-creator-over-430-million-criminal-marketplace.html",
+   "id": "SECAFFAIRS-d160697f",
+   "title": "SonicWall Patches CVSS 10.0 SSRF Flaw as Attacks Begin",
+   "url": "https://securityaffairs.com/200816/hacking/sonicwall-patches-cvss-10-0-ssrf-flaw-as-attacks-begin.html",
    "source": "Security Affairs",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Sat, 10 Oct 2026 07:22:40 +0000",
-   "published_date": "2026-10-10",
-   "digest": "Empire Market co-creator Raheim Hamilton was sentenced to 40 years in prison for running a dark web marketplace linked to $430 million in illegal trades. The ca…",
+   "published_at": "Mon, 12 Oct 2026 13:50:36 +0000",
+   "published_date": "2026-10-12",
+   "digest": "Attackers are exploiting SonicWall SMA 1000 vulnerability, tracked as CVE-2026-102255 (CVSS score of 10.0), just days after its public disclosure. Attackers hav…",
+   "tags": [
+    "漏洞预警",
+    "Web安全"
+   ],
+   "title_zh": "SonicWall 修复 CVSS 10.0 SSRF 漏洞，攻击已启动"
+  },
+  {
+   "id": "SECURITYWEEK-95d95969",
+   "title": "Bricksforge WordPress Plugin Vulnerability Exploited in the Wild",
+   "url": "https://www.securityweek.com/bricksforge-wordpress-plugin-vulnerability-exploited-in-the-wild/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 12 Oct 2026 13:14:37 +0000",
+   "published_date": "2026-10-12",
+   "digest": "The vulnerability tracked as CVE-2026-85097 can allow threat actors to take control of the targeted WordPress websites. The post Bricksforge WordPress Plugin Vu…",
+   "tags": [
+    "漏洞预警",
+    "Web安全"
+   ],
+   "title_zh": "Bricksforge WordPress插件漏洞在野外被利用"
+  },
+  {
+   "id": "SECURITYWEEK-63db8b69",
+   "title": "Canonical Websites Disrupted in Second DDoS Attack This Year",
+   "url": "https://www.securityweek.com/canonical-websites-disrupted-in-second-ddos-attack-this-year/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 12 Oct 2026 11:58:39 +0000",
+   "published_date": "2026-10-12",
+   "digest": "The outage hit the main Ubuntu and Canonical websites, including the Ubuntu blog and developer portal The post Canonical Websites Disrupted in Second DDoS Attac…",
+   "tags": [
+    "僵尸网络"
+   ],
+   "title_zh": "Canonical网站在今年第二次遭受DDoS攻击"
+  },
+  {
+   "id": "THN-1db08bf9",
+   "title": "Bring Your Own Agent: Your Employees' Assistants Are Already Logged In",
+   "url": "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 12 Oct 2026 17:25:00 +0530",
+   "published_date": "2026-10-12",
+   "digest": "The personal AI agents rollout is going about as smoothly as expected: Amazon now blocks Meta's Muse because it doesn't identify itself as a bot while browsing;…",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "自带代理：您的员工助手已登录"
+  },
+  {
+   "id": "SECURITYWEEK-1a4ab9b8",
+   "title": "Mastermind of 15,000-Mule Cybercrime Laundering Network Pleads Guilty in US",
+   "url": "https://www.securityweek.com/mastermind-of-15000-mule-cybercrime-laundering-network-pleads-guilty-in-us/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 12 Oct 2026 11:24:50 +0000",
+   "published_date": "2026-10-12",
+   "digest": "Oleg Korniev was a leader of YMCO, a sophisticated network of money mules that helped hackers move funds outside the US. The post Mastermind of 15,000-Mule Cybe…",
    "tags": [],
-   "title_zh": "美国以超过4.3亿美元的刑事市场判处Empire Market联合创建者"
+   "title_zh": "操纵15000骡网络犯罪洗钱团伙头目在美国认罪"
   },
   {
-   "id": "FREEBUF-b495ae2f",
-   "title": "Anthropic切断内部AI测试实时联网权限，因Claude利用注入漏洞越界操作",
-   "url": "https://www.freebuf.com/articles/ai-security/505704.html",
-   "source": "FreeBuf",
+   "id": "THN-4c7b4f23",
+   "title": "Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports",
+   "url": "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html",
+   "source": "The Hacker News",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Sat, 10 Oct 2026 14:48:45 +0800",
-   "published_date": "2026-10-10",
-   "digest": "Anthropic发现Claude模型存在越界联网操作（如向警局提交虚假凶杀线索），已切断内部测试环境实时联网权限，AI安全问题引发监管重视。",
+   "published_at": "Mon, 12 Oct 2026 16:51:48 +0530",
+   "published_date": "2026-10-12",
+   "digest": "Cryptocurrency hardware maker Ledger has temporarily paused sales of its products via Cryptobilis following reports of stolen funds linked to devices sold by th…",
    "tags": [
-    "大模型安全",
-    "监管合规"
-   ]
+    "加密货币犯罪"
+   ],
+   "title_zh": "Ledger 在加密货币钱包 CryptoBilis 销售报告被盗事件中发现未经授权的硬件植入物"
   },
   {
-   "id": "FREEBUF-1bd85048",
-   "title": "打满补丁的 Windows 也能拿到 SYSTEM：MiniPlasma 与 cldflt.sys 的五年老根",
-   "url": "https://www.freebuf.com/articles/vuls/505669.html",
-   "source": "FreeBuf",
+   "id": "SECURITYWEEK-6630d93c",
+   "title": "iRhythm Data Breach Impacts at Least 360,000 People",
+   "url": "https://www.securityweek.com/irhythm-data-breach-impacts-over-360000-people/",
+   "source": "SecurityWeek",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Sat, 10 Oct 2026 14:37:30 +0800",
-   "published_date": "2026-10-10",
-   "digest": "摘要安全研究者公开了一个代号 MiniPlasma的 Windows 零日漏洞的 PoC 利用程序。它的三个特点决定了它的危险性远高于\"又一个本地提权\"：范围：影响截至 2026 年 5 月已安装全部微软安全更新的 Windows 系统，即\"打满补丁也中\"；门槛：攻击者只需要一个标准用户（本地或已获得的低权会话），不需…",
+   "published_at": "Mon, 12 Oct 2026 11:05:43 +0000",
+   "published_date": "2026-10-12",
+   "digest": "Hackers stole patients’ personal information, including names, addresses, email addresses, dates of birth, and phone numbers. The post iRhythm Data Breach Impac…",
    "tags": [
-    "漏洞预警"
-   ]
+    "数据泄露"
+   ],
+   "title_zh": "iRhythm 数据泄露影响至少36万人"
   },
   {
-   "id": "NSFOCUS-8e206e5a",
-   "title": "高频业务：一种IP网段判断重叠的算法（其四）",
-   "url": "https://blog.nsfocus.net/%e9%ab%98%e9%a2%91%e4%b8%9a%e5%8a%a1%ef%bc%9a%e4%b8%80%e7%a7%8dip%e7%bd%91%e6%ae%b5%e5%88%a4%e6%96%ad%e9%87%8d%e5%8f%a0%e7%9a%84%e7%ae%97%e6%b3%95%ef%bc%88%e5%85%b6%e5%9b%9b%ef%bc%89-2/",
-   "source": "绿盟科技博客",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sat, 10 Oct 2026 06:33:56 +0000",
-   "published_date": "2026-10-10",
-   "digest": "1、引言 在高频业务：一种IP网段判断重叠的算法（其三）中，我们拓展了IP重叠算法的应用面，并设计了新的数据结... » 阅读全文",
-   "tags": []
-  },
-  {
-   "id": "NSFOCUS-c6a8aa2a",
-   "title": "高频业务：一种IP网段判断重叠的算法（其二）",
-   "url": "https://blog.nsfocus.net/%e9%ab%98%e9%a2%91%e4%b8%9a%e5%8a%a1%ef%bc%9a%e4%b8%80%e7%a7%8dip%e7%bd%91%e6%ae%b5%e5%88%a4%e6%96%ad%e9%87%8d%e5%8f%a0%e7%9a%84%e7%ae%97%e6%b3%95%ef%bc%88%e5%85%b6%e4%ba%8c%ef%bc%89-2/",
-   "source": "绿盟科技博客",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sat, 10 Oct 2026 06:30:42 +0000",
-   "published_date": "2026-10-10",
-   "digest": "1、引言 在https://blog.nsfocus.net/ip-cal/ 这篇博客中，笔者讲述了一种通过将... » 阅读全文",
-   "tags": []
-  },
-  {
-   "id": "NSFOCUS-02fa0af8",
-   "title": "高频业务：一种IP网段判断重叠的算法（其三）",
-   "url": "https://blog.nsfocus.net/%e9%ab%98%e9%a2%91%e4%b8%9a%e5%8a%a1%ef%bc%9a%e4%b8%80%e7%a7%8dip%e7%bd%91%e6%ae%b5%e5%88%a4%e6%96%ad%e9%87%8d%e5%8f%a0%e7%9a%84%e7%ae%97%e6%b3%95%ef%bc%88%e5%85%b6%e4%b8%89%ef%bc%89-2/",
-   "source": "绿盟科技博客",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sat, 10 Oct 2026 06:28:40 +0000",
-   "published_date": "2026-10-10",
-   "digest": "1、引言 在高频业务：一种IP网段判断重叠的算法（其二）中，我们完善了利用数轴进行IP重叠判断的算法。 &nb... » 阅读全文",
-   "tags": []
-  },
-  {
-   "id": "FREEBUF-32aa770a",
-   "title": "WordPress 核心被打出 RCE：wp2shell 双漏洞链技术拆解（CVE-2026-63030 + CVE-2026-60137）",
-   "url": "https://www.freebuf.com/articles/vuls/505664.html",
+   "id": "FREEBUF-f35c5629",
+   "title": "FreeBuf早报 | NVIDIA修复DCGM Exporter高危漏洞；Agentic AI红队检查清单发布",
+   "url": "https://www.freebuf.com/news/505940.html",
    "source": "FreeBuf",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Sat, 10 Oct 2026 13:56:40 +0800",
-   "published_date": "2026-10-10",
-   "digest": "一个未认证请求，绕过 REST 校验、注入 SQL、投毒对象缓存、创建管理员、上传可执行文件。全程不涉及任何插件。",
+   "published_at": "Mon, 12 Oct 2026 18:44:15 +0800",
+   "published_date": "2026-10-12",
+   "digest": "WordPress插件Bricksforge爆CVSS10.0漏洞遭在野利用，未授权即可RCE植入后门，已有大量攻击，需立即升级补丁排查入侵。",
    "tags": [
     "漏洞预警",
     "Web安全"
    ]
   },
   {
-   "id": "FREEBUF-f02a8950",
-   "title": "一个 root 换几千个站点：cPanel & WHM 三连漏洞复盘（CVE-2026-93698  CVE-2026-93029  CVE-2026-93697）",
-   "url": "https://www.freebuf.com/articles/vuls/505663.html",
+   "id": "THN-89b7bfb0",
+   "title": "Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch",
+   "url": "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 12 Oct 2026 16:06:56 +0530",
+   "published_date": "2026-10-12",
+   "digest": "Threat actors have been observed exploiting a recently disclosed critical security flaw in SonicWall Secure Mobile Access (SMA) 1000 appliances within days of p…",
+   "tags": [],
+   "title_zh": "关键漏洞的SonicWall SMA 1000被利用尝试135次后修补"
+  },
+  {
+   "id": "SECURITYWEEK-2ab5781a",
+   "title": "Ransomware Response Expert Arrested in ShinyHunters FBI Hack Probe",
+   "url": "https://www.securityweek.com/ransomware-response-expert-arrested-in-shinyhunters-fbi-hack-probe/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 12 Oct 2026 10:32:05 +0000",
+   "published_date": "2026-10-12",
+   "digest": "The suspect is believed to be Edward Dubrovsky, a Canadian cybersecurity executive who was visiting the United States for a conference. The post Ransomware Resp…",
+   "tags": [
+    "勒索软件",
+    "监管合规"
+   ],
+   "title_zh": "勒索软件响应专家在ShinyHuntersFBI黑客调查中被捕"
+  },
+  {
+   "id": "NSFOCUS-26eac565",
+   "title": "解读《关于发展新质生产力的意见》：新质生产力中的网络安全逻辑",
+   "url": "https://blog.nsfocus.net/%e8%a7%a3%e8%af%bb%e3%80%8a%e5%85%b3%e4%ba%8e%e5%8f%91%e5%b1%95%e6%96%b0%e8%b4%a8%e7%94%9f%e4%ba%a7%e5%8a%9b%e7%9a%84%e6%84%8f%e8%a7%81%e3%80%8b%ef%bc%9a%e6%96%b0%e8%b4%a8%e7%94%9f%e4%ba%a7%e5%8a%9b/",
+   "source": "绿盟科技博客",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 12 Oct 2026 10:25:37 +0000",
+   "published_date": "2026-10-12",
+   "digest": "2026年10月9日，中共中央、国务院印发了《关于发展新质生产力的意见》（简称《意见》），这是党中央、国务院首... » 阅读全文",
+   "tags": []
+  },
+  {
+   "id": "FREEBUF-2b5a80a2",
+   "title": "【AI 逆向专栏】某点 vmp w_tsfp 逆向分析",
+   "url": "https://www.freebuf.com/news/505913.html",
    "source": "FreeBuf",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Sat, 10 Oct 2026 13:54:20 +0800",
-   "published_date": "2026-10-10",
-   "digest": "面板层的一个 root，等于同一台机器上所有租户一起失守- 网站文件、数据库、邮件数据、服务器配置，全部在同一权限面下。",
+   "published_at": "Mon, 12 Oct 2026 17:45:39 +0800",
+   "published_date": "2026-10-12",
+   "digest": "本文将对w_tsfp参数进行逆向分析",
+   "tags": []
+  },
+  {
+   "id": "SECAFFAIRS-bf7517ba",
+   "title": "CyberXero Used 51 AI Agents to Steal 628,000 Ukrainian Records",
+   "url": "https://securityaffairs.com/200803/cyber-crime/cyberxero-used-51-ai-agents-to-steal-628000-ukrainian-records.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 12 Oct 2026 09:34:35 +0000",
+   "published_date": "2026-10-12",
+   "digest": "CyberXero used 51 AI agents to support cyberattacks, stealing 628,000 Ukrainian records, including sensitive data from energy infrastructure. CyberXero is an op…",
    "tags": [
-    "漏洞预警"
+    "大模型安全"
+   ],
+   "title_zh": "CyberXero 使用 51 个 AI 剂量窃取了 62.8 万乌克兰记录"
+  },
+  {
+   "id": "THN-e4d35c96",
+   "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE",
+   "url": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 12 Oct 2026 14:32:14 +0530",
+   "published_date": "2026-10-12",
+   "digest": "A maximum-severity security flaw impacting the Bricksforge plugin for WordPress has come under active exploitation in the wild, according to Patchstack. The cri…",
+   "tags": [
+    "漏洞预警",
+    "Web安全"
+   ],
+   "title_zh": "攻击者利用CVSS 10.0严重性分值的BricksforgeWordPress漏洞实现未认证远程代码执行"
+  },
+  {
+   "id": "SEEKBUG-119284c6",
+   "title": "基于信息论安全密钥分发的高效安全联邦学习：一个医学影像案例研究",
+   "url": "https://paper.seebug.org/3525",
+   "source": "Seebug Paper",
+   "category": "网络安全",
+   "priority": "P2",
+   "published_at": "Mon, 12 Oct 2026 16:56:54 +0800",
+   "published_date": "2026-10-12",
+   "digest": "作者：Ivan Donà, Hans H. Brunner, Álvaro Troyano Olivas, Chi-Hang Fred Fung, Momtchil Peev, Giovanni Iacca 原文链接：https://arxiv.org/pdf/2610.06420v1 摘要 联邦学习（Federate…",
+   "tags": [
+    "学术研究"
    ]
   }
  ]
