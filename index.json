@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-13 10:03",
+ "generated_at": "2026-10-14 10:03",
  "source_count": 83,
- "total": 6412,
+ "total": 6485,
  "months": [
   {
    "month": "2026-10",
-   "count": 795
+   "count": 868
   },
   {
    "month": "2026-09",
@@ -86,67 +86,67 @@
  ],
  "facets": {
   "categories": {
-   "网络安全": 3328,
+   "网络安全": 3401,
    "AI安全": 3084
   },
   "sources": {
    "arXiv cs.CR": 3053,
-   "FreeBuf": 883,
-   "The Hacker News": 593,
-   "SecurityWeek": 501,
-   "Security Affairs": 345,
-   "ZDI Published": 324,
-   "ESET Research": 121,
+   "FreeBuf": 914,
+   "The Hacker News": 606,
+   "SecurityWeek": 512,
+   "Security Affairs": 349,
+   "ZDI Published": 329,
+   "ESET Research": 122,
    "Schneier": 92,
-   "SecWiki": 80,
+   "SecWiki": 81,
    "Wordfence": 43,
    "嘶吼": 40,
-   "Unit 42": 32,
-   "绿盟科技博客": 31,
-   "Check Point Research": 30,
+   "Unit 42": 33,
+   "绿盟科技博客": 33,
+   "Check Point Research": 31,
    "Seebug Paper": 30,
    "Securelist (Kaspersky)": 30,
    "Have I Been Pwned": 29,
    "Future of Life Institute": 21,
    "天融信": 19,
    "SentinelOne Blog": 18,
+   "Krebs on Security": 14,
    "Risky Business": 14,
-   "Krebs on Security": 13,
+   "ZDI Blog": 12,
    "Praetorian Blog": 12,
    "Trail of Bits": 12,
-   "ZDI Blog": 11,
    "DFIR Report": 11,
    "Red Canary": 11,
    "Adversa AI": 10,
-   "Volexity": 3
+   "Volexity": 4
   },
   "priorities": {
-   "P1": 5922,
-   "P2": 153,
-   "P0": 337
+   "P0": 343,
+   "P1": 5988,
+   "P2": 154
   },
   "tags": {
    "学术研究": 3078,
-   "大模型安全": 1061,
-   "漏洞预警": 712,
-   "身份认证": 174,
-   "监管合规": 164,
-   "AI攻防": 160,
-   "数据泄露": 145,
+   "大模型安全": 1068,
+   "漏洞预警": 725,
+   "身份认证": 176,
+   "监管合规": 167,
+   "AI攻防": 161,
+   "数据泄露": 146,
    "安全运营": 134,
-   "供应链攻击": 111,
+   "供应链攻击": 114,
    "钓鱼攻击": 111,
-   "Web安全": 102,
-   "勒索软件": 99,
-   "物联网安全": 96,
-   "云安全": 95,
+   "Web安全": 103,
+   "勒索软件": 100,
+   "物联网安全": 99,
+   "云安全": 97,
    "密码学": 82,
-   "移动安全": 69,
+   "移动安全": 70,
    "加密货币犯罪": 63,
    "网络诈骗": 61,
    "APT组织": 45,
-   "僵尸网络": 41,
-   "工控安全": 29
+   "僵尸网络": 43,
+   "工控安全": 31
   }
  }
 }

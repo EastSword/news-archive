@@ -2,6 +2,863 @@
  "month": "2026-10",
  "items": [
   {
+   "id": "KREBS-a84d74d4",
+   "title": "Microsoft Patches More Than 1,400 Security Flaws",
+   "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
+   "source": "Krebs on Security",
+   "category": "网络安全",
+   "priority": "P0",
+   "published_at": "Tue, 13 Oct 2026 23:24:53 +0000",
+   "published_date": "2026-10-13",
+   "digest": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwa…",
+   "tags": [],
+   "title_zh": "微软修复了超过1400个安全漏洞"
+  },
+  {
+   "id": "SECURITYWEEK-28d1d9a8",
+   "title": "Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say",
+   "url": "https://www.securityweek.com/employee-arrested-after-listening-device-found-in-openai-conference-room-fbi-and-the-company-say/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 23:07:00 +0000",
+   "published_date": "2026-10-13",
+   "digest": "Saudi national Abdulrahman Alfozan was arrested Friday and terminated by OpenAI. The post Employee Arrested After Listening Device Found in OpenAI Conference Ro…",
+   "tags": [
+    "监管合规"
+   ],
+   "title_zh": "员工在OpenAI会议室发现窃听设备后被捕，FBI及公司称"
+  },
+  {
+   "id": "UNIT42-abbd310e",
+   "title": "The Noise Inside the Network: How an Unsophisticated Attack Exposed a Third-Party Risk",
+   "url": "https://unit42.paloaltonetworks.com/noise-inside-network-third-party-risk/",
+   "source": "Unit 42",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 22:00:04 +0000",
+   "published_date": "2026-10-13",
+   "digest": "Unit 42 dissects a cyberattack targeting a European bank's IT infrastructure, delivering concrete defense strategies to help organizations detect and counter co…",
+   "tags": [],
+   "title_zh": "网络噪音：一起不复杂的攻击如何揭示第三方风险"
+  },
+  {
+   "id": "ZDI-BLOG-0e439d17",
+   "title": "The October 2026 Security Update Review",
+   "url": "https://www.thezdi.com/blog/2026/10/13/the-october-2026-security-update-review",
+   "source": "ZDI Blog",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 19:34:30 +0000",
+   "published_date": "2026-10-13",
+   "digest": "Another month of patches equals another new record for Microsoft patches. It’s a good thing I survive Pwn2Own Ireland , because between these and the Adobe patc…",
+   "tags": [],
+   "title_zh": "2026年10月安全更新审查"
+  },
+  {
+   "id": "SECURITYWEEK-0d146637",
+   "title": "Ivanti Zero-Day Chain Gave Attackers Root Access to Fully Patched VPN",
+   "url": "https://www.securityweek.com/ivanti-zero-day-chain-gave-attackers-root-access-to-fully-patched-vpn/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 18:43:43 +0000",
+   "published_date": "2026-10-13",
+   "digest": "CVE-2026-104935 affects Ivanti Connect Secure and it can be exploited for unauthenticated remote code execution with elevated privileges. The post Ivanti Zero-D…",
+   "tags": [
+    "漏洞预警"
+   ],
+   "title_zh": "Ivanti 零日链漏洞使攻击者在完全打补丁的VPN上获得了根权限"
+  },
+  {
+   "id": "THN-bec3e63d",
+   "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
+   "url": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 23:50:57 +0530",
+   "published_date": "2026-10-13",
+   "digest": "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Androi…",
+   "tags": [
+    "僵尸网络",
+    "物联网安全"
+   ],
+   "title_zh": "Anthropic 警告小型AI模型可能很快形成自我传播的物联网僵尸网络"
+  },
+  {
+   "id": "SECAFFAIRS-11319f72",
+   "title": "U.S. CISA adds Ivanti Connect Secure flaw to its Known Exploited Vulnerabilities catalog",
+   "url": "https://securityaffairs.com/200887/security/u-s-cisa-adds-ivanti-connect-secure-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 18:14:23 +0000",
+   "published_date": "2026-10-13",
+   "digest": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Ivanti Connect Secure flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecur…",
+   "tags": [
+    "监管合规"
+   ],
+   "title_zh": "美国CISA将Ivanti Connect Secure漏洞添加到已知被利用漏洞目录中"
+  },
+  {
+   "id": "THN-7aed68e6",
+   "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
+   "url": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 23:33:18 +0530",
+   "published_date": "2026-10-13",
+   "digest": "A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed …",
+   "tags": [
+    "云安全"
+   ],
+   "title_zh": "Docker修复了两个多月前的Hub关键漏洞，该漏洞允许一个用户以另一个用户的名义推送镜像"
+  },
+  {
+   "id": "THN-72a757b4",
+   "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
+   "url": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 23:03:11 +0530",
+   "published_date": "2026-10-13",
+   "digest": "An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm Volexity said on O…",
+   "tags": [],
+   "title_zh": "攻击者利用三个Ivanti Connect Secure零日漏洞进行链式攻击，仅两个已打补丁"
+  },
+  {
+   "id": "THN-529815d9",
+   "title": "SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft",
+   "url": "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 22:58:50 +0530",
+   "published_date": "2026-10-13",
+   "digest": "A flaw in SAP's Cloud SDK for Python can send an application's OAuth2 client credentials to a server an attacker controls, SAP said in a security advisory on Oc…",
+   "tags": [
+    "云安全",
+    "身份认证"
+   ],
+   "title_zh": "SAP披露云SDK for Python中的CVSS 10关键漏洞 允许OAuth2凭证窃取"
+  },
+  {
+   "id": "SECURITYWEEK-008efa36",
+   "title": "Adobe Patches 140 Vulnerabilities Across 10 Products",
+   "url": "https://www.securityweek.com/adobe-patches-140-vulnerabilities-across-10-products/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 17:14:42 +0000",
+   "published_date": "2026-10-13",
+   "digest": "The flaws affect products such as Commerce, Photoshop, ColdFusion, Substance 3D, Dimension, FrameMaker and Bridge. The post Adobe Patches 140 Vulnerabilities Ac…",
+   "tags": [],
+   "title_zh": "Adobe修复了其10款产品中的140个漏洞"
+  },
+  {
+   "id": "SECURITYWEEK-5ffb29ec",
+   "title": "Google Partially Reverses Chrome Bug Bounty Cuts",
+   "url": "https://www.securityweek.com/google-partially-reverses-chrome-bug-bounty-cuts/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 17:00:00 +0000",
+   "published_date": "2026-10-13",
+   "digest": "Google is restructuring bug bounty rewards with a focus on complex memory safety vulnerabilities. The post Google Partially Reverses Chrome Bug Bounty Cuts appe…",
+   "tags": [],
+   "title_zh": "谷歌部分撤销Chrome漏洞赏金计划削减"
+  },
+  {
+   "id": "THN-6f190af3",
+   "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
+   "url": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 21:48:18 +0530",
+   "published_date": "2026-10-13",
+   "digest": "GitHub has taken the step of expiring unvalidated npm trusted publishing configurations 48 hours after creation after researchers found that it was possible for…",
+   "tags": [
+    "供应链攻击"
+   ],
+   "title_zh": "GitHub 加强 npm 发布安全措施，因漏洞使逾千个包易受劫持攻击"
+  },
+  {
+   "id": "SECURITYWEEK-d9542289",
+   "title": "Meta Says Hackers Took Code, Personal Data of 1,500 in GitHub Breach",
+   "url": "https://www.securityweek.com/meta-says-hackers-took-code-personal-data-of-1500-in-github-breach/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 16:01:00 +0000",
+   "published_date": "2026-10-13",
+   "digest": "Most of the affected individuals are Meta employees in the United States and they are being offered credit monitoring services. The post Meta Says Hackers Took …",
+   "tags": [],
+   "title_zh": "Meta 称黑客在 GitHub 漏洞中窃取了 1,500 名用户的代码和个人数据"
+  },
+  {
+   "id": "SECWIKI-b8b5895d",
+   "title": "SecWiki News 2026-10-13 Review",
+   "url": "http://www.sec-wiki.com/?2026-10-13",
+   "source": "SecWiki",
+   "category": "网络安全",
+   "priority": "P2",
+   "published_at": "\nTue, 13 Oct 2026 23:58:20 +0800",
+   "published_date": "2026-10-13",
+   "digest": "ReArk：移动应用的桌面逆向与 AI 辅助分析工具 by ourren 更多最新文章，请访问 SecWiki",
+   "tags": [],
+   "title_zh": "SecWiki 新闻 2026-10-13 概览"
+  },
+  {
+   "id": "VOLEXITY-efd08571",
+   "title": "A Series of Unauthenticated Events: Chained Exploitation of Ivanti Connect Secure Zero-Days",
+   "url": "https://www.volexity.com/blog/2026/10/13/a-series-of-unauthenticated-events-chained-exploitation-of-ivanti-connect-secure-zero-days/",
+   "source": "Volexity",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 15:32:12 +0000",
+   "published_date": "2026-10-13",
+   "digest": "Volexity has identified active in-the-wild exploitation of a vulnerability chain allowing unauthenticated remote code execution in Ivanti Connect Secure VPN dev…",
+   "tags": [],
+   "title_zh": "一系列未认证事件：连续利用Ivanti Connect Secure零日漏洞"
+  },
+  {
+   "id": "CHECKPOINT-2e6d95c9",
+   "title": "When LLM Gateways Go Wrong: Findings from LiteLLM",
+   "url": "https://research.checkpoint.com/2026/when-llm-gateways-go-wrong-findings-from-litellm/",
+   "source": "Check Point Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 14:30:26 +0000",
+   "published_date": "2026-10-13",
+   "digest": "TL;DR; Our security assessment of LiteLLM (v1.77.7), a widely used open-source LLM gateway, uncovered multiple high-impact vulnerabilities (tracked as CVE-2026-…",
+   "tags": [
+    "漏洞预警",
+    "大模型安全"
+   ],
+   "title_zh": "当LLM网关出错时：LiteLLM的研究发现"
+  },
+  {
+   "id": "SECAFFAIRS-2e4e8ee1",
+   "title": "Anthropic Shows How Small AI Models Could Replicate Across IoT Devices",
+   "url": "https://securityaffairs.com/200880/ai/anthropic-shows-how-small-ai-models-could-replicate-across-iot-devices.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 14:30:22 +0000",
+   "published_date": "2026-10-13",
+   "digest": "Anthropic researchers show how small AI models could autonomously replicate across IoT devices, raising concerns about adaptive, AI-powered botnets. Anthropic p…",
+   "tags": [
+    "僵尸网络",
+    "物联网安全"
+   ],
+   "title_zh": "Anthropic展示小型AI模型如何在物联网设备上复制传播"
+  },
+  {
+   "id": "SECAFFAIRS-8be7c33c",
+   "title": "GitLab Patches Max-Severity Vulnerability CVE-2026-97229",
+   "url": "https://securityaffairs.com/200868/security/gitlab-patches-max-severity-vulnerability-cve-2026-97229.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 13:48:38 +0000",
+   "published_date": "2026-10-13",
+   "digest": "GitLab fixed a critical vulnerability with a maximum CVSS score of 10.0 that could let unauthenticated attackers run code on its servers. GitLab has addressed a…",
+   "tags": [
+    "漏洞预警"
+   ],
+   "title_zh": "GitLab 修复了严重程度最高的漏洞 CVE-2026-97229"
+  },
+  {
+   "id": "THN-2c067165",
+   "title": "Xandr Fined a Record €8.6 Million for Relaying Grindr Data Revealing Sexual Orientation",
+   "url": "https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 18:42:32 +0530",
+   "published_date": "2026-10-13",
+   "digest": "The Norwegian Data Protection Authority (DPA) has fined Xandr, an advertising unit owned by Microsoft, €8.6 million ($9.62 million) for illegally relaying ​Grin…",
+   "tags": [],
+   "title_zh": "Xandr因转播Grindr数据泄露性取向信息被罚款创纪录的860万欧元"
+  },
+  {
+   "id": "SECURITYWEEK-44862e1e",
+   "title": "Small AI Models May Soon Be Able to Self-Replicate on IoT Devices, Anthropic Warns",
+   "url": "https://www.securityweek.com/small-ai-models-may-soon-be-able-to-self-replicate-on-iot-devices-anthropic-warns/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 11:58:29 +0000",
+   "published_date": "2026-10-13",
+   "digest": "Experiments show cheap TV boxes can run capable AI models, and small models may soon be able to spread across such devices on their own. The post Small AI Model…",
+   "tags": [
+    "物联网安全"
+   ],
+   "title_zh": "小规模AI模型可能很快能在IoT设备上自我复制，Anthropic警告"
+  },
+  {
+   "id": "THN-0f82ae7d",
+   "title": "[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls",
+   "url": "https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 17:27:06 +0530",
+   "published_date": "2026-10-13",
+   "digest": "The dangerous part of a stolen identity isn't always the initial login. It's what an attacker can do with that access next. With AI accelerating reconnaissance,…",
+   "tags": [
+    "身份认证"
+   ],
+   "title_zh": "如何使用运行时身份控制防止AI驱动的权限提升[网络研讨会]"
+  },
+  {
+   "id": "SECURITYWEEK-73c74ec6",
+   "title": "XWorm RAT Evolves Into Surveillance Platform",
+   "url": "https://www.securityweek.com/xworm-rat-evolves-into-surveillance-platform/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 11:13:10 +0000",
+   "published_date": "2026-10-13",
+   "digest": "Expanded plugin count allows the malware to monitor users’ location, stream live audio, and interact with authenticated browser sessions. The post XWorm RAT Evo…",
+   "tags": [],
+   "title_zh": "XWorm RAT 进化为监控平台"
+  },
+  {
+   "id": "THN-d28bb522",
+   "title": "LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network",
+   "url": "https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 16:39:10 +0530",
+   "published_date": "2026-10-13",
+   "digest": "Three vulnerabilities in LG's webOS can be chained to give an attacker on the same local network root access to certain smart TVs without a PIN or any interacti…",
+   "tags": [],
+   "title_zh": "LG 智能电视可通过局域网在未授权情况下被根权限接管"
+  },
+  {
+   "id": "SECURITYWEEK-7dfeeddf",
+   "title": "AI Turns Familiar Cyberattacks Into a Race Against Time",
+   "url": "https://www.securityweek.com/ai-turns-familiar-cyberattacks-into-a-race-against-time/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 11:00:00 +0000",
+   "published_date": "2026-10-13",
+   "digest": "IBM’s Steve Wallin talks to SecurityWeek on the effect of AI-driven attacks on enterprise defenses. The post AI Turns Familiar Cyberattacks Into a Race Against …",
+   "tags": [],
+   "title_zh": "AI将 familiar cyberattacks转化为时间竞赛"
+  },
+  {
+   "id": "SECURITYWEEK-40f2cc07",
+   "title": "$86 Million Crypto Heist Linked to Ledger Signer Hardware Implant",
+   "url": "https://www.securityweek.com/86-million-crypto-heist-linked-to-ledger-signer-hardware-implant/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 10:36:05 +0000",
+   "published_date": "2026-10-13",
+   "digest": "A small circuit board hidden under the signers’ screens read user data and transmitted it to the attackers. The post $86 Million Crypto Heist Linked to Ledger S…",
+   "tags": [],
+   "title_zh": "价值8600万美元的加密货币盗窃案与Ledger Signer硬件植入有关"
+  },
+  {
+   "id": "THN-713f525a",
+   "title": "Product Walkthrough: Bitdefender AI Visibility and Control",
+   "url": "https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 16:00:00 +0530",
+   "published_date": "2026-10-13",
+   "digest": "A user opens a browser tab, pastes data into a chat assistant, and nothing is installed. A developer adds a coding assistant as an editor extension, and nothing…",
+   "tags": [],
+   "title_zh": "产品 walkthrough：Bitdefender AI visibility 和控制"
+  },
+  {
+   "id": "FREEBUF-285764c7",
+   "title": "一条数据库记录，拿下整台服务器：记一次多层权限沦陷全过程",
+   "url": "https://www.freebuf.com/articles/defense/506181.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 17:48:33 +0800",
+   "published_date": "2026-10-13",
+   "digest": "本文记录一次完整的内网主机攻防全过程，还原从外部 Web 服务作为突破口，逐步向内网服务器深层渗透的完整操作链路。",
+   "tags": []
+  },
+  {
+   "id": "NSFOCUS-2731286b",
+   "title": "智启安全新局 共话学术前沿 | 绿盟科技与您相约第41次全国计算机安全学术交流会",
+   "url": "https://blog.nsfocus.net/%e6%99%ba%e5%90%af%e5%ae%89%e5%85%a8%e6%96%b0%e5%b1%80-%e5%85%b1%e8%af%9d%e5%ad%a6%e6%9c%af%e5%89%8d%e6%b2%bf-%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e4%b8%8e%e6%82%a8%e7%9b%b8%e7%ba%a6%e7%ac%ac41/",
+   "source": "绿盟科技博客",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 09:43:11 +0000",
+   "published_date": "2026-10-13",
+   "digest": "第41次全国计算机安全学术交流会将于2026年10月15日在海口市隆重召开。大会由中国计算机学会主办，CCF计... » 阅读全文",
+   "tags": []
+  },
+  {
+   "id": "SECURITYWEEK-e0967c49",
+   "title": "Cyberattack Prompts Ahold Delhaize to Disconnect Systems",
+   "url": "https://www.securityweek.com/cyberattack-prompts-ahold-delhaize-to-disconnect-systems/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 09:37:12 +0000",
+   "published_date": "2026-10-13",
+   "digest": "The company says it took some of its systems offline to contain a security issue within its network. The post Cyberattack Prompts Ahold Delhaize to Disconnect S…",
+   "tags": [],
+   "title_zh": "网络攻击促使Ahold Delhaize断开系统连接"
+  },
+  {
+   "id": "NSFOCUS-5e504f4b",
+   "title": "绿盟科技登榜”2026 IDC中国金融科技中坚力量50″",
+   "url": "https://blog.nsfocus.net/%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e7%99%bb%e6%a6%9c2026-idc%e4%b8%ad%e5%9b%bd%e9%87%91%e8%9e%8d%e7%a7%91%e6%8a%80%e4%b8%ad%e5%9d%9a%e5%8a%9b%e9%87%8f50/",
+   "source": "绿盟科技博客",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 09:20:42 +0000",
+   "published_date": "2026-10-13",
+   "digest": "近日，国际数据公司（IDC）正式公布“2026 IDC中国金融科技中坚力量50″榜单（... » 阅读全文",
+   "tags": []
+  },
+  {
+   "id": "FREEBUF-b7809f7c",
+   "title": "自动化AI 渗透 Agent 的反打上线实验与 WAF 的下一个形态",
+   "url": "https://www.freebuf.com/articles/ai-security/505037.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 16:57:45 +0800",
+   "published_date": "2026-10-13",
+   "digest": "当攻击者不再是人：AI 渗透 Agent 的反制实验与 WAF 的下一个形态四十余组对照实验、双 VPS 隔离环境、四种 Agent 架构、两种底座模型、三万六千余次攻击请求的全量抓包。我们系统回答了",
+   "tags": [
+    "Web安全"
+   ]
+  },
+  {
+   "id": "FREEBUF-f1741d5e",
+   "title": "缓存键的粒度陷阱：用意图当键，96.5% 的请求拿到的是别人的答案",
+   "url": "https://www.freebuf.com/articles/ai-security/506164.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 16:51:46 +0800",
+   "published_date": "2026-10-13",
+   "digest": "语义缓存键的粒度实验：用意图当键，847 条真实查询的碰撞率与错误复用率同为 96.5%；加二次校验后命中率只剩 1.8%——高命中率是假象。缓存键应停在查询文本级，抽象层级只用于路由。",
+   "tags": []
+  },
+  {
+   "id": "THN-176b7f51",
+   "title": "Attackers Heat French Supermarket Fridges Up to 50°C by Hijacking Danfoss Controllers",
+   "url": "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 14:18:41 +0530",
+   "published_date": "2026-10-13",
+   "digest": "Attackers took remote control of fridges and freezers at hundreds of French supermarkets on the night of October 11 and warmed them, forcing stores to throw foo…",
+   "tags": [],
+   "title_zh": "攻击者通过劫持Danfoss控制器将法国超市冰箱加热至50°C"
+  },
+  {
+   "id": "THN-9b8b5f00",
+   "title": "Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control",
+   "url": "https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 14:14:01 +0530",
+   "published_date": "2026-10-13",
+   "digest": "Two of 31 newly disclosed flaws in Progress Software's MarkLogic Server database could let an account given only some management privileges take administrator c…",
+   "tags": [],
+   "title_zh": "两个关键的MarkLogic漏洞可能赋予委派管理员持久性管理控制权"
+  },
+  {
+   "id": "THN-085d04b8",
+   "title": "GitLab Patches CVSS 10.0 Flaw That Could Let Unauthenticated Users Run Server Code",
+   "url": "https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 14:13:37 +0530",
+   "published_date": "2026-10-13",
+   "digest": "GitLab has released patches for a maximum-severity security flaw impacting its Community Edition (CE) and Enterprise Edition (EE) software that could result in …",
+   "tags": [],
+   "title_zh": "GitLab修复CVSS评分10.0的漏洞，未认证用户可能运行服务器代码"
+  },
+  {
+   "id": "FREEBUF-b226f2db",
+   "title": "FreeBuf早报 | 前沿AI大模型仅用16分钟攻入工控系统；研究人员绕过6款主流AI Agent框架",
+   "url": "https://www.freebuf.com/news/506160.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 16:41:35 +0800",
+   "published_date": "2026-10-13",
+   "digest": "测试显示前沿AI最快16分钟渗透工控OT环境，完成全部攻击目标，可操控物理设备造成损害，人类几无响应时间，工控安全风险陡增。",
+   "tags": [
+    "大模型安全",
+    "工控安全"
+   ]
+  },
+  {
+   "id": "FREEBUF-2ea780e9",
+   "title": "LG智能电视曝本地网漏洞链，无交互无PIN可获取root权限",
+   "url": "https://www.freebuf.com/news/506223.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 16:39:10 +0800",
+   "published_date": "2026-10-13",
+   "digest": "LG部分智能电视曝高危漏洞，同一局域网攻击者无需交互、无需PIN码即可无授权获取root权限，官方已推修复补丁，请用户尽快升级防范风险。",
+   "tags": [
+    "漏洞预警"
+   ]
+  },
+  {
+   "id": "SECURITYWEEK-c392eff5",
+   "title": "Refrigeration Controller Hack Spoils Food Across European Supermarkets",
+   "url": "https://www.securityweek.com/refrigeration-controller-hack-spoils-food-across-european-supermarkets/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 08:28:51 +0000",
+   "published_date": "2026-10-13",
+   "digest": "A cyberattack targeted refrigeration controllers, setting refrigerators and freezers across hundreds of supermarkets to defrost. The post Refrigeration Controll…",
+   "tags": [],
+   "title_zh": "制冷控制器黑客攻击导致欧洲超市食品变质"
+  },
+  {
+   "id": "FREEBUF-6972df03",
+   "title": "CICD 供应链安全审计实录：8 条规则检出的 6 种真实漏洞模式",
+   "url": "https://www.freebuf.com/articles/system/506153.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 15:56:31 +0800",
+   "published_date": "2026-10-13",
+   "digest": "记了 6 种 CI/CD 管道高频漏洞模式，附开源工具 CICDSecScan，覆盖 GitHub Actions / GitLab CI / Jenkins。",
+   "tags": [
+    "供应链攻击"
+   ]
+  },
+  {
+   "id": "SECAFFAIRS-99638c12",
+   "title": "Hackers cranked French supermarkets’ freezers up to 50 degrees, causing hundreds of stores to lose their stock",
+   "url": "https://securityaffairs.com/200863/hacking/hackers-cranked-french-supermarkets-freezers-up-to-50-degrees-causing-hundreds-of-stores-to-lose-their-stock.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 07:50:08 +0000",
+   "published_date": "2026-10-13",
+   "digest": "Hackers hit French supermarkets via unpatched Danfoss refrigeration systems, remote-heating freezers and destroying stock worth millions. Overnight from Sunday …",
+   "tags": [],
+   "title_zh": "黑客将法国超市的冷冻设备调至50度以上，导致数百家门店损失库存"
+  },
+  {
+   "id": "FREEBUF-1e029ae3",
+   "title": "重试了一次，账上多了两笔——Agent 工具层重复副作用实测",
+   "url": "https://www.freebuf.com/articles/ai-security/506142.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 15:06:27 +0800",
+   "published_date": "2026-10-13",
+   "digest": "重试本身是必要的，把&quot;失败了重试&quot;删掉只会换来更多超时。",
+   "tags": []
+  },
+  {
+   "id": "FREEBUF-01245938",
+   "title": "我把额度扣成了负数，上游还在继续被调用",
+   "url": "https://www.freebuf.com/articles/ai-security/506141.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 15:01:19 +0800",
+   "published_date": "2026-10-13",
+   "digest": "三条不一致，归根到底是同一个问题的三种长相：&quot;钱&quot;和&quot;活&quot;分别记在两个地方，中间没有一个能同时看见两边的东西。",
+   "tags": []
+  },
+  {
+   "id": "FREEBUF-b33f0b75",
+   "title": "攻击者劫持丹佛斯控制器，法国超市冷柜被加热至50℃",
+   "url": "https://www.freebuf.com/news/506197.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 14:18:41 +0800",
+   "published_date": "2026-10-13",
+   "digest": "法国数百家超市的丹佛斯制冷控制器遭攻击者远程入侵，冷柜被加热至50℃，大量食品报废，全法损失预计可达数千万欧元。",
+   "tags": []
+  },
+  {
+   "id": "THN-1ee09c26",
+   "title": "Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies",
+   "url": "https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 11:30:11 +0530",
+   "published_date": "2026-10-13",
+   "digest": "Low-cost Android smartphones have been shipped with malicious software baked into the device firmware, allowing bad actors to covertly install apps, conduct ad …",
+   "tags": [
+    "移动安全"
+   ],
+   "title_zh": "低成本Android手机出厂预装恶意软件变身住宅代理"
+  },
+  {
+   "id": "FREEBUF-837bfc2b",
+   "title": "字节跳动Seed单独设立大模型安全与对齐部门",
+   "url": "https://www.freebuf.com/news/506123.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 13:28:10 +0800",
+   "published_date": "2026-10-13",
+   "digest": "10月13日消息，字节跳动Seed将成立\"Seed Model-Alignment&Preparedness\"部门，由严林负责，汇报给Seed负责人吴永辉。",
+   "tags": [
+    "大模型安全"
+   ]
+  },
+  {
+   "id": "ZDI-PUBLISHED-157b9794",
+   "title": "ZDI-26-756: (0Day) Genesis World load_checkpoint Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+   "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-756/",
+   "source": "ZDI Published",
+   "category": "网络安全",
+   "priority": "P0",
+   "published_at": "Tue, 13 Oct 2026 00:00:00 -0500",
+   "published_date": "2026-10-13",
+   "digest": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Genesis World. Interaction with this library is required to ex…",
+   "tags": [
+    "漏洞预警"
+   ],
+   "title_zh": "ZDI-26-756: (0Day) Genesis World load_checkpoint 未经信任数据反序列化远程代码执行漏洞"
+  },
+  {
+   "id": "ZDI-PUBLISHED-2cd85169",
+   "title": "ZDI-26-752: (0Day) Genesis World decompress_usdz Directory Traversal Remote Code Execution Vulnerability",
+   "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-752/",
+   "source": "ZDI Published",
+   "category": "网络安全",
+   "priority": "P0",
+   "published_at": "Tue, 13 Oct 2026 00:00:00 -0500",
+   "published_date": "2026-10-13",
+   "digest": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Genesis World. Interaction with this library is required to ex…",
+   "tags": [
+    "漏洞预警"
+   ],
+   "title_zh": "ZDI-26-752: (0Day) Genesis World decompress_usdz 目录遍历 远程代码执行 漏洞"
+  },
+  {
+   "id": "ZDI-PUBLISHED-cb78817d",
+   "title": "ZDI-26-753: (0Day) Genesis World MJCF Directory Traversal Information Disclosure Vulnerability",
+   "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-753/",
+   "source": "ZDI Published",
+   "category": "网络安全",
+   "priority": "P0",
+   "published_at": "Tue, 13 Oct 2026 00:00:00 -0500",
+   "published_date": "2026-10-13",
+   "digest": "This vulnerability allows remote attackers to disclose sensitive information on affected installations of Genesis World. Interaction with this library is requir…",
+   "tags": [
+    "漏洞预警"
+   ],
+   "title_zh": "ZDI-26-753: (0Day) Genesis World MJCF 目录遍历信息泄露漏洞"
+  },
+  {
+   "id": "ZDI-PUBLISHED-3809a804",
+   "title": "ZDI-26-754: (0Day) Genesis World URDF Directory Traversal Information Disclosure Vulnerability",
+   "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-754/",
+   "source": "ZDI Published",
+   "category": "网络安全",
+   "priority": "P0",
+   "published_at": "Tue, 13 Oct 2026 00:00:00 -0500",
+   "published_date": "2026-10-13",
+   "digest": "This vulnerability allows remote attackers to disclose sensitive information on affected installations of Genesis World. Interaction with this library is requir…",
+   "tags": [
+    "漏洞预警"
+   ],
+   "title_zh": "ZDI-26-754: (0Day) Genesis World URDF 目录遍历信息泄露漏洞"
+  },
+  {
+   "id": "ZDI-PUBLISHED-bc19553e",
+   "title": "ZDI-26-755: (0Day) Genesis World glTF Server-Side Request Forgery Vulnerability",
+   "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-755/",
+   "source": "ZDI Published",
+   "category": "网络安全",
+   "priority": "P0",
+   "published_at": "Tue, 13 Oct 2026 00:00:00 -0500",
+   "published_date": "2026-10-13",
+   "digest": "This vulnerability allows remote attackers to initiate arbitrary server-side requests on affected installations of Genesis World. Interaction with this library …",
+   "tags": [
+    "漏洞预警"
+   ],
+   "title_zh": "ZDI-26-755: (0Day) Genesis World glTF 服务器端请求伪造漏洞"
+  },
+  {
+   "id": "FREEBUF-0a3c118c",
+   "title": "Anthropic预警小型AI模型数月内可在智能电视等IoT设备自我复制，无需依托数据中心",
+   "url": "https://www.freebuf.com/articles/ai-security/506231.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 11:59:24 +0800",
+   "published_date": "2026-10-13",
+   "digest": "Anthropic预警：数月内小型AI模型或可在智能电视等IoT设备上自我复制，这类无数据中心依托的AI蠕虫极难被彻底清除。",
+   "tags": []
+  },
+  {
+   "id": "FREEBUF-d89d953e",
+   "title": "分词差异、Unicode 归一化与编码混淆的三线合围——跨模型间接提示注入与数据外泄链路",
+   "url": "https://www.freebuf.com/articles/ai-security/506089.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 11:50:18 +0800",
+   "published_date": "2026-10-13",
+   "digest": "同一段文本，GPT-4 把它切成 12 个 token，Claude 切成 7 个，DeepSeek 切成 9 个——切分不同，指令边界就不同。2026 年的研究发现，把保留 token 转成普通",
+   "tags": [
+    "大模型安全"
+   ]
+  },
+  {
+   "id": "FREEBUF-731caf62",
+   "title": "数据处理约定写了 30 条，只有 14 条能验证为符合",
+   "url": "https://www.freebuf.com/articles/ai-security/506081.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 11:17:54 +0800",
+   "published_date": "2026-10-13",
+   "digest": "30 条数据处理约定逐条核对：完全符合 14 条，部分符合 9 条，不符合 4 条，拿不到证据无法验证 3 条。最典型的差距是日志留存约定 30 天、实测 180 天，超期 6 倍；删除机制没有自助接",
+   "tags": []
+  },
+  {
+   "id": "FREEBUF-f5060efa",
+   "title": "第三方模型的 40 项评审，平均只做了 30 项",
+   "url": "https://www.freebuf.com/articles/ai-security/506075.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 11:14:58 +0800",
+   "published_date": "2026-10-13",
+   "digest": "20 次第三方模型接入实测：40 项评审清单平均覆盖 30.4 项，完整覆盖的只有 3 家。缺项最多的是数据处理类共 46 次，其次是安全控制 38 次。覆盖档位越低的接入，上线后 90 天内发现的问",
+   "tags": []
+  },
+  {
+   "id": "FREEBUF-84ca6277",
+   "title": "同一批安全事件，五个评审人的定级只有 3 个完全一致",
+   "url": "https://www.freebuf.com/articles/ai-security/506071.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 11:07:27 +0800",
+   "published_date": "2026-10-13",
+   "digest": "20 个案例由 5 个评审人各自独立定级：完全一致的只有 3 个，相差一级的 10 个，相差两级以上的 7 个。按最严口径平均响应时限 15.4 小时，按最宽口径 67.6 小时，按平均级别 31.0",
+   "tags": []
+  },
+  {
+   "id": "FREEBUF-0516bff6",
+   "title": "200 个团队里，只有 41 个的 AI 资产有定期评审",
+   "url": "https://www.freebuf.com/articles/ai-security/506070.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 11:04:46 +0800",
+   "published_date": "2026-10-13",
+   "digest": "200 个团队实测：有明确责任人的 128 个占 64%，责任人接受过培训的 86 个占 43%，纳入 AI 资产清单的 74 个占 37%，有定期评审记录的 41 个占 20.5%。修复时长中位数按",
+   "tags": []
+  },
+  {
+   "id": "FREEBUF-d0463011",
+   "title": "只把模型版本改回去，41 项变更还留在线上",
+   "url": "https://www.freebuf.com/articles/ai-security/506068.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 11:01:57 +0800",
+   "published_date": "2026-10-13",
+   "digest": "一次模型升级涉及 42 项变更，其中配置 18 项、依赖 9 项、数据 8 项、流程 7 项。只回滚模型版本 5 分钟就能完成，但有 41 项留在线上并出现 6 类行为不一致；配置一起退回降到 3 类",
+   "tags": []
+  },
+  {
+   "id": "FREEBUF-de355154",
+   "title": "黑客利用思杰NetScaler 0Day漏洞，部署Platypus远控工具",
+   "url": "https://www.freebuf.com/news/506212.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 10:33:55 +0800",
+   "published_date": "2026-10-13",
+   "digest": "黑客正利用思杰NetScaler两个高危0Day漏洞部署远控工具，补丁无法清除已植入后门，企业需紧急升级排查。",
+   "tags": [
+    "漏洞预警"
+   ]
+  },
+  {
+   "id": "FREEBUF-962eaf11",
+   "title": "黑洞攻击不是普适的：向量库质心投毒的本地实测与 hub 度指标",
+   "url": "https://www.freebuf.com/articles/ai-security/506064.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 10:25:32 +0800",
+   "published_date": "2026-10-13",
+   "digest": "本文复现向量库黑洞攻击，证实该攻击并非普适，嵌入空间几何决定攻击强度，提出hub度前置检测指标，并实测单质心与簇质心攻击下的防御方案与召回代价。",
+   "tags": []
+  },
+  {
+   "id": "FREEBUF-c5fb6ad8",
+   "title": "Meta开源Zurp AI工具包，打通Burp Suite与AI coding Agent赋能漏洞赏金研究",
+   "url": "https://www.freebuf.com/news/506207.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 10:03:55 +0800",
+   "published_date": "2026-10-13",
+   "digest": "Meta开源Zurp AI工具包，打通Burp Suite与AI编码代理，内置多测试模块、设严格白名单机制，赋能合规漏洞赏金研究。",
+   "tags": [
+    "监管合规"
+   ]
+  },
+  {
+   "id": "FREEBUF-3eb17955",
+   "title": "npm可信发布机制存验证漏洞，超1500个包面临供应链攻击风险",
+   "url": "https://www.freebuf.com/articles/development/506211.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 10:02:12 +0800",
+   "published_date": "2026-10-13",
+   "digest": "npm可信发布机制存在验证漏洞，超1500个包面临供应链投毒风险，攻击者可抢注废弃仓库名劫持包，AI Agent或加速风险扩散，目前漏洞已修复仍需排查。",
+   "tags": [
+    "供应链攻击",
+    "大模型安全"
+   ]
+  },
+  {
+   "id": "FREEBUF-03207a11",
+   "title": "MariaDB披露多项安全漏洞，特定条件下可执行代码窃取数据",
+   "url": "https://www.freebuf.com/news/506188.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 09:28:11 +0800",
+   "published_date": "2026-10-13",
+   "digest": "MariaDB披露多项高危漏洞，特定条件下攻击者可执行代码、窃取数据库数据，官方已发布修复版本，用户需及时升级加固。",
+   "tags": [
+    "漏洞预警"
+   ]
+  },
+  {
    "id": "HIBP-16c3abd4",
    "title": "Sharecare - 318,185 breached accounts",
    "url": "https://haveibeenpwned.com/Breach/Sharecare",
@@ -28,7 +885,34 @@
     "勒索软件",
     "监管合规"
    ],
-   "title_zh": "ShinyHunters逮捕第三名嫌疑人：加拿大勒索软件谈判员"
+   "title_zh": "ShinyHunters拘捕第三名嫌疑人：加拿大勒索软件谈判员"
+  },
+  {
+   "id": "FREEBUF-69536b72",
+   "title": "前沿AI大模型最快16分钟渗透至工控OT系统控制区",
+   "url": "https://www.freebuf.com/articles/ai-security/506133.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 05:00:51 +0800",
+   "published_date": "2026-10-13",
+   "digest": "测试显示前沿AI最快16分钟渗透工控OT环境，完成全部攻击目标，可操控物理设备造成损害，人类几无响应时间，工控安全风险陡增。",
+   "tags": [
+    "大模型安全",
+    "工控安全"
+   ]
+  },
+  {
+   "id": "FREEBUF-37818f2c",
+   "title": "新加坡发布2026版网络安全战略，推行主动防御强化AI应用",
+   "url": "https://www.freebuf.com/news/506221.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 04:56:00 +0800",
+   "published_date": "2026-10-13",
+   "digest": "新加坡发布2026版网络安全战略，搭建全域主动防御体系，强化AI防御能力，应对AI加持网络攻击“何时发生”的紧迫威胁。",
+   "tags": []
   },
   {
    "id": "SECAFFAIRS-d96f8ee0",
@@ -43,7 +927,21 @@
    "tags": [
     "僵尸网络"
    ],
-   "title_zh": "Canonical遭遇2026年第二起DDoS攻击，公共网站受影响"
+   "title_zh": "Canonical遭遇2026年第二起DDoS攻击，公共网站受干扰"
+  },
+  {
+   "id": "FREEBUF-6bd29dca",
+   "title": "LG webOS曝出四个高危漏洞，远程无需认证可获取root权限执行命令",
+   "url": "https://www.freebuf.com/news/506092.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 03:07:07 +0800",
+   "published_date": "2026-10-13",
+   "digest": "LG webOS曝出4个高危漏洞，远程攻击者无需认证即可获取root权限、完全控制设备，超9万台设备公网暴露，用户需及时更新加固。",
+   "tags": [
+    "漏洞预警"
+   ]
   },
   {
    "id": "WORDFENCE-7410c316",
@@ -84,7 +982,7 @@
    "tags": [
     "漏洞预警"
    ],
-   "title_zh": "每周回顾：帮助台零日漏洞、假冒证书、ShinyHunters被捕、AI骗过恶意软件及其他内容"
+   "title_zh": "每周回顾：帮助台零日漏洞、假冒证书、ShinyHunters 案件逮捕、AI 骗过型恶意软件及其他内容"
   },
   {
    "id": "SCHNEIER-984f9a17",
@@ -99,7 +997,7 @@
    "tags": [
     "监管合规"
    ],
-   "title_zh": "FBI逮捕涉嫌黑客入侵FBI案件嫌疑人"
+   "title_zh": "FBI逮捕涉嫌入侵FBI系统的嫌疑人"
   },
   {
    "id": "CHECKPOINT-97e3a438",
@@ -144,6 +1042,20 @@
    "title_zh": "SonicWall 修复 CVSS 10.0 SSRF 漏洞，攻击已启动"
   },
   {
+   "id": "FREEBUF-217571de",
+   "title": "ShinyHunters案第三名嫌疑人被捕，系加拿大勒索软件谈判代表",
+   "url": "https://www.freebuf.com/news/506048.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 12 Oct 2026 21:26:12 +0800",
+   "published_date": "2026-10-12",
+   "digest": "ShinyHunters案第三名嫌疑人落网：加拿大籍勒索软件谈判代表被捕，FBI正全力清剿这个曾窃取其员工数据的黑客团伙。",
+   "tags": [
+    "勒索软件"
+   ]
+  },
+  {
    "id": "SECURITYWEEK-95d95969",
    "title": "Bricksforge WordPress Plugin Vulnerability Exploited in the Wild",
    "url": "https://www.securityweek.com/bricksforge-wordpress-plugin-vulnerability-exploited-in-the-wild/",
@@ -160,6 +1072,20 @@
    "title_zh": "Bricksforge WordPress插件漏洞在野外被利用"
   },
   {
+   "id": "FREEBUF-f8fa00c6",
+   "title": "网络安全周报：Atlassian 0Day遭在野利用，多类安全动态集中发布",
+   "url": "https://www.freebuf.com/news/506020.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 12 Oct 2026 20:46:26 +0800",
+   "published_date": "2026-10-12",
+   "digest": "本周新披露网安漏洞从公开到被利用耗时比开会还短，留给安全团队读预警的时间都不够，多类安全动态汇总，高危漏洞需优先排查修复。",
+   "tags": [
+    "漏洞预警"
+   ]
+  },
+  {
    "id": "SECURITYWEEK-63db8b69",
    "title": "Canonical Websites Disrupted in Second DDoS Attack This Year",
    "url": "https://www.securityweek.com/canonical-websites-disrupted-in-second-ddos-attack-this-year/",
@@ -172,7 +1098,21 @@
    "tags": [
     "僵尸网络"
    ],
-   "title_zh": "Canonical网站在今年第二次遭受DDoS攻击"
+   "title_zh": "Canonical网站今年第二次遭受DDoS攻击"
+  },
+  {
+   "id": "FREEBUF-85b52c94",
+   "title": "Prompt注入变体分析：15种攻击向量与防御绕过机制",
+   "url": "https://www.freebuf.com/articles/ai-security/505958.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 12 Oct 2026 19:58:31 +0800",
+   "published_date": "2026-10-12",
+   "digest": "本文梳理15种提示注入变体的构造，并在本地沙箱实测其绕过输入、输出过滤的效果，结合公开口径讨论模型对齐的边界，说明三种单点防御均可被绕过，最后给出基于OWASP的护栏型防御建议。",
+   "tags": [
+    "大模型安全"
+   ]
   },
   {
    "id": "THN-1db08bf9",
@@ -190,6 +1130,18 @@
    "title_zh": "自带代理：您的员工助手已登录"
   },
   {
+   "id": "FREEBUF-4f08b06f",
+   "title": "新手勇闯网络安全 | PHP基础（三）",
+   "url": "https://www.freebuf.com/articles/endpoint/505957.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 12 Oct 2026 19:37:37 +0800",
+   "published_date": "2026-10-12",
+   "digest": "读取、写入、上传；对应安全风险 LFI 路径穿越、木马写入、文件上传漏洞；附白名单校验、目录权限、随机命名等多层防护方案。",
+   "tags": []
+  },
+  {
    "id": "SECURITYWEEK-1a4ab9b8",
    "title": "Mastermind of 15,000-Mule Cybercrime Laundering Network Pleads Guilty in US",
    "url": "https://www.securityweek.com/mastermind-of-15000-mule-cybercrime-laundering-network-pleads-guilty-in-us/",
@@ -200,7 +1152,7 @@
    "published_date": "2026-10-12",
    "digest": "Oleg Korniev was a leader of YMCO, a sophisticated network of money mules that helped hackers move funds outside the US. The post Mastermind of 15,000-Mule Cybe…",
    "tags": [],
-   "title_zh": "操纵15000骡网络犯罪洗钱团伙头目在美国认罪"
+   "title_zh": "操纵15000骡恶意网络犯罪洗钱案的主谋在美国认罪"
   },
   {
    "id": "THN-4c7b4f23",
@@ -230,7 +1182,19 @@
    "tags": [
     "数据泄露"
    ],
-   "title_zh": "iRhythm 数据泄露影响至少36万人"
+   "title_zh": "iRhythm 数据泄露影响至少 36 万人"
+  },
+  {
+   "id": "FREEBUF-d23b1180",
+   "title": "只按漏洞评分打补丁，为什么会排错？从严重性排名到资产处置决策",
+   "url": "https://www.freebuf.com/articles/vuls/506044.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 12 Oct 2026 19:01:39 +0800",
+   "published_date": "2026-10-12",
+   "digest": "同一漏洞落在公网入口、身份系统和备用节点，先动哪台？漏洞严重性被错当资产行动优先级，按证据分流。",
+   "tags": []
   },
   {
    "id": "FREEBUF-f35c5629",
@@ -258,7 +1222,7 @@
    "published_date": "2026-10-12",
    "digest": "Threat actors have been observed exploiting a recently disclosed critical security flaw in SonicWall Secure Mobile Access (SMA) 1000 appliances within days of p…",
    "tags": [],
-   "title_zh": "关键漏洞的SonicWall SMA 1000被利用尝试135次后修补"
+   "title_zh": "关键漏洞 SonicWall SMA 1000 被利用尝试135次后.patch"
   },
   {
    "id": "SECURITYWEEK-2ab5781a",
@@ -274,7 +1238,7 @@
     "勒索软件",
     "监管合规"
    ],
-   "title_zh": "勒索软件响应专家在ShinyHuntersFBI黑客调查中被捕"
+   "title_zh": "勒索软件应对专家在ShinyHunters FBI攻击调查中被捕"
   },
   {
    "id": "NSFOCUS-26eac565",
@@ -329,7 +1293,22 @@
     "漏洞预警",
     "Web安全"
    ],
-   "title_zh": "攻击者利用CVSS 10.0严重性分值的BricksforgeWordPress漏洞实现未认证远程代码执行"
+   "title_zh": "攻击者利用CVSS 10.0严重性评分的Bricksforge WordPress漏洞实现未认证远程代码执行"
+  },
+  {
+   "id": "ESET-6489976f",
+   "title": "What to do when a data breach notice doesn't say much",
+   "url": "https://www.welivesecurity.com/en/how-to/what-to-do-when-a-data-breach-notice-tells-you-almost-nothing/",
+   "source": "ESET Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 12 Oct 2026 09:00:00 +0000",
+   "published_date": "2026-10-12",
+   "digest": "Data breach notifications are telling victims less than ever. What the company leaves out can still shape what you do next.",
+   "tags": [
+    "数据泄露"
+   ],
+   "title_zh": "当数据泄露通知内容不多时该怎么做"
   },
   {
    "id": "SEEKBUG-119284c6",
@@ -449,6 +1428,20 @@
    "title_zh": "CyberXero 使用 Claude 代码发动攻击窃取了超过 62.8 万乌克兰记录"
   },
   {
+   "id": "FREEBUF-15ce00bd",
+   "title": "联邦学习攻防实战：分布式AI训练中的数据投毒与防御策略",
+   "url": "https://www.freebuf.com/articles/ai-security/505873.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 12 Oct 2026 15:17:01 +0800",
+   "published_date": "2026-10-12",
+   "digest": "联邦学习通过\"数据不动模型动\"的方式，在不交换原始数据的前提下完成联合建模。这一特性完美解决了数据隐私保护难题，但同时也制造了一个严重的安全错觉。",
+   "tags": [
+    "AI攻防"
+   ]
+  },
+  {
    "id": "FREEBUF-b6c79a45",
    "title": "AI 模型后门攻击：供应链投毒植入隐蔽后门",
    "url": "https://www.freebuf.com/articles/ai-security/505869.html",
@@ -530,7 +1523,7 @@
     "身份认证",
     "学术研究"
    ],
-   "title_zh": "身份基签名的转变，并未解决易用性问题：来自五个身份基签名生态系统的研究"
+   "title_zh": "基于身份的签名使用性问题：来自五个基于身份的签名生态系统的研究"
   },
   {
    "id": "ARXIV-CR-bf98938b",
@@ -606,7 +1599,7 @@
    "tags": [
     "学术研究"
    ],
-   "title_zh": "6G RAN隐私保护意图实现与保障"
+   "title_zh": "隐私保护的6G RAN意图实现与保障"
   },
   {
    "id": "ARXIV-CR-25ed97f4",
@@ -651,7 +1644,7 @@
    "tags": [
     "学术研究"
    ],
-   "title_zh": "基于牌组的任意函数安全计算协议：单洗牌全开放方案"
+   "title_zh": "基于牌组的任意函数安全计算协议：单洗牌完全开放方案"
   },
   {
    "id": "ARXIV-CR-ceaf096b",
@@ -681,7 +1674,7 @@
    "tags": [
     "学术研究"
    ],
-   "title_zh": "通往垃圾邮件和集中化的快速通道：对Arbitrum Timeboost的实证分析"
+   "title_zh": "通往垃圾邮件和集中化的捷径：对Arbitrum Timeboost的实证分析"
   },
   {
    "id": "ARXIV-CR-6e20fda8",
@@ -697,7 +1690,7 @@
     "大模型安全",
     "学术研究"
    ],
-   "title_zh": "LLMail-Inject：一种基于现实适应性提示注入挑战的数据集"
+   "title_zh": "LLMail-Inject：一种来自现实适应性提示注入挑战的数据集"
   },
   {
    "id": "ARXIV-CR-66cf87e0",
@@ -728,7 +1721,7 @@
    "tags": [
     "学术研究"
    ],
-   "title_zh": "AI模型可证明隐藏任意能力"
+   "title_zh": "AI模型可证明隐藏任意功能"
   },
   {
    "id": "ARXIV-CR-fa30bb17",
@@ -788,7 +1781,7 @@
    "tags": [
     "学术研究"
    ],
-   "title_zh": "奖励黑客化在多代理编码系统中的传染性策略研究"
+   "title_zh": "奖励黑客化在多代理编码系统中的可传播策略"
   },
   {
    "id": "ARXIV-CR-ae1c099d",
@@ -804,7 +1797,7 @@
     "大模型安全",
     "学术研究"
    ],
-   "title_zh": "VEPA：验证演化正式策略以保障终身LLM代理的安全界限"
+   "title_zh": "VEPA：验证演化正式政策用于终身LLM代理防护准则"
   },
   {
    "id": "ARXIV-CR-68da502c",
@@ -959,7 +1952,7 @@
     "大模型安全",
     "学术研究"
    ],
-   "title_zh": "理解并缓解由代理技能组合中持久化痕迹引起的会话间攻击"
+   "title_zh": "理解并缓解由代理技能组合中持久化 artefact 引起的会话间攻击"
   },
   {
    "id": "ARXIV-CR-762e780d",
@@ -1006,7 +1999,7 @@
     "AI攻防",
     "学术研究"
    ],
-   "title_zh": "分布式模型提取对抗下查询监控的局限性"
+   "title_zh": "查询监控对抗分布式模型提取的局限性"
   },
   {
    "id": "ARXIV-CR-11021480",
@@ -1036,7 +2029,7 @@
    "tags": [
     "学术研究"
    ],
-   "title_zh": "空间超越统计，排名超越审计：在仅标签后门下的训练标签审核"
+   "title_zh": "空间超越统计，排名超越审计：在仅标签后门下的训练标签审查"
   },
   {
    "id": "ARXIV-CR-9052aa74",
@@ -1051,7 +2044,7 @@
    "tags": [
     "学术研究"
    ],
-   "title_zh": "可验证亚指数时间算法用于有限误差LWE少量样本"
+   "title_zh": "可验证亚指数时间算法应对有界误差LWE少量样本问题"
   },
   {
    "id": "ARXIV-CR-885c509a",
@@ -1066,7 +2059,7 @@
    "tags": [
     "学术研究"
    ],
-   "title_zh": "基于后量子时代的Matter over Thread会话建立：消息大小、传输与协议选项"
+   "title_zh": "Post-量子会话建立 for Matter over Thread：消息大小、传输及协议选项"
   },
   {
    "id": "ARXIV-CR-919f66b9",
@@ -1112,7 +2105,7 @@
    "tags": [
     "学术研究"
    ],
-   "title_zh": "噪声大模数线性方程的样本保持搜索到判定减少方法"
+   "title_zh": "噪声大模数线性方程的样本保留搜索到判定减少方法"
   },
   {
    "id": "ARXIV-CR-040f8ce2",
@@ -1128,7 +2121,7 @@
     "供应链攻击",
     "学术研究"
    ],
-   "title_zh": "AI供应链中的脆弱模型：一项关于采用、传播和使用模式的经验研究"
+   "title_zh": "AI供应链中的脆弱模型：一项关于采用、传播和使用模式的实证研究"
   },
   {
    "id": "ARXIV-CR-14e74fc1",
@@ -1143,7 +2136,7 @@
    "tags": [
     "学术研究"
    ],
-   "title_zh": "基于HPC的恶意软件检测器的性能、功耗与面积：FPGA和Open-PDK ASIC研究"
+   "title_zh": "基于HPC的恶意软件检测器的性能、功率与面积：一项FPGA和Open-PDK ASIC研究"
   },
   {
    "id": "ARXIV-CR-fe6177a9",
@@ -1159,7 +2152,7 @@
     "身份认证",
     "学术研究"
    ],
-   "title_zh": "洋葱在空中：分散信任身份认证"
+   "title_zh": "洋葱在空中：分散信任身份"
   },
   {
    "id": "ARXIV-CR-4ba889df",
@@ -1174,7 +2167,7 @@
    "tags": [
     "学术研究"
    ],
-   "title_zh": "更好的批次，更好的隐私：DP-BandMF的随机分配机制"
+   "title_zh": "更好的批次，更好的隐私：DP-BandMF的随机分配"
   },
   {
    "id": "ARXIV-CR-fbdd959b",

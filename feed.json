@@ -1,350 +1,346 @@
 {
- "generated_at": "2026-10-13 10:03",
- "total": 6412,
+ "generated_at": "2026-10-14 10:03",
+ "total": 6485,
  "items": [
   {
-   "id": "HIBP-16c3abd4",
-   "title": "Sharecare - 318,185 breached accounts",
-   "url": "https://haveibeenpwned.com/Breach/Sharecare",
-   "source": "Have I Been Pwned",
+   "id": "KREBS-a84d74d4",
+   "title": "Microsoft Patches More Than 1,400 Security Flaws",
+   "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
+   "source": "Krebs on Security",
    "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Mon, 12 Oct 2026 23:28:32 Z",
-   "published_date": "2026-10-12",
-   "digest": "In August 2026, the digital health company Sharecare was the target of a ShinyHunters \"pay or leak\" extortion campaign . The group subsequently published data i…",
+   "priority": "P0",
+   "published_at": "Tue, 13 Oct 2026 23:24:53 +0000",
+   "published_date": "2026-10-13",
+   "digest": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwa…",
    "tags": [],
-   "title_zh": "Sharecare - 318,185 账户泄露"
+   "title_zh": "微软修复了超过1400个安全漏洞"
   },
   {
-   "id": "SECAFFAIRS-39463be2",
-   "title": "ShinyHunters arrest number three: a Canadian ransomware negotiator",
-   "url": "https://securityaffairs.com/200847/cyber-crime/shinyhunters-arrest-number-three-a-canadian-ransomware-negotiator.html",
-   "source": "Security Affairs",
+   "id": "SECURITYWEEK-28d1d9a8",
+   "title": "Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say",
+   "url": "https://www.securityweek.com/employee-arrested-after-listening-device-found-in-openai-conference-room-fbi-and-the-company-say/",
+   "source": "SecurityWeek",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Mon, 12 Oct 2026 21:26:12 +0000",
-   "published_date": "2026-10-12",
-   "digest": "A Canadian ransomware negotiator faces extortion charges in the FBI’s ShinyHunters crackdown. Here’s what is known, and what isn’t. ShinyHunters is the focus of…",
+   "published_at": "Tue, 13 Oct 2026 23:07:00 +0000",
+   "published_date": "2026-10-13",
+   "digest": "Saudi national Abdulrahman Alfozan was arrested Friday and terminated by OpenAI. The post Employee Arrested After Listening Device Found in OpenAI Conference Ro…",
    "tags": [
-    "勒索软件",
     "监管合规"
    ],
-   "title_zh": "ShinyHunters逮捕第三名嫌疑人：加拿大勒索软件谈判员"
+   "title_zh": "员工在OpenAI会议室发现窃听设备后被捕，FBI及公司称"
   },
   {
-   "id": "SECAFFAIRS-d96f8ee0",
-   "title": "Canonical Hit by Second DDoS Attack in 2026, Public Websites Disrupted",
-   "url": "https://securityaffairs.com/200832/security/canonical-hit-by-second-ddos-attack-in-2026.html",
-   "source": "Security Affairs",
+   "id": "UNIT42-abbd310e",
+   "title": "The Noise Inside the Network: How an Unsophisticated Attack Exposed a Third-Party Risk",
+   "url": "https://unit42.paloaltonetworks.com/noise-inside-network-third-party-risk/",
+   "source": "Unit 42",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Mon, 12 Oct 2026 20:02:20 +0000",
-   "published_date": "2026-10-12",
-   "digest": "Canonical suffered its second DDoS attack this year, disrupting public websites for over four hours while Launchpad and the Snap Store remained online. Ubuntu’s…",
-   "tags": [
-    "僵尸网络"
-   ],
-   "title_zh": "Canonical遭遇2026年第二起DDoS攻击，公共网站受影响"
-  },
-  {
-   "id": "WORDFENCE-7410c316",
-   "title": "Wordfence Argus Discovers Critical Vulnerability in Ghostscript, the Program That Turns Uploaded PDFs into Thumbnails on Your Server",
-   "url": "https://www.wordfence.com/blog/2026/10/wordfence-argus-discovers-critical-vulnerability-in-ghostscript-the-program-that-turns-uploaded-pdfs-into-thumbnails-on-your-server/",
-   "source": "Wordfence",
-   "category": "网络安全",
-   "priority": "P2",
-   "published_at": "Mon, 12 Oct 2026 18:10:52 +0000",
-   "published_date": "2026-10-12",
-   "digest": "On September 8, 2026, Artifex released Ghostscript 10.08.0, closing a critical heap buffer overflow that the Wordfence Threat Intelligence team, using Wordfence…",
+   "published_at": "Tue, 13 Oct 2026 22:00:04 +0000",
+   "published_date": "2026-10-13",
+   "digest": "Unit 42 dissects a cyberattack targeting a European bank's IT infrastructure, delivering concrete defense strategies to help organizations detect and counter co…",
    "tags": [],
-   "title_zh": "Wordfence Argus 发现 Ghostscript 中的严重漏洞，该程序用于将上传的 PDF 转换为服务器上的缩略图"
+   "title_zh": "网络噪音：一起不复杂的攻击如何揭示第三方风险"
   },
   {
-   "id": "SECWIKI-3c71667a",
-   "title": "SecWiki News 2026-10-12 Review",
-   "url": "http://www.sec-wiki.com/?2026-10-12",
-   "source": "SecWiki",
-   "category": "网络安全",
-   "priority": "P2",
-   "published_at": "\nMon, 12 Oct 2026 23:58:20 +0800",
-   "published_date": "2026-10-12",
-   "digest": "今日暂未更新资讯~ 更多最新文章，请访问 SecWiki",
-   "tags": [],
-   "title_zh": "SecWiki 新闻 2026-10-12 概览"
-  },
-  {
-   "id": "THN-e4689725",
-   "title": "⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
-   "url": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
-   "source": "The Hacker News",
+   "id": "ZDI-BLOG-0e439d17",
+   "title": "The October 2026 Security Update Review",
+   "url": "https://www.thezdi.com/blog/2026/10/13/the-october-2026-security-update-review",
+   "source": "ZDI Blog",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Mon, 12 Oct 2026 20:46:26 +0530",
-   "published_date": "2026-10-12",
-   "digest": "Some meetings last longer than it took attackers to jump on a newly disclosed security flaw this week. Within hours, they were already testing it. That's not mu…",
+   "published_at": "Tue, 13 Oct 2026 19:34:30 +0000",
+   "published_date": "2026-10-13",
+   "digest": "Another month of patches equals another new record for Microsoft patches. It’s a good thing I survive Pwn2Own Ireland , because between these and the Adobe patc…",
+   "tags": [],
+   "title_zh": "2026年10月安全更新审查"
+  },
+  {
+   "id": "SECURITYWEEK-0d146637",
+   "title": "Ivanti Zero-Day Chain Gave Attackers Root Access to Fully Patched VPN",
+   "url": "https://www.securityweek.com/ivanti-zero-day-chain-gave-attackers-root-access-to-fully-patched-vpn/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 18:43:43 +0000",
+   "published_date": "2026-10-13",
+   "digest": "CVE-2026-104935 affects Ivanti Connect Secure and it can be exploited for unauthenticated remote code execution with elevated privileges. The post Ivanti Zero-D…",
    "tags": [
     "漏洞预警"
    ],
-   "title_zh": "每周回顾：帮助台零日漏洞、假冒证书、ShinyHunters被捕、AI骗过恶意软件及其他内容"
+   "title_zh": "Ivanti 零日链漏洞使攻击者在完全打补丁的VPN上获得了根权限"
   },
   {
-   "id": "SCHNEIER-984f9a17",
-   "title": "FBI Arrests Suspect in FBI-Hacking Case",
-   "url": "https://www.schneier.com/blog/archives/2026/10/fbi-arrests-suspect-in-fbi-hacking-case.html",
-   "source": "Schneier",
+   "id": "THN-bec3e63d",
+   "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
+   "url": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
+   "source": "The Hacker News",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Mon, 12 Oct 2026 15:01:26 +0000",
-   "published_date": "2026-10-12",
-   "digest": "In September, hackers from a group called ShinyHunters announced that they stole a trove of FBI data about its own agents. It was an intelligence disaster . Las…",
+   "published_at": "Tue, 13 Oct 2026 23:50:57 +0530",
+   "published_date": "2026-10-13",
+   "digest": "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Androi…",
+   "tags": [
+    "僵尸网络",
+    "物联网安全"
+   ],
+   "title_zh": "Anthropic 警告小型AI模型可能很快形成自我传播的物联网僵尸网络"
+  },
+  {
+   "id": "SECAFFAIRS-11319f72",
+   "title": "U.S. CISA adds Ivanti Connect Secure flaw to its Known Exploited Vulnerabilities catalog",
+   "url": "https://securityaffairs.com/200887/security/u-s-cisa-adds-ivanti-connect-secure-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 18:14:23 +0000",
+   "published_date": "2026-10-13",
+   "digest": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Ivanti Connect Secure flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecur…",
    "tags": [
     "监管合规"
    ],
-   "title_zh": "FBI逮捕涉嫌黑客入侵FBI案件嫌疑人"
+   "title_zh": "美国CISA将Ivanti Connect Secure漏洞添加到已知被利用漏洞目录中"
   },
   {
-   "id": "CHECKPOINT-97e3a438",
-   "title": "12th October – Threat Intelligence Report",
-   "url": "https://research.checkpoint.com/2026/12th-october-threat-intelligence-report/",
+   "id": "THN-7aed68e6",
+   "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
+   "url": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 23:33:18 +0530",
+   "published_date": "2026-10-13",
+   "digest": "A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed …",
+   "tags": [
+    "云安全"
+   ],
+   "title_zh": "Docker修复了两个多月前的Hub关键漏洞，该漏洞允许一个用户以另一个用户的名义推送镜像"
+  },
+  {
+   "id": "THN-72a757b4",
+   "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
+   "url": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 23:03:11 +0530",
+   "published_date": "2026-10-13",
+   "digest": "An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm Volexity said on O…",
+   "tags": [],
+   "title_zh": "攻击者利用三个Ivanti Connect Secure零日漏洞进行链式攻击，仅两个已打补丁"
+  },
+  {
+   "id": "THN-529815d9",
+   "title": "SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft",
+   "url": "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 22:58:50 +0530",
+   "published_date": "2026-10-13",
+   "digest": "A flaw in SAP's Cloud SDK for Python can send an application's OAuth2 client credentials to a server an attacker controls, SAP said in a security advisory on Oc…",
+   "tags": [
+    "云安全",
+    "身份认证"
+   ],
+   "title_zh": "SAP披露云SDK for Python中的CVSS 10关键漏洞 允许OAuth2凭证窃取"
+  },
+  {
+   "id": "SECURITYWEEK-008efa36",
+   "title": "Adobe Patches 140 Vulnerabilities Across 10 Products",
+   "url": "https://www.securityweek.com/adobe-patches-140-vulnerabilities-across-10-products/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 17:14:42 +0000",
+   "published_date": "2026-10-13",
+   "digest": "The flaws affect products such as Commerce, Photoshop, ColdFusion, Substance 3D, Dimension, FrameMaker and Bridge. The post Adobe Patches 140 Vulnerabilities Ac…",
+   "tags": [],
+   "title_zh": "Adobe修复了其10款产品中的140个漏洞"
+  },
+  {
+   "id": "SECURITYWEEK-5ffb29ec",
+   "title": "Google Partially Reverses Chrome Bug Bounty Cuts",
+   "url": "https://www.securityweek.com/google-partially-reverses-chrome-bug-bounty-cuts/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 17:00:00 +0000",
+   "published_date": "2026-10-13",
+   "digest": "Google is restructuring bug bounty rewards with a focus on complex memory safety vulnerabilities. The post Google Partially Reverses Chrome Bug Bounty Cuts appe…",
+   "tags": [],
+   "title_zh": "谷歌部分撤销Chrome漏洞赏金计划削减"
+  },
+  {
+   "id": "THN-6f190af3",
+   "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
+   "url": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 21:48:18 +0530",
+   "published_date": "2026-10-13",
+   "digest": "GitHub has taken the step of expiring unvalidated npm trusted publishing configurations 48 hours after creation after researchers found that it was possible for…",
+   "tags": [
+    "供应链攻击"
+   ],
+   "title_zh": "GitHub 加强 npm 发布安全措施，因漏洞使逾千个包易受劫持攻击"
+  },
+  {
+   "id": "SECURITYWEEK-d9542289",
+   "title": "Meta Says Hackers Took Code, Personal Data of 1,500 in GitHub Breach",
+   "url": "https://www.securityweek.com/meta-says-hackers-took-code-personal-data-of-1500-in-github-breach/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 16:01:00 +0000",
+   "published_date": "2026-10-13",
+   "digest": "Most of the affected individuals are Meta employees in the United States and they are being offered credit monitoring services. The post Meta Says Hackers Took …",
+   "tags": [],
+   "title_zh": "Meta 称黑客在 GitHub 漏洞中窃取了 1,500 名用户的代码和个人数据"
+  },
+  {
+   "id": "SECWIKI-b8b5895d",
+   "title": "SecWiki News 2026-10-13 Review",
+   "url": "http://www.sec-wiki.com/?2026-10-13",
+   "source": "SecWiki",
+   "category": "网络安全",
+   "priority": "P2",
+   "published_at": "\nTue, 13 Oct 2026 23:58:20 +0800",
+   "published_date": "2026-10-13",
+   "digest": "ReArk：移动应用的桌面逆向与 AI 辅助分析工具 by ourren 更多最新文章，请访问 SecWiki",
+   "tags": [],
+   "title_zh": "SecWiki 新闻 2026-10-13 概览"
+  },
+  {
+   "id": "VOLEXITY-efd08571",
+   "title": "A Series of Unauthenticated Events: Chained Exploitation of Ivanti Connect Secure Zero-Days",
+   "url": "https://www.volexity.com/blog/2026/10/13/a-series-of-unauthenticated-events-chained-exploitation-of-ivanti-connect-secure-zero-days/",
+   "source": "Volexity",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 15:32:12 +0000",
+   "published_date": "2026-10-13",
+   "digest": "Volexity has identified active in-the-wild exploitation of a vulnerability chain allowing unauthenticated remote code execution in Ivanti Connect Secure VPN dev…",
+   "tags": [],
+   "title_zh": "一系列未认证事件：连续利用Ivanti Connect Secure零日漏洞"
+  },
+  {
+   "id": "CHECKPOINT-2e6d95c9",
+   "title": "When LLM Gateways Go Wrong: Findings from LiteLLM",
+   "url": "https://research.checkpoint.com/2026/when-llm-gateways-go-wrong-findings-from-litellm/",
    "source": "Check Point Research",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Mon, 12 Oct 2026 14:51:31 +0000",
-   "published_date": "2026-10-12",
-   "digest": "For the latest discoveries in cyber research for the week of 12th October, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Denmark’s …",
-   "tags": [],
-   "title_zh": "10月12日 - 威胁情报报告"
+   "published_at": "Tue, 13 Oct 2026 14:30:26 +0000",
+   "published_date": "2026-10-13",
+   "digest": "TL;DR; Our security assessment of LiteLLM (v1.77.7), a widely used open-source LLM gateway, uncovered multiple high-impact vulnerabilities (tracked as CVE-2026-…",
+   "tags": [
+    "漏洞预警",
+    "大模型安全"
+   ],
+   "title_zh": "当LLM网关出错时：LiteLLM的研究发现"
   },
   {
-   "id": "SECURITYWEEK-43513f43",
-   "title": "IonQ to Acquire Zero Trust Firm Elisity for Up to $1.3 Billion",
-   "url": "https://www.securityweek.com/ionq-to-acquire-zero-trust-firm-elisity-for-up-to-1-3-billion/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Mon, 12 Oct 2026 14:25:00 +0000",
-   "published_date": "2026-10-12",
-   "digest": "The all-stock deal brings Elisity’s least-privilege access technology into IonQ’s security portfolio. The post IonQ to Acquire Zero Trust Firm Elisity for Up to…",
-   "tags": [],
-   "title_zh": "IonQ拟以至多13亿美元收购零信任公司Elisity"
-  },
-  {
-   "id": "SECAFFAIRS-d160697f",
-   "title": "SonicWall Patches CVSS 10.0 SSRF Flaw as Attacks Begin",
-   "url": "https://securityaffairs.com/200816/hacking/sonicwall-patches-cvss-10-0-ssrf-flaw-as-attacks-begin.html",
+   "id": "SECAFFAIRS-2e4e8ee1",
+   "title": "Anthropic Shows How Small AI Models Could Replicate Across IoT Devices",
+   "url": "https://securityaffairs.com/200880/ai/anthropic-shows-how-small-ai-models-could-replicate-across-iot-devices.html",
    "source": "Security Affairs",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Mon, 12 Oct 2026 13:50:36 +0000",
-   "published_date": "2026-10-12",
-   "digest": "Attackers are exploiting SonicWall SMA 1000 vulnerability, tracked as CVE-2026-102255 (CVSS score of 10.0), just days after its public disclosure. Attackers hav…",
+   "published_at": "Tue, 13 Oct 2026 14:30:22 +0000",
+   "published_date": "2026-10-13",
+   "digest": "Anthropic researchers show how small AI models could autonomously replicate across IoT devices, raising concerns about adaptive, AI-powered botnets. Anthropic p…",
    "tags": [
-    "漏洞预警",
-    "Web安全"
+    "僵尸网络",
+    "物联网安全"
    ],
-   "title_zh": "SonicWall 修复 CVSS 10.0 SSRF 漏洞，攻击已启动"
+   "title_zh": "Anthropic展示小型AI模型如何在物联网设备上复制传播"
   },
   {
-   "id": "SECURITYWEEK-95d95969",
-   "title": "Bricksforge WordPress Plugin Vulnerability Exploited in the Wild",
-   "url": "https://www.securityweek.com/bricksforge-wordpress-plugin-vulnerability-exploited-in-the-wild/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Mon, 12 Oct 2026 13:14:37 +0000",
-   "published_date": "2026-10-12",
-   "digest": "The vulnerability tracked as CVE-2026-85097 can allow threat actors to take control of the targeted WordPress websites. The post Bricksforge WordPress Plugin Vu…",
-   "tags": [
-    "漏洞预警",
-    "Web安全"
-   ],
-   "title_zh": "Bricksforge WordPress插件漏洞在野外被利用"
-  },
-  {
-   "id": "SECURITYWEEK-63db8b69",
-   "title": "Canonical Websites Disrupted in Second DDoS Attack This Year",
-   "url": "https://www.securityweek.com/canonical-websites-disrupted-in-second-ddos-attack-this-year/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Mon, 12 Oct 2026 11:58:39 +0000",
-   "published_date": "2026-10-12",
-   "digest": "The outage hit the main Ubuntu and Canonical websites, including the Ubuntu blog and developer portal The post Canonical Websites Disrupted in Second DDoS Attac…",
-   "tags": [
-    "僵尸网络"
-   ],
-   "title_zh": "Canonical网站在今年第二次遭受DDoS攻击"
-  },
-  {
-   "id": "THN-1db08bf9",
-   "title": "Bring Your Own Agent: Your Employees' Assistants Are Already Logged In",
-   "url": "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Mon, 12 Oct 2026 17:25:00 +0530",
-   "published_date": "2026-10-12",
-   "digest": "The personal AI agents rollout is going about as smoothly as expected: Amazon now blocks Meta's Muse because it doesn't identify itself as a bot while browsing;…",
-   "tags": [
-    "大模型安全"
-   ],
-   "title_zh": "自带代理：您的员工助手已登录"
-  },
-  {
-   "id": "SECURITYWEEK-1a4ab9b8",
-   "title": "Mastermind of 15,000-Mule Cybercrime Laundering Network Pleads Guilty in US",
-   "url": "https://www.securityweek.com/mastermind-of-15000-mule-cybercrime-laundering-network-pleads-guilty-in-us/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Mon, 12 Oct 2026 11:24:50 +0000",
-   "published_date": "2026-10-12",
-   "digest": "Oleg Korniev was a leader of YMCO, a sophisticated network of money mules that helped hackers move funds outside the US. The post Mastermind of 15,000-Mule Cybe…",
-   "tags": [],
-   "title_zh": "操纵15000骡网络犯罪洗钱团伙头目在美国认罪"
-  },
-  {
-   "id": "THN-4c7b4f23",
-   "title": "Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports",
-   "url": "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Mon, 12 Oct 2026 16:51:48 +0530",
-   "published_date": "2026-10-12",
-   "digest": "Cryptocurrency hardware maker Ledger has temporarily paused sales of its products via Cryptobilis following reports of stolen funds linked to devices sold by th…",
-   "tags": [
-    "加密货币犯罪"
-   ],
-   "title_zh": "Ledger 在加密货币钱包 CryptoBilis 销售报告被盗事件中发现未经授权的硬件植入物"
-  },
-  {
-   "id": "SECURITYWEEK-6630d93c",
-   "title": "iRhythm Data Breach Impacts at Least 360,000 People",
-   "url": "https://www.securityweek.com/irhythm-data-breach-impacts-over-360000-people/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Mon, 12 Oct 2026 11:05:43 +0000",
-   "published_date": "2026-10-12",
-   "digest": "Hackers stole patients’ personal information, including names, addresses, email addresses, dates of birth, and phone numbers. The post iRhythm Data Breach Impac…",
-   "tags": [
-    "数据泄露"
-   ],
-   "title_zh": "iRhythm 数据泄露影响至少36万人"
-  },
-  {
-   "id": "FREEBUF-f35c5629",
-   "title": "FreeBuf早报 | NVIDIA修复DCGM Exporter高危漏洞；Agentic AI红队检查清单发布",
-   "url": "https://www.freebuf.com/news/505940.html",
-   "source": "FreeBuf",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Mon, 12 Oct 2026 18:44:15 +0800",
-   "published_date": "2026-10-12",
-   "digest": "WordPress插件Bricksforge爆CVSS10.0漏洞遭在野利用，未授权即可RCE植入后门，已有大量攻击，需立即升级补丁排查入侵。",
-   "tags": [
-    "漏洞预警",
-    "Web安全"
-   ]
-  },
-  {
-   "id": "THN-89b7bfb0",
-   "title": "Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch",
-   "url": "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Mon, 12 Oct 2026 16:06:56 +0530",
-   "published_date": "2026-10-12",
-   "digest": "Threat actors have been observed exploiting a recently disclosed critical security flaw in SonicWall Secure Mobile Access (SMA) 1000 appliances within days of p…",
-   "tags": [],
-   "title_zh": "关键漏洞的SonicWall SMA 1000被利用尝试135次后修补"
-  },
-  {
-   "id": "SECURITYWEEK-2ab5781a",
-   "title": "Ransomware Response Expert Arrested in ShinyHunters FBI Hack Probe",
-   "url": "https://www.securityweek.com/ransomware-response-expert-arrested-in-shinyhunters-fbi-hack-probe/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Mon, 12 Oct 2026 10:32:05 +0000",
-   "published_date": "2026-10-12",
-   "digest": "The suspect is believed to be Edward Dubrovsky, a Canadian cybersecurity executive who was visiting the United States for a conference. The post Ransomware Resp…",
-   "tags": [
-    "勒索软件",
-    "监管合规"
-   ],
-   "title_zh": "勒索软件响应专家在ShinyHuntersFBI黑客调查中被捕"
-  },
-  {
-   "id": "NSFOCUS-26eac565",
-   "title": "解读《关于发展新质生产力的意见》：新质生产力中的网络安全逻辑",
-   "url": "https://blog.nsfocus.net/%e8%a7%a3%e8%af%bb%e3%80%8a%e5%85%b3%e4%ba%8e%e5%8f%91%e5%b1%95%e6%96%b0%e8%b4%a8%e7%94%9f%e4%ba%a7%e5%8a%9b%e7%9a%84%e6%84%8f%e8%a7%81%e3%80%8b%ef%bc%9a%e6%96%b0%e8%b4%a8%e7%94%9f%e4%ba%a7%e5%8a%9b/",
-   "source": "绿盟科技博客",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Mon, 12 Oct 2026 10:25:37 +0000",
-   "published_date": "2026-10-12",
-   "digest": "2026年10月9日，中共中央、国务院印发了《关于发展新质生产力的意见》（简称《意见》），这是党中央、国务院首... » 阅读全文",
-   "tags": []
-  },
-  {
-   "id": "FREEBUF-2b5a80a2",
-   "title": "【AI 逆向专栏】某点 vmp w_tsfp 逆向分析",
-   "url": "https://www.freebuf.com/news/505913.html",
-   "source": "FreeBuf",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Mon, 12 Oct 2026 17:45:39 +0800",
-   "published_date": "2026-10-12",
-   "digest": "本文将对w_tsfp参数进行逆向分析",
-   "tags": []
-  },
-  {
-   "id": "SECAFFAIRS-bf7517ba",
-   "title": "CyberXero Used 51 AI Agents to Steal 628,000 Ukrainian Records",
-   "url": "https://securityaffairs.com/200803/cyber-crime/cyberxero-used-51-ai-agents-to-steal-628000-ukrainian-records.html",
+   "id": "SECAFFAIRS-8be7c33c",
+   "title": "GitLab Patches Max-Severity Vulnerability CVE-2026-97229",
+   "url": "https://securityaffairs.com/200868/security/gitlab-patches-max-severity-vulnerability-cve-2026-97229.html",
    "source": "Security Affairs",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Mon, 12 Oct 2026 09:34:35 +0000",
-   "published_date": "2026-10-12",
-   "digest": "CyberXero used 51 AI agents to support cyberattacks, stealing 628,000 Ukrainian records, including sensitive data from energy infrastructure. CyberXero is an op…",
+   "published_at": "Tue, 13 Oct 2026 13:48:38 +0000",
+   "published_date": "2026-10-13",
+   "digest": "GitLab fixed a critical vulnerability with a maximum CVSS score of 10.0 that could let unauthenticated attackers run code on its servers. GitLab has addressed a…",
    "tags": [
-    "大模型安全"
+    "漏洞预警"
    ],
-   "title_zh": "CyberXero 使用 51 个 AI 剂量窃取了 62.8 万乌克兰记录"
+   "title_zh": "GitLab 修复了严重程度最高的漏洞 CVE-2026-97229"
   },
   {
-   "id": "THN-e4d35c96",
-   "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE",
-   "url": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
+   "id": "THN-2c067165",
+   "title": "Xandr Fined a Record €8.6 Million for Relaying Grindr Data Revealing Sexual Orientation",
+   "url": "https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html",
    "source": "The Hacker News",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Mon, 12 Oct 2026 14:32:14 +0530",
-   "published_date": "2026-10-12",
-   "digest": "A maximum-severity security flaw impacting the Bricksforge plugin for WordPress has come under active exploitation in the wild, according to Patchstack. The cri…",
-   "tags": [
-    "漏洞预警",
-    "Web安全"
-   ],
-   "title_zh": "攻击者利用CVSS 10.0严重性分值的BricksforgeWordPress漏洞实现未认证远程代码执行"
+   "published_at": "Tue, 13 Oct 2026 18:42:32 +0530",
+   "published_date": "2026-10-13",
+   "digest": "The Norwegian Data Protection Authority (DPA) has fined Xandr, an advertising unit owned by Microsoft, €8.6 million ($9.62 million) for illegally relaying ​Grin…",
+   "tags": [],
+   "title_zh": "Xandr因转播Grindr数据泄露性取向信息被罚款创纪录的860万欧元"
   },
   {
-   "id": "SEEKBUG-119284c6",
-   "title": "基于信息论安全密钥分发的高效安全联邦学习：一个医学影像案例研究",
-   "url": "https://paper.seebug.org/3525",
-   "source": "Seebug Paper",
+   "id": "SECURITYWEEK-44862e1e",
+   "title": "Small AI Models May Soon Be Able to Self-Replicate on IoT Devices, Anthropic Warns",
+   "url": "https://www.securityweek.com/small-ai-models-may-soon-be-able-to-self-replicate-on-iot-devices-anthropic-warns/",
+   "source": "SecurityWeek",
    "category": "网络安全",
-   "priority": "P2",
-   "published_at": "Mon, 12 Oct 2026 16:56:54 +0800",
-   "published_date": "2026-10-12",
-   "digest": "作者：Ivan Donà, Hans H. Brunner, Álvaro Troyano Olivas, Chi-Hang Fred Fung, Momtchil Peev, Giovanni Iacca 原文链接：https://arxiv.org/pdf/2610.06420v1 摘要 联邦学习（Federate…",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 11:58:29 +0000",
+   "published_date": "2026-10-13",
+   "digest": "Experiments show cheap TV boxes can run capable AI models, and small models may soon be able to spread across such devices on their own. The post Small AI Model…",
    "tags": [
-    "学术研究"
-   ]
+    "物联网安全"
+   ],
+   "title_zh": "小规模AI模型可能很快能在IoT设备上自我复制，Anthropic警告"
+  },
+  {
+   "id": "THN-0f82ae7d",
+   "title": "[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls",
+   "url": "https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 17:27:06 +0530",
+   "published_date": "2026-10-13",
+   "digest": "The dangerous part of a stolen identity isn't always the initial login. It's what an attacker can do with that access next. With AI accelerating reconnaissance,…",
+   "tags": [
+    "身份认证"
+   ],
+   "title_zh": "如何使用运行时身份控制防止AI驱动的权限提升[网络研讨会]"
+  },
+  {
+   "id": "SECURITYWEEK-73c74ec6",
+   "title": "XWorm RAT Evolves Into Surveillance Platform",
+   "url": "https://www.securityweek.com/xworm-rat-evolves-into-surveillance-platform/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 11:13:10 +0000",
+   "published_date": "2026-10-13",
+   "digest": "Expanded plugin count allows the malware to monitor users’ location, stream live audio, and interact with authenticated browser sessions. The post XWorm RAT Evo…",
+   "tags": [],
+   "title_zh": "XWorm RAT 进化为监控平台"
+  },
+  {
+   "id": "THN-d28bb522",
+   "title": "LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network",
+   "url": "https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 13 Oct 2026 16:39:10 +0530",
+   "published_date": "2026-10-13",
+   "digest": "Three vulnerabilities in LG's webOS can be chained to give an attacker on the same local network root access to certain smart TVs without a PIN or any interacti…",
+   "tags": [],
+   "title_zh": "LG 智能电视可通过局域网在未授权情况下被根权限接管"
   }
  ]
 }
