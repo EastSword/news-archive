@@ -1,346 +1,348 @@
 {
- "generated_at": "2026-10-14 10:03",
- "total": 6485,
+ "generated_at": "2026-10-16 10:03",
+ "total": 6679,
  "items": [
   {
-   "id": "KREBS-a84d74d4",
-   "title": "Microsoft Patches More Than 1,400 Security Flaws",
-   "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
-   "source": "Krebs on Security",
-   "category": "网络安全",
-   "priority": "P0",
-   "published_at": "Tue, 13 Oct 2026 23:24:53 +0000",
-   "published_date": "2026-10-13",
-   "digest": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwa…",
-   "tags": [],
-   "title_zh": "微软修复了超过1400个安全漏洞"
-  },
-  {
-   "id": "SECURITYWEEK-28d1d9a8",
-   "title": "Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say",
-   "url": "https://www.securityweek.com/employee-arrested-after-listening-device-found-in-openai-conference-room-fbi-and-the-company-say/",
-   "source": "SecurityWeek",
+   "id": "NSFOCUS-5c11a7ee",
+   "title": "第41次全国计算机安全学术交流会 | 绿盟科技以AI自主攻防范式，为“十五五”网络安全升级注入新动能",
+   "url": "https://blog.nsfocus.net/%e7%ac%ac41%e6%ac%a1%e5%85%a8%e5%9b%bd%e8%ae%a1%e7%ae%97%e6%9c%ba%e5%ae%89%e5%85%a8%e5%ad%a6%e6%9c%af%e4%ba%a4%e6%b5%81%e4%bc%9a-%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e4%bb%a5ai%e8%87%aa%e4%b8%bb/",
+   "source": "绿盟科技博客",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Tue, 13 Oct 2026 23:07:00 +0000",
-   "published_date": "2026-10-13",
-   "digest": "Saudi national Abdulrahman Alfozan was arrested Friday and terminated by OpenAI. The post Employee Arrested After Listening Device Found in OpenAI Conference Ro…",
-   "tags": [
-    "监管合规"
-   ],
-   "title_zh": "员工在OpenAI会议室发现窃听设备后被捕，FBI及公司称"
+   "published_at": "Fri, 16 Oct 2026 01:37:09 +0000",
+   "published_date": "2026-10-16",
+   "digest": "10月15日，由中国计算机学会主办，计算机安全专业委员会、中电科网络安全科技股份有限公司联合承办，海南省公安厅... » 阅读全文",
+   "tags": []
   },
   {
-   "id": "UNIT42-abbd310e",
-   "title": "The Noise Inside the Network: How an Unsophisticated Attack Exposed a Third-Party Risk",
-   "url": "https://unit42.paloaltonetworks.com/noise-inside-network-third-party-risk/",
+   "id": "UNIT42-bc3da0ab",
+   "title": "AI-Powered Espionage Campaign Targets Government Linux Infrastructure",
+   "url": "https://unit42.paloaltonetworks.com/ai-campaign-targets-linux-infrastructure/",
    "source": "Unit 42",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Tue, 13 Oct 2026 22:00:04 +0000",
-   "published_date": "2026-10-13",
-   "digest": "Unit 42 dissects a cyberattack targeting a European bank's IT infrastructure, delivering concrete defense strategies to help organizations detect and counter co…",
-   "tags": [],
-   "title_zh": "网络噪音：一起不复杂的攻击如何揭示第三方风险"
-  },
-  {
-   "id": "ZDI-BLOG-0e439d17",
-   "title": "The October 2026 Security Update Review",
-   "url": "https://www.thezdi.com/blog/2026/10/13/the-october-2026-security-update-review",
-   "source": "ZDI Blog",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 13 Oct 2026 19:34:30 +0000",
-   "published_date": "2026-10-13",
-   "digest": "Another month of patches equals another new record for Microsoft patches. It’s a good thing I survive Pwn2Own Ireland , because between these and the Adobe patc…",
-   "tags": [],
-   "title_zh": "2026年10月安全更新审查"
-  },
-  {
-   "id": "SECURITYWEEK-0d146637",
-   "title": "Ivanti Zero-Day Chain Gave Attackers Root Access to Fully Patched VPN",
-   "url": "https://www.securityweek.com/ivanti-zero-day-chain-gave-attackers-root-access-to-fully-patched-vpn/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 13 Oct 2026 18:43:43 +0000",
-   "published_date": "2026-10-13",
-   "digest": "CVE-2026-104935 affects Ivanti Connect Secure and it can be exploited for unauthenticated remote code execution with elevated privileges. The post Ivanti Zero-D…",
+   "published_at": "Thu, 15 Oct 2026 22:00:09 +0000",
+   "published_date": "2026-10-15",
+   "digest": "Our analysis an AI-powered espionage campaign targeting government Linux infrastructure with custom malware, web shells, and advanced credential theft. The post…",
    "tags": [
-    "漏洞预警"
+    "身份认证"
    ],
-   "title_zh": "Ivanti 零日链漏洞使攻击者在完全打补丁的VPN上获得了根权限"
+   "title_zh": "人工智能驱动的间谍活动 targeting 政府Linux基础设施"
   },
   {
-   "id": "THN-bec3e63d",
-   "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
-   "url": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
+   "id": "THN-518562e4",
+   "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
+   "url": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
    "source": "The Hacker News",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Tue, 13 Oct 2026 23:50:57 +0530",
-   "published_date": "2026-10-13",
-   "digest": "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Androi…",
-   "tags": [
-    "僵尸网络",
-    "物联网安全"
-   ],
-   "title_zh": "Anthropic 警告小型AI模型可能很快形成自我传播的物联网僵尸网络"
+   "published_at": "Fri, 16 Oct 2026 01:54:36 +0530",
+   "published_date": "2026-10-16",
+   "digest": "A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher demonstrat…",
+   "tags": [],
+   "title_zh": "关键漏洞 PwnEscape 让来宾虚拟机读取宿主内存"
   },
   {
-   "id": "SECAFFAIRS-11319f72",
-   "title": "U.S. CISA adds Ivanti Connect Secure flaw to its Known Exploited Vulnerabilities catalog",
-   "url": "https://securityaffairs.com/200887/security/u-s-cisa-adds-ivanti-connect-secure-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
+   "id": "WORDFENCE-1c3be434",
+   "title": "Wordfence Intelligence Weekly WordPress Vulnerability Report (October 5, 2026 to October 11, 2026)",
+   "url": "https://www.wordfence.com/blog/2026/10/wordfence-intelligence-weekly-wordpress-vulnerability-report-october-5-2026-to-october-11-2026/",
+   "source": "Wordfence",
+   "category": "网络安全",
+   "priority": "P2",
+   "published_at": "Thu, 15 Oct 2026 19:30:11 +0000",
+   "published_date": "2026-10-15",
+   "digest": "Last week, there were disclosed in and that have been added to the Wordfence Intelligence Vulnerability Database, and there were that contributed to WordPress S…",
+   "tags": [
+    "Web安全"
+   ],
+   "title_zh": "Wordfence Intelligence 每周 WordPress 漏洞报告（2026年10月5日至10月11日）"
+  },
+  {
+   "id": "SECAFFAIRS-82bc053d",
+   "title": "U.S. CISA adds Palo Alto Networks PAN-OS, Ahsay AhsayCBS, and Cisco Secure Email Gateway flaws to its Known Exploited Vulnerabilities catalog",
+   "url": "https://securityaffairs.com/201041/security/u-s-cisa-adds-palo-alto-networks-pan-os-ahsay-ahsaycbs-and-cisco-secure-email-gateway-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
    "source": "Security Affairs",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Tue, 13 Oct 2026 18:14:23 +0000",
-   "published_date": "2026-10-13",
-   "digest": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Ivanti Connect Secure flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecur…",
+   "published_at": "Thu, 15 Oct 2026 19:21:30 +0000",
+   "published_date": "2026-10-15",
+   "digest": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Palo Alto Networks PAN-OS, Ahsay AhsayCBS, and Cisco Secure Email Gateway flaws to its Known E…",
    "tags": [
     "监管合规"
    ],
-   "title_zh": "美国CISA将Ivanti Connect Secure漏洞添加到已知被利用漏洞目录中"
+   "title_zh": "美国CISA将Palo Alto Networks PAN-OS、Ahsay AhsayCBS和Cisco Secure Email Gateway的漏洞添加到其已知被利用漏洞目录中"
   },
   {
-   "id": "THN-7aed68e6",
-   "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
-   "url": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
+   "id": "THN-338a2e73",
+   "title": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More",
+   "url": "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
    "source": "The Hacker News",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Tue, 13 Oct 2026 23:33:18 +0530",
-   "published_date": "2026-10-13",
-   "digest": "A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed …",
-   "tags": [
-    "云安全"
-   ],
-   "title_zh": "Docker修复了两个多月前的Hub关键漏洞，该漏洞允许一个用户以另一个用户的名义推送镜像"
-  },
-  {
-   "id": "THN-72a757b4",
-   "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
-   "url": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 13 Oct 2026 23:03:11 +0530",
-   "published_date": "2026-10-13",
-   "digest": "An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm Volexity said on O…",
-   "tags": [],
-   "title_zh": "攻击者利用三个Ivanti Connect Secure零日漏洞进行链式攻击，仅两个已打补丁"
-  },
-  {
-   "id": "THN-529815d9",
-   "title": "SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft",
-   "url": "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 13 Oct 2026 22:58:50 +0530",
-   "published_date": "2026-10-13",
-   "digest": "A flaw in SAP's Cloud SDK for Python can send an application's OAuth2 client credentials to a server an attacker controls, SAP said in a security advisory on Oc…",
-   "tags": [
-    "云安全",
-    "身份认证"
-   ],
-   "title_zh": "SAP披露云SDK for Python中的CVSS 10关键漏洞 允许OAuth2凭证窃取"
-  },
-  {
-   "id": "SECURITYWEEK-008efa36",
-   "title": "Adobe Patches 140 Vulnerabilities Across 10 Products",
-   "url": "https://www.securityweek.com/adobe-patches-140-vulnerabilities-across-10-products/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 13 Oct 2026 17:14:42 +0000",
-   "published_date": "2026-10-13",
-   "digest": "The flaws affect products such as Commerce, Photoshop, ColdFusion, Substance 3D, Dimension, FrameMaker and Bridge. The post Adobe Patches 140 Vulnerabilities Ac…",
-   "tags": [],
-   "title_zh": "Adobe修复了其10款产品中的140个漏洞"
-  },
-  {
-   "id": "SECURITYWEEK-5ffb29ec",
-   "title": "Google Partially Reverses Chrome Bug Bounty Cuts",
-   "url": "https://www.securityweek.com/google-partially-reverses-chrome-bug-bounty-cuts/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 13 Oct 2026 17:00:00 +0000",
-   "published_date": "2026-10-13",
-   "digest": "Google is restructuring bug bounty rewards with a focus on complex memory safety vulnerabilities. The post Google Partially Reverses Chrome Bug Bounty Cuts appe…",
-   "tags": [],
-   "title_zh": "谷歌部分撤销Chrome漏洞赏金计划削减"
-  },
-  {
-   "id": "THN-6f190af3",
-   "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
-   "url": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 13 Oct 2026 21:48:18 +0530",
-   "published_date": "2026-10-13",
-   "digest": "GitHub has taken the step of expiring unvalidated npm trusted publishing configurations 48 hours after creation after researchers found that it was possible for…",
-   "tags": [
-    "供应链攻击"
-   ],
-   "title_zh": "GitHub 加强 npm 发布安全措施，因漏洞使逾千个包易受劫持攻击"
-  },
-  {
-   "id": "SECURITYWEEK-d9542289",
-   "title": "Meta Says Hackers Took Code, Personal Data of 1,500 in GitHub Breach",
-   "url": "https://www.securityweek.com/meta-says-hackers-took-code-personal-data-of-1500-in-github-breach/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 13 Oct 2026 16:01:00 +0000",
-   "published_date": "2026-10-13",
-   "digest": "Most of the affected individuals are Meta employees in the United States and they are being offered credit monitoring services. The post Meta Says Hackers Took …",
-   "tags": [],
-   "title_zh": "Meta 称黑客在 GitHub 漏洞中窃取了 1,500 名用户的代码和个人数据"
-  },
-  {
-   "id": "SECWIKI-b8b5895d",
-   "title": "SecWiki News 2026-10-13 Review",
-   "url": "http://www.sec-wiki.com/?2026-10-13",
-   "source": "SecWiki",
-   "category": "网络安全",
-   "priority": "P2",
-   "published_at": "\nTue, 13 Oct 2026 23:58:20 +0800",
-   "published_date": "2026-10-13",
-   "digest": "ReArk：移动应用的桌面逆向与 AI 辅助分析工具 by ourren 更多最新文章，请访问 SecWiki",
-   "tags": [],
-   "title_zh": "SecWiki 新闻 2026-10-13 概览"
-  },
-  {
-   "id": "VOLEXITY-efd08571",
-   "title": "A Series of Unauthenticated Events: Chained Exploitation of Ivanti Connect Secure Zero-Days",
-   "url": "https://www.volexity.com/blog/2026/10/13/a-series-of-unauthenticated-events-chained-exploitation-of-ivanti-connect-secure-zero-days/",
-   "source": "Volexity",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 13 Oct 2026 15:32:12 +0000",
-   "published_date": "2026-10-13",
-   "digest": "Volexity has identified active in-the-wild exploitation of a vulnerability chain allowing unauthenticated remote code execution in Ivanti Connect Secure VPN dev…",
-   "tags": [],
-   "title_zh": "一系列未认证事件：连续利用Ivanti Connect Secure零日漏洞"
-  },
-  {
-   "id": "CHECKPOINT-2e6d95c9",
-   "title": "When LLM Gateways Go Wrong: Findings from LiteLLM",
-   "url": "https://research.checkpoint.com/2026/when-llm-gateways-go-wrong-findings-from-litellm/",
-   "source": "Check Point Research",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 13 Oct 2026 14:30:26 +0000",
-   "published_date": "2026-10-13",
-   "digest": "TL;DR; Our security assessment of LiteLLM (v1.77.7), a widely used open-source LLM gateway, uncovered multiple high-impact vulnerabilities (tracked as CVE-2026-…",
-   "tags": [
-    "漏洞预警",
-    "大模型安全"
-   ],
-   "title_zh": "当LLM网关出错时：LiteLLM的研究发现"
-  },
-  {
-   "id": "SECAFFAIRS-2e4e8ee1",
-   "title": "Anthropic Shows How Small AI Models Could Replicate Across IoT Devices",
-   "url": "https://securityaffairs.com/200880/ai/anthropic-shows-how-small-ai-models-could-replicate-across-iot-devices.html",
-   "source": "Security Affairs",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 13 Oct 2026 14:30:22 +0000",
-   "published_date": "2026-10-13",
-   "digest": "Anthropic researchers show how small AI models could autonomously replicate across IoT devices, raising concerns about adaptive, AI-powered botnets. Anthropic p…",
-   "tags": [
-    "僵尸网络",
-    "物联网安全"
-   ],
-   "title_zh": "Anthropic展示小型AI模型如何在物联网设备上复制传播"
-  },
-  {
-   "id": "SECAFFAIRS-8be7c33c",
-   "title": "GitLab Patches Max-Severity Vulnerability CVE-2026-97229",
-   "url": "https://securityaffairs.com/200868/security/gitlab-patches-max-severity-vulnerability-cve-2026-97229.html",
-   "source": "Security Affairs",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 13 Oct 2026 13:48:38 +0000",
-   "published_date": "2026-10-13",
-   "digest": "GitLab fixed a critical vulnerability with a maximum CVSS score of 10.0 that could let unauthenticated attackers run code on its servers. GitLab has addressed a…",
+   "published_at": "Fri, 16 Oct 2026 00:19:33 +0530",
+   "published_date": "2026-10-16",
+   "digest": "Someone built a tool to steal data, then decided it should scare the victim for fun. Yes, that’s an actual feature. And somehow, it fits right in with this week…",
    "tags": [
     "漏洞预警"
    ],
-   "title_zh": "GitLab 修复了严重程度最高的漏洞 CVE-2026-97229"
+   "title_zh": "威胁日：Adobe RCE、DNS钱包窃取、NVIDIA容器逃逸、自我修复后门+23起更多事件"
   },
   {
-   "id": "THN-2c067165",
-   "title": "Xandr Fined a Record €8.6 Million for Relaying Grindr Data Revealing Sexual Orientation",
-   "url": "https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html",
-   "source": "The Hacker News",
+   "id": "SECAFFAIRS-18f7d8df",
+   "title": "Silent Lynx: Kazakhstan-Linked Hackers Target Russian Refinery and Government",
+   "url": "https://securityaffairs.com/201003/apt/silent-lynx-kazakhstan-linked-hackers-target-russian-refinery-and-government.html",
+   "source": "Security Affairs",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Tue, 13 Oct 2026 18:42:32 +0530",
-   "published_date": "2026-10-13",
-   "digest": "The Norwegian Data Protection Authority (DPA) has fined Xandr, an advertising unit owned by Microsoft, €8.6 million ($9.62 million) for illegally relaying ​Grin…",
+   "published_at": "Thu, 15 Oct 2026 18:33:35 +0000",
+   "published_date": "2026-10-15",
+   "digest": "Silent Lynx, a group likely based in Kazakhstan, targets Russian energy and government entities in espionage campaigns across Central Asia. Researchers from Cis…",
    "tags": [],
-   "title_zh": "Xandr因转播Grindr数据泄露性取向信息被罚款创纪录的860万欧元"
+   "title_zh": "沉默猞猁：与哈萨克斯坦有关的黑客 targeting 俄罗斯炼油厂和政府"
   },
   {
-   "id": "SECURITYWEEK-44862e1e",
-   "title": "Small AI Models May Soon Be Able to Self-Replicate on IoT Devices, Anthropic Warns",
-   "url": "https://www.securityweek.com/small-ai-models-may-soon-be-able-to-self-replicate-on-iot-devices-anthropic-warns/",
+   "id": "FREEBUF-eca0af82",
+   "title": "Linux内核PwnEscape高危漏洞曝光，虚拟机可读取宿主机内存",
+   "url": "https://www.freebuf.com/articles/system/506832.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 16 Oct 2026 01:54:36 +0800",
+   "published_date": "2026-10-16",
+   "digest": "Linux内核9.3分高危PwnEscape漏洞可突破虚拟机隔离，读取宿主机内存、致瘫提权，波及云基础设施，补丁已发布需尽快升级宿主机内核。",
+   "tags": [
+    "漏洞预警"
+   ]
+  },
+  {
+   "id": "SECURITYWEEK-58b1e718",
+   "title": "Context Is King in the Fight Against Modern Cyberattacks",
+   "url": "https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/",
    "source": "SecurityWeek",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Tue, 13 Oct 2026 11:58:29 +0000",
-   "published_date": "2026-10-13",
-   "digest": "Experiments show cheap TV boxes can run capable AI models, and small models may soon be able to spread across such devices on their own. The post Small AI Model…",
-   "tags": [
-    "物联网安全"
-   ],
-   "title_zh": "小规模AI模型可能很快能在IoT设备上自我复制，Anthropic警告"
+   "published_at": "Thu, 15 Oct 2026 17:42:50 +0000",
+   "published_date": "2026-10-15",
+   "digest": "Contextual defense helps security teams connect the signals, anticipate what comes next, and stop threats before they escalate. The post Context Is King in the …",
+   "tags": [],
+   "title_zh": "在对抗现代网络攻击中，背景信息至关键"
   },
   {
-   "id": "THN-0f82ae7d",
-   "title": "[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls",
-   "url": "https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html",
+   "id": "SCHNEIER-43401a9d",
+   "title": "Measuring Human Cryptanalysis Effort",
+   "url": "https://www.schneier.com/blog/archives/2026/10/measuring-human-cryptanalysis-effort.html",
+   "source": "Schneier",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 15 Oct 2026 16:24:29 +0000",
+   "published_date": "2026-10-15",
+   "digest": "Matthew Green has a new site that tries to estimate the number of cryptanalyst-hours that have been spent analyzing different public-key algorithms: Abstract: W…",
+   "tags": [
+    "密码学"
+   ],
+   "title_zh": "衡量人类密码分析努力"
+  },
+  {
+   "id": "THN-47562774",
+   "title": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads",
+   "url": "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html",
    "source": "The Hacker News",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Tue, 13 Oct 2026 17:27:06 +0530",
-   "published_date": "2026-10-13",
-   "digest": "The dangerous part of a stolen identity isn't always the initial login. It's what an attacker can do with that access next. With AI accelerating reconnaissance,…",
+   "published_at": "Thu, 15 Oct 2026 21:31:57 +0530",
+   "published_date": "2026-10-15",
+   "digest": "Candiru, an Israeli maker of spyware sold to governments, infected devices at the news network Al Jazeera through ordinary online ads, in attacks that needed no…",
    "tags": [
-    "身份认证"
+    "APT组织"
    ],
-   "title_zh": "如何使用运行时身份控制防止AI驱动的权限提升[网络研讨会]"
+   "title_zh": "公民实验室追踪卡尼鲁零点击间谍软件感染阿贾扎媒体目标定向广告"
   },
   {
-   "id": "SECURITYWEEK-73c74ec6",
-   "title": "XWorm RAT Evolves Into Surveillance Platform",
-   "url": "https://www.securityweek.com/xworm-rat-evolves-into-surveillance-platform/",
+   "id": "THN-007b3796",
+   "title": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks",
+   "url": "https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 15 Oct 2026 21:30:26 +0530",
+   "published_date": "2026-10-15",
+   "digest": "The threat actor known as Silent Lynx has been attributed to a fresh set of attacks targeting government organizations across the Commonwealth of Independent St…",
+   "tags": [],
+   "title_zh": "沉默猞猁利用WinRAR漏洞部署反向shell攻击CIS政府网络"
+  },
+  {
+   "id": "SECWIKI-b9584841",
+   "title": "SecWiki News 2026-10-15 Review",
+   "url": "http://www.sec-wiki.com/?2026-10-15",
+   "source": "SecWiki",
+   "category": "网络安全",
+   "priority": "P2",
+   "published_at": "\nThu, 15 Oct 2026 23:58:20 +0800",
+   "published_date": "2026-10-15",
+   "digest": "今日暂未更新资讯~ 更多最新文章，请访问 SecWiki",
+   "tags": [],
+   "title_zh": "SecWiki 新闻 2026-10-15 概览"
+  },
+  {
+   "id": "WORDFENCE-e8c6cdc7",
+   "title": "600,000 WordPress Sites Affected by SQL Injection Vulnerability in Backuply WordPress Plugin",
+   "url": "https://www.wordfence.com/blog/2026/10/600000-wordpress-sites-affected-by-sql-injection-vulnerability-in-backuply-wordpress-plugin/",
+   "source": "Wordfence",
+   "category": "网络安全",
+   "priority": "P2",
+   "published_at": "Thu, 15 Oct 2026 15:16:04 +0000",
+   "published_date": "2026-10-15",
+   "digest": "On September 17th, 2026, we received a submission for a Second-Order SQL Injection vulnerability in Backuply, a WordPress plugin with more than 600,000 active i…",
+   "tags": [
+    "Web安全"
+   ],
+   "title_zh": "600,000 WordPress 站点受 Backuply 插件 SQL 注入漏洞影响"
+  },
+  {
+   "id": "SECURITYWEEK-f01db6d7",
+   "title": "UK Legal Aid Agency Hack Scope Widens After Forensic Review",
+   "url": "https://www.securityweek.com/uk-legal-aid-agency-hack-scope-widens-after-forensic-review/",
    "source": "SecurityWeek",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Tue, 13 Oct 2026 11:13:10 +0000",
-   "published_date": "2026-10-13",
-   "digest": "Expanded plugin count allows the malware to monitor users’ location, stream live audio, and interact with authenticated browser sessions. The post XWorm RAT Evo…",
-   "tags": [],
-   "title_zh": "XWorm RAT 进化为监控平台"
+   "published_at": "Thu, 15 Oct 2026 14:22:34 +0000",
+   "published_date": "2026-10-15",
+   "digest": "Most of the data is related to applications, claims, and payments submitted between 2007 and 2025. The post UK Legal Aid Agency Hack Scope Widens After Forensic…",
+   "tags": [
+    "安全运营"
+   ],
+   "title_zh": "英国法律援助机构黑客攻击范围扩大，经法医审查后"
   },
   {
-   "id": "THN-d28bb522",
-   "title": "LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network",
-   "url": "https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html",
+   "id": "SECAFFAIRS-35081862",
+   "title": "AdFection: Beyond the Click: Citizen Lab Exposes Ad-Delivered Spyware Networks",
+   "url": "https://securityaffairs.com/201015/hacking/adfection-beyond-the-click-citizen-lab-exposes-ad-delivered-spyware-networks.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 15 Oct 2026 14:21:49 +0000",
+   "published_date": "2026-10-15",
+   "digest": "Spyware vendors use online ad infrastructure to profile targets and deliver exploits without requiring users to click anything. The investigation links Discover…",
+   "tags": [
+    "APT组织"
+   ],
+   "title_zh": "AdFection：点击之外：公民实验室揭露广告分发间谍软件网络"
+  },
+  {
+   "id": "THN-c3a882d8",
+   "title": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams",
+   "url": "https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html",
    "source": "The Hacker News",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Tue, 13 Oct 2026 16:39:10 +0530",
-   "published_date": "2026-10-13",
-   "digest": "Three vulnerabilities in LG's webOS can be chained to give an attacker on the same local network root access to certain smart TVs without a PIN or any interacti…",
+   "published_at": "Thu, 15 Oct 2026 19:41:36 +0530",
+   "published_date": "2026-10-15",
+   "digest": "A long-running Traffic Distribution System (TDS) known as Help TDS to a Russian-language affiliate program called Hotejka, which appears to be a rebrand of a tr…",
+   "tags": [
+    "网络诈骗"
+   ],
+   "title_zh": "帮助TDS关联Hotejka 20,000多个Cloudflare页面域名托管技术支持诈骗"
+  },
+  {
+   "id": "THN-529c0830",
+   "title": "NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks",
+   "url": "https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 15 Oct 2026 18:28:05 +0530",
+   "published_date": "2026-10-15",
+   "digest": "NGINX released versions 1.30.6 and 1.31.7 on October 14 to fix five vulnerabilities, one of them present in every release since May 2005. There are three memory…",
+   "tags": [
+    "漏洞预警"
+   ],
+   "title_zh": "NGINX修复5个漏洞，包括可能的远程代码执行和一个TLS漏洞可能导致跳过客户端证书检查"
+  },
+  {
+   "id": "SECURITYWEEK-793c5584",
+   "title": "Supermarket Refrigeration Attack Widens to Copeland, Dixell Controllers",
+   "url": "https://www.securityweek.com/supermarket-refrigeration-attack-widens-to-copeland-dixell-controllers/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 15 Oct 2026 12:50:42 +0000",
+   "published_date": "2026-10-15",
+   "digest": "Roughly 700 French supermarkets were hit by the cyberattacks, for which no group has claimed responsibility. The post Supermarket Refrigeration Attack Widens to…",
    "tags": [],
-   "title_zh": "LG 智能电视可通过局域网在未授权情况下被根权限接管"
+   "title_zh": "超市冷藏攻击扩展至Copeland、Dixell控制器"
+  },
+  {
+   "id": "THN-8cd8369e",
+   "title": "Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing",
+   "url": "https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 15 Oct 2026 17:58:13 +0530",
+   "published_date": "2026-10-15",
+   "digest": "Next.js released an out-of-band security update on October 14 that fixes two critical flaws allowing unauthenticated remote code execution, along with a high-se…",
+   "tags": [
+    "漏洞预警"
+   ],
+   "title_zh": "Next.js 发布外挂补丁修复两个关键的缓存和SVG处理RCE漏洞"
+  },
+  {
+   "id": "THN-ca4f152d",
+   "title": "Drupal Patches Critical Core RCE Flaw with No-Login Path via Contributed Modules",
+   "url": "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 15 Oct 2026 17:37:20 +0530",
+   "published_date": "2026-10-15",
+   "digest": "Drupal core has a critical flaw in its Field UI module that could let an attacker run code on the site's server, and fixes were shipped on October 14 in Drupal …",
+   "tags": [
+    "漏洞预警"
+   ],
+   "title_zh": "Drupal 修复了由贡献模块引发的无登录漏洞的核心严重远程代码执行缺陷"
+  },
+  {
+   "id": "THN-c0927e81",
+   "title": "Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early",
+   "url": "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 15 Oct 2026 17:16:59 +0530",
+   "published_date": "2026-10-15",
+   "digest": "Attackers are impersonating popular AI products to distribute malware, steal browser sessions, and compromise business accounts. ANY.RUN linked 1,258 public san…",
+   "tags": [],
+   "title_zh": "假AI攻击蔓延至美国多家公司：MSSP如何早期阻止事件"
+  },
+  {
+   "id": "SECURITYWEEK-374dce95",
+   "title": "CikaBika Bot RAT Uses Discord for C&C",
+   "url": "https://www.securityweek.com/cikabika-bot-rat-uses-discord-for-cc/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 15 Oct 2026 11:25:58 +0000",
+   "published_date": "2026-10-15",
+   "digest": "Delivered via phishing, the malware provides reconnaissance, remote execution, and data exfiltration capabilities. The post CikaBika Bot RAT Uses Discord for C&…",
+   "tags": [
+    "钓鱼攻击"
+   ],
+   "title_zh": "CikaBika Bot RAT 使用 Discord 进行 C&C 通信"
+  },
+  {
+   "id": "THN-916e69e7",
+   "title": "Why AI Confidence Is Not Validation",
+   "url": "https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 15 Oct 2026 16:34:35 +0530",
+   "published_date": "2026-10-15",
+   "digest": "AI is already part of digital forensics and incident response work, with or without a policy in place to govern it. The issue is that these tools are growing mo…",
+   "tags": [
+    "安全运营"
+   ],
+   "title_zh": "为什么AI信心不代表验证"
   }
  ]
 }
