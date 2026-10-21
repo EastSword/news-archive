@@ -1,330 +1,347 @@
 {
- "generated_at": "2026-10-17 10:03",
- "total": 6807,
+ "generated_at": "2026-10-21 10:04",
+ "total": 6958,
  "items": [
   {
-   "id": "SCHNEIER-d474e486",
-   "title": "Friday Squid Blogging: Squid Before the Chicxulub Meteor Impact",
-   "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-squid-before-the-chicxulub-meteor-impact.html",
-   "source": "Schneier",
+   "id": "WORDFENCE-bf0f0e78",
+   "title": "PSA: Upcoming Critical PHP Security Release",
+   "url": "https://www.wordfence.com/blog/2026/10/psa-upcoming-critical-php-security-release/",
+   "source": "Wordfence",
    "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 16 Oct 2026 21:06:47 +0000",
-   "published_date": "2026-10-16",
-   "digest": "New research shows that squid lived all around the globe even before the Cretaceous-Paleogene mass extinction event. As usual, you can also use this squid post …",
+   "priority": "P2",
+   "published_at": "Tue, 20 Oct 2026 22:39:23 +0000",
+   "published_date": "2026-10-20",
+   "digest": "The PHP security team has issued advance notice of an upcoming critical security release, scheduled for Wednesday, October 21, 2026 at 14:00 UTC (10:00 AM Easte…",
    "tags": [],
-   "title_zh": "周五鱿鱼博客：撞击奇克辛布雷之前的鱿鱼"
+   "title_zh": "警报：即将发布的关键PHP安全更新"
   },
   {
-   "id": "VOLEXITY-741b2495",
-   "title": "Mind the (Patch) Gap , Part 3: Analysis with Volexity Volcano, Threat Intel, and MCP",
-   "url": "https://www.volexity.com/blog/2026/10/16/mind-the-patch-gap-part-3-analysis-with-volexity-volcano-threat-intel-and-mcp/",
-   "source": "Volexity",
+   "id": "WORDFENCE-e9ce8461",
+   "title": "Wordfence Argus Discovers High Severity Unauthenticated PHP Object Injection in Duplicator",
+   "url": "https://www.wordfence.com/blog/2026/10/wordfence-argus-discovers-high-severity-unauthenticated-php-object-injection-in-duplicator/",
+   "source": "Wordfence",
    "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 16 Oct 2026 18:27:25 +0000",
-   "published_date": "2026-10-16",
-   "digest": "Last month, Volexity published two blog posts in its Mind the (Patch) Gap series. The series details Volexity’s discovery of multiple Chinese threat actors simu…",
-   "tags": [],
-   "title_zh": "警惕补丁差距，第三部分：Volexity Volcano、威胁情报及MCP分析"
-  },
-  {
-   "id": "THN-11f986cc",
-   "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
-   "url": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 16 Oct 2026 23:18:45 +0530",
-   "published_date": "2026-10-16",
-   "digest": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, b…",
-   "tags": [],
-   "title_zh": "研究人员演示OpenBSD根权限漏洞链 exploit chaining 37年共享内存 bug"
-  },
-  {
-   "id": "UNIT42-4f12627d",
-   "title": "Top 5 Initial Access Threat Vectors Observed by Unit 42 in September 2026",
-   "url": "https://unit42.paloaltonetworks.com/top-5-initial-access-vectors-september-2026/",
-   "source": "Unit 42",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 16 Oct 2026 17:47:54 +0000",
-   "published_date": "2026-10-16",
-   "digest": "Unit 42 details the top initial access vectors adversaries use to breach organizations, led by edge exploits, credential abuse and phishing The post Top 5 Initi…",
+   "priority": "P2",
+   "published_at": "Tue, 20 Oct 2026 18:32:15 +0000",
+   "published_date": "2026-10-20",
+   "digest": "Wordfence Argus helped uncover CVE-2026-82814, a high-severity unauthenticated PHP object injection in Duplicator and Duplicator Pro. Update to version 5.0.0 or…",
    "tags": [
-    "钓鱼攻击",
+    "漏洞预警"
+   ],
+   "title_zh": "Wordfence Argus 发现高危未授权 PHP 对象注入漏洞（Duplicator）"
+  },
+  {
+   "id": "SECAFFAIRS-a3a2fca4",
+   "title": "Nikkei data breach affected over 1.8 million records",
+   "url": "https://securityaffairs.com/201369/data-breach/nikkei-data-breach-affected-over-1-8-million-records.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 20 Oct 2026 18:00:29 +0000",
+   "published_date": "2026-10-20",
+   "digest": "Nikkei disclosed a data breach affecting over 1.8 million records after hackers used stolen credentials to access a cloud service for system development. Japane…",
+   "tags": [
+    "数据泄露",
+    "云安全",
     "身份认证"
    ],
-   "title_zh": "2026年9月Unit 42观察到的前五大初始访问威胁向量"
+   "title_zh": "Nikkei 数据泄露影响超过180万条记录"
   },
   {
-   "id": "THN-d6e1ba04",
-   "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
-   "url": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
+   "id": "THN-9f9695e9",
+   "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
+   "url": "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html",
    "source": "The Hacker News",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Fri, 16 Oct 2026 22:13:39 +0530",
-   "published_date": "2026-10-16",
-   "digest": "Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between Ma…",
+   "published_at": "Tue, 20 Oct 2026 22:39:53 +0530",
+   "published_date": "2026-10-20",
+   "digest": "The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised, Mozilla and Google's Chrome Root Program confirms on Oct…",
    "tags": [],
-   "title_zh": "攻击者短暂篡改了AOMEI Backupper的更新服务器以分发后门"
+   "title_zh": "eMudhra八枚CA密钥被攻破，触发浏览器和软件紧急修复"
   },
   {
-   "id": "THN-e7302d91",
-   "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
-   "url": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 16 Oct 2026 21:46:44 +0530",
-   "published_date": "2026-10-16",
-   "digest": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Ta…",
-   "tags": [
-    "钓鱼攻击"
-   ],
-   "title_zh": "UAT-11985 使用假活动邀请针对台湾研究关联公司进行Google AitM 钓鱼攻击"
-  },
-  {
-   "id": "SECWIKI-7a64d907",
-   "title": "SecWiki News 2026-10-16 Review",
-   "url": "http://www.sec-wiki.com/?2026-10-16",
+   "id": "SECWIKI-b23075e2",
+   "title": "SecWiki News 2026-10-20 Review",
+   "url": "http://www.sec-wiki.com/?2026-10-20",
    "source": "SecWiki",
    "category": "网络安全",
    "priority": "P2",
-   "published_at": "\nFri, 16 Oct 2026 23:58:20 +0800",
-   "published_date": "2026-10-16",
-   "digest": "今日暂未更新资讯~ 更多最新文章，请访问 SecWiki",
+   "published_at": "\nTue, 20 Oct 2026 23:58:20 +0800",
+   "published_date": "2026-10-20",
+   "digest": "玉衡防护盾：下一代智能应用防火墙 by ourren artex-ymh: ARTEX 二次开发版:外网突破→内网纵深全流程自主渗透平台 by ourren 更多最新文章，请访问 SecWiki",
    "tags": [],
-   "title_zh": "SecWiki 新闻 2026-10-16 概览"
+   "title_zh": "SecWiki新闻2026-10-20回顾"
   },
   {
-   "id": "FREEBUF-3261f90d",
-   "title": "攻击者篡改傲梅备份更新服务器，数分钟窗口投递后门",
-   "url": "https://www.freebuf.com/news/507089.html",
-   "source": "FreeBuf",
+   "id": "SECAFFAIRS-b5b1f090",
+   "title": "Google Cloud Outage in London Disrupts Revolut Banking Services",
+   "url": "https://securityaffairs.com/201358/breaking-news/google-cloud-outage-in-london-disrupts-revolut-banking-services.html",
+   "source": "Security Affairs",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Fri, 16 Oct 2026 22:13:39 +0800",
-   "published_date": "2026-10-16",
-   "digest": "傲梅备份更新服务器遭攻击者短时篡改投毒，服务器修复后中招设备仍留后门，波及11国多行业，需全面排查阻断恶意连接。",
-   "tags": []
+   "published_at": "Tue, 20 Oct 2026 15:45:42 +0000",
+   "published_date": "2026-10-20",
+   "digest": "Google Cloud’s London outage disrupted Revolut payments and ATM withdrawals, while ING Germany reported online banking issues. Multiple Google Cloud services we…",
+   "tags": [
+    "云安全"
+   ],
+   "title_zh": "谷歌云伦敦中断影响Revolut银行服务"
   },
   {
-   "id": "SECURITYWEEK-26b360bf",
-   "title": "In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit",
-   "url": "https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/",
+   "id": "SECURITYWEEK-9d4cd693",
+   "title": "US Agencies Detail Incident Response Practices for Rogue AI Agents",
+   "url": "https://www.securityweek.com/us-agencies-detail-incident-response-practices-for-rogue-ai-agents/",
    "source": "SecurityWeek",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Fri, 16 Oct 2026 14:09:51 +0000",
-   "published_date": "2026-10-16",
-   "digest": "Noteworthy stories that might have slipped under the radar: BofA adds 1,000 patching contractors, KGB RAT pairs data theft with jump scares, and Langflow flaw u…",
+   "published_at": "Tue, 20 Oct 2026 15:45:00 +0000",
+   "published_date": "2026-10-20",
+   "digest": "NIST, CISA and NSA share ten voluntary practices for preparing for, detecting, responding to, recovering from, and reporting rogue AI agent incidents. The post …",
    "tags": [
-    "工控安全"
+    "大模型安全",
+    "监管合规",
+    "安全运营"
    ],
-   "title_zh": "其他新闻：ICS-Sniper攻击，入侵XWorm恶意软件运营者，25万美元Chrome漏洞"
+   "title_zh": "美国机构详细说明了应对 rogue AI 代理的响应实践"
   },
   {
-   "id": "SECAFFAIRS-63600d24",
-   "title": "Burger King Japan Data Breach Impacted 11 Million Customers",
-   "url": "https://securityaffairs.com/201119/security/burger-king-japan-data-breach-impacted-11-million-customers.html",
-   "source": "Security Affairs",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 16 Oct 2026 14:04:38 +0000",
-   "published_date": "2026-10-16",
-   "digest": "Burger King Japan disclosed a breach exposing 11.18 million app users’ personal data after attackers accessed its membership system in early October. Burger Kin…",
-   "tags": [
-    "数据泄露"
-   ],
-   "title_zh": "必胜客日本数据泄露影响1100万顾客"
-  },
-  {
-   "id": "THN-d29fa885",
-   "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
-   "url": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
+   "id": "THN-58eae5ce",
+   "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
+   "url": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
    "source": "The Hacker News",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Fri, 16 Oct 2026 19:33:04 +0530",
-   "published_date": "2026-10-16",
-   "digest": "OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its research m…",
+   "published_at": "Tue, 20 Oct 2026 21:08:52 +0530",
+   "published_date": "2026-10-20",
+   "digest": "Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could r…",
    "tags": [],
-   "title_zh": "OpenAI 研究模型未经许可为部署智能合约消耗了第三方测试 ETH"
+   "title_zh": "关键FortiSIEM漏洞公开远程未认证代码执行PoC"
   },
   {
-   "id": "SECAFFAIRS-cc7bccaf",
-   "title": "F5 addressed critical RCE flaws in NGINX",
-   "url": "https://securityaffairs.com/201106/security/f5-addressed-critical-rce-flaws-in-nginx.html",
-   "source": "Security Affairs",
+   "id": "THN-641b8aa6",
+   "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
+   "url": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
+   "source": "The Hacker News",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Fri, 16 Oct 2026 13:36:52 +0000",
-   "published_date": "2026-10-16",
-   "digest": "F5 addressed multiple vulnerabilities, including critical RCE flaws in NGINX that attackers could exploit without authentication. Security and application deliv…",
+   "published_at": "Tue, 20 Oct 2026 21:02:27 +0530",
+   "published_date": "2026-10-20",
+   "digest": "Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting PAN-OS and Prisma Access by ransomware ac…",
    "tags": [
-    "漏洞预警"
+    "勒索软件",
+    "身份认证"
    ],
-   "title_zh": "F5修复了NGINX中的关键RCE漏洞"
+   "title_zh": "麒麟和INC勒索软件团伙利用Palo Alto Networks漏洞绕过MFA"
   },
   {
-   "id": "SECURITYWEEK-926c0c64",
-   "title": "BAE Systems Security Incident Stalls Notices From US Bankruptcy Courts",
-   "url": "https://www.securityweek.com/bae-systems-security-incident-stalls-notices-from-us-bankruptcy-courts/",
+   "id": "CHECKPOINT-6d304f20",
+   "title": "The Risk of AI-Powered Antidetect Browsers in Online Fraud and Influence Operations",
+   "url": "https://research.checkpoint.com/2026/the-risk-of-ai-powered-antidetect-browsers-in-online-fraud-and-influence-operations/",
+   "source": "Check Point Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 20 Oct 2026 14:17:23 +0000",
+   "published_date": "2026-10-20",
+   "digest": "Key Findings Introduction Antidetect browsers conceal their users’ digital identities, enabling a single operator or small team to simultaneously run thousands …",
+   "tags": [
+    "网络诈骗"
+   ],
+   "title_zh": "AI驱动的防检测浏览器在网络欺诈和影响操作中的风险"
+  },
+  {
+   "id": "THN-670e4070",
+   "title": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
+   "url": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 20 Oct 2026 19:37:17 +0530",
+   "published_date": "2026-10-20",
+   "digest": "A Chinese-speaking criminal pointed autonomous AI agents at company websites and let them break in with almost no help, and a security researcher watched it hap…",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "黑客使用自主AI代理攻击公司网站，目标超过1,200个站点"
+  },
+  {
+   "id": "SECURITYWEEK-c94f186c",
+   "title": "AOMEI Backupper Compromised in Short-Burst Supply Chain Campaign",
+   "url": "https://www.securityweek.com/aomei-backupper-compromised-in-short-burst-supply-chain-campaign/",
    "source": "SecurityWeek",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Fri, 16 Oct 2026 11:46:40 +0000",
-   "published_date": "2026-10-16",
-   "digest": "A cyber incident affecting contractor BAE Systems has knocked out the Bankruptcy Noticing Center, halting notices nationwide for a week. The post BAE Systems Se…",
-   "tags": [],
-   "title_zh": "BAE系统公司安全事件导致美国破产法院通知暂停"
+   "published_at": "Tue, 20 Oct 2026 13:51:01 +0000",
+   "published_date": "2026-10-20",
+   "digest": "Across multiple short compromise windows, users were served a downloader for the ShinyRoad modular backdoor framework. The post AOMEI Backupper Compromised in S…",
+   "tags": [
+    "供应链攻击"
+   ],
+   "title_zh": "AOMEI Backupper在短暂供应链攻击中被 compromising"
   },
   {
-   "id": "FREEBUF-4ed43388",
-   "title": "OpenAI研究模型擅用第三方测试ETH，未经授权部署智能合约",
-   "url": "https://www.freebuf.com/articles/ai-security/507084.html",
+   "id": "FREEBUF-09832220",
+   "title": "KVM逃逸漏洞暴露Linux网络栈更广攻击面，影响多类虚拟化场景",
+   "url": "https://www.freebuf.com/articles/system/507691.html",
    "source": "FreeBuf",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Fri, 16 Oct 2026 19:33:04 +0800",
-   "published_date": "2026-10-16",
-   "digest": "OpenAI披露7起AI模型对齐失效事件：研究模型擅用第三方测试网ETH部署合约，多次绕过限制未经授权获取非公开数据。",
+   "published_at": "Tue, 20 Oct 2026 21:37:05 +0800",
+   "published_date": "2026-10-20",
+   "digest": "Linux网络栈PwnEscape漏洞可致KVM逃逸、波及多类虚拟化场景，攻击者可获取主机root权限实现完全控制，仅升级客户机无效，需尽快在主机侧打内核补丁。",
    "tags": []
   },
   {
-   "id": "THN-2b86ea0d",
-   "title": "AI Decision Models and Their Impact on AI SOC Platforms",
-   "url": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html",
+   "id": "SECURITYWEEK-67b4dbc2",
+   "title": "The Key to AI Software Security Isn’t Speed, It’s Maturity",
+   "url": "https://www.securityweek.com/the-key-to-ai-software-security-isnt-speed-its-maturity/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 20 Oct 2026 13:34:23 +0000",
+   "published_date": "2026-10-20",
+   "digest": "Where your developers sit on the AI adoption scale has a real impact on how you are addressing security risk. The post The Key to AI Software Security Isn’t Spe…",
+   "tags": [],
+   "title_zh": "AI软件安全的关键不在于速度而在于成熟度"
+  },
+  {
+   "id": "SECURITYWEEK-a1c27d82",
+   "title": "Ahold Delhaize Restoring Services Disrupted by Cyberattack",
+   "url": "https://www.securityweek.com/ahold-delhaize-restoring-services-disrupted-by-cyberattack/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 20 Oct 2026 13:02:18 +0000",
+   "published_date": "2026-10-20",
+   "digest": "The company has restored many websites and apps in Europe and expects e-commerce brands in the US to be restored in days. The post Ahold Delhaize Restoring Serv…",
+   "tags": [],
+   "title_zh": "Ahold Delhaize 服务恢复受网络攻击干扰"
+  },
+  {
+   "id": "THN-0a7ec541",
+   "title": "Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election",
+   "url": "https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html",
    "source": "The Hacker News",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Fri, 16 Oct 2026 17:00:00 +0530",
-   "published_date": "2026-10-16",
-   "digest": "In the space of a month, a new category of AI model went from nonexistent to everywhere. TypeSafe AI released Jev on September 15 and called it a System One mod…",
-   "tags": [],
-   "title_zh": "人工智能决策模型及其对AI安全运营平台的影响"
+   "published_at": "Tue, 20 Oct 2026 18:29:44 +0530",
+   "published_date": "2026-10-20",
+   "digest": "The iPhone of Vladan Đokić, rector of the University of Belgrade and a prominent supporter of Serbia's student protest movement, was infected with NSO Group's P…",
+   "tags": [
+    "APT组织",
+    "移动安全"
+   ],
+   "title_zh": "塞尔维亚大学校长iPhone确认感染Pegasus间谍软件数日前即将举行选举"
   },
   {
-   "id": "SECAFFAIRS-cdbbf43c",
-   "title": "U.S. CISA adds Atlassian flaw to its Known Exploited Vulnerabilities catalog",
-   "url": "https://securityaffairs.com/201086/hacking/u-s-cisa-adds-atlassian-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
-   "source": "Security Affairs",
+   "id": "SECURITYWEEK-9c965e3b",
+   "title": "AI Platform Cairn Abused to Hack Over 100 Organizations",
+   "url": "https://www.securityweek.com/ai-platform-cairn-abused-to-hack-over-100-organizations/",
+   "source": "SecurityWeek",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Fri, 16 Oct 2026 11:05:55 +0000",
-   "published_date": "2026-10-16",
-   "digest": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Atlassian flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infr…",
-   "tags": [
-    "监管合规"
-   ],
-   "title_zh": "美国CISA将Atlassian漏洞添加到已知被利用漏洞目录中"
+   "published_at": "Tue, 20 Oct 2026 12:47:22 +0000",
+   "published_date": "2026-10-20",
+   "digest": "At least three threat actors have been abusing Cairn for persistent access and financial theft. The post AI Platform Cairn Abused to Hack Over 100 Organizations…",
+   "tags": [],
+   "title_zh": "AI平台Cairn被滥用攻击逾百组织"
   },
   {
-   "id": "SCHNEIER-1706e33c",
-   "title": "Backdooring Open-Weight AI Models",
-   "url": "https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html",
+   "id": "SECURITYWEEK-639dbbb9",
+   "title": "Ex-OpenAI Worker Accused of Bugging Conference Room Planned to Fly to Saudi Arabia, Prosecutors Say",
+   "url": "https://www.securityweek.com/ex-openai-worker-accused-of-bugging-conference-room-planned-to-fly-to-saudi-arabia-prosecutors-say/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 20 Oct 2026 12:33:12 +0000",
+   "published_date": "2026-10-20",
+   "digest": "Abdulrahman Alfozan’s wife and young son also left the country the day after the 35-year-old Saudi national’s arrest. The post Ex-OpenAI Worker Accused of Buggi…",
+   "tags": [],
+   "title_zh": "前OpenAI员工涉嫌窃听会议室事件计划飞往沙特阿拉伯，检方称"
+  },
+  {
+   "id": "THN-39cb5c30",
+   "title": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators",
+   "url": "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 20 Oct 2026 17:11:06 +0530",
+   "published_date": "2026-10-20",
+   "digest": "WhatsApp's help pages carried hidden instructions for its support chatbot that told it not to recommend a data protection authority or regulator to users who co…",
+   "tags": [],
+   "title_zh": "WhatsApp 在帮助页面中隐藏指令告知其AI聊天机器人不要推荐隐私监管机构"
+  },
+  {
+   "id": "THN-d5e8e42e",
+   "title": "What Security Teams Can Do To Tame Wild Code",
+   "url": "https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 20 Oct 2026 17:03:04 +0530",
+   "published_date": "2026-10-20",
+   "digest": "A sales manager builds an AI-assisted workflow to route leads. It connects to customer records, summarizes inbound requests, and posts updates to a shared chann…",
+   "tags": [],
+   "title_zh": "安全团队如何驯服野码"
+  },
+  {
+   "id": "THN-179a7337",
+   "title": "Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns",
+   "url": "https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 20 Oct 2026 17:02:59 +0530",
+   "published_date": "2026-10-20",
+   "digest": "Go 1.27.3 and Go 1.26.10, released on October 20, make Go's certificate verifier reject any certificate chain that passes through one of eight intermediate cert…",
+   "tags": [],
+   "title_zh": "Go 发布紧急更新阻止八个CA密钥因未披露的安全问题"
+  },
+  {
+   "id": "SECURITYWEEK-84f8cb44",
+   "title": "Microsoft Targets Rogue AI Agents With Dynamic Permissions, Risk Scoring",
+   "url": "https://www.securityweek.com/microsoft-targets-rogue-ai-agents-with-dynamic-permissions-risk-scoring/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 20 Oct 2026 11:30:18 +0000",
+   "published_date": "2026-10-20",
+   "digest": "Microsoft says companies should treat AI agents as insiders, and is adding controls that grant access per task and tighten it as an agent’s risk rises. The post…",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "微软通过动态权限和风险评分针对假冒AI代理展开行动"
+  },
+  {
+   "id": "THN-e4c32e20",
+   "title": "Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader",
+   "url": "https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 20 Oct 2026 16:36:25 +0530",
+   "published_date": "2026-10-20",
+   "digest": "The Russia-linked state-sponsored threat actor tracked as APT28 (aka BlueDelta, Fancy Bear, and Forest Blizzard) has been attributed to attacks targeting two me…",
+   "tags": [
+    "APT组织"
+   ],
+   "title_zh": "俄罗斯APT28渗透北约国家的海军舰船制造商，部署新型反射加载器"
+  },
+  {
+   "id": "SCHNEIER-85549ffb",
+   "title": "Possible new Cellebrite iPhone Radio Zero-Day",
+   "url": "https://www.schneier.com/blog/archives/2026/10/possible-new-cellebrite-iphone-radio-zero-day.html",
    "source": "Schneier",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Fri, 16 Oct 2026 11:04:53 +0000",
-   "published_date": "2026-10-16",
-   "digest": "This is a problem: Any open model whose weights have been edited can carry a backdoor, whether it’s a task-specific fine-tune, a merged adapter or an abliterate…",
-   "tags": [],
-   "title_zh": "开放权重AI模型后门插入"
-  },
-  {
-   "id": "SECURITYWEEK-1f42c79f",
-   "title": "Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day",
-   "url": "https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 16 Oct 2026 10:53:22 +0000",
-   "published_date": "2026-10-16",
-   "digest": "Armory Castle exploited CVE-2026-102764 for initial access, deployed custom tools, and deleted logs and artifacts. The post Chinese APT Exploited BeyondTrust Vu…",
+   "published_at": "Tue, 20 Oct 2026 11:03:13 +0000",
+   "published_date": "2026-10-20",
+   "digest": "Justin.sh is reporting on a confidential Cellebrite document that has been leaked to him: Cellebrite calls it Advanced Unlocks (AU from here on), not to be conf…",
    "tags": [
-    "漏洞预警"
+    "移动安全"
    ],
-   "title_zh": "中国APT利用BeyondTrust漏洞作为零日攻击"
-  },
-  {
-   "id": "SECURITYWEEK-ab68b19d",
-   "title": "OpenAI Models Hacked Data Portals, Raided a Crypto Wallet to Finish Tasks",
-   "url": "https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 16 Oct 2026 10:32:11 +0000",
-   "published_date": "2026-10-16",
-   "digest": "Left without funds for a coding task, an OpenAI model spent test crypto from a stranger’s wallet and left it out of its report. The post OpenAI Models Hacked Da…",
-   "tags": [],
-   "title_zh": "OpenAI模型黑客攻击数据门户，劫掠加密钱包以完成任务"
-  },
-  {
-   "id": "NSFOCUS-3506815e",
-   "title": "AI双轮驱动安全方案登陆亚太：绿盟科技亮相GovWare 2026",
-   "url": "https://blog.nsfocus.net/ai%e5%8f%8c%e8%bd%ae%e9%a9%b1%e5%8a%a8%e5%ae%89%e5%85%a8%e6%96%b9%e6%a1%88%e7%99%bb%e9%99%86%e4%ba%9a%e5%a4%aa%ef%bc%9a%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e4%ba%ae%e7%9b%b8govware-2026/",
-   "source": "绿盟科技博客",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 16 Oct 2026 10:13:50 +0000",
-   "published_date": "2026-10-16",
-   "digest": "10月13-15日，亚太顶级网络安全盛会 GovWare在新加坡金沙会展中心顺利召开。作为亚太区域最具影响力的... » 阅读全文",
-   "tags": []
-  },
-  {
-   "id": "NSFOCUS-1071ebd3",
-   "title": "绿盟科技（含亿赛通）入选数说安全《2026年中国网络安全市场全景图》92个细分领域，AI安全能力表现亮眼",
-   "url": "https://blog.nsfocus.net/%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%ef%bc%88%e5%90%ab%e4%ba%bf%e8%b5%9b%e9%80%9a%ef%bc%89%e5%85%a5%e9%80%89%e6%95%b0%e8%af%b4%e5%ae%89%e5%85%a8%e3%80%8a2026%e5%b9%b4%e4%b8%ad%e5%9b%bd%e7%bd%91/",
-   "source": "绿盟科技博客",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 16 Oct 2026 10:04:39 +0000",
-   "published_date": "2026-10-16",
-   "digest": "10月14日，数说安全正式发布《2026年中国网络安全市场全景图》（以下简称“全景图”）。本次全景图在基础资质... » 阅读全文",
-   "tags": []
-  },
-  {
-   "id": "SECURITYWEEK-3d2cc7e6",
-   "title": "F5, Juniper Networks Patch Critical Vulnerabilities",
-   "url": "https://www.securityweek.com/f5-juniper-networks-patch-critical-vulnerabilities/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 16 Oct 2026 09:54:34 +0000",
-   "published_date": "2026-10-16",
-   "digest": "Successful exploitation of some of these issues could lead to remote code execution and full device takeover. The post F5, Juniper Networks Patch Critical Vulne…",
-   "tags": [],
-   "title_zh": "F5, Juniper Networks 修复严重漏洞"
-  },
-  {
-   "id": "FREEBUF-7544289c",
-   "title": "HW 蓝队·53 端口上的隐蔽通道：DNS 隧道 C2 流量溯源 5 层方法",
-   "url": "https://www.freebuf.com/articles/ai-security/506973.html",
-   "source": "FreeBuf",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 16 Oct 2026 17:20:24 +0800",
-   "published_date": "2026-10-16",
-   "digest": "攻击者利用了 DNS 协议\"几乎不可封禁\"的特性，把 C2 通信编码在子域名和 TXT 响应里，走 53 端口绕过了所有出口过滤。",
-   "tags": [
-    "安全运营"
-   ]
-  },
-  {
-   "id": "SECAFFAIRS-77cd7e7b",
-   "title": "PEERSTITCH malware: How Attackers Compromised 500 Firewalls Through FortiManager",
-   "url": "https://securityaffairs.com/201077/malware/peerstitch-malware-how-attackers-compromised-500-firewalls-through-fortimanager.html",
-   "source": "Security Affairs",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 16 Oct 2026 09:08:57 +0000",
-   "published_date": "2026-10-16",
-   "digest": "PEERSTITCH malware exploited FortiManager to expose 500+ firewalls, evade detection inside FortiOS memory, and maintain stealthy access. PEERSTITCH, a stealthy …",
-   "tags": [],
-   "title_zh": "PEERSTITCH恶意软件：攻击者如何通过FortiManager渗透500台防火墙"
+   "title_zh": "可能的新Cellebrite iPhone Radio 零日漏洞"
   }
  ]
 }
