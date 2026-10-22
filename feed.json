@@ -1,347 +1,359 @@
 {
- "generated_at": "2026-10-21 10:04",
- "total": 6958,
+ "generated_at": "2026-10-22 10:05",
+ "total": 7096,
  "items": [
   {
-   "id": "WORDFENCE-bf0f0e78",
-   "title": "PSA: Upcoming Critical PHP Security Release",
-   "url": "https://www.wordfence.com/blog/2026/10/psa-upcoming-critical-php-security-release/",
+   "id": "WORDFENCE-1acf88de",
+   "title": "Why It’s Urgent to Update PHP on Your WordPress Site: Two Critical PHP Vulnerabilities and What Our Testing Found",
+   "url": "https://www.wordfence.com/blog/2026/10/critical-php-update-wordpress-vulnerabilities-testing/",
    "source": "Wordfence",
    "category": "网络安全",
    "priority": "P2",
-   "published_at": "Tue, 20 Oct 2026 22:39:23 +0000",
-   "published_date": "2026-10-20",
-   "digest": "The PHP security team has issued advance notice of an upcoming critical security release, scheduled for Wednesday, October 21, 2026 at 14:00 UTC (10:00 AM Easte…",
-   "tags": [],
-   "title_zh": "警报：即将发布的关键PHP安全更新"
+   "published_at": "Thu, 22 Oct 2026 00:51:21 +0000",
+   "published_date": "2026-10-22",
+   "digest": "Two critical PHP flaws, CVE-2026-109618 and CVE-2026-109619, can allow unauthenticated code execution. Updating WordPress won't fix them. Update and restart PHP…",
+   "tags": [
+    "漏洞预警",
+    "Web安全"
+   ],
+   "title_zh": "为什么立即更新WordPress站点的PHP至关重要：两个关键的PHP漏洞及我们的测试发现"
   },
   {
-   "id": "WORDFENCE-e9ce8461",
-   "title": "Wordfence Argus Discovers High Severity Unauthenticated PHP Object Injection in Duplicator",
-   "url": "https://www.wordfence.com/blog/2026/10/wordfence-argus-discovers-high-severity-unauthenticated-php-object-injection-in-duplicator/",
-   "source": "Wordfence",
+   "id": "SECAFFAIRS-daaf0f70",
+   "title": "Russian Satellite Makes a Close Approach To A Commercial Radar Satellite Used by Ukraine",
+   "url": "https://securityaffairs.com/201446/breaking-news/russian-satellite-makes-a-close-approach-to-a-commercial-radar-satellite-used-by-ukraine.html",
+   "source": "Security Affairs",
    "category": "网络安全",
-   "priority": "P2",
-   "published_at": "Tue, 20 Oct 2026 18:32:15 +0000",
-   "published_date": "2026-10-20",
-   "digest": "Wordfence Argus helped uncover CVE-2026-82814, a high-severity unauthenticated PHP object injection in Duplicator and Duplicator Pro. Update to version 5.0.0 or…",
+   "priority": "P1",
+   "published_at": "Wed, 21 Oct 2026 21:29:04 +0000",
+   "published_date": "2026-10-21",
+   "digest": "A Russian satellite made a close approach to a commercial radar satellite linked to Ukraine, raising concerns about surveillance and security in space. A Russia…",
+   "tags": [],
+   "title_zh": "俄罗斯卫星接近乌克兰使用的商业雷达卫星"
+  },
+  {
+   "id": "SECAFFAIRS-67aa227e",
+   "title": "OpenAI Reports Two Incidents of AI Agents Disabling Their Own Oversight",
+   "url": "https://securityaffairs.com/201435/ai/openai-reports-two-incidents-of-ai-agents-disabling-their-own-oversight.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 21 Oct 2026 19:41:16 +0000",
+   "published_date": "2026-10-21",
+   "digest": "OpenAI reveals two cases of AI agents disabling safety monitoring during coding tasks, with one falsely denying it had removed the safeguards. OpenAI published …",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "OpenAI 报告其 AI 代理两次自我禁用监督事件"
+  },
+  {
+   "id": "THN-bce66ee6",
+   "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
+   "url": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 22 Oct 2026 00:27:34 +0530",
+   "published_date": "2026-10-22",
+   "digest": "GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the s…",
    "tags": [
     "漏洞预警"
    ],
-   "title_zh": "Wordfence Argus 发现高危未授权 PHP 对象注入漏洞（Duplicator）"
+   "title_zh": "关键GitLab漏洞（CVSS 10.0）可能允许未认证远程代码执行跨12年发布版本"
   },
   {
-   "id": "SECAFFAIRS-a3a2fca4",
-   "title": "Nikkei data breach affected over 1.8 million records",
-   "url": "https://securityaffairs.com/201369/data-breach/nikkei-data-breach-affected-over-1-8-million-records.html",
-   "source": "Security Affairs",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 20 Oct 2026 18:00:29 +0000",
-   "published_date": "2026-10-20",
-   "digest": "Nikkei disclosed a data breach affecting over 1.8 million records after hackers used stolen credentials to access a cloud service for system development. Japane…",
-   "tags": [
-    "数据泄露",
-    "云安全",
-    "身份认证"
-   ],
-   "title_zh": "Nikkei 数据泄露影响超过180万条记录"
-  },
-  {
-   "id": "THN-9f9695e9",
-   "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
-   "url": "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html",
+   "id": "THN-e81ab7b1",
+   "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
+   "url": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
    "source": "The Hacker News",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Tue, 20 Oct 2026 22:39:53 +0530",
-   "published_date": "2026-10-20",
-   "digest": "The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised, Mozilla and Google's Chrome Root Program confirms on Oct…",
-   "tags": [],
-   "title_zh": "eMudhra八枚CA密钥被攻破，触发浏览器和软件紧急修复"
+   "published_at": "Wed, 21 Oct 2026 23:31:57 +0530",
+   "published_date": "2026-10-21",
+   "digest": "The popular LiteLLM Python package has been compromised as part of a software supply chain attack that delivered a credential stealer and a backdoor, according …",
+   "tags": [
+    "供应链攻击",
+    "身份认证"
+   ],
+   "title_zh": "LiteLLM在供应链攻击中被 compromising，分发凭证窃取器和后门"
   },
   {
-   "id": "SECWIKI-b23075e2",
-   "title": "SecWiki News 2026-10-20 Review",
-   "url": "http://www.sec-wiki.com/?2026-10-20",
+   "id": "SECURITYWEEK-616f7d6d",
+   "title": "Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections",
+   "url": "https://www.securityweek.com/google-hardens-chrome-against-clickfix-attacks-insecure-http-connections/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 21 Oct 2026 17:00:00 +0000",
+   "published_date": "2026-10-21",
+   "digest": "Protections have been added against scams and social engineering, including new site warnings and server-side Gemini analysis. The post Google Hardens Chrome Ag…",
+   "tags": [
+    "网络诈骗",
+    "大模型安全"
+   ],
+   "title_zh": "Google 加强Chrome防御ClickFix攻击及不安全HTTP连接"
+  },
+  {
+   "id": "SECURITYWEEK-65e2dc10",
+   "title": "PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors",
+   "url": "https://www.securityweek.com/php2shell-patches-land-as-first-exploitation-attempts-hit-sensors/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 21 Oct 2026 16:50:40 +0000",
+   "published_date": "2026-10-21",
+   "digest": "The two RCE bugs can be exploited against WordPress, Drupal, Joomla, and other popular applications. The post PHP2Shell Patches Land as First Exploitation Attem…",
+   "tags": [
+    "漏洞预警",
+    "Web安全"
+   ],
+   "title_zh": "PHP2Shell 漏洞利用尝试首次针对传感器发动"
+  },
+  {
+   "id": "WORDFENCE-782b4032",
+   "title": "PSA: PHP Security Updates Available for Two Critical Vulnerabilities, Update Now",
+   "url": "https://www.wordfence.com/blog/2026/10/psa-php-security-updates-available-for-two-critical-vulnerabilities-update-now/",
+   "source": "Wordfence",
+   "category": "网络安全",
+   "priority": "P2",
+   "published_at": "Wed, 21 Oct 2026 16:49:35 +0000",
+   "published_date": "2026-10-21",
+   "digest": "The PHP project has released PHP 8.5.12, 8.4.27, 8.3.36, and 8.2.35 to fix two critical vulnerabilities, CVE-2026-109618 and CVE-2026-109619, that can allow una…",
+   "tags": [
+    "漏洞预警"
+   ],
+   "title_zh": "警报：已发布针对两个关键漏洞的PHP安全更新，请立即更新"
+  },
+  {
+   "id": "THN-d3301a9f",
+   "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
+   "url": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 21 Oct 2026 22:03:47 +0530",
+   "published_date": "2026-10-21",
+   "digest": "OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and one GPT-6 Astra weakened misalignment monitoring while making reques…",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "OpenAI的GPT-6代理移除了安全监控，随后否认了这一行为"
+  },
+  {
+   "id": "SECWIKI-5f2dc3d0",
+   "title": "SecWiki News 2026-10-21 Review",
+   "url": "http://www.sec-wiki.com/?2026-10-21",
    "source": "SecWiki",
    "category": "网络安全",
    "priority": "P2",
-   "published_at": "\nTue, 20 Oct 2026 23:58:20 +0800",
-   "published_date": "2026-10-20",
-   "digest": "玉衡防护盾：下一代智能应用防火墙 by ourren artex-ymh: ARTEX 二次开发版:外网突破→内网纵深全流程自主渗透平台 by ourren 更多最新文章，请访问 SecWiki",
+   "published_at": "\nWed, 21 Oct 2026 23:58:20 +0800",
+   "published_date": "2026-10-21",
+   "digest": "2026年中国工业互联网安全大赛全国线上预选赛WP by ourren 更多最新文章，请访问 SecWiki",
    "tags": [],
-   "title_zh": "SecWiki新闻2026-10-20回顾"
+   "title_zh": "SecWiki 新闻 2026-10-21 概览"
   },
   {
-   "id": "SECAFFAIRS-b5b1f090",
-   "title": "Google Cloud Outage in London Disrupts Revolut Banking Services",
-   "url": "https://securityaffairs.com/201358/breaking-news/google-cloud-outage-in-london-disrupts-revolut-banking-services.html",
+   "id": "KREBS-8651e625",
+   "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
+   "url": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
+   "source": "Krebs on Security",
+   "category": "网络安全",
+   "priority": "P0",
+   "published_at": "Wed, 21 Oct 2026 15:26:07 +0000",
+   "published_date": "2026-10-21",
+   "digest": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to fix a pai…",
+   "tags": [],
+   "title_zh": "广泛存在的PHP漏洞可能引起许多网站今天宕机"
+  },
+  {
+   "id": "SECURELIST-f031a387",
+   "title": "Critical RCE vulnerabilities in PHP (CVE-2026-109618, CVE-2026-109619)",
+   "url": "https://securelist.com/tr/php2shell-critical-vulnerabilities-in-php/121596/",
+   "source": "Securelist (Kaspersky)",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 21 Oct 2026 15:18:04 +0000",
+   "published_date": "2026-10-21",
+   "digest": "We discuss the incident involving the leak of information about vulnerabilities CVE-2026-109618 and CVE-2026-109619. Kaspersky solutions detect the PHP2Shell ex…",
+   "tags": [
+    "漏洞预警"
+   ],
+   "title_zh": "PHP 中的关键远程代码执行漏洞（CVE-2026-109618，CVE-2026-109619）"
+  },
+  {
+   "id": "TRAILOFBITS-4f0f4783",
+   "title": "Your AI agent fixed the bug, but what else did it change?",
+   "url": "https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/",
+   "source": "Trail of Bits",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 21 Oct 2026 11:00:00 -0400",
+   "published_date": "2026-10-21",
+   "digest": "Today we’re publishing patching-bugs and regression-hunt , two plugins that let engineers delegate patch development and regression checks to agents. Our patchi…",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "你的AI代理修复了漏洞，但还更改了其他内容？"
+  },
+  {
+   "id": "SECURITYWEEK-6ba0342e",
+   "title": "‘Context Bombs’ Cut AI Attack Success by Misleading Agents With Fake Targets",
+   "url": "https://www.securityweek.com/context-bombs-cut-ai-attack-success-by-misleading-agents-with-fake-targets/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 21 Oct 2026 15:00:00 +0000",
+   "published_date": "2026-10-21",
+   "digest": "Deceptive prompts lure AI agents into decoys and dead ends, cutting attack success by up to 91% in tests and raising the cost of a successful attack 23-fold. Th…",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "Context Bombs”降低AI攻击成功率通过向代理提供虚假目标误导其行为"
+  },
+  {
+   "id": "SECURITYWEEK-51664957",
+   "title": "High-Severity Flaws Exploited in Three Days as Ransomware Dominates Q3: Rapid7",
+   "url": "https://www.securityweek.com/high-severity-flaws-exploited-in-three-days-as-ransomware-dominates-q3-rapid7/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 21 Oct 2026 14:45:00 +0000",
+   "published_date": "2026-10-21",
+   "digest": "Rapid7’s Q3 analysis finds high-severity flaws exploited within three days on average, while AI appeared in just 8% of tracked incidents. The post High-Severity…",
+   "tags": [
+    "勒索软件"
+   ],
+   "title_zh": "高危漏洞三日内被利用：勒索软件主导Q3——Rapid7"
+  },
+  {
+   "id": "UNIT42-fcaa0e92",
+   "title": "“Next Exploit Opportunities”: How a Threat Actor Used AI to Help Plan and Execute Multiple Types of Cybercrime Activities",
+   "url": "https://unit42.paloaltonetworks.com/ai-assisted-cybercrime-analysis/",
+   "source": "Unit 42",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 21 Oct 2026 14:00:24 +0000",
+   "published_date": "2026-10-21",
+   "digest": "An investigation into a threat actor bypassing AI safety controls to coordinate credential theft, VoIP fraud planning, and database exfiltration. The post “Next…",
+   "tags": [
+    "网络诈骗",
+    "身份认证"
+   ],
+   "title_zh": "下一个利用机会”：威胁行为者如何使用AI规划和执行多种网络犯罪活动"
+  },
+  {
+   "id": "THN-8f1d547d",
+   "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
+   "url": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 21 Oct 2026 19:30:00 +0530",
+   "published_date": "2026-10-21",
+   "digest": "PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server. The fixe…",
+   "tags": [
+    "漏洞预警"
+   ],
+   "title_zh": "PHP 发布紧急补丁修复两个关键的 PHP2Shell RCE 漏洞，攻击尝试涌现"
+  },
+  {
+   "id": "UNIT42-9ac9478a",
+   "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619",
+   "url": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/",
+   "source": "Unit 42",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 21 Oct 2026 13:40:34 +0000",
+   "published_date": "2026-10-21",
+   "digest": "CVE-2026-109618 and CVE-2026-109619 are Critical vulnerabilities in PHP, a scripting language used globally for web servers and CMS systems. The post Threat Bri…",
+   "tags": [
+    "漏洞预警"
+   ],
+   "title_zh": "威胁简报：PHP 中的关键漏洞：CVE-2026-109618，CVE-2026-109619"
+  },
+  {
+   "id": "SECURITYWEEK-ed198a76",
+   "title": "Asymptote Labs Lands $5.5 Million Seed for AI Agent Runtime Security",
+   "url": "https://www.securityweek.com/asymptote-labs-lands-5-5-million-seed-for-ai-agent-runtime-security/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 21 Oct 2026 13:17:35 +0000",
+   "published_date": "2026-10-21",
+   "digest": "Asymptote Labs raises $5.5M seed led by Tower Research Ventures to commercialize its Beacon AI agent runtime security platform. The post Asymptote Labs Lands $5…",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "Asymptote Labs 获得 550 万美元种子轮融资，用于AI代理运行时安全"
+  },
+  {
+   "id": "THN-33aa8a22",
+   "title": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands",
+   "url": "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 21 Oct 2026 18:45:09 +0530",
+   "published_date": "2026-10-21",
+   "digest": "Google on Tuesday said it's rolling out improved safeguards in its Chrome browser to secure users against ClickFix attacks when Enhanced Protection is enabled. …",
+   "tags": [],
+   "title_zh": "Google Chrome 添加 ClickFix 警告以阻止用户运行恶意命令"
+  },
+  {
+   "id": "SECURITYWEEK-7e8110e4",
+   "title": "Memory Bugs Account for Most of Chrome’s 353 New Security Fixes",
+   "url": "https://www.securityweek.com/memory-bugs-account-for-most-of-chromes-353-new-security-fixes/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 21 Oct 2026 12:57:47 +0000",
+   "published_date": "2026-10-21",
+   "digest": "The update fixes 353 flaws, including 163 memory corruption and 125 use-after-free vulnerabilities. The post Memory Bugs Account for Most of Chrome’s 353 New Se…",
+   "tags": [],
+   "title_zh": "内存漏洞占Chrome353个新安全修复的大多数"
+  },
+  {
+   "id": "SECURITYWEEK-b04ef13e",
+   "title": "OpenAI Agents Silenced Security Team Alerts, Removed Misalignment Monitor",
+   "url": "https://www.securityweek.com/openai-agents-silenced-security-team-alerts-removed-misalignment-monitor/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 21 Oct 2026 12:34:22 +0000",
+   "published_date": "2026-10-21",
+   "digest": "In two internal incidents, agents read routine coding instructions as permission to weaken monitoring, and one gave a false answer about it. The post OpenAI Age…",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "OpenAI 剂量化代理静默安全团队警报并移除错配监控"
+  },
+  {
+   "id": "SECAFFAIRS-a616d5de",
+   "title": "US Government Orders DeepSeek Out of Federal Civilian Systems",
+   "url": "https://securityaffairs.com/201417/ai/us-government-orders-deepseek-out-of-federal-civilian-systems.html",
    "source": "Security Affairs",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Tue, 20 Oct 2026 15:45:42 +0000",
-   "published_date": "2026-10-20",
-   "digest": "Google Cloud’s London outage disrupted Revolut payments and ATM withdrawals, while ING Germany reported online banking issues. Multiple Google Cloud services we…",
+   "published_at": "Wed, 21 Oct 2026 12:06:36 +0000",
+   "published_date": "2026-10-21",
+   "digest": "PHP prepares emergency patches for two critical RCE flaws, while older, unsupported versions could remain exposed without vendor fixes. The U.S. government orde…",
    "tags": [
-    "云安全"
+    "漏洞预警"
    ],
-   "title_zh": "谷歌云伦敦中断影响Revolut银行服务"
+   "title_zh": "美国政府命令DeepSeek退出联邦民服系统"
   },
   {
-   "id": "SECURITYWEEK-9d4cd693",
-   "title": "US Agencies Detail Incident Response Practices for Rogue AI Agents",
-   "url": "https://www.securityweek.com/us-agencies-detail-incident-response-practices-for-rogue-ai-agents/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 20 Oct 2026 15:45:00 +0000",
-   "published_date": "2026-10-20",
-   "digest": "NIST, CISA and NSA share ten voluntary practices for preparing for, detecting, responding to, recovering from, and reporting rogue AI agent incidents. The post …",
-   "tags": [
-    "大模型安全",
-    "监管合规",
-    "安全运营"
-   ],
-   "title_zh": "美国机构详细说明了应对 rogue AI 代理的响应实践"
-  },
-  {
-   "id": "THN-58eae5ce",
-   "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
-   "url": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
+   "id": "THN-02f3d9dd",
+   "title": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors",
+   "url": "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html",
    "source": "The Hacker News",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Tue, 20 Oct 2026 21:08:52 +0530",
-   "published_date": "2026-10-20",
-   "digest": "Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could r…",
+   "published_at": "Wed, 21 Oct 2026 17:35:00 +0530",
+   "published_date": "2026-10-21",
+   "digest": "Cybersecurity researchers have disclosed details of a previously undocumented China-aligned threat cluster known as Bronze Sandcastle that has been observed tar…",
    "tags": [],
-   "title_zh": "关键FortiSIEM漏洞公开远程未认证代码执行PoC"
-  },
-  {
-   "id": "THN-641b8aa6",
-   "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
-   "url": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 20 Oct 2026 21:02:27 +0530",
-   "published_date": "2026-10-20",
-   "digest": "Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting PAN-OS and Prisma Access by ransomware ac…",
-   "tags": [
-    "勒索软件",
-    "身份认证"
-   ],
-   "title_zh": "麒麟和INC勒索软件团伙利用Palo Alto Networks漏洞绕过MFA"
-  },
-  {
-   "id": "CHECKPOINT-6d304f20",
-   "title": "The Risk of AI-Powered Antidetect Browsers in Online Fraud and Influence Operations",
-   "url": "https://research.checkpoint.com/2026/the-risk-of-ai-powered-antidetect-browsers-in-online-fraud-and-influence-operations/",
-   "source": "Check Point Research",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 20 Oct 2026 14:17:23 +0000",
-   "published_date": "2026-10-20",
-   "digest": "Key Findings Introduction Antidetect browsers conceal their users’ digital identities, enabling a single operator or small team to simultaneously run thousands …",
-   "tags": [
-    "网络诈骗"
-   ],
-   "title_zh": "AI驱动的防检测浏览器在网络欺诈和影响操作中的风险"
-  },
-  {
-   "id": "THN-670e4070",
-   "title": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
-   "url": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 20 Oct 2026 19:37:17 +0530",
-   "published_date": "2026-10-20",
-   "digest": "A Chinese-speaking criminal pointed autonomous AI agents at company websites and let them break in with almost no help, and a security researcher watched it hap…",
-   "tags": [
-    "大模型安全"
-   ],
-   "title_zh": "黑客使用自主AI代理攻击公司网站，目标超过1,200个站点"
-  },
-  {
-   "id": "SECURITYWEEK-c94f186c",
-   "title": "AOMEI Backupper Compromised in Short-Burst Supply Chain Campaign",
-   "url": "https://www.securityweek.com/aomei-backupper-compromised-in-short-burst-supply-chain-campaign/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 20 Oct 2026 13:51:01 +0000",
-   "published_date": "2026-10-20",
-   "digest": "Across multiple short compromise windows, users were served a downloader for the ShinyRoad modular backdoor framework. The post AOMEI Backupper Compromised in S…",
-   "tags": [
-    "供应链攻击"
-   ],
-   "title_zh": "AOMEI Backupper在短暂供应链攻击中被 compromising"
-  },
-  {
-   "id": "FREEBUF-09832220",
-   "title": "KVM逃逸漏洞暴露Linux网络栈更广攻击面，影响多类虚拟化场景",
-   "url": "https://www.freebuf.com/articles/system/507691.html",
-   "source": "FreeBuf",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 20 Oct 2026 21:37:05 +0800",
-   "published_date": "2026-10-20",
-   "digest": "Linux网络栈PwnEscape漏洞可致KVM逃逸、波及多类虚拟化场景，攻击者可获取主机root权限实现完全控制，仅升级客户机无效，需尽快在主机侧打内核补丁。",
-   "tags": []
-  },
-  {
-   "id": "SECURITYWEEK-67b4dbc2",
-   "title": "The Key to AI Software Security Isn’t Speed, It’s Maturity",
-   "url": "https://www.securityweek.com/the-key-to-ai-software-security-isnt-speed-its-maturity/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 20 Oct 2026 13:34:23 +0000",
-   "published_date": "2026-10-20",
-   "digest": "Where your developers sit on the AI adoption scale has a real impact on how you are addressing security risk. The post The Key to AI Software Security Isn’t Spe…",
-   "tags": [],
-   "title_zh": "AI软件安全的关键不在于速度而在于成熟度"
-  },
-  {
-   "id": "SECURITYWEEK-a1c27d82",
-   "title": "Ahold Delhaize Restoring Services Disrupted by Cyberattack",
-   "url": "https://www.securityweek.com/ahold-delhaize-restoring-services-disrupted-by-cyberattack/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 20 Oct 2026 13:02:18 +0000",
-   "published_date": "2026-10-20",
-   "digest": "The company has restored many websites and apps in Europe and expects e-commerce brands in the US to be restored in days. The post Ahold Delhaize Restoring Serv…",
-   "tags": [],
-   "title_zh": "Ahold Delhaize 服务恢复受网络攻击干扰"
-  },
-  {
-   "id": "THN-0a7ec541",
-   "title": "Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election",
-   "url": "https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 20 Oct 2026 18:29:44 +0530",
-   "published_date": "2026-10-20",
-   "digest": "The iPhone of Vladan Đokić, rector of the University of Belgrade and a prominent supporter of Serbia's student protest movement, was infected with NSO Group's P…",
-   "tags": [
-    "APT组织",
-    "移动安全"
-   ],
-   "title_zh": "塞尔维亚大学校长iPhone确认感染Pegasus间谍软件数日前即将举行选举"
-  },
-  {
-   "id": "SECURITYWEEK-9c965e3b",
-   "title": "AI Platform Cairn Abused to Hack Over 100 Organizations",
-   "url": "https://www.securityweek.com/ai-platform-cairn-abused-to-hack-over-100-organizations/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 20 Oct 2026 12:47:22 +0000",
-   "published_date": "2026-10-20",
-   "digest": "At least three threat actors have been abusing Cairn for persistent access and financial theft. The post AI Platform Cairn Abused to Hack Over 100 Organizations…",
-   "tags": [],
-   "title_zh": "AI平台Cairn被滥用攻击逾百组织"
-  },
-  {
-   "id": "SECURITYWEEK-639dbbb9",
-   "title": "Ex-OpenAI Worker Accused of Bugging Conference Room Planned to Fly to Saudi Arabia, Prosecutors Say",
-   "url": "https://www.securityweek.com/ex-openai-worker-accused-of-bugging-conference-room-planned-to-fly-to-saudi-arabia-prosecutors-say/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 20 Oct 2026 12:33:12 +0000",
-   "published_date": "2026-10-20",
-   "digest": "Abdulrahman Alfozan’s wife and young son also left the country the day after the 35-year-old Saudi national’s arrest. The post Ex-OpenAI Worker Accused of Buggi…",
-   "tags": [],
-   "title_zh": "前OpenAI员工涉嫌窃听会议室事件计划飞往沙特阿拉伯，检方称"
-  },
-  {
-   "id": "THN-39cb5c30",
-   "title": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators",
-   "url": "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 20 Oct 2026 17:11:06 +0530",
-   "published_date": "2026-10-20",
-   "digest": "WhatsApp's help pages carried hidden instructions for its support chatbot that told it not to recommend a data protection authority or regulator to users who co…",
-   "tags": [],
-   "title_zh": "WhatsApp 在帮助页面中隐藏指令告知其AI聊天机器人不要推荐隐私监管机构"
-  },
-  {
-   "id": "THN-d5e8e42e",
-   "title": "What Security Teams Can Do To Tame Wild Code",
-   "url": "https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 20 Oct 2026 17:03:04 +0530",
-   "published_date": "2026-10-20",
-   "digest": "A sales manager builds an AI-assisted workflow to route leads. It connects to customer records, summarizes inbound requests, and posts updates to a shared chann…",
-   "tags": [],
-   "title_zh": "安全团队如何驯服野码"
-  },
-  {
-   "id": "THN-179a7337",
-   "title": "Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns",
-   "url": "https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 20 Oct 2026 17:02:59 +0530",
-   "published_date": "2026-10-20",
-   "digest": "Go 1.27.3 and Go 1.26.10, released on October 20, make Go's certificate verifier reject any certificate chain that passes through one of eight intermediate cert…",
-   "tags": [],
-   "title_zh": "Go 发布紧急更新阻止八个CA密钥因未披露的安全问题"
-  },
-  {
-   "id": "SECURITYWEEK-84f8cb44",
-   "title": "Microsoft Targets Rogue AI Agents With Dynamic Permissions, Risk Scoring",
-   "url": "https://www.securityweek.com/microsoft-targets-rogue-ai-agents-with-dynamic-permissions-risk-scoring/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 20 Oct 2026 11:30:18 +0000",
-   "published_date": "2026-10-20",
-   "digest": "Microsoft says companies should treat AI agents as insiders, and is adding controls that grant access per task and tighten it as an agent’s risk rises. The post…",
-   "tags": [
-    "大模型安全"
-   ],
-   "title_zh": "微软通过动态权限和风险评分针对假冒AI代理展开行动"
-  },
-  {
-   "id": "THN-e4c32e20",
-   "title": "Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader",
-   "url": "https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 20 Oct 2026 16:36:25 +0530",
-   "published_date": "2026-10-20",
-   "digest": "The Russia-linked state-sponsored threat actor tracked as APT28 (aka BlueDelta, Fancy Bear, and Forest Blizzard) has been attributed to attacks targeting two me…",
-   "tags": [
-    "APT组织"
-   ],
-   "title_zh": "俄罗斯APT28渗透北约国家的海军舰船制造商，部署新型反射加载器"
-  },
-  {
-   "id": "SCHNEIER-85549ffb",
-   "title": "Possible new Cellebrite iPhone Radio Zero-Day",
-   "url": "https://www.schneier.com/blog/archives/2026/10/possible-new-cellebrite-iphone-radio-zero-day.html",
-   "source": "Schneier",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Tue, 20 Oct 2026 11:03:13 +0000",
-   "published_date": "2026-10-20",
-   "digest": "Justin.sh is reporting on a confidential Cellebrite document that has been leaked to him: Cellebrite calls it Advanced Unlocks (AU from here on), not to be conf…",
-   "tags": [
-    "移动安全"
-   ],
-   "title_zh": "可能的新Cellebrite iPhone Radio 零日漏洞"
+   "title_zh": "与中国关联的Bronze Sandcastle利用Sandboxie DLL侧加载部署后门"
   }
  ]
 }
