@@ -1,7 +1,159 @@
 {
- "generated_at": "2026-10-25 10:04",
- "total": 7307,
+ "generated_at": "2026-10-26 10:03",
+ "total": 7319,
  "items": [
+  {
+   "id": "SECAFFAIRS-0856c462",
+   "title": "SECURITY AFFAIRS AI-CYBERSECURITY NEWSLETTER ROUND 5",
+   "url": "https://securityaffairs.com/201718/ai/security-affairs-ai-cybersecurity-newsletter-round-5.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 25 Oct 2026 17:49:25 +0000",
+   "published_date": "2026-10-25",
+   "digest": "Security Affairs AI-CYBERSECURITY newsletter includes a collection of the best articles and research on AI in the international landscape Artificial intelligenc…",
+   "tags": [],
+   "title_zh": "安全事务AI-网络安全新闻简报第5期"
+  },
+  {
+   "id": "THN-a015bc54",
+   "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
+   "url": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 25 Oct 2026 23:14:09 +0530",
+   "published_date": "2026-10-25",
+   "digest": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published th…",
+   "tags": [],
+   "title_zh": "未修复的 Tailscale SSH 漏洞可能允许被黑客攻击的设备在其他服务器上获得根权限"
+  },
+  {
+   "id": "THN-0f2325be",
+   "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+   "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 25 Oct 2026 22:49:46 +0530",
+   "published_date": "2026-10-25",
+   "digest": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulner…",
+   "tags": [],
+   "title_zh": "PHP2Shell 漏洞利用袭击政府机构 全球扫描活动与AI辅助攻击迹象并存"
+  },
+  {
+   "id": "SECWIKI-f4bd00cc",
+   "title": "SecWiki News 2026-10-25 Review",
+   "url": "http://www.sec-wiki.com/?2026-10-25",
+   "source": "SecWiki",
+   "category": "网络安全",
+   "priority": "P2",
+   "published_at": "\nSun, 25 Oct 2026 23:58:20 +0800",
+   "published_date": "2026-10-25",
+   "digest": "今日暂未更新资讯~ 更多最新文章，请访问 SecWiki",
+   "tags": [],
+   "title_zh": "SecWiki 新闻 2026-10-25 概览"
+  },
+  {
+   "id": "SECAFFAIRS-87987180",
+   "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 120",
+   "url": "https://securityaffairs.com/201709/security/security-affairs-malware-newsletter-round-120.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 25 Oct 2026 13:27:05 +0000",
+   "published_date": "2026-10-25",
+   "digest": "Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape Malware Newsletter Auditin…",
+   "tags": [],
+   "title_zh": "安全事务恶意软件新闻第120期"
+  },
+  {
+   "id": "SECAFFAIRS-0e1a0f28",
+   "title": "Security Affairs newsletter Round 601 by Pierluigi Paganini – INTERNATIONAL EDITION",
+   "url": "https://securityaffairs.com/201698/breaking-news/security-affairs-newsletter-round-601-by-pierluigi-paganini-international-edition.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 25 Oct 2026 12:28:47 +0000",
+   "published_date": "2026-10-25",
+   "digest": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjo…",
+   "tags": [],
+   "title_zh": "安全事务简报第601期 - 国际版由皮鲁吉·帕加尼尼发布"
+  },
+  {
+   "id": "SECURITYWEEK-8988eccc",
+   "title": "Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave",
+   "url": "https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 25 Oct 2026 11:00:00 +0000",
+   "published_date": "2026-10-25",
+   "digest": "Founded in 2025 by Unit 8200 alumni, Tel Aviv-based Mave uses AI agents to investigate alerts across existing security stacks. The post Former Unit 8200 Officer…",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "前8200部队军官为Agentic SecOps创业公司Mave筹集3400万美元"
+  },
+  {
+   "id": "SECAFFAIRS-6928dcc5",
+   "title": "OpenAI Paused Frontier AI Training After a Security Incident",
+   "url": "https://securityaffairs.com/201673/ai/openai-paused-frontier-ai-training-after-a-security-incident.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 25 Oct 2026 09:56:32 +0000",
+   "published_date": "2026-10-25",
+   "digest": "OpenAI paused frontier model training for 11 days after AI agents exposed security weaknesses, VM escapes and covert communication channels. OpenAI published a …",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "OpenAI暂停Frontier AI训练以应对安全事件"
+  },
+  {
+   "id": "THN-059df2aa",
+   "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
+   "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 25 Oct 2026 12:24:29 +0530",
+   "published_date": "2026-10-25",
+   "digest": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal infe…",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "OpenAI AI代理展示虚拟机逃逸和跨沙箱秘密通信"
+  },
+  {
+   "id": "FREEBUF-98646f24",
+   "title": "OpenAI披露AI Agent高危能力，可实现虚拟机逃逸跨沙箱隐秘通信",
+   "url": "https://www.freebuf.com/articles/ai-security/508654.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 25 Oct 2026 12:24:29 +0800",
+   "published_date": "2026-10-25",
+   "digest": "OpenAI红队测试发现AI Agent可借漏洞实现虚拟机逃逸、跨沙箱隐秘通信，为防控突破隔离的高危风险，将在无公网环境开展前沿模型训练。",
+   "tags": [
+    "大模型安全"
+   ]
+  },
+  {
+   "id": "FREEBUF-5308b216",
+   "title": "微软Teams即将上线AI钓鱼检测功能，依托会话上下文识别诈骗",
+   "url": "https://www.freebuf.com/news/508650.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 25 Oct 2026 06:55:23 +0800",
+   "published_date": "2026-10-25",
+   "digest": "微软Teams即将上线AI钓鱼检测功能，依托会话上下文识别无恶意链接或附件、诱导窃密的社交工程诈骗，默认启用，12月完成全球推送。",
+   "tags": [
+    "钓鱼攻击",
+    "网络诈骗"
+   ]
+  },
   {
    "id": "SECAFFAIRS-e949f3fd",
    "title": "Pierluigi Paganini answers questions about the PHP2Shell flaws",
@@ -13,7 +165,7 @@
    "published_date": "2026-10-24",
    "digest": "Pierluigi Paganini answers questions about the PHP2Shell vulnerability, early exploitation, AI-assisted attacks, and the risks to businesses, servers, and perso…",
    "tags": [],
-   "title_zh": "皮耶路易吉·帕加尼回答关于PHP2Shell漏洞的问题"
+   "title_zh": "皮耶路易吉·帕加尼尼回答关于PHP2Shell漏洞的问题"
   },
   {
    "id": "SECAFFAIRS-5b623392",
@@ -28,7 +180,7 @@
    "tags": [
     "监管合规"
    ],
-   "title_zh": "美国CISA将Collabora Online漏洞添加到已知被利用漏洞目录中"
+   "title_zh": "美国CISA将Collabora Online漏洞添加至已知被利用漏洞目录"
   },
   {
    "id": "SECWIKI-a828c8de",
@@ -54,7 +206,7 @@
    "published_date": "2026-10-24",
    "digest": "AI companies need usage data to align pricing with costs, improve products, identify churn risks, and grow revenue through informed decisions. The AI Paradox Th…",
    "tags": [],
-   "title_zh": "使用智能：大多数AI公司忽视的 monetization 信号"
+   "title_zh": "使用智能：大多数AI公司忽视的盈利信号"
   },
   {
    "id": "THN-9d52cbe3",
@@ -127,7 +279,7 @@
    "tags": [
     "漏洞预警"
    ],
-   "title_zh": "Brotli解压漏洞导致Node.js远程代码执行问题也影响Bun、Python等广泛使用的软件"
+   "title_zh": "Brotli解压漏洞导致Node.js远程代码执行也影响Bun、Python等广泛使用的软件"
   },
   {
    "id": "SECAFFAIRS-f42c5a4d",
@@ -161,6 +313,20 @@
    "title_zh": "CISA标记Collabora Online和Arista VeloCloud中存在两个活跃利用的严重漏洞"
   },
   {
+   "id": "FREEBUF-b0309024",
+   "title": "AI与云安全事件案例分析周报2026.10.19 - 2026.10.23",
+   "url": "https://www.freebuf.com/articles/508582.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 24 Oct 2026 12:54:01 +0800",
+   "published_date": "2026-10-24",
+   "digest": "AI串起PHP旧缺陷与多云攻击链；321万条环境变量被读，模型账单激增数十万美元。",
+   "tags": [
+    "云安全"
+   ]
+  },
+  {
    "id": "NSFOCUS-15f625a4",
    "title": "绿盟科技顾杜娟博士获评 “2026中国网络安全十大人物”，前沿研发实力获行业认可",
    "url": "https://blog.nsfocus.net/%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e9%a1%be%e6%9d%9c%e5%a8%9f%e5%8d%9a%e5%a3%ab%e8%8e%b7%e8%af%84-2026%e4%b8%ad%e5%9b%bd%e7%bd%91%e7%bb%9c%e5%ae%89%e5%85%a8%e5%8d%81%e5%a4%a7%e4%ba%ba/",
@@ -171,181 +337,6 @@
    "published_date": "2026-10-24",
    "digest": "近日，国际研究机构IDC正式揭晓 “2026中国网络安全十大人物” ，绿盟科技集团科学家、天枢实验室主任顾杜娟... » 阅读全文",
    "tags": []
-  },
-  {
-   "id": "FREEBUF-6129c49b",
-   "title": "Anthropic披露Claude Mythos 5 AI Agent测试异常，曾试图注入恶意代码欺骗真实开发者",
-   "url": "https://www.freebuf.com/articles/ai-security/508561.html",
-   "source": "FreeBuf",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sat, 24 Oct 2026 07:09:35 +0800",
-   "published_date": "2026-10-24",
-   "digest": "Anthropic披露，测试中Claude Mythos 5曾试图向真实GitHub项目注入恶意代码，伪装身份诱骗开发者批准合并，所幸未造成实际危害。",
-   "tags": [
-    "大模型安全"
-   ]
-  },
-  {
-   "id": "FREEBUF-be7819ed",
-   "title": "派拓网络确认PHP RCE漏洞，影响PAN-OS及多款网络产品",
-   "url": "https://www.freebuf.com/news/508558.html",
-   "source": "FreeBuf",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sat, 24 Oct 2026 06:41:29 +0800",
-   "published_date": "2026-10-24",
-   "digest": "派拓网络确认PAN-OS存在两个高危PHP RCE漏洞，暂未发现在野利用，热补丁10月底前推送，互联网暴露的管理接口风险高，需先限制访问防范攻击。",
-   "tags": [
-    "漏洞预警"
-   ]
-  },
-  {
-   "id": "FREEBUF-cc32b2fb",
-   "title": "OpenAI发现Agents可绕过安全隔离，串联0Day漏洞逃逸",
-   "url": "https://www.freebuf.com/articles/ai-security/508557.html",
-   "source": "FreeBuf",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sat, 24 Oct 2026 05:43:26 +0800",
-   "published_date": "2026-10-24",
-   "digest": "OpenAI红队测试发现AI Agents可绕过安全隔离、利用0Day逃逸沙箱、私接公网，曾暂停前沿训练，现已修复漏洞。",
-   "tags": [
-    "漏洞预警",
-    "大模型安全"
-   ]
-  },
-  {
-   "id": "WORDFENCE-186684f0",
-   "title": "Wordfence Intelligence Weekly WordPress Vulnerability Report (October 12, 2026 to October 18, 2026)",
-   "url": "https://www.wordfence.com/blog/2026/10/wordfence-intelligence-weekly-wordpress-vulnerability-report-october-12-2026-to-october-18-2026/",
-   "source": "Wordfence",
-   "category": "网络安全",
-   "priority": "P2",
-   "published_at": "Fri, 23 Oct 2026 21:07:22 +0000",
-   "published_date": "2026-10-23",
-   "digest": "Last week, there were disclosed in and that have been added to the Wordfence Intelligence Vulnerability Database, and there were that contributed to WordPress S…",
-   "tags": [
-    "Web安全"
-   ],
-   "title_zh": "Wordfence Intelligence 每周 WordPress 漏洞报告（2026年10月12日至10月18日）"
-  },
-  {
-   "id": "SCHNEIER-c5b7d938",
-   "title": "Friday Squid Blogging: Increasing Squid Populations",
-   "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-increasing-squid-populations.html",
-   "source": "Schneier",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 23 Oct 2026 21:00:09 +0000",
-   "published_date": "2026-10-23",
-   "digest": "This article in Nature argues that it’s due to an overfishing of predators and warming sea temperatures. As usual, you can also use this squid post to talk abou…",
-   "tags": [],
-   "title_zh": "周五鱿鱼博客：鱿鱼种群增加"
-  },
-  {
-   "id": "THN-0f2175ce",
-   "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
-   "url": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sat, 24 Oct 2026 00:20:13 +0530",
-   "published_date": "2026-10-24",
-   "digest": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activ…",
-   "tags": [],
-   "title_zh": "BlackX UEFI 启动木马绕过修补系统上的安全启动缺失撤销列表验证"
-  },
-  {
-   "id": "SECAFFAIRS-11fe403f",
-   "title": "PHP Warns of New Code Execution Flaw Days After PHP2Shell Patches",
-   "url": "https://securityaffairs.com/201595/security/php-warns-of-new-code-execution-flaw-days-after-php2shell-patches.html",
-   "source": "Security Affairs",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 23 Oct 2026 18:07:27 +0000",
-   "published_date": "2026-10-23",
-   "digest": "PHP warns of a new, unlikely code execution flaw, CVE-2026-115560, and advises disabling session upload progress until a fix is released. PHP has warned of a ne…",
-   "tags": [
-    "漏洞预警"
-   ],
-   "title_zh": "PHP警告新代码执行漏洞出现，PHP2Shell已打补丁"
-  },
-  {
-   "id": "THN-ce370a80",
-   "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
-   "url": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 23 Oct 2026 23:24:08 +0530",
-   "published_date": "2026-10-23",
-   "digest": "Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind fou…",
-   "tags": [
-    "漏洞预警"
-   ],
-   "title_zh": "Ruby修复了三个正则表达式引擎漏洞，导致GitLab四个关键RCE缺陷"
-  },
-  {
-   "id": "THN-be64687d",
-   "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
-   "url": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 23 Oct 2026 23:20:47 +0530",
-   "published_date": "2026-10-23",
-   "digest": "Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware g…",
-   "tags": [
-    "勒索软件",
-    "大模型安全"
-   ],
-   "title_zh": "暴露的基础设施揭示了勒索软件附属组织如何使用AI代理执行入侵活动"
-  },
-  {
-   "id": "SECWIKI-5c3a0ad5",
-   "title": "SecWiki News 2026-10-23 Review",
-   "url": "http://www.sec-wiki.com/?2026-10-23",
-   "source": "SecWiki",
-   "category": "网络安全",
-   "priority": "P2",
-   "published_at": "\nFri, 23 Oct 2026 23:58:20 +0800",
-   "published_date": "2026-10-23",
-   "digest": "今日暂未更新资讯~ 更多最新文章，请访问 SecWiki",
-   "tags": [],
-   "title_zh": "SecWiki 新闻 2026-10-23 审查"
-  },
-  {
-   "id": "SECURITYWEEK-34c04236",
-   "title": "In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware",
-   "url": "https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 23 Oct 2026 14:23:37 +0000",
-   "published_date": "2026-10-23",
-   "digest": "Noteworthy stories that might have slipped under the radar: Russia’s APT28 hit NATO defense firms, PingCAP source code stolen, ShinyHunters negotiator probe. Th…",
-   "tags": [
-    "勒索软件",
-    "APT组织",
-    "大模型安全"
-   ],
-   "title_zh": "其他新闻：Tor出口中继被劫持、银行发现 rogue AI 威胁、自恢复型macOS勒索软件"
-  },
-  {
-   "id": "THN-bad04b31",
-   "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
-   "url": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 23 Oct 2026 19:20:56 +0530",
-   "published_date": "2026-10-23",
-   "digest": "Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Al…",
-   "tags": [
-    "身份认证"
-   ],
-   "title_zh": "黑客突破企业防火墙和VPN，暴露超过70,000个凭证"
   }
  ]
 }

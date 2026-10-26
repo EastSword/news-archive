@@ -2,6 +2,158 @@
  "month": "2026-10",
  "items": [
   {
+   "id": "SECAFFAIRS-0856c462",
+   "title": "SECURITY AFFAIRS AI-CYBERSECURITY NEWSLETTER ROUND 5",
+   "url": "https://securityaffairs.com/201718/ai/security-affairs-ai-cybersecurity-newsletter-round-5.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 25 Oct 2026 17:49:25 +0000",
+   "published_date": "2026-10-25",
+   "digest": "Security Affairs AI-CYBERSECURITY newsletter includes a collection of the best articles and research on AI in the international landscape Artificial intelligenc…",
+   "tags": [],
+   "title_zh": "安全事务AI-网络安全新闻简报第5期"
+  },
+  {
+   "id": "THN-a015bc54",
+   "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
+   "url": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 25 Oct 2026 23:14:09 +0530",
+   "published_date": "2026-10-25",
+   "digest": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published th…",
+   "tags": [],
+   "title_zh": "未修复的 Tailscale SSH 漏洞可能允许被黑客攻击的设备在其他服务器上获得根权限"
+  },
+  {
+   "id": "THN-0f2325be",
+   "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+   "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 25 Oct 2026 22:49:46 +0530",
+   "published_date": "2026-10-25",
+   "digest": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulner…",
+   "tags": [],
+   "title_zh": "PHP2Shell 漏洞利用袭击政府机构 全球扫描活动与AI辅助攻击迹象并存"
+  },
+  {
+   "id": "SECWIKI-f4bd00cc",
+   "title": "SecWiki News 2026-10-25 Review",
+   "url": "http://www.sec-wiki.com/?2026-10-25",
+   "source": "SecWiki",
+   "category": "网络安全",
+   "priority": "P2",
+   "published_at": "\nSun, 25 Oct 2026 23:58:20 +0800",
+   "published_date": "2026-10-25",
+   "digest": "今日暂未更新资讯~ 更多最新文章，请访问 SecWiki",
+   "tags": [],
+   "title_zh": "SecWiki 新闻 2026-10-25 概览"
+  },
+  {
+   "id": "SECAFFAIRS-87987180",
+   "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 120",
+   "url": "https://securityaffairs.com/201709/security/security-affairs-malware-newsletter-round-120.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 25 Oct 2026 13:27:05 +0000",
+   "published_date": "2026-10-25",
+   "digest": "Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape Malware Newsletter Auditin…",
+   "tags": [],
+   "title_zh": "安全事务恶意软件新闻第120期"
+  },
+  {
+   "id": "SECAFFAIRS-0e1a0f28",
+   "title": "Security Affairs newsletter Round 601 by Pierluigi Paganini – INTERNATIONAL EDITION",
+   "url": "https://securityaffairs.com/201698/breaking-news/security-affairs-newsletter-round-601-by-pierluigi-paganini-international-edition.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 25 Oct 2026 12:28:47 +0000",
+   "published_date": "2026-10-25",
+   "digest": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjo…",
+   "tags": [],
+   "title_zh": "安全事务简报第601期 - 国际版由皮鲁吉·帕加尼尼发布"
+  },
+  {
+   "id": "SECURITYWEEK-8988eccc",
+   "title": "Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave",
+   "url": "https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 25 Oct 2026 11:00:00 +0000",
+   "published_date": "2026-10-25",
+   "digest": "Founded in 2025 by Unit 8200 alumni, Tel Aviv-based Mave uses AI agents to investigate alerts across existing security stacks. The post Former Unit 8200 Officer…",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "前8200部队军官为Agentic SecOps创业公司Mave筹集3400万美元"
+  },
+  {
+   "id": "SECAFFAIRS-6928dcc5",
+   "title": "OpenAI Paused Frontier AI Training After a Security Incident",
+   "url": "https://securityaffairs.com/201673/ai/openai-paused-frontier-ai-training-after-a-security-incident.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 25 Oct 2026 09:56:32 +0000",
+   "published_date": "2026-10-25",
+   "digest": "OpenAI paused frontier model training for 11 days after AI agents exposed security weaknesses, VM escapes and covert communication channels. OpenAI published a …",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "OpenAI暂停Frontier AI训练以应对安全事件"
+  },
+  {
+   "id": "THN-059df2aa",
+   "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
+   "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 25 Oct 2026 12:24:29 +0530",
+   "published_date": "2026-10-25",
+   "digest": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal infe…",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "OpenAI AI代理展示虚拟机逃逸和跨沙箱秘密通信"
+  },
+  {
+   "id": "FREEBUF-98646f24",
+   "title": "OpenAI披露AI Agent高危能力，可实现虚拟机逃逸跨沙箱隐秘通信",
+   "url": "https://www.freebuf.com/articles/ai-security/508654.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 25 Oct 2026 12:24:29 +0800",
+   "published_date": "2026-10-25",
+   "digest": "OpenAI红队测试发现AI Agent可借漏洞实现虚拟机逃逸、跨沙箱隐秘通信，为防控突破隔离的高危风险，将在无公网环境开展前沿模型训练。",
+   "tags": [
+    "大模型安全"
+   ]
+  },
+  {
+   "id": "FREEBUF-5308b216",
+   "title": "微软Teams即将上线AI钓鱼检测功能，依托会话上下文识别诈骗",
+   "url": "https://www.freebuf.com/news/508650.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sun, 25 Oct 2026 06:55:23 +0800",
+   "published_date": "2026-10-25",
+   "digest": "微软Teams即将上线AI钓鱼检测功能，依托会话上下文识别无恶意链接或附件、诱导窃密的社交工程诈骗，默认启用，12月完成全球推送。",
+   "tags": [
+    "钓鱼攻击",
+    "网络诈骗"
+   ]
+  },
+  {
    "id": "SECAFFAIRS-e949f3fd",
    "title": "Pierluigi Paganini answers questions about the PHP2Shell flaws",
    "url": "https://securityaffairs.com/201662/hacking/pierluigi-paganini-answers-questions-about-the-php2shell-flaws.html",
@@ -12,7 +164,7 @@
    "published_date": "2026-10-24",
    "digest": "Pierluigi Paganini answers questions about the PHP2Shell vulnerability, early exploitation, AI-assisted attacks, and the risks to businesses, servers, and perso…",
    "tags": [],
-   "title_zh": "皮耶路易吉·帕加尼回答关于PHP2Shell漏洞的问题"
+   "title_zh": "皮耶路易吉·帕加尼尼回答关于PHP2Shell漏洞的问题"
   },
   {
    "id": "SECAFFAIRS-5b623392",
@@ -27,7 +179,7 @@
    "tags": [
     "监管合规"
    ],
-   "title_zh": "美国CISA将Collabora Online漏洞添加到已知被利用漏洞目录中"
+   "title_zh": "美国CISA将Collabora Online漏洞添加至已知被利用漏洞目录"
   },
   {
    "id": "SECWIKI-a828c8de",
@@ -53,7 +205,7 @@
    "published_date": "2026-10-24",
    "digest": "AI companies need usage data to align pricing with costs, improve products, identify churn risks, and grow revenue through informed decisions. The AI Paradox Th…",
    "tags": [],
-   "title_zh": "使用智能：大多数AI公司忽视的 monetization 信号"
+   "title_zh": "使用智能：大多数AI公司忽视的盈利信号"
   },
   {
    "id": "THN-9d52cbe3",
@@ -126,7 +278,7 @@
    "tags": [
     "漏洞预警"
    ],
-   "title_zh": "Brotli解压漏洞导致Node.js远程代码执行问题也影响Bun、Python等广泛使用的软件"
+   "title_zh": "Brotli解压漏洞导致Node.js远程代码执行也影响Bun、Python等广泛使用的软件"
   },
   {
    "id": "SECAFFAIRS-f42c5a4d",
@@ -158,6 +310,20 @@
     "监管合规"
    ],
    "title_zh": "CISA标记Collabora Online和Arista VeloCloud中存在两个活跃利用的严重漏洞"
+  },
+  {
+   "id": "FREEBUF-b0309024",
+   "title": "AI与云安全事件案例分析周报2026.10.19 - 2026.10.23",
+   "url": "https://www.freebuf.com/articles/508582.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Sat, 24 Oct 2026 12:54:01 +0800",
+   "published_date": "2026-10-24",
+   "digest": "AI串起PHP旧缺陷与多云攻击链；321万条环境变量被读，模型账单激增数十万美元。",
+   "tags": [
+    "云安全"
+   ]
   },
   {
    "id": "NSFOCUS-15f625a4",
