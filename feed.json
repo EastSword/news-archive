@@ -1,342 +1,346 @@
 {
- "generated_at": "2026-10-26 10:03",
- "total": 7319,
+ "generated_at": "2026-10-27 10:06",
+ "total": 7442,
  "items": [
   {
-   "id": "SECAFFAIRS-0856c462",
-   "title": "SECURITY AFFAIRS AI-CYBERSECURITY NEWSLETTER ROUND 5",
-   "url": "https://securityaffairs.com/201718/ai/security-affairs-ai-cybersecurity-newsletter-round-5.html",
+   "id": "SECAFFAIRS-cdb5bd86",
+   "title": "Magento Campaign Infects 953 Online Stores Across Five Domains",
+   "url": "https://securityaffairs.com/201795/malware/magento-campaign-infects-953-online-stores-across-five-domains.html",
    "source": "Security Affairs",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Sun, 25 Oct 2026 17:49:25 +0000",
-   "published_date": "2026-10-25",
-   "digest": "Security Affairs AI-CYBERSECURITY newsletter includes a collection of the best articles and research on AI in the international landscape Artificial intelligenc…",
+   "published_at": "Mon, 26 Oct 2026 20:41:22 +0000",
+   "published_date": "2026-10-26",
+   "digest": "Sansec tracks a Magento skimmer campaign that infected 953 stores, using five domains, bot filtering and malicious code hidden in CMS blocks. A criminal group h…",
    "tags": [],
-   "title_zh": "安全事务AI-网络安全新闻简报第5期"
+   "title_zh": "Magento 活动感染了五个域名下的953个在线商店"
   },
   {
-   "id": "THN-a015bc54",
-   "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
-   "url": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
-   "source": "The Hacker News",
+   "id": "CYBERSECNEWS-e10b70e6",
+   "title": "Hackers Weaponize Public PHP2Shell Exploit Code to Target Universities and Business Websites",
+   "url": "https://cybersecuritynews.com/public-php2shell-exploit-code/",
+   "source": "CyberSecurity News",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Sun, 25 Oct 2026 23:14:09 +0530",
-   "published_date": "2026-10-25",
-   "digest": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published th…",
+   "published_at": "Mon, 26 Oct 2026 20:29:21 +0000",
+   "published_date": "2026-10-26",
+   "digest": "Hackers are now using public exploit code to break into websites that run PHP, and universities and business sites are among the main targets. The bugs behind t…",
    "tags": [],
-   "title_zh": "未修复的 Tailscale SSH 漏洞可能允许被黑客攻击的设备在其他服务器上获得根权限"
+   "title_zh": "黑客利用公共PHP2Shell漏洞代码攻击大学和商业网站"
   },
   {
-   "id": "THN-0f2325be",
-   "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
-   "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sun, 25 Oct 2026 22:49:46 +0530",
-   "published_date": "2026-10-25",
-   "digest": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulner…",
-   "tags": [],
-   "title_zh": "PHP2Shell 漏洞利用袭击政府机构 全球扫描活动与AI辅助攻击迹象并存"
-  },
-  {
-   "id": "SECWIKI-f4bd00cc",
-   "title": "SecWiki News 2026-10-25 Review",
-   "url": "http://www.sec-wiki.com/?2026-10-25",
-   "source": "SecWiki",
-   "category": "网络安全",
-   "priority": "P2",
-   "published_at": "\nSun, 25 Oct 2026 23:58:20 +0800",
-   "published_date": "2026-10-25",
-   "digest": "今日暂未更新资讯~ 更多最新文章，请访问 SecWiki",
-   "tags": [],
-   "title_zh": "SecWiki 新闻 2026-10-25 概览"
-  },
-  {
-   "id": "SECAFFAIRS-87987180",
-   "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 120",
-   "url": "https://securityaffairs.com/201709/security/security-affairs-malware-newsletter-round-120.html",
-   "source": "Security Affairs",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sun, 25 Oct 2026 13:27:05 +0000",
-   "published_date": "2026-10-25",
-   "digest": "Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape Malware Newsletter Auditin…",
-   "tags": [],
-   "title_zh": "安全事务恶意软件新闻第120期"
-  },
-  {
-   "id": "SECAFFAIRS-0e1a0f28",
-   "title": "Security Affairs newsletter Round 601 by Pierluigi Paganini – INTERNATIONAL EDITION",
-   "url": "https://securityaffairs.com/201698/breaking-news/security-affairs-newsletter-round-601-by-pierluigi-paganini-international-edition.html",
-   "source": "Security Affairs",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sun, 25 Oct 2026 12:28:47 +0000",
-   "published_date": "2026-10-25",
-   "digest": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjo…",
-   "tags": [],
-   "title_zh": "安全事务简报第601期 - 国际版由皮鲁吉·帕加尼尼发布"
-  },
-  {
-   "id": "SECURITYWEEK-8988eccc",
-   "title": "Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave",
-   "url": "https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/",
+   "id": "SECURITYWEEK-4cc280c6",
+   "title": "Anthropic Files for Potentially the Biggest IPO Ever as CEO Warns of Risk to Humanity From AI",
+   "url": "https://www.securityweek.com/anthropic-files-for-potentially-the-biggest-ipo-ever-as-ceo-warns-of-risk-to-humanity-from-ai/",
    "source": "SecurityWeek",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Sun, 25 Oct 2026 11:00:00 +0000",
-   "published_date": "2026-10-25",
-   "digest": "Founded in 2025 by Unit 8200 alumni, Tel Aviv-based Mave uses AI agents to investigate alerts across existing security stacks. The post Former Unit 8200 Officer…",
+   "published_at": "Mon, 26 Oct 2026 20:20:56 +0000",
+   "published_date": "2026-10-26",
+   "digest": "A string of hacking incidents by rogue AI agents also has raised fears the technology will slip free of human control to carry out harmful, life-threatening tas…",
    "tags": [
     "大模型安全"
    ],
-   "title_zh": "前8200部队军官为Agentic SecOps创业公司Mave筹集3400万美元"
+   "title_zh": "Anthropic 或将进行有史以来规模最大的IPO，CEO警告AI对人类构成风险"
   },
   {
-   "id": "SECAFFAIRS-6928dcc5",
-   "title": "OpenAI Paused Frontier AI Training After a Security Incident",
-   "url": "https://securityaffairs.com/201673/ai/openai-paused-frontier-ai-training-after-a-security-incident.html",
-   "source": "Security Affairs",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sun, 25 Oct 2026 09:56:32 +0000",
-   "published_date": "2026-10-25",
-   "digest": "OpenAI paused frontier model training for 11 days after AI agents exposed security weaknesses, VM escapes and covert communication channels. OpenAI published a …",
-   "tags": [
-    "大模型安全"
-   ],
-   "title_zh": "OpenAI暂停Frontier AI训练以应对安全事件"
-  },
-  {
-   "id": "THN-059df2aa",
-   "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
-   "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
+   "id": "THN-1838c8a4",
+   "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
+   "url": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
    "source": "The Hacker News",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Sun, 25 Oct 2026 12:24:29 +0530",
-   "published_date": "2026-10-25",
-   "digest": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal infe…",
-   "tags": [
-    "大模型安全"
-   ],
-   "title_zh": "OpenAI AI代理展示虚拟机逃逸和跨沙箱秘密通信"
-  },
-  {
-   "id": "FREEBUF-98646f24",
-   "title": "OpenAI披露AI Agent高危能力，可实现虚拟机逃逸跨沙箱隐秘通信",
-   "url": "https://www.freebuf.com/articles/ai-security/508654.html",
-   "source": "FreeBuf",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sun, 25 Oct 2026 12:24:29 +0800",
-   "published_date": "2026-10-25",
-   "digest": "OpenAI红队测试发现AI Agent可借漏洞实现虚拟机逃逸、跨沙箱隐秘通信，为防控突破隔离的高危风险，将在无公网环境开展前沿模型训练。",
-   "tags": [
-    "大模型安全"
-   ]
-  },
-  {
-   "id": "FREEBUF-5308b216",
-   "title": "微软Teams即将上线AI钓鱼检测功能，依托会话上下文识别诈骗",
-   "url": "https://www.freebuf.com/news/508650.html",
-   "source": "FreeBuf",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sun, 25 Oct 2026 06:55:23 +0800",
-   "published_date": "2026-10-25",
-   "digest": "微软Teams即将上线AI钓鱼检测功能，依托会话上下文识别无恶意链接或附件、诱导窃密的社交工程诈骗，默认启用，12月完成全球推送。",
-   "tags": [
-    "钓鱼攻击",
-    "网络诈骗"
-   ]
-  },
-  {
-   "id": "SECAFFAIRS-e949f3fd",
-   "title": "Pierluigi Paganini answers questions about the PHP2Shell flaws",
-   "url": "https://securityaffairs.com/201662/hacking/pierluigi-paganini-answers-questions-about-the-php2shell-flaws.html",
-   "source": "Security Affairs",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sat, 24 Oct 2026 18:58:38 +0000",
-   "published_date": "2026-10-24",
-   "digest": "Pierluigi Paganini answers questions about the PHP2Shell vulnerability, early exploitation, AI-assisted attacks, and the risks to businesses, servers, and perso…",
+   "published_at": "Mon, 26 Oct 2026 23:42:22 +0530",
+   "published_date": "2026-10-26",
+   "digest": "An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025. According to Du…",
    "tags": [],
-   "title_zh": "皮耶路易吉·帕加尼尼回答关于PHP2Shell漏洞的问题"
+   "title_zh": "黑客感染953个在线商店以规避扫描的JavaScript，主要针对Magento"
   },
   {
-   "id": "SECAFFAIRS-5b623392",
-   "title": "U.S. CISA adds Collabora Online flaw to its Known Exploited Vulnerabilities catalog",
-   "url": "https://securityaffairs.com/201652/security/u-s-cisa-adds-collabora-online-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
-   "source": "Security Affairs",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sat, 24 Oct 2026 16:53:59 +0000",
-   "published_date": "2026-10-24",
-   "digest": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Collabora Online flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity a…",
-   "tags": [
-    "监管合规"
-   ],
-   "title_zh": "美国CISA将Collabora Online漏洞添加至已知被利用漏洞目录"
-  },
-  {
-   "id": "SECWIKI-a828c8de",
-   "title": "SecWiki News 2026-10-24 Review",
-   "url": "http://www.sec-wiki.com/?2026-10-24",
-   "source": "SecWiki",
-   "category": "网络安全",
-   "priority": "P2",
-   "published_at": "\nSat, 24 Oct 2026 23:58:20 +0800",
-   "published_date": "2026-10-24",
-   "digest": "SPAR：用对抗式LLM交互从RFC中萃取精确的网络协议格式规范 by ourren 更多最新文章，请访问 SecWiki",
-   "tags": [],
-   "title_zh": "SecWiki 新闻 2026-10-24 概览"
-  },
-  {
-   "id": "SECAFFAIRS-f89954d8",
-   "title": "Usage Intelligence: The Monetization Signal Most AI Companies Are Ignoring",
-   "url": "https://securityaffairs.com/201643/ai/usage-intelligence-the-monetization-signal-most-ai-companies-are-ignoring.html",
-   "source": "Security Affairs",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sat, 24 Oct 2026 14:33:09 +0000",
-   "published_date": "2026-10-24",
-   "digest": "AI companies need usage data to align pricing with costs, improve products, identify churn risks, and grow revenue through informed decisions. The AI Paradox Th…",
-   "tags": [],
-   "title_zh": "使用智能：大多数AI公司忽视的盈利信号"
-  },
-  {
-   "id": "THN-9d52cbe3",
-   "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
-   "url": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
+   "id": "THN-437f2925",
+   "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
+   "url": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
    "source": "The Hacker News",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Sat, 24 Oct 2026 16:33:33 +0530",
-   "published_date": "2026-10-24",
-   "digest": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat…",
-   "tags": [],
-   "title_zh": "泄露的LiteLLM主密钥使攻击者可窃取GitHub令牌并劫持发布管道"
-  },
-  {
-   "id": "THN-c874b232",
-   "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
-   "url": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sat, 24 Oct 2026 16:06:33 +0530",
-   "published_date": "2026-10-24",
-   "digest": "Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to …",
-   "tags": [
-    "大模型安全"
-   ],
-   "title_zh": "谷歌称Gmail和照片数据用于AI搜索可能被用于定向广告"
-  },
-  {
-   "id": "SECAFFAIRS-e8c66883",
-   "title": "Capcom Data Breach Exposes 11.7 Million Email Addresses",
-   "url": "https://securityaffairs.com/201626/data-breach/capcom-data-breach-exposes-11-7-million-email-addresses.html",
-   "source": "Security Affairs",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sat, 24 Oct 2026 10:21:53 +0000",
-   "published_date": "2026-10-24",
-   "digest": "Capcom disclosed a data breach exposing 11.7 million email addresses and account details after hackers accessed its CAPCOM ID service. Japanese gaming company C…",
-   "tags": [
-    "数据泄露"
-   ],
-   "title_zh": "Capcom 数据泄露暴露1170万邮箱地址"
-  },
-  {
-   "id": "THN-f76395b5",
-   "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
-   "url": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sat, 24 Oct 2026 14:34:24 +0530",
-   "published_date": "2026-10-24",
-   "digest": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a backgr…",
-   "tags": [
-    "僵尸网络"
-   ],
-   "title_zh": "研究人员推送超过200万次更新以远程禁用Popcorn Time更新器，该更新器可能用于构建僵尸网络"
-  },
-  {
-   "id": "THN-0f71ebe7",
-   "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
-   "url": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Sat, 24 Oct 2026 14:15:56 +0530",
-   "published_date": "2026-10-24",
-   "digest": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi p…",
+   "published_at": "Mon, 26 Oct 2026 23:15:57 +0530",
+   "published_date": "2026-10-26",
+   "digest": "PHP has rebuilt its official Windows packages for PHP 8.2 through 8.5 to fix CVE-2026-111497, a flaw in the Brotli compression library that the packages include…",
    "tags": [
     "漏洞预警"
    ],
-   "title_zh": "Brotli解压漏洞导致Node.js远程代码执行也影响Bun、Python等广泛使用的软件"
+   "title_zh": "PHP在五天内发布第二次Windows安全更新以修复Brotli代码执行漏洞"
   },
   {
-   "id": "SECAFFAIRS-f42c5a4d",
-   "title": "U.S. CISA adds Arista VeloCloud Orchestrator flaw to its Known Exploited Vulnerabilities catalog",
-   "url": "https://securityaffairs.com/201609/hacking/u-s-cisa-adds-arista-velocloud-orchestrator-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
-   "source": "Security Affairs",
+   "id": "CYBERSECNEWS-09855c1a",
+   "title": "Microsoft Investigation Teams Issue Affecting Users in the United States",
+   "url": "https://cybersecuritynews.com/microsoft-investigation-teams-issue/",
+   "source": "CyberSecurity News",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Sat, 24 Oct 2026 08:30:44 +0000",
-   "published_date": "2026-10-24",
-   "digest": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Arista VeloCloud Orchestrator flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cy…",
-   "tags": [
-    "监管合规"
-   ],
-   "title_zh": "美国CISA将Arista VeloCloud Orchestrator漏洞添加到已知被利用漏洞目录中"
+   "published_at": "Mon, 26 Oct 2026 17:15:22 +0000",
+   "published_date": "2026-10-26",
+   "digest": "Microsoft has restored Microsoft Teams service after investigating an issue affecting some users in the United States on October 26, 2026. The company tracked t…",
+   "tags": [],
+   "title_zh": "微软调查团队影响美国用户的事件"
   },
   {
-   "id": "THN-68af3839",
-   "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
-   "url": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
+   "id": "CYBERSECNEWS-381c089d",
+   "title": "Hackers Can Hijack OpenAI Codex and Claude Code Using Malicious Files in Downloads Folder",
+   "url": "https://cybersecuritynews.com/codex-and-claude-code-hijack/",
+   "source": "CyberSecurity News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 26 Oct 2026 16:35:45 +0000",
+   "published_date": "2026-10-26",
+   "digest": "A plain text file placed in the Downloads folder can trick AI coding agents into changing their settings, installing malware, or exposing login tokens. Forever …",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "黑客可通过下载文件夹中的恶意文件劫持OpenAI Codex和Claude代码"
+  },
+  {
+   "id": "CHECKPOINT-d207eac1",
+   "title": "26th October – Threat Intelligence Report",
+   "url": "https://research.checkpoint.com/2026/26th-october-threat-intelligence-report/",
+   "source": "Check Point Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 26 Oct 2026 16:12:38 +0000",
+   "published_date": "2026-10-26",
+   "digest": "For the latest discoveries in cyber research for the week of 26th October, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Japanese c…",
+   "tags": [],
+   "title_zh": "10月26日 - 威胁情报报告"
+  },
+  {
+   "id": "CYBERSECNEWS-7f24b08a",
+   "title": "OpenBSD 8.0 Released With Major Security Hardening and Post-Quantum SSH Support",
+   "url": "https://cybersecuritynews.com/openbsd-8-0-released/",
+   "source": "CyberSecurity News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 26 Oct 2026 15:59:50 +0000",
+   "published_date": "2026-10-26",
+   "digest": "OpenBSD 8.0 has been released with security fixes across its kernel, network services, firewall, and update tools, alongside experimental post-quantum SSH signa…",
+   "tags": [],
+   "title_zh": "OpenBSD 8.0 正式发布，带来重大安全加固和后量子SSH支持"
+  },
+  {
+   "id": "SECWIKI-27434706",
+   "title": "SecWiki News 2026-10-26 Review",
+   "url": "http://www.sec-wiki.com/?2026-10-26",
+   "source": "SecWiki",
+   "category": "网络安全",
+   "priority": "P2",
+   "published_at": "\nMon, 26 Oct 2026 23:58:20 +0800",
+   "published_date": "2026-10-26",
+   "digest": "今日暂未更新资讯~ 更多最新文章，请访问 SecWiki",
+   "tags": [],
+   "title_zh": "SecWiki 新闻 2026-10-26 概览"
+  },
+  {
+   "id": "CYBERSECNEWS-d3caeffa",
+   "title": "Emperador Ransomware Group Claims to Have Stolen 3.9GB of Data from the Maker of Budweiser and Corona",
+   "url": "https://cybersecuritynews.com/emperador-ransomware-group-claim/",
+   "source": "CyberSecurity News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 26 Oct 2026 15:58:08 +0000",
+   "published_date": "2026-10-26",
+   "digest": "The Emperador ransomware group claims to have stolen 3.9GB of data from AB InBev and demands $1 million in Bitcoin, but the alleged breach remains unverified, w…",
+   "tags": [
+    "勒索软件",
+    "加密货币犯罪"
+   ],
+   "title_zh": "Emperador 勒索软件团伙声称从百威啤酒制造商窃取了3.9GB数据"
+  },
+  {
+   "id": "CYBERSECNEWS-c714d95b",
+   "title": "PHP Releases New Windows Build Security Updates to Fix Critical HTTP2Shell Vulnerability",
+   "url": "https://cybersecuritynews.com/php-http2shell-vulnerability/",
+   "source": "CyberSecurity News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 26 Oct 2026 15:53:07 +0000",
+   "published_date": "2026-10-26",
+   "digest": "The PHP team has released updated Windows builds to fix a serious flaw known as HTTP2Shell. The new packages are PHP 8.5.12-1, 8.4.27-1, 8.3.36-1, and 8.2.35-1,…",
+   "tags": [],
+   "title_zh": "PHP 发布新的 Windows 构建安全更新以修复 Critical HTTP2Shell 漏洞"
+  },
+  {
+   "id": "THN-a53339e1",
+   "title": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
+   "url": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
    "source": "The Hacker News",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Sat, 24 Oct 2026 11:55:57 +0530",
-   "published_date": "2026-10-24",
-   "digest": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista …",
+   "published_at": "Mon, 26 Oct 2026 21:22:40 +0530",
+   "published_date": "2026-10-26",
+   "digest": "Cybersecurity researchers are calling attention to what they say is a \"recurring social engineering pattern\" across hundreds of cases in which threat actors use…",
    "tags": [
-    "漏洞预警",
-    "监管合规"
+    "勒索软件",
+    "网络诈骗"
    ],
-   "title_zh": "CISA标记Collabora Online和Arista VeloCloud中存在两个活跃利用的严重漏洞"
+   "title_zh": "攻击者利用Microsoft Teams技术支持骗局分发恶意软件和勒索软件"
   },
   {
-   "id": "FREEBUF-b0309024",
-   "title": "AI与云安全事件案例分析周报2026.10.19 - 2026.10.23",
-   "url": "https://www.freebuf.com/articles/508582.html",
-   "source": "FreeBuf",
+   "id": "WORDFENCE-b0c77959",
+   "title": "Introducing the Wordfence Threat Response Team: A New Way to Report Active Threats in the WordPress Ecosystem",
+   "url": "https://www.wordfence.com/blog/2026/10/introducing-the-wordfence-threat-response-team-a-new-way-to-report-active-threats-in-the-wordpress-ecosystem/",
+   "source": "Wordfence",
+   "category": "网络安全",
+   "priority": "P2",
+   "published_at": "Mon, 26 Oct 2026 15:18:29 +0000",
+   "published_date": "2026-10-26",
+   "digest": "The Wordfence Threat Response Team is a new small, technically hands-on team responsible for turning rapidly emerging threats into customer protection and clear…",
+   "tags": [
+    "Web安全"
+   ],
+   "title_zh": "介绍Wordfence威胁响应团队：WordPress生态系统中报告活跃威胁的新方式"
+  },
+  {
+   "id": "SECAFFAIRS-03d9c7ba",
+   "title": "AI-Generated Fake Bank Calls and NFC App Enabled €380,000 Fraud, Dutch Police Say",
+   "url": "https://securityaffairs.com/201786/cyber-crime/ai-generated-fake-bank-calls-and-nfc-app-enabled-e380000-fraud-dutch-police-say.html",
+   "source": "Security Affairs",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Sat, 24 Oct 2026 12:54:01 +0800",
-   "published_date": "2026-10-24",
-   "digest": "AI串起PHP旧缺陷与多云攻击链；321万条环境变量被读，模型账单激增数十万美元。",
+   "published_at": "Mon, 26 Oct 2026 15:06:26 +0000",
+   "published_date": "2026-10-26",
+   "digest": "Dutch police arrest two men over AI-voiced bank fraud that allegedly used a fake app to steal card data from 170 victims, causing €380,000 in losses. Rotterdam …",
+   "tags": [
+    "网络诈骗"
+   ],
+   "title_zh": "AI生成的假银行电话和NFC应用导致38万欧元欺诈，荷兰警方称"
+  },
+  {
+   "id": "SECURITYWEEK-fecf4002",
+   "title": "Industrial Vendors Check Products for PHP2Shell Vulnerabilities",
+   "url": "https://www.securityweek.com/industrial-vendors-check-products-for-php2shell-vulnerabilities/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 26 Oct 2026 14:52:14 +0000",
+   "published_date": "2026-10-26",
+   "digest": "Siemens, Schneider Electric, ABB and others have confirmed that some of their products are affected by the PHP2Shell vulnerabilities. The post Industrial Vendor…",
+   "tags": [],
+   "title_zh": "工业厂商检查产品是否存在PHP2Shell漏洞"
+  },
+  {
+   "id": "CYBERSECNEWS-713a2a20",
+   "title": "Researchers Use AI Agents to Breach Anthropic’s Internal Systems in Just 12 Hours",
+   "url": "https://cybersecuritynews.com/anthropic-internal-system-breach/",
+   "source": "CyberSecurity News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 26 Oct 2026 14:42:50 +0000",
+   "published_date": "2026-10-26",
+   "digest": "Cybersecurity startup Cathedral says its AI agents found routes into Anthropic’s internal business systems in less than 12 hours, exposing how fast automated se…",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "研究人员使用AI代理在仅12小时内渗透Anthropic内部系统"
+  },
+  {
+   "id": "SECURITYWEEK-26156860",
+   "title": "Genesys Hack Exposes Customer Data From Internal Systems",
+   "url": "https://www.securityweek.com/genesys-hack-exposes-customer-data-from-internal-systems/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 26 Oct 2026 14:40:48 +0000",
+   "published_date": "2026-10-26",
+   "digest": "The Genesys Cloud, Genesys Engage, and Genesys Engage Cloud platforms were not affected. The post Genesys Hack Exposes Customer Data From Internal Systems appea…",
    "tags": [
     "云安全"
-   ]
+   ],
+   "title_zh": "Genesys 系统黑客事件暴露内部系统客户数据"
   },
   {
-   "id": "NSFOCUS-15f625a4",
-   "title": "绿盟科技顾杜娟博士获评 “2026中国网络安全十大人物”，前沿研发实力获行业认可",
-   "url": "https://blog.nsfocus.net/%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e9%a1%be%e6%9d%9c%e5%a8%9f%e5%8d%9a%e5%a3%ab%e8%8e%b7%e8%af%84-2026%e4%b8%ad%e5%9b%bd%e7%bd%91%e7%bb%9c%e5%ae%89%e5%85%a8%e5%8d%81%e5%a4%a7%e4%ba%ba/",
-   "source": "绿盟科技博客",
+   "id": "SECURITYWEEK-634003c8",
+   "title": "Stolen AI Reasoning Could Help China Build Cheaper Rivals",
+   "url": "https://www.securityweek.com/stolen-ai-reasoning-could-help-china-build-cheaper-rivals/",
+   "source": "SecurityWeek",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Sat, 24 Oct 2026 02:13:05 +0000",
-   "published_date": "2026-10-24",
-   "digest": "近日，国际研究机构IDC正式揭晓 “2026中国网络安全十大人物” ，绿盟科技集团科学家、天枢实验室主任顾杜娟... » 阅读全文",
-   "tags": []
+   "published_at": "Mon, 26 Oct 2026 14:30:09 +0000",
+   "published_date": "2026-10-26",
+   "digest": "Xint says a flaw in OpenAI’s compaction process let researchers move reasoning traces between models, potentially making it cheaper to distill a rival AI. The p…",
+   "tags": [],
+   "title_zh": "被盗AI推理可能帮助中国构建更便宜的竞争对手"
+  },
+  {
+   "id": "THN-02c634e1",
+   "title": "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
+   "url": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 26 Oct 2026 19:36:13 +0530",
+   "published_date": "2026-10-26",
+   "digest": "This2Shell, That2Shell, Everything2Shell. That's pretty much how the last week went. Critical bugs that let attackers run code remotely are showing up everywher…",
+   "tags": [
+    "漏洞预警",
+    "供应链攻击"
+   ],
+   "title_zh": "每周回顾：This2Shell、That2Shell，一切皆RCE？ rogue AI、供应链混乱及其他"
+  },
+  {
+   "id": "CYBERSECNEWS-87fc2475",
+   "title": "Anthropic’s Claude AI Model Accessed US State Voter Data Behind a Paywall",
+   "url": "https://cybersecuritynews.com/claude-ai-accessed-voter-data/",
+   "source": "CyberSecurity News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 26 Oct 2026 13:41:03 +0000",
+   "published_date": "2026-10-26",
+   "digest": "Anthropic’s Claude AI model accessed aggregate vote counts from Georgia without human approval after bypassing a paywall during an internal statistics project. …",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "Anthropic的Claude AI模型访问了美国州选民数据（付费墙后）"
+  },
+  {
+   "id": "SECURITYWEEK-0598ac48",
+   "title": "PHP2Shell Exploitation Moves From Probes to Working Shells",
+   "url": "https://www.securityweek.com/php2shell-exploitation-moves-from-probes-to-working-shells/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 26 Oct 2026 13:30:10 +0000",
+   "published_date": "2026-10-26",
+   "digest": "Attackers successfully exploited the PHP2Shell flaws against honeypots, launching 35 shells from two IP addresses on October 24. The post PHP2Shell Exploitation…",
+   "tags": [],
+   "title_zh": "PHP2Shell 漏洞利用从探测转向成功获取shell"
+  },
+  {
+   "id": "CYBERSECNEWS-4d99bb09",
+   "title": "Microsoft Releases Out-of-Band Security Updates for Brotli and .NET tarballs Vulnerability",
+   "url": "https://cybersecuritynews.com/microsoft-security-updates-for-brotli-and-net-tarballs-vulnerability/",
+   "source": "CyberSecurity News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 26 Oct 2026 13:22:05 +0000",
+   "published_date": "2026-10-26",
+   "digest": "Microsoft has released out-of-band security updates for .NET to fix a Brotli buffer overflow and unsafe ownership settings in Linux distribution archives. Publi…",
+   "tags": [],
+   "title_zh": "微软发布针对Brotli和.NET tarballs漏洞的紧急安全更新"
+  },
+  {
+   "id": "CYBERSECNEWS-72d211d7",
+   "title": "Cloudflare Release Emergency WAF Ruleset Update Following Brotli Vulnerability",
+   "url": "https://cybersecuritynews.com/cloudflare-release-brotli-vulnerability-waf-ruleset/",
+   "source": "CyberSecurity News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 26 Oct 2026 13:18:59 +0000",
+   "published_date": "2026-10-26",
+   "digest": "Cloudflare has announced an emergency Web Application Firewall (WAF) ruleset update linked to CVE-2026-111497, a Brotli vulnerability. The October 25, 2026 rele…",
+   "tags": [
+    "漏洞预警",
+    "Web安全"
+   ],
+   "title_zh": "Cloudflare 发布紧急 WAF 规则更新应对 Brotli 漏洞"
   }
  ]
 }

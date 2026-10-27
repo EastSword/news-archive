@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-26 10:03",
+ "generated_at": "2026-10-27 10:06",
  "source_count": 83,
- "total": 7319,
+ "total": 7442,
  "months": [
   {
    "month": "2026-10",
-   "count": 1702
+   "count": 1825
   },
   {
    "month": "2026-09",
@@ -86,26 +86,26 @@
  ],
  "facets": {
   "categories": {
-   "网络安全": 3839,
-   "AI安全": 3480
+   "网络安全": 3919,
+   "AI安全": 3523
   },
   "sources": {
-   "arXiv cs.CR": 3449,
-   "FreeBuf": 1043,
-   "The Hacker News": 703,
-   "SecurityWeek": 579,
-   "Security Affairs": 390,
-   "ZDI Published": 363,
+   "arXiv cs.CR": 3492,
+   "FreeBuf": 1063,
+   "The Hacker News": 713,
+   "SecurityWeek": 588,
+   "Security Affairs": 395,
+   "ZDI Published": 382,
    "ESET Research": 124,
-   "Schneier": 103,
-   "SecWiki": 90,
-   "Wordfence": 51,
-   "绿盟科技博客": 49,
+   "Schneier": 104,
+   "SecWiki": 91,
+   "Wordfence": 52,
+   "绿盟科技博客": 50,
    "Unit 42": 40,
    "嘶吼": 40,
+   "Securelist (Kaspersky)": 35,
+   "Check Point Research": 34,
    "Seebug Paper": 34,
-   "Securelist (Kaspersky)": 34,
-   "Check Point Research": 33,
    "Have I Been Pwned": 30,
    "Future of Life Institute": 21,
    "天融信": 19,
@@ -115,38 +115,39 @@
    "Trail of Bits": 14,
    "ZDI Blog": 12,
    "Praetorian Blog": 12,
+   "CyberSecurity News": 11,
    "DFIR Report": 11,
    "Red Canary": 11,
    "Adversa AI": 10,
    "Volexity": 5
   },
   "priorities": {
-   "P1": 6765,
-   "P2": 175,
-   "P0": 379
+   "P1": 6867,
+   "P2": 177,
+   "P0": 398
   },
   "tags": {
-   "学术研究": 3478,
-   "大模型安全": 1235,
-   "漏洞预警": 794,
-   "身份认证": 201,
-   "AI攻防": 193,
-   "监管合规": 187,
-   "数据泄露": 159,
+   "学术研究": 3521,
+   "大模型安全": 1257,
+   "漏洞预警": 801,
+   "身份认证": 204,
+   "AI攻防": 195,
+   "监管合规": 189,
+   "数据泄露": 161,
    "安全运营": 145,
+   "供应链攻击": 126,
    "钓鱼攻击": 125,
-   "供应链攻击": 123,
-   "云安全": 118,
-   "Web安全": 117,
-   "勒索软件": 107,
+   "云安全": 121,
+   "Web安全": 119,
+   "勒索软件": 109,
    "物联网安全": 106,
-   "密码学": 86,
-   "移动安全": 81,
-   "网络诈骗": 79,
-   "加密货币犯罪": 73,
-   "APT组织": 54,
+   "密码学": 87,
+   "移动安全": 84,
+   "网络诈骗": 82,
+   "加密货币犯罪": 76,
+   "APT组织": 57,
    "僵尸网络": 47,
-   "工控安全": 38
+   "工控安全": 40
   }
  }
 }
