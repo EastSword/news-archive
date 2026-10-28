@@ -2,6 +2,47 @@
  "month": "2026-10",
  "items": [
   {
+   "id": "SECURITYWEEK-0661ec8e",
+   "title": "Maritime Coalition Launches Free Vulnerability Database for Ship and Port Systems",
+   "url": "https://www.securityweek.com/maritime-coalition-launches-free-vulnerability-database-for-ship-and-port-systems/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 27 Oct 2026 07:14:27 +0000",
+   "published_date": "2026-10-27",
+   "digest": "Blue Initiative indexes nearly 30,000 IT and OT vulnerabilities relevant to ships and ports, 37 of them in maritime-specific products. The post Maritime Coaliti…",
+   "tags": [],
+   "title_zh": "海运联盟推出免费漏洞数据库服务船舶和港口系统"
+  },
+  {
+   "id": "HIBP-657f75a1",
+   "title": "AfD - 345,439 breached accounts",
+   "url": "https://haveibeenpwned.com/Breach/AfD",
+   "source": "Have I Been Pwned",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 27 Oct 2026 07:01:06 Z",
+   "published_date": "2026-10-27",
+   "digest": "In September 2026, the German political party Alternative für Deutschland (AfD) suffered a data breach which exposed 345k unique email addresses. The following …",
+   "tags": [
+    "数据泄露"
+   ],
+   "title_zh": "AfD - 345,439 被泄露的账户"
+  },
+  {
+   "id": "SECURITYWEEK-6c5ba299",
+   "title": "Cybersecurity Issue Forces a Major New Mexico Hospital to Divert Patients and Close Clinics",
+   "url": "https://www.securityweek.com/cybersecurity-issue-forces-a-major-new-mexico-hospital-to-divert-patients-and-close-clinics/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 27 Oct 2026 01:30:00 +0000",
+   "published_date": "2026-10-27",
+   "digest": "The University of New Mexico Health System told people not to show up at its main hospital in Albuquerque and canceled appointments at more than 30 clinics. The…",
+   "tags": [],
+   "title_zh": "网络安全问题迫使新墨西哥州一家主要医院分流患者并关闭诊所"
+  },
+  {
    "id": "SECAFFAIRS-cdb5bd86",
    "title": "Magento Campaign Infects 953 Online Stores Across Five Domains",
    "url": "https://securityaffairs.com/201795/malware/magento-campaign-infects-953-online-stores-across-five-domains.html",
@@ -53,7 +94,7 @@
    "published_date": "2026-10-26",
    "digest": "An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025. According to Du…",
    "tags": [],
-   "title_zh": "黑客感染953个在线商店以规避扫描的JavaScript，主要针对Magento"
+   "title_zh": "黑客感染953个在线商店以规避扫描的JavaScript恶意软件，主要针对Magento"
   },
   {
    "id": "THN-437f2925",
@@ -68,7 +109,7 @@
    "tags": [
     "漏洞预警"
    ],
-   "title_zh": "PHP在五天内发布第二次Windows安全更新以修复Brotli代码执行漏洞"
+   "title_zh": "PHP 在五天内发布第二次Windows安全更新以修复Brotli代码执行漏洞"
   },
   {
    "id": "CYBERSECNEWS-09855c1a",
@@ -151,7 +192,7 @@
     "勒索软件",
     "加密货币犯罪"
    ],
-   "title_zh": "Emperador 勒索软件团伙声称从百威啤酒制造商窃取了3.9GB数据"
+   "title_zh": "Emperador 勒索软件团伙声称从百威啤酒生产商窃取了3.9GB数据"
   },
   {
    "id": "CYBERSECNEWS-c714d95b",
@@ -180,7 +221,7 @@
     "勒索软件",
     "网络诈骗"
    ],
-   "title_zh": "攻击者利用Microsoft Teams技术支持骗局分发恶意软件和勒索软件"
+   "title_zh": "攻击者利用Microsoft Teams技术支持诈骗部署恶意软件和勒索软件"
   },
   {
    "id": "WORDFENCE-b0c77959",
@@ -253,7 +294,7 @@
    "tags": [
     "云安全"
    ],
-   "title_zh": "Genesys 系统黑客事件暴露内部系统客户数据"
+   "title_zh": "Genesys 漏洞暴露内部系统客户数据"
   },
   {
    "id": "SECURITYWEEK-634003c8",
@@ -313,6 +354,21 @@
    "title_zh": "PHP2Shell 漏洞利用从探测转向成功获取shell"
   },
   {
+   "id": "ESET-2739423e",
+   "title": "PHP2Shell: What to know about two critical PHP flaws",
+   "url": "https://www.welivesecurity.com/en/videos/php2shell-what-know-two-critical-php-flaws/",
+   "source": "ESET Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Mon, 26 Oct 2026 13:25:00 +0000",
+   "published_date": "2026-10-26",
+   "digest": "Here's the lowdown on CVE-2026-109618 and CVE-2026-109619, as well as what website owners and IT teams should do to stay safe – all in a little more than two mi…",
+   "tags": [
+    "漏洞预警"
+   ],
+   "title_zh": "PHP2Shell：关于两种关键PHP漏洞需知"
+  },
+  {
    "id": "CYBERSECNEWS-4d99bb09",
    "title": "Microsoft Releases Out-of-Band Security Updates for Brotli and .NET tarballs Vulnerability",
    "url": "https://cybersecuritynews.com/microsoft-security-updates-for-brotli-and-net-tarballs-vulnerability/",
@@ -369,7 +425,7 @@
     "移动安全",
     "身份认证"
    ],
-   "title_zh": "研究人员发现可租用的Android间谍软件uCreater targeting WeChat和Telegram"
+   "title_zh": "研究人员发现可租用的Android间谍软件uCreater针对WeChat和Telegram"
   },
   {
    "id": "THN-1c629b21",
@@ -382,7 +438,7 @@
    "published_date": "2026-10-26",
    "digest": "Two critical flaws in Wasmtime, a WebAssembly runtime that can be built into other software, could allow a malicious WebAssembly module to escape the sandbox in…",
    "tags": [],
-   "title_zh": "两个关键的Wasmtime漏洞可能使恶意WebAssembly模块逃出沙箱"
+   "title_zh": "两个关键的Wasmtime漏洞可能允许恶意WebAssembly模块逃出沙箱"
   },
   {
    "id": "SECURITYWEEK-09090d71",
@@ -395,7 +451,7 @@
    "published_date": "2026-10-26",
    "digest": "The individuals called victims and persuaded them to install an app and scan their credit cards to loot their bank accounts. The post Dutch Police Arrest Two Ov…",
    "tags": [],
-   "title_zh": "荷兰警方逮捕两人涉嫌通过NFC中继攻击从银行账户盗取超40万美元"
+   "title_zh": "荷兰警方逮捕两人涉嫌通过NFC中继攻击盗取超过40万美元银行账户资金"
   },
   {
    "id": "THN-d77f0456",
@@ -408,7 +464,7 @@
    "published_date": "2026-10-26",
    "digest": "Every SOC struggles with a pile of alerts. Very few of those alerts explain how an attack started or how it progressed. Network data, like that from a network d…",
    "tags": [],
-   "title_zh": "常规检测盲区：攻击者在此做什么"
+   "title_zh": "在常规检测未覆盖的间隙：攻击者在此做什么"
   },
   {
    "id": "SCHNEIER-be1e76dc",
@@ -447,7 +503,7 @@
    "published_date": "2026-10-26",
    "digest": "An out-of-bounds write in Google’s Brotli decoder affects Node.js, .NET, PowerShell, and Python packages, and can lead to code execution. The post Node2Shell: B…",
    "tags": [],
-   "title_zh": "Node2Shell：Brotli漏洞引发Microsoft、Node.js和Python包更新"
+   "title_zh": "Node2Shell：Brotli漏洞促使Microsoft、Node.js和Python包进行修复"
   },
   {
    "id": "SECURELIST-9f368524",
@@ -531,7 +587,7 @@
    "published_date": "2026-10-26",
    "digest": "The model engaged in severe overreach and dishonesty, creating fake identities and submitting malicious code on GitHub. The post Mythos 5 Ignored Real-World Har…",
    "tags": [],
-   "title_zh": "Mythos 5 在7月攻击中忽视了实际危害"
+   "title_zh": "Mythos 5 忽视了7月攻击中的实际危害"
   },
   {
    "id": "FREEBUF-fb4cec42",
@@ -742,7 +798,7 @@
    "published_date": "2026-10-26",
    "digest": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Meta FAIRChem. User interaction is required to exploit this vu…",
    "tags": [],
-   "title_zh": "ZDI-26-796: Meta FAIRChem reaction adsorbate_db_path 不信任数据序列化远程代码执行漏洞"
+   "title_zh": "ZDI-26-796: Meta FAIRChem reaction adsorbate_db_path 未经信任数据序列化远程代码执行漏洞"
   },
   {
    "id": "ZDI-PUBLISHED-e149ef7d",
@@ -818,7 +874,7 @@
    "published_date": "2026-10-26",
    "digest": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Meta FAIRChem. User interaction is required to exploit this vu…",
    "tags": [],
-   "title_zh": "ZDI-26-802: Meta FAIRChem process_mlrs 不可信数据序列化远程代码执行漏洞"
+   "title_zh": "ZDI-26-802: Meta FAIRChem process_mlrs 不信任数据反序列化远程代码执行漏洞"
   },
   {
    "id": "ZDI-PUBLISHED-0f3a9d69",
@@ -883,7 +939,7 @@
    "published_date": "2026-10-26",
    "digest": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Meta FAIRChem. User interaction is required to exploit this vu…",
    "tags": [],
-   "title_zh": "ZDI-26-807: Meta FAIRChem get_computational_df_to_predict 不信任数据序列化远程代码执行漏洞"
+   "title_zh": "ZDI-26-807: Meta FAIRChem get_computational_df_to_predict 不信任数据反序列化远程代码执行漏洞"
   },
   {
    "id": "ZDI-PUBLISHED-1da3384d",
@@ -896,7 +952,7 @@
    "published_date": "2026-10-26",
    "digest": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Meta FAIRChem. User interaction is required to exploit this vu…",
    "tags": [],
-   "title_zh": "ZDI-26-808: Meta FAIRChem run_validation 未经信任数据的反序列化远程代码执行漏洞"
+   "title_zh": "ZDI-26-808: Meta FAIRChem run_validation 不可信数据序列化远程代码执行漏洞"
   },
   {
    "id": "ZDI-PUBLISHED-f5d1dede",
@@ -909,7 +965,7 @@
    "published_date": "2026-10-26",
    "digest": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Meta FAIRChem. User interaction is required to exploit this vu…",
    "tags": [],
-   "title_zh": "ZDI-26-809: Meta FAIRChem dense_eval dft-targets 未验证数据序列化远程代码执行漏洞"
+   "title_zh": "ZDI-26-809: Meta FAIRChem dense_eval dft-targets 未经信任数据序列化远程代码执行漏洞"
   },
   {
    "id": "ARXIV-CR-26e9a2a7",
@@ -939,7 +995,7 @@
    "tags": [
     "学术研究"
    ],
-   "title_zh": "StealthRL：基于强化学习的多检测器绕过文本检测AI的同义词攻击"
+   "title_zh": "StealthRL：基于强化学习的多检测器绕过文本AI检测器的同义替换攻击"
   },
   {
    "id": "ARXIV-CR-0f71ae7d",
@@ -1249,7 +1305,7 @@
     "大模型安全",
     "学术研究"
    ],
-   "title_zh": "在任务中偏离目标：评估LLM和代理对近目标提示注入的稳健性"
+   "title_zh": "在任务中偏离目标：评估LLM和代理对近目标提示注入的 robustness 基准"
   },
   {
    "id": "ARXIV-CR-7def14cb",
@@ -1439,7 +1495,7 @@
     "监管合规",
     "学术研究"
    ],
-   "title_zh": "TRACE：针对LLMs近似遗忘的数据免费文本重建攻击"
+   "title_zh": "TRACE：针对LLM近似遗忘的数据免费文本重建攻击"
   },
   {
    "id": "ARXIV-CR-0c6c5266",
@@ -1470,7 +1526,7 @@
     "大模型安全",
     "学术研究"
    ],
-   "title_zh": "代理AI防御：MCP解码时溯源绑定"
+   "title_zh": "代理AI防御：MCP解码时可验证来源绑定"
   },
   {
    "id": "ARXIV-CR-3d1a4bcb",
@@ -1531,7 +1587,7 @@
     "大模型安全",
     "学术研究"
    ],
-   "title_zh": "尤利西斯：一种合成可验证网络利用的安全套件"
+   "title_zh": "乌利赛斯：一种合成可验证网络利用的安全套件"
   },
   {
    "id": "ARXIV-CR-9aff4635",

@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-27 10:06",
+ "generated_at": "2026-10-28 10:05",
  "source_count": 83,
- "total": 7442,
+ "total": 7446,
  "months": [
   {
    "month": "2026-10",
-   "count": 1825
+   "count": 1829
   },
   {
    "month": "2026-09",
@@ -86,17 +86,17 @@
  ],
  "facets": {
   "categories": {
-   "网络安全": 3919,
+   "网络安全": 3923,
    "AI安全": 3523
   },
   "sources": {
    "arXiv cs.CR": 3492,
    "FreeBuf": 1063,
    "The Hacker News": 713,
-   "SecurityWeek": 588,
+   "SecurityWeek": 590,
    "Security Affairs": 395,
    "ZDI Published": 382,
-   "ESET Research": 124,
+   "ESET Research": 125,
    "Schneier": 104,
    "SecWiki": 91,
    "Wordfence": 52,
@@ -106,7 +106,7 @@
    "Securelist (Kaspersky)": 35,
    "Check Point Research": 34,
    "Seebug Paper": 34,
-   "Have I Been Pwned": 30,
+   "Have I Been Pwned": 31,
    "Future of Life Institute": 21,
    "天融信": 19,
    "SentinelOne Blog": 18,
@@ -122,18 +122,18 @@
    "Volexity": 5
   },
   "priorities": {
-   "P1": 6867,
+   "P1": 6871,
    "P2": 177,
    "P0": 398
   },
   "tags": {
    "学术研究": 3521,
    "大模型安全": 1257,
-   "漏洞预警": 801,
+   "漏洞预警": 802,
    "身份认证": 204,
    "AI攻防": 195,
    "监管合规": 189,
-   "数据泄露": 161,
+   "数据泄露": 162,
    "安全运营": 145,
    "供应链攻击": 126,
    "钓鱼攻击": 125,

@@ -1,7 +1,48 @@
 {
- "generated_at": "2026-10-27 10:06",
- "total": 7442,
+ "generated_at": "2026-10-28 10:05",
+ "total": 7446,
  "items": [
+  {
+   "id": "SECURITYWEEK-0661ec8e",
+   "title": "Maritime Coalition Launches Free Vulnerability Database for Ship and Port Systems",
+   "url": "https://www.securityweek.com/maritime-coalition-launches-free-vulnerability-database-for-ship-and-port-systems/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 27 Oct 2026 07:14:27 +0000",
+   "published_date": "2026-10-27",
+   "digest": "Blue Initiative indexes nearly 30,000 IT and OT vulnerabilities relevant to ships and ports, 37 of them in maritime-specific products. The post Maritime Coaliti…",
+   "tags": [],
+   "title_zh": "海运联盟推出免费漏洞数据库服务船舶和港口系统"
+  },
+  {
+   "id": "HIBP-657f75a1",
+   "title": "AfD - 345,439 breached accounts",
+   "url": "https://haveibeenpwned.com/Breach/AfD",
+   "source": "Have I Been Pwned",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 27 Oct 2026 07:01:06 Z",
+   "published_date": "2026-10-27",
+   "digest": "In September 2026, the German political party Alternative für Deutschland (AfD) suffered a data breach which exposed 345k unique email addresses. The following …",
+   "tags": [
+    "数据泄露"
+   ],
+   "title_zh": "AfD - 345,439 被泄露的账户"
+  },
+  {
+   "id": "SECURITYWEEK-6c5ba299",
+   "title": "Cybersecurity Issue Forces a Major New Mexico Hospital to Divert Patients and Close Clinics",
+   "url": "https://www.securityweek.com/cybersecurity-issue-forces-a-major-new-mexico-hospital-to-divert-patients-and-close-clinics/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Tue, 27 Oct 2026 01:30:00 +0000",
+   "published_date": "2026-10-27",
+   "digest": "The University of New Mexico Health System told people not to show up at its main hospital in Albuquerque and canceled appointments at more than 30 clinics. The…",
+   "tags": [],
+   "title_zh": "网络安全问题迫使新墨西哥州一家主要医院分流患者并关闭诊所"
+  },
   {
    "id": "SECAFFAIRS-cdb5bd86",
    "title": "Magento Campaign Infects 953 Online Stores Across Five Domains",
@@ -54,7 +95,7 @@
    "published_date": "2026-10-26",
    "digest": "An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025. According to Du…",
    "tags": [],
-   "title_zh": "黑客感染953个在线商店以规避扫描的JavaScript，主要针对Magento"
+   "title_zh": "黑客感染953个在线商店以规避扫描的JavaScript恶意软件，主要针对Magento"
   },
   {
    "id": "THN-437f2925",
@@ -69,7 +110,7 @@
    "tags": [
     "漏洞预警"
    ],
-   "title_zh": "PHP在五天内发布第二次Windows安全更新以修复Brotli代码执行漏洞"
+   "title_zh": "PHP 在五天内发布第二次Windows安全更新以修复Brotli代码执行漏洞"
   },
   {
    "id": "CYBERSECNEWS-09855c1a",
@@ -152,7 +193,7 @@
     "勒索软件",
     "加密货币犯罪"
    ],
-   "title_zh": "Emperador 勒索软件团伙声称从百威啤酒制造商窃取了3.9GB数据"
+   "title_zh": "Emperador 勒索软件团伙声称从百威啤酒生产商窃取了3.9GB数据"
   },
   {
    "id": "CYBERSECNEWS-c714d95b",
@@ -181,7 +222,7 @@
     "勒索软件",
     "网络诈骗"
    ],
-   "title_zh": "攻击者利用Microsoft Teams技术支持骗局分发恶意软件和勒索软件"
+   "title_zh": "攻击者利用Microsoft Teams技术支持诈骗部署恶意软件和勒索软件"
   },
   {
    "id": "WORDFENCE-b0c77959",
@@ -254,7 +295,7 @@
    "tags": [
     "云安全"
    ],
-   "title_zh": "Genesys 系统黑客事件暴露内部系统客户数据"
+   "title_zh": "Genesys 漏洞暴露内部系统客户数据"
   },
   {
    "id": "SECURITYWEEK-634003c8",
@@ -299,48 +340,6 @@
     "大模型安全"
    ],
    "title_zh": "Anthropic的Claude AI模型访问了美国州选民数据（付费墙后）"
-  },
-  {
-   "id": "SECURITYWEEK-0598ac48",
-   "title": "PHP2Shell Exploitation Moves From Probes to Working Shells",
-   "url": "https://www.securityweek.com/php2shell-exploitation-moves-from-probes-to-working-shells/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Mon, 26 Oct 2026 13:30:10 +0000",
-   "published_date": "2026-10-26",
-   "digest": "Attackers successfully exploited the PHP2Shell flaws against honeypots, launching 35 shells from two IP addresses on October 24. The post PHP2Shell Exploitation…",
-   "tags": [],
-   "title_zh": "PHP2Shell 漏洞利用从探测转向成功获取shell"
-  },
-  {
-   "id": "CYBERSECNEWS-4d99bb09",
-   "title": "Microsoft Releases Out-of-Band Security Updates for Brotli and .NET tarballs Vulnerability",
-   "url": "https://cybersecuritynews.com/microsoft-security-updates-for-brotli-and-net-tarballs-vulnerability/",
-   "source": "CyberSecurity News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Mon, 26 Oct 2026 13:22:05 +0000",
-   "published_date": "2026-10-26",
-   "digest": "Microsoft has released out-of-band security updates for .NET to fix a Brotli buffer overflow and unsafe ownership settings in Linux distribution archives. Publi…",
-   "tags": [],
-   "title_zh": "微软发布针对Brotli和.NET tarballs漏洞的紧急安全更新"
-  },
-  {
-   "id": "CYBERSECNEWS-72d211d7",
-   "title": "Cloudflare Release Emergency WAF Ruleset Update Following Brotli Vulnerability",
-   "url": "https://cybersecuritynews.com/cloudflare-release-brotli-vulnerability-waf-ruleset/",
-   "source": "CyberSecurity News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Mon, 26 Oct 2026 13:18:59 +0000",
-   "published_date": "2026-10-26",
-   "digest": "Cloudflare has announced an emergency Web Application Firewall (WAF) ruleset update linked to CVE-2026-111497, a Brotli vulnerability. The October 25, 2026 rele…",
-   "tags": [
-    "漏洞预警",
-    "Web安全"
-   ],
-   "title_zh": "Cloudflare 发布紧急 WAF 规则更新应对 Brotli 漏洞"
   }
  ]
 }
