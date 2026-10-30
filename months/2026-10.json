@@ -2,6 +2,1359 @@
  "month": "2026-10",
  "items": [
   {
+   "id": "RISKYBIZ-adb338b5",
+   "title": "Snake Oilers: Minimal.dev, Request Rocket and TRM Labs",
+   "url": "https://risky.biz/SNAKEOILERS24PT2/",
+   "source": "Risky Business",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 30 Oct 2026 11:34:05 +1100",
+   "published_date": "2026-10-30",
+   "digest": "In this edition of the Snake Oilers podcast, three vendors drop by to pitch their products. Minimal.dev : A sandbox for AI agents! Co-Founder and CEO Jake King …",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "Snake Oilers: Minimal.dev、Request Rocket 和 TRM Labs"
+  },
+  {
+   "id": "SECAFFAIRS-2c5d3804",
+   "title": "Binance Investigates Suspicious Crypto Transfers Worth Up to $5.8 Billion",
+   "url": "https://securityaffairs.com/202089/hacking/binance-investigates-suspicious-crypto-transfers-worth-up-to-5-8-billion.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 22:53:27 +0000",
+   "published_date": "2026-10-29",
+   "digest": "Binance probes suspicious crypto transfers worth up to $5.8 billion as Tether and Circle freeze $1.79 billion in stablecoins linked to the activity. Binance is …",
+   "tags": [],
+   "title_zh": "币安调查价值高达58亿美元的可疑加密货币转账"
+  },
+  {
+   "id": "WORDFENCE-3cad13a1",
+   "title": "WordPress 7.1.4 Patches Unauthenticated Upgrade-Window RCE; Exploitation Attempts Detected After Release",
+   "url": "https://www.wordfence.com/blog/2026/10/wordpress-7-1-4-security-release-rce/",
+   "source": "Wordfence",
+   "category": "网络安全",
+   "priority": "P2",
+   "published_at": "Thu, 29 Oct 2026 21:58:44 +0000",
+   "published_date": "2026-10-29",
+   "digest": "TL;DR: WordPress 7.1.4 was released on October 28, 2026. According to WordPress, it includes fixes for 22 security vulnerabilities. The most serious is an unaut…",
+   "tags": [
+    "漏洞预警",
+    "Web安全"
+   ],
+   "title_zh": "WordPress 7.1.4 未授权升级窗口RCE漏洞修复；发布后检测到利用尝试"
+  },
+  {
+   "id": "SECAFFAIRS-f07ad8c7",
+   "title": "US Probes Suspected Hack Behind Military Base Freezer Failures",
+   "url": "https://securityaffairs.com/202073/hacking/us-probes-suspected-hack-behind-military-base-freezer-failures.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 21:58:38 +0000",
+   "published_date": "2026-10-29",
+   "digest": "The Pentagon treats August freezer failures at US military bases as a suspected hack and is working with French investigators after a supermarket attack. The Pe…",
+   "tags": [],
+   "title_zh": "美国调查疑似黑客攻击导致军事基地冰箱故障"
+  },
+  {
+   "id": "WORDFENCE-c0d8558d",
+   "title": "Wordfence Bug Bounty Program Monthly Report – July 2026",
+   "url": "https://www.wordfence.com/blog/2026/10/wordfence-bug-bounty-program-monthly-report-july-2026/",
+   "source": "Wordfence",
+   "category": "网络安全",
+   "priority": "P2",
+   "published_at": "Thu, 29 Oct 2026 19:20:35 +0000",
+   "published_date": "2026-10-29",
+   "digest": "In July 2026, the Wordfence Bug Bounty Program received 1077 vulnerability submissions from our growing community of security researchers working to improve the…",
+   "tags": [],
+   "title_zh": "Wordfence漏洞赏金计划月度报告 —— 2026年7月"
+  },
+  {
+   "id": "THN-ae192d86",
+   "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
+   "url": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 30 Oct 2026 00:41:58 +0530",
+   "published_date": "2026-10-30",
+   "digest": "Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and truste…",
+   "tags": [],
+   "title_zh": "威胁日：关键防火墙漏洞、出租银行木马、武器化PDF文件、令牌窃取等26篇更多故事"
+  },
+  {
+   "id": "SECAFFAIRS-e81438b5",
+   "title": "484,142 Exposed Cloud Buckets Contain 18 Billion Files",
+   "url": "https://securityaffairs.com/202055/security/484142-exposed-cloud-buckets-contain-18-billion-files.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 18:43:01 +0000",
+   "published_date": "2026-10-29",
+   "digest": "42 publicly listable cloud buckets containing 18 billion files, including exposed credentials, database dumps and backups. The Ransomnews research team counted …",
+   "tags": [
+    "云安全",
+    "身份认证"
+   ],
+   "title_zh": "484,142 暴露的云存储桶包含180亿个文件"
+  },
+  {
+   "id": "CYBERSECNEWS-aa1e5fcf",
+   "title": "State of Ad Fraud 2026: 52% of Schemes Use AI as Cloaking Loses Ground to iOS Exploits and Messenger Phishing",
+   "url": "https://cybersecuritynews.com/state-of-ad-fraud-2026-52-of-schemes-use-ai-as-cloaking-loses-ground-to-ios-exploits-and-messenger-phishing/",
+   "source": "CyberSecurity News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 17:26:36 +0000",
+   "published_date": "2026-10-29",
+   "digest": "The ad fraud landscape changed sharply in 2026. That is the central finding of the State of Ad Fraud 2026: ADEX Trust & Safety Report, published by anti-fraud p…",
+   "tags": [
+    "钓鱼攻击",
+    "网络诈骗",
+    "移动安全"
+   ],
+   "title_zh": "2026年广告欺诈现状：52%的方案利用AI遮蔽，但被iOS漏洞和即时聊天诈骗超越"
+  },
+  {
+   "id": "CYBERSECNEWS-ff8b282a",
+   "title": "Hackers Launch 8,200 DDoS Attacks Every Hour, Cloudflare’s Latest Report Reveals",
+   "url": "https://cybersecuritynews.com/8200-ddos-attacks-every-hour/",
+   "source": "CyberSecurity News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 16:42:03 +0000",
+   "published_date": "2026-10-29",
+   "digest": "Cloudflare blocked an average of more than 8,200 network-layer DDoS attacks every hour during the third quarter of 2026, showing how attackers are using frequen…",
+   "tags": [
+    "僵尸网络"
+   ],
+   "title_zh": "黑客每小时发动8200次DDoS攻击，Cloudflare最新报告揭示"
+  },
+  {
+   "id": "SECURITYWEEK-1a143efa",
+   "title": "When Risk Becomes Personal: What Security Leaders Can Learn From a Cancer Diagnosis",
+   "url": "https://www.securityweek.com/when-risk-becomes-personal-what-security-leaders-can-learn-from-a-cancer-diagnosis/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 16:30:00 +0000",
+   "published_date": "2026-10-29",
+   "digest": "Risk managers are trained to spot weak signals, plan for disruption and make hard decisions under uncertainty. But the discipline looks different when the risk …",
+   "tags": [],
+   "title_zh": "当风险变得个人化：安全领导者可以从癌症诊断中学到什么"
+  },
+  {
+   "id": "SECAFFAIRS-b4032619",
+   "title": "U.S. CISA adds Linux Kernel and Broadcom VMWare ESX  flaws to its Known Exploited Vulnerabilities catalog",
+   "url": "https://securityaffairs.com/202050/hacking/u-s-cisa-adds-linux-kernel-and-broadcom-vmware-esx-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 16:05:56 +0000",
+   "published_date": "2026-10-29",
+   "digest": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Linux Kernel and Broadcom VMWare ESX flaws to its Known Exploited Vulnerabilities catalog. The…",
+   "tags": [
+    "监管合规"
+   ],
+   "title_zh": "美国CISA将Linux内核和Broadcom VMWare ESX漏洞添加到已知被利用漏洞目录中"
+  },
+  {
+   "id": "SECWIKI-6d663a22",
+   "title": "SecWiki News 2026-10-29 Review",
+   "url": "http://www.sec-wiki.com/?2026-10-29",
+   "source": "SecWiki",
+   "category": "网络安全",
+   "priority": "P2",
+   "published_at": "\nThu, 29 Oct 2026 23:58:20 +0800",
+   "published_date": "2026-10-29",
+   "digest": "IRIS 基于大语言模型辅助的安全漏洞静态分析 by ourren 以提示词注入反击AI驱动的网络攻击 by ourren 网络安全威胁2026年中报告 by ourren 更多最新文章，请访问 SecWiki",
+   "tags": [
+    "漏洞预警"
+   ],
+   "title_zh": "SecWiki 新闻 2026-10-29 概览"
+  },
+  {
+   "id": "THN-879452bb",
+   "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
+   "url": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 21:27:05 +0530",
+   "published_date": "2026-10-29",
+   "digest": "A flaw in the Linux kernel's TCP code, tracked as CVE-2026-98432, affects Ubuntu, Red Hat Enterprise Linux (RHEL), and other Linux distributions. The kernel's o…",
+   "tags": [
+    "漏洞预警"
+   ],
+   "title_zh": "Linux 内核 TCP 漏洞影响 Ubuntu、Red Hat 等发行版（CVSS 得分 9.8）"
+  },
+  {
+   "id": "WORDFENCE-ed59279a",
+   "title": "Wordfence Intelligence Weekly WordPress Vulnerability Report (October 19, 2026 to October 25, 2026)",
+   "url": "https://www.wordfence.com/blog/2026/10/wordfence-intelligence-weekly-wordpress-vulnerability-report-october-19-2026-to-october-25-2026/",
+   "source": "Wordfence",
+   "category": "网络安全",
+   "priority": "P2",
+   "published_at": "Thu, 29 Oct 2026 15:40:46 +0000",
+   "published_date": "2026-10-29",
+   "digest": "Last week, there were disclosed in and that have been added to the Wordfence Intelligence Vulnerability Database, and there were that contributed to WordPress S…",
+   "tags": [
+    "Web安全"
+   ],
+   "title_zh": "Wordfence Intelligence 每周 WordPress 漏洞报告（2026年10月19日至2026年10月25日）"
+  },
+  {
+   "id": "THN-e67783a0",
+   "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
+   "url": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 20:50:29 +0530",
+   "published_date": "2026-10-29",
+   "digest": "Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Clau…",
+   "tags": [
+    "加密货币犯罪",
+    "大模型安全"
+   ],
+   "title_zh": "假冒ChatGPT和Claude应用滥用签名可执行文件部署加密货币挖矿软件"
+  },
+  {
+   "id": "CYBERSECNEWS-93aa9d9e",
+   "title": "Claude AI Exploits Linux Kernel Flaw to Execute Root Commands Without User Interaction",
+   "url": "https://cybersecuritynews.com/linux-kernel-flaw-root-commands/",
+   "source": "CyberSecurity News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 15:18:11 +0000",
+   "published_date": "2026-10-29",
+   "digest": "Anthropic says an unreleased Claude research model wrote a working exploit for a critical Linux kernel bug, tracked as CVE-2026-98432. The exploit lets a remote…",
+   "tags": [
+    "漏洞预警",
+    "大模型安全"
+   ],
+   "title_zh": "Claude AI 利用 Linux 内核漏洞在无需用户交互的情况下执行根命令"
+  },
+  {
+   "id": "SECURITYWEEK-8f110458",
+   "title": "Google Says Gemini 4 Carbon Leads in Finding, Exploiting and Fixing Vulnerabilities",
+   "url": "https://www.securityweek.com/google-says-gemini-4-carbon-leads-in-finding-exploiting-and-fixing-vulnerabilities/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 15:01:00 +0000",
+   "published_date": "2026-10-29",
+   "digest": "Google’s new frontier model scored 88.2% on SEC-bench Pro and is rolling out first to vetted cyber defenders via its Fairwind Program. The post Google Says Gemi…",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "谷歌称Gemini 4 Carbon在发现、利用和修复漏洞方面表现最佳"
+  },
+  {
+   "id": "SECURITYWEEK-cc83a03a",
+   "title": "How Secure Are US Elections? Voting Machine Risks and the Growing Threat of AI",
+   "url": "https://www.securityweek.com/how-secure-are-us-elections-voting-machine-risks-and-the-growing-threat-of-ai/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 15:00:00 +0000",
+   "published_date": "2026-10-29",
+   "digest": "Unpatched voting machines, unverifiable QR-coded ballots, and AI-driven influence campaigns leave US elections short of secure. The post How Secure Are US Elect…",
+   "tags": [],
+   "title_zh": "美国选举安全如何？投票机风险与日益增长的AI威胁"
+  },
+  {
+   "id": "CYBERSECNEWS-a0a44240",
+   "title": "NIST Officially Released Guidance for Transition to Post-Quantum Cryptography",
+   "url": "https://cybersecuritynews.com/nist-post-quantum-cryptography-guidance/",
+   "source": "CyberSecurity News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 14:55:18 +0000",
+   "published_date": "2026-10-29",
+   "digest": "The National Institute of Standards and Technology (NIST) has released guidance on moving to post-quantum cryptography, giving federal agencies and technology p…",
+   "tags": [],
+   "title_zh": "NIST 正式发布后量子密码学过渡指南"
+  },
+  {
+   "id": "CYBERSECNEWS-ef690b21",
+   "title": "Zero-Click ‘SMS of Death’ Flaw Lets Hackers Disrupt Android Phones With a Single Text",
+   "url": "https://cybersecuritynews.com/zero-click-android-vulnerability/",
+   "source": "CyberSecurity News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 14:50:38 +0000",
+   "published_date": "2026-10-29",
+   "digest": "A security researcher has published details of a zero-click Android flaw called “SMS of Death.” One malformed text message can crash the phone service on an And…",
+   "tags": [
+    "移动安全"
+   ],
+   "title_zh": "零点击“短信致命”漏洞让黑客可通过一条消息中断Android手机"
+  },
+  {
+   "id": "SECURITYWEEK-cb261e8b",
+   "title": "Cisco Open Sources Quarry to Catch AI Agent Attacks Hidden in Harmless Steps",
+   "url": "https://www.securityweek.com/cisco-open-sources-quarry-to-catch-ai-agent-attacks-hidden-in-harmless-steps/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 14:18:03 +0000",
+   "published_date": "2026-10-29",
+   "digest": "Cisco open sourced Project Quarry, a rule language for detecting AI agent attacks that only emerge across sequences of benign actions. The post Cisco Open Sourc…",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "Cisco 开源 Quarry 捕获隐藏在无辜步骤中的AI代理攻击"
+  },
+  {
+   "id": "CHECKPOINT-9e873023",
+   "title": "Cohere’s Qwen Story: Looks More Like Model Jaggedness",
+   "url": "https://research.checkpoint.com/2026/coheres-qwen-story-looks-more-like-model-jaggedness/",
+   "source": "Check Point Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 14:08:46 +0000",
+   "published_date": "2026-10-29",
+   "digest": "Key findings On October 26, Cohere reported a puzzling incident involving Qwen3.8-Flash-Next, an open-weight model from Alibaba. The task was straightforward: w…",
+   "tags": [],
+   "title_zh": "Cohere的Qwen故事：更像是模型的 jaggedness 效果"
+  },
+  {
+   "id": "CYBERSECNEWS-489ded5f",
+   "title": "AppViewX Expands Quantum Trust Hub with Cryptographic Discovery, Posture Management, and Remediation",
+   "url": "https://cybersecuritynews.com/appviewx-expands-quantum-trust-hub-with-cryptographic-discovery-posture-management-and-remediation/",
+   "source": "CyberSecurity News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 13:52:50 +0000",
+   "published_date": "2026-10-29",
+   "digest": "New York, New York, October 29th, 2026, CyberNewswire Now available as a standalone solution, Quantum Trust Hub delivers cryptographic posture management and ag…",
+   "tags": [],
+   "title_zh": "AppViewX 扩展量子信任枢纽，增加加密发现、状态管理及修复功能"
+  },
+  {
+   "id": "SECURITYWEEK-6c37cb0b",
+   "title": "Adobe, Veeam, Juniper Networks Patch Critical Vulnerabilities",
+   "url": "https://www.securityweek.com/adobe-veeam-juniper-networks-patch-critical-vulnerabilities/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 13:42:52 +0000",
+   "published_date": "2026-10-29",
+   "digest": "The flaws could lead to arbitrary code execution, authorization bypasses, and privilege escalation. The post Adobe, Veeam, Juniper Networks Patch Critical Vulne…",
+   "tags": [],
+   "title_zh": "Adobe、Veeam、Juniper Networks 修复严重漏洞"
+  },
+  {
+   "id": "THN-9af32379",
+   "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
+   "url": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 19:12:40 +0530",
+   "published_date": "2026-10-29",
+   "digest": "Google on Wednesday took the wraps off Gemini 4 Carbon, its latest frontier model with state-of-the-art cybersecurity and long-horizon capabilities. \"It shows s…",
+   "tags": [
+    "大模型安全",
+    "学术研究"
+   ],
+   "title_zh": "Google的Gemini 4 Carbon在发现、利用和修补漏洞方面领先基准测试"
+  },
+  {
+   "id": "CYBERSECNEWS-8218df73",
+   "title": "Hackers Exploit Critical Cisco SD-WAN 0-Day Flaw to Deploy KeyDrift Malware and Steal Encryption Keys",
+   "url": "https://cybersecuritynews.com/critical-cisco-sd-wan-0-day-flaw/",
+   "source": "CyberSecurity News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 13:30:55 +0000",
+   "published_date": "2026-10-29",
+   "digest": "A state-linked hacking group used a maximum-severity Cisco SD-WAN zero-day flaw to break into network controllers and install a custom malware framework called …",
+   "tags": [
+    "漏洞预警"
+   ],
+   "title_zh": "黑客利用Critical Cisco SD-WAN 0-Day漏洞部署KeyDrift恶意软件并窃取加密密钥"
+  },
+  {
+   "id": "SECURITYWEEK-97504b00",
+   "title": "BAE Says No Data Extracted in Incident Hitting Bankruptcy Courts",
+   "url": "https://www.securityweek.com/bae-says-no-data-extracted-in-incident-hitting-bankruptcy-courts/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 13:26:49 +0000",
+   "published_date": "2026-10-29",
+   "digest": "BAE Systems says no data was extracted and no PII was breached in the incident that disrupted US bankruptcy court notices for weeks. The post BAE Says No Data E…",
+   "tags": [],
+   "title_zh": "BAE称破产法院事件未提取数据"
+  },
+  {
+   "id": "SECURITYWEEK-83deaf42",
+   "title": "Over 41,000 DHS Employee Records Leaked Online",
+   "url": "https://www.securityweek.com/over-41000-dhs-employee-records-leaked-online/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 12:54:14 +0000",
+   "published_date": "2026-10-29",
+   "digest": "The personal and work information was allegedly stolen from an Okta single sign-on system earlier this year. The post Over 41,000 DHS Employee Records Leaked On…",
+   "tags": [],
+   "title_zh": "超过41,000名DHS员工记录在线泄露"
+  },
+  {
+   "id": "CYBERSECNEWS-f68ebe66",
+   "title": "Chinese Hackers Use Secret Silent Train Network to Exploit Zero-Days Against U.S. Government and Defense",
+   "url": "https://cybersecuritynews.com/chinese-hackers/",
+   "source": "CyberSecurity News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 12:48:55 +0000",
+   "published_date": "2026-10-29",
+   "digest": "China-linked Volt Typhoon hackers have used a covert network called Silent Train to hide zero-day attacks against U.S. government agencies, defense contractors …",
+   "tags": [
+    "APT组织"
+   ],
+   "title_zh": "中国黑客利用秘密Silent Train网络针对美国政府和国防机构exploit零日漏洞"
+  },
+  {
+   "id": "CYBERSECNEWS-7786cba3",
+   "title": "Hackers Claim Wagyu Crypto Platform Breach as Researchers Find Thousands of Monero Transaction Records",
+   "url": "https://cybersecuritynews.com/wagyu-crypto-platform-breach/",
+   "source": "CyberSecurity News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 11:57:24 +0000",
+   "published_date": "2026-10-29",
+   "digest": "Hackers have claimed a breach of cryptocurrency swap platform Wagyu.xyz, while researchers reviewing the purported leak found thousands of records connecting Mo…",
+   "tags": [
+    "加密货币犯罪"
+   ],
+   "title_zh": "黑客宣称Wagyu加密交易平台遭入侵 研究人员发现数千条Monero交易记录"
+  },
+  {
+   "id": "4HOU-3cb44aef",
+   "title": "GEEKCON2026 上海：黑客在阳光下排雷，谁在黑夜里装睡？",
+   "url": "https://www.4hou.com/posts/q5xp",
+   "source": "嘶吼",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 19:42:09 +0800",
+   "published_date": "2026-10-29",
+   "digest": "一年前，上海西岸艺术区旁的露天停机坪上，GEEKCON拆掉了头顶的天花板，让安全从暗处走到阳光下。 一年后，当人们以为那场“暗夜系的狂欢”会继续在旷野里生长，GEEKCON却把脚步收了回来。2026年的大会，再度回到了上海西岸CMG融媒影城，那个有屋顶、有银幕、有黑暗放映厅的朴素场地。 <img class=\"rich…",
+   "tags": []
+  },
+  {
+   "id": "THN-d972c29f",
+   "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
+   "url": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 17:09:18 +0530",
+   "published_date": "2026-10-29",
+   "digest": "A flaw in Telegram for Android allowed an attacker to run code on a victim's phone via a voice call once the victim answered, according to security startup Nebu…",
+   "tags": [
+    "移动安全"
+   ],
+   "title_zh": "Telegram Android 存漏洞使攻击者可在用户接听语音通话时运行代码"
+  },
+  {
+   "id": "THN-5e0a8bef",
+   "title": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
+   "url": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 17:03:41 +0530",
+   "published_date": "2026-10-29",
+   "digest": "AI is beginning to take over much of the work that has traditionally defined the security analyst's job. Investigating alerts, collecting evidence, correlating …",
+   "tags": [],
+   "title_zh": "威胁运营商的崛起：AI将如何重新定义安全运营与职业发展"
+  },
+  {
+   "id": "THN-edf41ec2",
+   "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
+   "url": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 17:03:15 +0530",
+   "published_date": "2026-10-29",
+   "digest": "26,400 credentials that developers left in public code on Gitee, a Chinese code-hosting service, still worked when a researcher tested them. Anyone who copied o…",
+   "tags": [
+    "云安全",
+    "身份认证"
+   ],
+   "title_zh": "26400有效云和AI凭证在公开Gitee仓库中被发现暴露"
+  },
+  {
+   "id": "CYBERSECNEWS-504e99db",
+   "title": "Hackers Attack FreePBX Servers With Malware to Steal SIP Credentials for Phone Fraud",
+   "url": "https://cybersecuritynews.com/hackers-attack-freepbx-servers/",
+   "source": "CyberSecurity News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 11:09:22 +0000",
+   "published_date": "2026-10-29",
+   "digest": "Hackers targeting FreePBX phone servers have upgraded their malware to steal credentials that can keep phone fraud running even after an infected system is rebu…",
+   "tags": [
+    "网络诈骗",
+    "身份认证"
+   ],
+   "title_zh": "黑客使用恶意软件攻击FreePBX服务器以窃取SIP凭证进行电话诈骗"
+  },
+  {
+   "id": "SECURITYWEEK-ddbb6c30",
+   "title": "Hackers Steal 2.6 Million Records From Sony’s Japanese ISP So-net",
+   "url": "https://www.securityweek.com/hackers-steal-2-6-million-records-from-sonys-japanese-isp-so-net/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 11:00:00 +0000",
+   "published_date": "2026-10-29",
+   "digest": "The data of So-net and Plala customers in Japan was exposed, along with 54,401 email account passwords and 16 bank account records. The post Hackers Steal 2.6 M…",
+   "tags": [],
+   "title_zh": "黑客窃取260万条记录从索尼的日本ISP So-net"
+  },
+  {
+   "id": "THN-9a78aaed",
+   "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
+   "url": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 16:14:46 +0530",
+   "published_date": "2026-10-29",
+   "digest": "Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Def…",
+   "tags": [
+    "漏洞预警"
+   ],
+   "title_zh": "思科修复了actively exploited ASA和FTD VPN漏洞，该漏洞可导致防火墙崩溃"
+  },
+  {
+   "id": "SECAFFAIRS-1148e393",
+   "title": "Volt Typhoon Used Silent Train to Hide Zero-Day Attacks",
+   "url": "https://securityaffairs.com/202023/intelligence/volt-typhoon-used-silent-train-to-hide-zero-day-attacks.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 10:34:54 +0000",
+   "published_date": "2026-10-29",
+   "digest": "Volt Typhoon used disposable relay chains to hide zero-day attacks on critical systems. Lumen linked Silent Train to at least four zero-days. Lumen’s Black Lotu…",
+   "tags": [
+    "APT组织"
+   ],
+   "title_zh": "volt typhoon 使用 silent train 隐匿零日攻击"
+  },
+  {
+   "id": "SECURITYWEEK-e7ee456a",
+   "title": "Cisco SD-WAN Zero-Day Exploitation Tied to Volt Typhoon’s ‘Silent Train’ Network",
+   "url": "https://www.securityweek.com/cisco-sd-wan-zero-day-exploitation-tied-to-volt-typhoons-silent-train-network/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 10:29:25 +0000",
+   "published_date": "2026-10-29",
+   "digest": "Cisco Talos linked SD-WAN key-stealing malware to infrastructure overlapping Volt Typhoon’s Silent Train network, which Lumen detailed. The post Cisco SD-WAN Ze…",
+   "tags": [
+    "APT组织"
+   ],
+   "title_zh": "思科SD-WAN零日利用与Volt Typhoon的“静默列车”网络相关"
+  },
+  {
+   "id": "THN-76f5b9e9",
+   "title": "GitHub Launches npm Firewall to Block Malicious Packages Before Installation",
+   "url": "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 15:56:33 +0530",
+   "published_date": "2026-10-29",
+   "digest": "GitHub has announced that it's introducing a new package firewall as a preview to block installation of suspicious npm packages during installation time. \"The f…",
+   "tags": [
+    "供应链攻击"
+   ],
+   "title_zh": "GitHub 推出 npm 防火墙以在安装前阻断恶意包"
+  },
+  {
+   "id": "FREEBUF-c5d92250",
+   "title": "只写不读：OpenCATS 导入模块的 RCE 与任意文件读取",
+   "url": "https://www.freebuf.com/articles/vuls/509623.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 18:19:28 +0800",
+   "published_date": "2026-10-29",
+   "digest": "OpenCATS 导入模块保留客户端文件名致认证后 RCE（CVE-2026-54454）",
+   "tags": [
+    "漏洞预警"
+   ]
+  },
+  {
+   "id": "CYBERSECNEWS-b7b71c18",
+   "title": "GitHub Launches Copilot Fusion for Smarter and Cheaper AI Coding",
+   "url": "https://cybersecuritynews.com/github-launches-copilot-fusion/",
+   "source": "CyberSecurity News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 10:06:38 +0000",
+   "published_date": "2026-10-29",
+   "digest": "GitHub has launched Copilot Fusion, a system that automatically selects AI models for coding tasks, helping developers balance code quality, speed, and cost. In…",
+   "tags": [],
+   "title_zh": "GitHub 推出 Copilot 融合以实现更智能、更经济的AI编码"
+  },
+  {
+   "id": "CYBERSECNEWS-917e8532",
+   "title": "Microsoft Urges Entra ID Admins to Migrate from SMS and Voice Authentication to Passkeys",
+   "url": "https://cybersecuritynews.com/microsoft-urges-admins-to-migrate-passkeys/",
+   "source": "CyberSecurity News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 09:48:13 +0000",
+   "published_date": "2026-10-29",
+   "digest": "Microsoft urged Entra ID administrators to migrate from SMS and voice authentication in Entra ID to passkeys before retirement begins on February 1, 2027, to re…",
+   "tags": [
+    "身份认证"
+   ],
+   "title_zh": "微软敦促Entra ID管理员从短信和语音认证迁移到密码钥匙"
+  },
+  {
+   "id": "SECURITYWEEK-cc3c5de5",
+   "title": "Attackers Exploit Second Cisco Firewall VPN Zero-Day Since August",
+   "url": "https://www.securityweek.com/attackers-exploit-second-cisco-firewall-vpn-zero-day-since-august/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 09:47:10 +0000",
+   "published_date": "2026-10-29",
+   "digest": "An exploited flaw in the Remote Access SSL VPN service lets unauthenticated attackers remotely force ASA and FTD firewalls to reload. The post Attackers Exploit…",
+   "tags": [],
+   "title_zh": "攻击者利用8月以来的第二个思科防火墙VPN零日漏洞"
+  },
+  {
+   "id": "CYBERSECNEWS-ee0e0a32",
+   "title": "319 Chrome Extensions Found Hijacking Searches, Affecting 13.4 Million Users",
+   "url": "https://cybersecuritynews.com/319-chrome-extensions/",
+   "source": "CyberSecurity News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 09:27:23 +0000",
+   "published_date": "2026-10-29",
+   "digest": "A network of 319 browser extensions has been linked to search hijacking affecting roughly 13.4 million users over a decade. Marketed as PDF converters, manual f…",
+   "tags": [],
+   "title_zh": "319 个 Chrome 扩展被发现劫持搜索，影响 13.4 百万用户"
+  },
+  {
+   "id": "SECAFFAIRS-4a4d96af",
+   "title": "Election Website Security: 42% of US County Sites Still Lack .gov Domains",
+   "url": "https://securityaffairs.com/201967/security/election-website-security-42-of-us-county-sites-still-lack-gov-domains.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 09:21:41 +0000",
+   "published_date": "2026-10-29",
+   "digest": "US election websites show improved security, but weak email protection, non-.gov domains and third-party tracking still expose voters to risks. Millions of Amer…",
+   "tags": [],
+   "title_zh": "选举网站安全：美国42%的县級站点仍未使用.gov域名"
+  },
+  {
+   "id": "FREEBUF-6ebef163",
+   "title": "Telegram安卓端被曝漏洞，用户接听语音通话可触发代码执行",
+   "url": "https://www.freebuf.com/news/509651.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 17:09:18 +0800",
+   "published_date": "2026-10-29",
+   "digest": "Telegram安卓端存在高危漏洞，用户仅需接听语音通话就可能被攻击者执行任意代码，请尽快升级至12.10.4及以上版本。",
+   "tags": [
+    "漏洞预警",
+    "移动安全"
+   ]
+  },
+  {
+   "id": "THN-0f941b90",
+   "title": "Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open",
+   "url": "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 14:35:39 +0530",
+   "published_date": "2026-10-29",
+   "digest": "An attacker tried to exploit a critical GitLab vulnerability on the Alpine Linux project's own GitLab server a week after GitLab released a fix, Alpine Linux sa…",
+   "tags": [],
+   "title_zh": "攻击者尝试利用Alpine Linux的GitLab通过CVSS 10.0漏洞其Ruby未修复"
+  },
+  {
+   "id": "NSFOCUS-b3914b71",
+   "title": "乘风破浪，已然启程 | 绿盟科技2026应届生入职培训圆满收官",
+   "url": "https://blog.nsfocus.net/%e4%b9%98%e9%a3%8e%e7%a0%b4%e6%b5%aa%ef%bc%8c%e5%b7%b2%e7%84%b6%e5%90%af%e7%a8%8b-%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%802026%e5%ba%94%e5%b1%8a%e7%94%9f%e5%85%a5%e8%81%8c%e5%9f%b9%e8%ae%ad%e5%9c%86/",
+   "source": "绿盟科技博客",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 09:04:08 +0000",
+   "published_date": "2026-10-29",
+   "digest": "金秋十月，绿盟科技2026应届生入职培训圆满收官。从报到初见时的些许拘谨，到入司培训中的并肩同行，再到入岗学习... » 阅读全文",
+   "tags": []
+  },
+  {
+   "id": "SECAFFAIRS-ca0b8ac4",
+   "title": "ENGIE Data Breach Exposes Customer Details and Energy Contracts",
+   "url": "https://securityaffairs.com/201985/data-breach/engie-data-breach-exposes-customer-details-and-energy-contracts.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 08:53:37 +0000",
+   "published_date": "2026-10-29",
+   "digest": "ENGIE says attackers accessed French customers’ contact and energy contract data through a partner sales tool. Banking data was not affected. French multination…",
+   "tags": [
+    "数据泄露"
+   ],
+   "title_zh": "ENGIE 数据泄露暴露客户信息和能源合同"
+  },
+  {
+   "id": "CYBERSECNEWS-82222f8c",
+   "title": "Microsoft Edge Zero-Click Exploit Chains Five Flaws to Execute Code and Escape Sandbox",
+   "url": "https://cybersecuritynews.com/microsoft-edge-zero-click-exploit/",
+   "source": "CyberSecurity News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 08:48:30 +0000",
+   "published_date": "2026-10-29",
+   "digest": "Security researcher Orange Tsai has revealed an exploit chain for Microsoft Edge that combines five bugs and two Windows features to run code outside the browse…",
+   "tags": [],
+   "title_zh": "Microsoft Edge 零点击漏洞利用链五处缺陷执行代码并逃逸沙盒"
+  },
+  {
+   "id": "SECAFFAIRS-9ad33a19",
+   "title": "Virtualine Domain Seized, but Allegedly Abusive Website Remains Online",
+   "url": "https://securityaffairs.com/202002/cyber-crime/virtualine-domain-seized-but-allegedly-abusive-website-remains-online.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 08:45:21 +0000",
+   "published_date": "2026-10-29",
+   "digest": "The FBI seized Virtualine, a hosting service accused of supporting criminal sites, ignoring abuse reports and helping launder money from illegal activities The …",
+   "tags": [
+    "监管合规"
+   ],
+   "title_zh": "虚拟线域名被查封，但疑似恶意网站仍在线"
+  },
+  {
+   "id": "CYBERSECNEWS-8a8bf5eb",
+   "title": "Hackers Use Fake Cloudflare Verification Pages to Target Windows and Mac Users",
+   "url": "https://cybersecuritynews.com/fake-cloudflare-verification/",
+   "source": "CyberSecurity News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 08:38:36 +0000",
+   "published_date": "2026-10-29",
+   "digest": "A new ClickFix campaign is using fake Cloudflare verification pages to trick both Windows and Mac users into running harmful commands on their own computers. Th…",
+   "tags": [],
+   "title_zh": "黑客使用假Cloudflare验证页面 targeting Windows 和 Mac 用户"
+  },
+  {
+   "id": "SECURITYWEEK-0357097d",
+   "title": "HHS Filing Puts iRhythm Data Breach Toll at 8.2 Million",
+   "url": "https://www.securityweek.com/hhs-filing-puts-irhythm-data-breach-toll-at-8-2-million/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 08:27:16 +0000",
+   "published_date": "2026-10-29",
+   "digest": "Hackers stole personal information and iRhythm account and device data from third-party-hosted business applications. The post HHS Filing Puts iRhythm Data Brea…",
+   "tags": [
+    "数据泄露"
+   ],
+   "title_zh": "HHS 报告显示 iRhythm 数据泄露影响人数达 820 万"
+  },
+  {
+   "id": "THN-6bc5f713",
+   "title": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
+   "url": "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 13:54:22 +0530",
+   "published_date": "2026-10-29",
+   "digest": "Hackers exploited a critical Cisco Catalyst SD-WAN flaw, fixed in February, to plant custom malware inside the systems that control an organization's SD-WAN net…",
+   "tags": [],
+   "title_zh": "黑客利用思科SD-WAN漏洞植入窃取加密密钥的恶意软件"
+  },
+  {
+   "id": "CYBERSECNEWS-c1afa091",
+   "title": "Top 10 Best Threat Intelligence Platforms (TIP) in 2026 [Ranked & Scored]",
+   "url": "https://cybersecuritynews.com/best-threat-intelligence-platforms/",
+   "source": "CyberSecurity News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 08:24:13 +0000",
+   "published_date": "2026-10-29",
+   "digest": "Raw intelligence is cheap; operationalized intelligence is rare. A threat intelligence platform earns its keep by fusing feeds, deduplicating indicators, scorin…",
+   "tags": [],
+   "title_zh": "2026年最佳威胁情报平台TOP 10（按排名与评分）"
+  },
+  {
+   "id": "FREEBUF-0d5404d2",
+   "title": "AI到底怎么“学会思考”的？又为什么会“失控”？一文讲清AI原理与AI安全",
+   "url": "https://www.freebuf.com/articles/ai-security/509572.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 16:18:45 +0800",
+   "published_date": "2026-10-29",
+   "digest": "从AI原理到AI安全的过渡，零基础AI知识学习，理解原理，才能在设计、部署和使用中做好全生命周期安全防护。",
+   "tags": []
+  },
+  {
+   "id": "CYBERSECNEWS-ae4699d1",
+   "title": "Top 10 Best SOAR Tools in 2026 [Ranked & Scored]",
+   "url": "https://cybersecuritynews.com/best-soar-tools/",
+   "source": "CyberSecurity News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 08:16:24 +0000",
+   "published_date": "2026-10-29",
+   "digest": "SOAR grew up twice: first from scripts to playbooks, then in the current wave from playbooks to AI agents that draft, decide, and act under human guardrails. Th…",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "2026年最佳安全自动化与响应工具TOP 10[排名与评分]"
+  },
+  {
+   "id": "CYBERSECNEWS-ec75be80",
+   "title": "Hackers Infect 17,960 Android Phones With Banking Trojans, Steal 7.6 Million SMS Messages",
+   "url": "https://cybersecuritynews.com/hackers-infect-17960-android-phones/",
+   "source": "CyberSecurity News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 08:09:16 +0000",
+   "published_date": "2026-10-29",
+   "digest": "Hackers have compromised at least 17,960 Android devices and intercepted more than 7.6 million SMS messages in a banking malware campaign targeting India. The o…",
+   "tags": [
+    "移动安全"
+   ],
+   "title_zh": "黑客感染17960部Android手机安装银行木马 盗取760万条短信"
+  },
+  {
+   "id": "CYBERSECNEWS-6cf4bfc0",
+   "title": "Top 10 Best SIEM Tools in 2026 [Ranked & Scored]",
+   "url": "https://cybersecuritynews.com/best-siem-tools-2/",
+   "source": "CyberSecurity News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 08:03:44 +0000",
+   "published_date": "2026-10-29",
+   "digest": "The SIEM is the SOC’s memory and its biggest line item, and 2026’s rankings reflect a market reshaped by consolidation: Cisco absorbed Splunk, Exabeam and LogRh…",
+   "tags": [
+    "安全运营"
+   ],
+   "title_zh": "2026年最佳SIEM工具TOP 10（按排名及评分）"
+  },
+  {
+   "id": "SECURITYWEEK-40686927",
+   "title": "Chinese Hackers Quietly Used Low-Severity ESXi Logging Flaw as Zero-Day",
+   "url": "https://www.securityweek.com/chinese-hackers-quietly-used-low-severity-esxi-logging-flaw-as-zero-day/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 08:01:05 +0000",
+   "published_date": "2026-10-29",
+   "digest": "CVE-2026-41709 allows attackers with administrative privileges to perform operations without being logged. The post Chinese Hackers Quietly Used Low-Severity ES…",
+   "tags": [
+    "漏洞预警"
+   ],
+   "title_zh": "中国黑客悄悄利用低严重性ESXi日志记录漏洞作为零日漏洞"
+  },
+  {
+   "id": "SECURELIST-d9466edc",
+   "title": "Unknown APT uses NetamLoader to attack a Win10 OS customized for governments in Asia",
+   "url": "https://securelist.com/netamloader/121676/",
+   "source": "Securelist (Kaspersky)",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 08:00:15 +0000",
+   "published_date": "2026-10-29",
+   "digest": "Kaspersky researchers analyze a complex targeted attack employing NetamLoader, a sophisticated malicious framework and targeting a customized government OS.",
+   "tags": [],
+   "title_zh": "未知APT使用NetamLoader攻击定制版Win10政府操作系统（亚洲）"
+  },
+  {
+   "id": "FREEBUF-88b89f1e",
+   "title": "Claude利用Linux内核高危漏洞，无需交互执行root命令",
+   "url": "https://www.freebuf.com/articles/system/509673.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 15:18:11 +0800",
+   "published_date": "2026-10-29",
+   "digest": "Claude成功编写出Linux内核高危漏洞利用程序，远程攻击者无需交互即可获取root权限，漏洞已修复，请及时更新补丁。",
+   "tags": [
+    "漏洞预警",
+    "大模型安全"
+   ]
+  },
+  {
+   "id": "FREEBUF-e3b36dcb",
+   "title": "NIST正式发布后量子密码迁移指南，明确迁移路径与时间要求",
+   "url": "https://www.freebuf.com/news/509671.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 14:55:18 +0800",
+   "published_date": "2026-10-29",
+   "digest": "量子计算机可破解现有加密体系，存在“先收集后解密”风险，NIST发布后量子密码迁移指南，明确迁移路径与时间节点，指导机构抗量子升级。",
+   "tags": [
+    "密码学"
+   ]
+  },
+  {
+   "id": "FREEBUF-c2525910",
+   "title": "FreeBuf早报 | Claude构建多平台漏洞利用链；Google发布Gemini 4 Carbon",
+   "url": "https://www.freebuf.com/news/509552.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 14:54:17 +0800",
+   "published_date": "2026-10-29",
+   "digest": "未发布版Claude可构建多平台高危漏洞利用链，一键攻破Chrome、零点击获取Linux Root权限、绕过安卓锁屏，漏洞已修复请尽快打补丁。",
+   "tags": [
+    "漏洞预警",
+    "大模型安全",
+    "移动安全"
+   ]
+  },
+  {
+   "id": "FREEBUF-b9d1d658",
+   "title": "Zero-Click“死亡短信”漏洞曝光，单条短信可破坏安卓通信功能",
+   "url": "https://www.freebuf.com/news/509667.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 14:50:38 +0800",
+   "published_date": "2026-10-29",
+   "digest": "安卓曝零点击“死亡短信”漏洞：单条畸形短信可无感知打崩设备通信，谷歌拒修，eSIM用户几乎无法自行修复。",
+   "tags": [
+    "移动安全"
+   ]
+  },
+  {
+   "id": "FREEBUF-d5e6b062",
+   "title": "AI 网关的密钥边界：Kong  Higress  APISIX 横评",
+   "url": "https://www.freebuf.com/articles/ai-security/506852.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 14:25:19 +0800",
+   "published_date": "2026-10-29",
+   "digest": "AI 网关三产品同陷密钥危机：Kong 让请求头决定密钥去向；APISIX漏声明加密字段，etcd 落盘明文；Higress 客户端可控，配套 ai-gateway-audit.py 一键自查。",
+   "tags": []
+  },
+  {
+   "id": "CYBERSECNEWS-b432a445",
+   "title": "CISA Warns of VMWare ESX Logging Vulnerability Exploited in Attacks",
+   "url": "https://cybersecuritynews.com/vmware-esx-logging-vulnerability-exploited/",
+   "source": "CyberSecurity News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 06:22:42 +0000",
+   "published_date": "2026-10-29",
+   "digest": "The Cybersecurity and Infrastructure Security Agency has added a VMware ESX logging flaw to its Known Exploited Vulnerabilities catalog following evidence of ex…",
+   "tags": [
+    "监管合规"
+   ],
+   "title_zh": "CISA警告VMware ESX日志记录漏洞被利用攻击"
+  },
+  {
+   "id": "THN-339d6498",
+   "title": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
+   "url": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 11:52:33 +0530",
+   "published_date": "2026-10-29",
+   "digest": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a security flaw impacting Broadcom VMware ESX to its Known Exploited Vulnera…",
+   "tags": [
+    "监管合规"
+   ],
+   "title_zh": "与中国相关的黑客利用VMware ESX零日漏洞减少审计追踪可见性"
+  },
+  {
+   "id": "CYBERSECNEWS-4226a8a7",
+   "title": "Cisco Secure Firewall 0-Day Vulnerability Exploited in the Wild to Crash SSL VPN Devices",
+   "url": "https://cybersecuritynews.com/cisco-secure-firewall-0-day-vulnerability-exploited/",
+   "source": "CyberSecurity News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 06:21:37 +0000",
+   "published_date": "2026-10-29",
+   "digest": "Cisco released security updates for actively exploited CVE-2026-76418, a flaw in Secure Firewall ASA and FTD software that lets unauthenticated remote attackers…",
+   "tags": [
+    "漏洞预警"
+   ],
+   "title_zh": "思科安全防火墙零日漏洞在野外被利用以崩溃SSL VPN设备"
+  },
+  {
+   "id": "THN-db724a1c",
+   "title": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
+   "url": "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 11:20:17 +0530",
+   "published_date": "2026-10-29",
+   "digest": "Palo Alto Networks on Wednesday warned that threat actors are exploiting the recently patched PHP2Shell vulnerabilities against publicly-accessible management i…",
+   "tags": [],
+   "title_zh": "攻击者利用Palo Alto Networks管理接口中的PHP2Shell漏洞"
+  },
+  {
+   "id": "FREEBUF-66662962",
+   "title": "黑客利用思科SD-WAN严重0Day漏洞，部署KeyDrift窃取加密密钥",
+   "url": "https://www.freebuf.com/news/509661.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 13:30:55 +0800",
+   "published_date": "2026-10-29",
+   "digest": "国家背景黑客利用思科SD-WAN无认证满分0Day漏洞植入KeyDrift，窃取加密密钥入侵航天国防等机构，需立即打补丁排查。",
+   "tags": [
+    "漏洞预警"
+   ]
+  },
+  {
+   "id": "ZDI-PUBLISHED-99393f46",
+   "title": "ZDI-26-834: Linux Kernel IPv6 AH Routing Header Integer Underflow Local Privilege Escalation Vulnerability",
+   "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-834/",
+   "source": "ZDI Published",
+   "category": "网络安全",
+   "priority": "P0",
+   "published_at": "Thu, 29 Oct 2026 00:00:00 -0500",
+   "published_date": "2026-10-29",
+   "digest": "This vulnerability allows local attackers to escalate privileges on affected installations of Linux Kernel. An attacker must first obtain the ability to execute…",
+   "tags": [],
+   "title_zh": "ZDI-26-834: Linux 内核 IPv6 AH 路由报头整数下溢本地权限提升漏洞"
+  },
+  {
+   "id": "ZDI-PUBLISHED-b4d6a9ef",
+   "title": "ZDI-26-835: Linux Kernel Logitech HIDPP Protocol Use-After-Free Local Privilege Escalation Vulnerability",
+   "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-835/",
+   "source": "ZDI Published",
+   "category": "网络安全",
+   "priority": "P0",
+   "published_at": "Thu, 29 Oct 2026 00:00:00 -0500",
+   "published_date": "2026-10-29",
+   "digest": "This vulnerability allows local attackers to escalate privileges on affected installations of Linux Kernel. An attacker must first obtain the ability to execute…",
+   "tags": [],
+   "title_zh": "ZDI-26-835: Linux 内核 Logitech HIDPP 协议 Use-After-Free 本地权限提升漏洞"
+  },
+  {
+   "id": "ZDI-PUBLISHED-711e84ce",
+   "title": "ZDI-26-836: Linux Kernel CIFS File System Use-After-Free Privilege Escalation Vulnerability",
+   "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-836/",
+   "source": "ZDI Published",
+   "category": "网络安全",
+   "priority": "P0",
+   "published_at": "Thu, 29 Oct 2026 00:00:00 -0500",
+   "published_date": "2026-10-29",
+   "digest": "This vulnerability allows local attackers to escalate privileges on affected installations of Linux Kernel. An attacker must first obtain the ability to execute…",
+   "tags": [],
+   "title_zh": "Linux内核CIFS文件系统使用后释放权限提升漏洞(ZDI-26-836)"
+  },
+  {
+   "id": "ZDI-PUBLISHED-a0b87882",
+   "title": "ZDI-26-837: Linux Kernel XFRM Subsystem Use-After-Free Local Privilege Escalation Vulnerability",
+   "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-837/",
+   "source": "ZDI Published",
+   "category": "网络安全",
+   "priority": "P0",
+   "published_at": "Thu, 29 Oct 2026 00:00:00 -0500",
+   "published_date": "2026-10-29",
+   "digest": "This vulnerability allows local attackers to escalate privileges on affected installations of Linux Kernel. An attacker must first obtain the ability to execute…",
+   "tags": [],
+   "title_zh": "ZDI-26-837: Linux 内核 XFRM 子系统 使用后释放本地权限提升漏洞"
+  },
+  {
+   "id": "ZDI-PUBLISHED-73da5b96",
+   "title": "ZDI-26-838: FreeBSD Kernel TTY Race Condition Local Privilege Escalation Vulnerability",
+   "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-838/",
+   "source": "ZDI Published",
+   "category": "网络安全",
+   "priority": "P0",
+   "published_at": "Thu, 29 Oct 2026 00:00:00 -0500",
+   "published_date": "2026-10-29",
+   "digest": "This vulnerability allows local attackers to escalate privileges on affected installations of FreeBSD Kernel. An attacker must first obtain the ability to execu…",
+   "tags": [],
+   "title_zh": "ZDI-26-838: FreeBSD 内核 TTY 竞态条件本地权限提升漏洞"
+  },
+  {
+   "id": "ZDI-PUBLISHED-56c127f4",
+   "title": "ZDI-26-839: MLflow PickleEvaluationArtifact Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+   "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-839/",
+   "source": "ZDI Published",
+   "category": "网络安全",
+   "priority": "P0",
+   "published_at": "Thu, 29 Oct 2026 00:00:00 -0500",
+   "published_date": "2026-10-29",
+   "digest": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of MLflow. User interaction is required to exploit this vulnerabi…",
+   "tags": [],
+   "title_zh": "ZDI-26-839: MLflow PickleEvaluationArtifact 未信任数据反序列化远程代码执行漏洞"
+  },
+  {
+   "id": "ZDI-PUBLISHED-08bcbdcc",
+   "title": "ZDI-26-840: MLflow Tracking Server Jobs Missing Authorization Information Disclosure Vulnerability",
+   "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-840/",
+   "source": "ZDI Published",
+   "category": "网络安全",
+   "priority": "P0",
+   "published_at": "Thu, 29 Oct 2026 00:00:00 -0500",
+   "published_date": "2026-10-29",
+   "digest": "This vulnerability allows remote attackers to disclose sensitive information on affected installations of MLflow. Authentication is required to exploit this vul…",
+   "tags": [],
+   "title_zh": "ZDI-26-840: MLflow Tracking Server Jobs 未授权信息泄露漏洞"
+  },
+  {
+   "id": "ZDI-PUBLISHED-e521ca63",
+   "title": "ZDI-26-841: MLflow Tracking Server Missing Authorization Privilege Escalation Vulnerability",
+   "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-841/",
+   "source": "ZDI Published",
+   "category": "网络安全",
+   "priority": "P0",
+   "published_at": "Thu, 29 Oct 2026 00:00:00 -0500",
+   "published_date": "2026-10-29",
+   "digest": "This vulnerability allows remote attackers to escalate privileges on affected installations of MLflow. Authentication is required to exploit this vulnerability.…",
+   "tags": [],
+   "title_zh": "ZDI-26-841: MLflow Tracking Server 缺失授权权限提升漏洞"
+  },
+  {
+   "id": "ZDI-PUBLISHED-df7f763b",
+   "title": "ZDI-26-842: MLflow Tracking Server Issues Missing Authorization Privilege Escalation Vulnerability",
+   "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-842/",
+   "source": "ZDI Published",
+   "category": "网络安全",
+   "priority": "P0",
+   "published_at": "Thu, 29 Oct 2026 00:00:00 -0500",
+   "published_date": "2026-10-29",
+   "digest": "This vulnerability allows remote attackers to escalate privileges on affected installations of MLflow. Authentication is required to exploit this vulnerability.…",
+   "tags": [],
+   "title_zh": "ZDI-26-842: MLflow Tracking Server 缺失授权权限提升漏洞"
+  },
+  {
+   "id": "ZDI-PUBLISHED-49f8452a",
+   "title": "ZDI-26-843: MLflow SHAP load_explainer Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+   "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-843/",
+   "source": "ZDI Published",
+   "category": "网络安全",
+   "priority": "P0",
+   "published_at": "Thu, 29 Oct 2026 00:00:00 -0500",
+   "published_date": "2026-10-29",
+   "digest": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of MLflow. User interaction is required to exploit this vulnerabi…",
+   "tags": [],
+   "title_zh": "ZDI-26-843: MLflow SHAP load_explainer 未经信任数据反序列化远程代码执行漏洞"
+  },
+  {
+   "id": "ZDI-PUBLISHED-0000dd1c",
+   "title": "ZDI-26-844: MLflow get-artifacts Server-Side Request Forgery Information Disclosure Vulnerability",
+   "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-844/",
+   "source": "ZDI Published",
+   "category": "网络安全",
+   "priority": "P0",
+   "published_at": "Thu, 29 Oct 2026 00:00:00 -0500",
+   "published_date": "2026-10-29",
+   "digest": "This vulnerability allows remote attackers to disclose sensitive information on affected installations of MLflow. Authentication is not required to exploit this…",
+   "tags": [],
+   "title_zh": "ZDI-26-844: MLflow get-artifacts 服务器端请求伪造信息泄露漏洞"
+  },
+  {
+   "id": "ZDI-PUBLISHED-1ea7c129",
+   "title": "ZDI-26-845: MLflow Statsmodels _load_model Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+   "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-845/",
+   "source": "ZDI Published",
+   "category": "网络安全",
+   "priority": "P0",
+   "published_at": "Thu, 29 Oct 2026 00:00:00 -0500",
+   "published_date": "2026-10-29",
+   "digest": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of MLflow. User interaction is required to exploit this vulnerabi…",
+   "tags": [],
+   "title_zh": "ZDI-26-845: MLflow Statsmodels _load_model 未经信任数据反序列化远程代码执行漏洞"
+  },
+  {
+   "id": "ZDI-PUBLISHED-b97beff7",
+   "title": "ZDI-26-846: MLflow Webhook Server-Side Request Forgery Vulnerability",
+   "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-846/",
+   "source": "ZDI Published",
+   "category": "网络安全",
+   "priority": "P0",
+   "published_at": "Thu, 29 Oct 2026 00:00:00 -0500",
+   "published_date": "2026-10-29",
+   "digest": "This vulnerability allows remote attackers to initiate arbitrary server-side requests on affected installations of MLflow. Authentication is required to exploit…",
+   "tags": [],
+   "title_zh": "ZDI-26-846: MLflow Webhook 服务器端请求伪造漏洞"
+  },
+  {
+   "id": "ZDI-PUBLISHED-94d41242",
+   "title": "ZDI-26-847: MLflow AI Gateway Server-Side Request Forgery Information Disclosure Vulnerability",
+   "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-847/",
+   "source": "ZDI Published",
+   "category": "网络安全",
+   "priority": "P0",
+   "published_at": "Thu, 29 Oct 2026 00:00:00 -0500",
+   "published_date": "2026-10-29",
+   "digest": "This vulnerability allows remote attackers to initiate arbitrary server-side requests on affected installations of MLflow. Authentication is required to exploit…",
+   "tags": [],
+   "title_zh": "ZDI-26-847: MLflow AI Gateway 服务器端请求伪造信息泄露漏洞"
+  },
+  {
+   "id": "CYBERSECNEWS-aaf5c114",
+   "title": "Hackers Chain PHP2Shell and Linux Kernel Exploits to Gain Root Access on 25 Servers",
+   "url": "https://cybersecuritynews.com/php2shell-gained-root-access-on-25-servers/",
+   "source": "CyberSecurity News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 03:55:14 +0000",
+   "published_date": "2026-10-29",
+   "digest": "Hackers combined PHP2Shell vulnerabilities with a Linux kernel exploit to gain root access on 25 servers across the United States, Japan, Taiwan, and South Kore…",
+   "tags": [],
+   "title_zh": "黑客利用PHP2Shell和Linux内核漏洞在25台服务器上获得root访问权限"
+  },
+  {
+   "id": "FREEBUF-a46424db",
+   "title": "MCP SDK 的 Host 校验漏在了授权服务器上",
+   "url": "https://www.freebuf.com/articles/vuls/509517.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 11:40:35 +0800",
+   "published_date": "2026-10-29",
+   "digest": "复现环境：Ubuntu 24.04.4 LTS，Python 3.12.3，venv 隔离。授权服务器和 MCP 资源服务器都跑在这一台机器上，监听 127.0.0.1，端口 9000 和 8001；代码取自官方示例 examples/servers/simple-auth（tag v2.3.0）。对照组另外起了两个实…",
+   "tags": []
+  },
+  {
+   "id": "CYBERSECNEWS-a2f4e4f7",
+   "title": "Hackers Leak Records of 41,000 DHS Personnel, Exposing Undercover ICE Agents",
+   "url": "https://cybersecuritynews.com/dhs-data-leak/",
+   "source": "CyberSecurity News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 03:13:31 +0000",
+   "published_date": "2026-10-29",
+   "digest": "A leak of records covering more than 41,000 Department of Homeland Security employees and contractors has exposed contact details, work assignments, and links t…",
+   "tags": [],
+   "title_zh": "黑客泄露4.1万名DHS人员记录，暴露ICE卧底特工信息"
+  },
+  {
+   "id": "CYBERSECNEWS-c634cede",
+   "title": "WatchGuard Discloses 7 Critical Firewall Flaws Allowing Remote Code Execution and Root-Level Attacks",
+   "url": "https://cybersecuritynews.com/watchguard-discloses-critical-firewall-flaws/",
+   "source": "CyberSecurity News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 03:08:47 +0000",
+   "published_date": "2026-10-29",
+   "digest": "WatchGuard disclosed seven critical Fireware OS vulnerabilities in an October 27, 2026 advisory, affecting Firebox firewalls and potentially enabling remote cod…",
+   "tags": [],
+   "title_zh": "WatchGuard披露7个关键防火墙漏洞允许远程代码执行和根级攻击"
+  },
+  {
+   "id": "CYBERSECNEWS-9fff8cee",
+   "title": "Fortinet Brings AI Agent Security to Oracle Cloud to Block Prompt Injection and Data Leaks",
+   "url": "https://cybersecuritynews.com/fortinet-brings-ai-agent-security-to-oracle-cloud/",
+   "source": "CyberSecurity News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 02:46:10 +0000",
+   "published_date": "2026-10-29",
+   "digest": "Fortinet’s FortiAIGate is bringing AI security controls to enterprise workloads on Oracle Cloud Infrastructure (OCI), helping businesses inspect prompts, block …",
+   "tags": [
+    "大模型安全",
+    "云安全"
+   ],
+   "title_zh": "Fortinet 将 AI 代理安全带到 Oracle 云以阻止提示注入和数据泄露"
+  },
+  {
+   "id": "CYBERSECNEWS-7a387e56",
+   "title": "WordPress 7.1.4 Fixes 22 Security Flaws, Including an Unauthenticated RCE Vulnerability",
+   "url": "https://cybersecuritynews.com/wordpress-7-1-4-fixes-security-flaws/",
+   "source": "CyberSecurity News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 02:31:49 +0000",
+   "published_date": "2026-10-29",
+   "digest": "WordPress released version 7.1.4 on October 28, 2026, fixing 22 security flaws, including an unauthenticated remote code execution vulnerability in its update p…",
+   "tags": [
+    "漏洞预警",
+    "Web安全"
+   ],
+   "title_zh": "WordPress 7.1.4修复了22个安全漏洞，包括一个未认证远程代码执行漏洞"
+  },
+  {
+   "id": "FREEBUF-7324744e",
+   "title": "赠书福利 | 《网络安全实战教程——基于Kali Linux的红蓝对抗指南》免费送",
+   "url": "https://www.freebuf.com/articles/509506.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 10:27:19 +0800",
+   "published_date": "2026-10-29",
+   "digest": "关注FreeBuf 公众号，私信回复“红蓝对抗”，即可参与赠书抽奖~",
+   "tags": []
+  },
+  {
+   "id": "FREEBUF-fd3d00e1",
+   "title": "一个压缩包打穿 Node.js，Brotli 解码器越界写双向攻击",
+   "url": "https://www.freebuf.com/articles/vuls/509499.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 10:07:33 +0800",
+   "published_date": "2026-10-29",
+   "digest": "Brotli 越界写让一个压缩包双向打穿 Node.js。本文用版本核对、源码 diff、模糊差分三支柱完成本机实证，首跑命中 5 处受影响副本，附核查工具与修复矩阵。",
+   "tags": []
+  },
+  {
+   "id": "FREEBUF-2f0fcaa3",
+   "title": "Linux 应急响应实战：一文讲透 secure、auditd、cron 与用户日志排查",
+   "url": "https://www.freebuf.com/articles/web/509492.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 09:47:48 +0800",
+   "published_date": "2026-10-29",
+   "digest": "01前言在日常的应急处理过程中，要结合系统各种日志来排查该告警是真实告警还是误报。本篇文章就来看看linux中常见的一些日志，以及其作用，目的是为了在应急响应时可以快速的找到排查目标02linux中常",
+   "tags": [
+    "安全运营"
+   ]
+  },
+  {
+   "id": "FREEBUF-e19f922e",
+   "title": "微软Edge 0-Click利用链串联5个漏洞，实现代码执行并逃逸沙箱",
+   "url": "https://www.freebuf.com/articles/509606.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 08:48:30 +0800",
+   "published_date": "2026-10-29",
+   "digest": "研究人员披露微软Edge存在串联5个漏洞的零点击利用链，无需内存破坏、无需额外点击即可突破沙箱在Windows执行代码，用户需尽快安装安全更新。",
+   "tags": []
+  },
+  {
+   "id": "FREEBUF-ea3200a7",
+   "title": "PHP2Shell将在企业环境残留数年，资产可见性不足加大修复难度",
+   "url": "https://www.freebuf.com/news/509602.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 08:25:00 +0800",
+   "published_date": "2026-10-29",
+   "digest": "PHP2Shell高危漏洞已遭在野利用，因资产可见性不足、补丁落地难，将在企业环境残留数年，危害或超Log4Shell。",
+   "tags": [
+    "漏洞预警"
+   ]
+  },
+  {
    "id": "SECAFFAIRS-88280b75",
    "title": "Hive and Nefilim Ransomware Affiliate Gets 70 Months In Jail",
    "url": "https://securityaffairs.com/201960/cyber-crime/hive-and-nefilim-ransomware-affiliate-gets-70-months-in-jail.html",
@@ -18,6 +1371,18 @@
    "title_zh": "Hive和Nefilim勒索软件附属成员获判70个月监禁"
   },
   {
+   "id": "FREEBUF-c7e7e482",
+   "title": "攻击者串联PHP2Shell与Linux内核漏洞，攻陷25台服务器获取root权限",
+   "url": "https://www.freebuf.com/news/509521.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 03:55:14 +0800",
+   "published_date": "2026-10-29",
+   "digest": "攻击者串联PHP2Shell与Linux内核漏洞，15分钟即可获取root权限，攻陷25台服务器、渗透美政府关联内网，仅打补丁不够，需警惕残留后门。",
+   "tags": []
+  },
+  {
    "id": "WORDFENCE-4da82a14",
    "title": "PHP2Shell Update: Still No Confirmed WordPress Compromises, and Answers to the Questions We’re Hearing Most",
    "url": "https://www.wordfence.com/blog/2026/10/php2shell-update-still-no-confirmed-wordpress-compromises-and-answers-to-the-questions-were-hearing-most/",
@@ -30,7 +1395,7 @@
    "tags": [
     "Web安全"
    ],
-   "title_zh": "PHP2Shell 更新：仍未确认有WordPress网站被入侵，并解答我们最常听到的问题"
+   "title_zh": "PHP2Shell 更新：仍未确认有WordPress网站被攻陷，并解答我们最常听到的问题"
   },
   {
    "id": "THN-af6f9bce",
@@ -45,7 +1410,7 @@
    "tags": [
     "APT组织"
    ],
-   "title_zh": "volt typhoon 用于四次零日攻击活动中秘密窃取列车网络"
+   "title_zh": "volt typhoon 用于四次零日攻击活动中秘密窃取列车网络信息"
   },
   {
    "id": "UNIT42-5b760cd0",
@@ -60,7 +1425,7 @@
    "tags": [
     "勒索软件"
    ],
-   "title_zh": "解读零售高峰期的网络威胁"
+   "title_zh": "解析零售旺季网络威胁"
   },
   {
    "id": "CYBERSECNEWS-74a343f7",
@@ -73,7 +1438,7 @@
    "published_date": "2026-10-28",
    "digest": "New York, United States, October 28th, 2026, CyberNewswire New hands-on lab lets security practitioners explore PHP2Shell exploitation firsthand as AI-assisted …",
    "tags": [],
-   "title_zh": "OffSec推出免费的PHP2Shell实验室，跟进关键漏洞发现"
+   "title_zh": "OffSec推出免费PHP2Shell实验室，跟进关键漏洞发现"
   },
   {
    "id": "CYBERSECNEWS-27dd6293",
@@ -88,7 +1453,7 @@
    "tags": [
     "移动安全"
    ],
-   "title_zh": "研究人员发现Telegram贴纸新0点击漏洞并链接运行代码于iOS"
+   "title_zh": "研究人员发现Telegram贴纸新零点击漏洞并链动在iOS设备上运行代码"
   },
   {
    "id": "THN-dcf16a2b",
@@ -103,7 +1468,7 @@
    "tags": [
     "移动安全"
    ],
-   "title_zh": "Google将允许从美国以外获批第三方商店一键安装Android应用"
+   "title_zh": "谷歌允许从获批第三方商店一键安装Android应用（美国境外）"
   },
   {
    "id": "THN-e92053c3",
@@ -116,7 +1481,7 @@
    "published_date": "2026-10-28",
    "digest": "A chain of logic flaws, with no memory corruption, can turn a malicious web page into code running on a Windows computer outside Microsoft Edge's sandbox, a sec…",
    "tags": [],
-   "title_zh": "研究人员揭示逻辑漏洞单独攻破Microsoft Edge赢得Pwn2Own奖金17.5万美元"
+   "title_zh": "研究员揭示逻辑漏洞单独破解Microsoft Edge赢得价值175,000美元的Pwn2Own比赛"
   },
   {
    "id": "CYBERSECNEWS-37530f25",
@@ -129,7 +1494,7 @@
    "published_date": "2026-10-28",
    "digest": "Whether you’re investigating a suspicious URL or a file, you need more than a verdict to make a confident, evidence-based decision. You need to understand what …",
    "tags": [],
-   "title_zh": "超出沙箱判决：加快安全运营中心决策的三个问题"
+   "title_zh": "超出沙箱判决：3个问题助快速SOC决策"
   },
   {
    "id": "THN-230c7e63",
@@ -211,7 +1576,21 @@
    "tags": [
     "大模型安全"
    ],
-   "title_zh": "OWASP发现ChatGPT帮助低技能用户在黑客测试中获取管理员账户权限"
+   "title_zh": "OWASP 发现ChatGPT帮助低技能用户在黑客测试中获取管理员账户权限"
+  },
+  {
+   "id": "FREEBUF-74294f4a",
+   "title": "Google发布旗舰大模型Gemini 4 Carbon，升级网络安全能力",
+   "url": "https://www.freebuf.com/articles/ai-security/509476.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 28 Oct 2026 23:27:13 +0800",
+   "published_date": "2026-10-28",
+   "digest": "谷歌发布旗舰大模型Gemini 4 Carbon，网络安全能力大幅升级，漏洞修复效率超竞品10倍，幻觉、提示注入风险显著降低。",
+   "tags": [
+    "大模型安全"
+   ]
   },
   {
    "id": "SECURITYWEEK-683916b5",
@@ -226,7 +1605,7 @@
    "tags": [
     "勒索软件"
    ],
-   "title_zh": "乌克兰Hive和Nefilim勒索软件附属成员在美国被判70个月监禁"
+   "title_zh": "乌克兰Hive和Nefilim勒索软件附属成员在美国获判70个月监禁"
   },
   {
    "id": "SECAFFAIRS-8226630f",
@@ -239,7 +1618,7 @@
    "published_date": "2026-10-28",
    "digest": "Discover-Tech allegedly targeted Starlink users with digital ads to track their locations, according to sources cited in a new Reuters report. Digital defense f…",
    "tags": [],
-   "title_zh": "广告还是监视？研究人员警告Starlink用户疑似遭可疑 targeting"
+   "title_zh": "广告还是监视？研究人员警告Starlink用户疑似遭到可疑 targeting"
   },
   {
    "id": "SECURITYWEEK-80b4b794",
@@ -253,6 +1632,18 @@
    "digest": "The massive funding round comes just days after reports emerged that Upwind had attracted acquisition interest from several companies, including Datadog The pos…",
    "tags": [],
    "title_zh": "Upwind Security 获投4亿美元，估值达38亿美元"
+  },
+  {
+   "id": "FREEBUF-d2a4738e",
+   "title": "研究员仅靠逻辑漏洞攻破Edge，斩获Pwn2Own 17.5万美元奖金",
+   "url": "https://www.freebuf.com/articles/509457.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 28 Oct 2026 21:53:34 +0800",
+   "published_date": "2026-10-28",
+   "digest": "无需内存损坏漏洞！研究员靠纯逻辑漏洞链攻破Edge沙箱实现任意代码执行，斩获Pwn2Own17.5万美元奖金，微软已推送修复补丁。",
+   "tags": []
   },
   {
    "id": "CYBERSECNEWS-0b693926",
@@ -348,7 +1739,7 @@
    "tags": [
     "漏洞预警"
    ],
-   "title_zh": "黑客 targeting 严重 Oracle E-Business Suite RCE 漏洞，安全补丁发布后数天"
+   "title_zh": "黑客 targeting 严重 Oracle E-Business Suite RCE 漏洞，安全补丁发布后数日"
   },
   {
    "id": "CYBERSECNEWS-ae4a8570",
@@ -377,7 +1768,7 @@
    "published_date": "2026-10-28",
    "digest": "The attackers chained PHP2Shell and Fragnesia exploits and hacked two servers of a US government-affiliated organization. The post China-Linked Hackers Exploit …",
    "tags": [],
-   "title_zh": "与中国关联的黑客利用PHP2Shell攻陷防火墙"
+   "title_zh": "与中国相关的黑客利用PHP2Shell渗透防火墙"
   },
   {
    "id": "CYBERSECNEWS-ffa80e7b",
@@ -502,7 +1893,7 @@
    "published_date": "2026-10-28",
    "digest": "Hackers have compromised camera management software to deploy malware on Windows computers, using a legitimate Microsoft program to run malicious code and maint…",
    "tags": [],
-   "title_zh": "黑客入侵摄像头管理软件部署恶意软件至Windows计算机"
+   "title_zh": "黑客攻击摄像头管理软件部署恶意软件至Windows计算机"
   },
   {
    "id": "SECURITYWEEK-ab423605",
@@ -515,7 +1906,7 @@
    "published_date": "2026-10-28",
    "digest": "Four EPICS Base flaws found by an autonomous system could let attackers crash processes at particle accelerators and fusion labs. The post Long-Hidden Flaws Pat…",
    "tags": [],
-   "title_zh": "长期未被发现的漏洞已修复在EPICS研究设施控制软件中"
+   "title_zh": "长期隐藏的漏洞已修复在EPICS研究设施控制软件中"
   },
   {
    "id": "CYBERSECNEWS-e41cbe30",
@@ -533,6 +1924,19 @@
    "title_zh": "黑客积极利用新的Oracle EBS RCE漏洞"
   },
   {
+   "id": "ESET-56ff0a20",
+   "title": "Lessons from Cybersecurity Black Week",
+   "url": "https://www.welivesecurity.com/en/business-security/lessons-cybersecurity-black-week/",
+   "source": "ESET Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 28 Oct 2026 10:33:51 +0000",
+   "published_date": "2026-10-28",
+   "digest": "A critical PHP flaw, leaked Linux kernel reports, a poisoned LiteLLM release, and more, all in seven days. Which threats called for immediate action, and which …",
+   "tags": [],
+   "title_zh": "网络安全黑色星期一启示录"
+  },
+  {
    "id": "THN-2cea669c",
    "title": "American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed",
    "url": "https://thehackernews.com/2026/10/american-organizations-under-attack.html",
@@ -547,7 +1951,7 @@
     "云安全",
     "身份认证"
    ],
-   "title_zh": "美国组织遭遇攻击：Skyw4lker 设备代码钓鱼campaign曝光"
+   "title_zh": "美国组织遭攻击：Skyw4lker 设备代码钓鱼campaign曝光"
   },
   {
    "id": "SECURITYWEEK-c8f30a72",
@@ -621,6 +2025,19 @@
    "title_zh": "密钥管理公司Infisical完成4000万美元融资估值达6亿美元"
   },
   {
+   "id": "ESET-16582189",
+   "title": "ESET APT Activity Report Q2 2026–Q3 2026",
+   "url": "https://www.welivesecurity.com/en/eset-research/eset-apt-activity-report-q2-2026-q3-2026/",
+   "source": "ESET Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 28 Oct 2026 09:45:00 +0000",
+   "published_date": "2026-10-28",
+   "digest": "An overview of the activities of selected APT groups investigated and analyzed by ESET Research in Q2 2026 and Q3 2026",
+   "tags": [],
+   "title_zh": "ESETAPT活动报告2026年第二季度至第三季度"
+  },
+  {
    "id": "SEEKBUG-7959c98e",
    "title": "攻击者离场之后：面向 LLM 智能体的跨会话残留攻击基准评测",
    "url": "https://paper.seebug.org/3530",
@@ -634,6 +2051,18 @@
     "大模型安全",
     "学术研究"
    ]
+  },
+  {
+   "id": "FREEBUF-d2361f19",
+   "title": "EDK II现16年高危UEFI漏洞，网络启动服务器可在Secure Boot前执行代码",
+   "url": "https://www.freebuf.com/articles/system/509412.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 28 Oct 2026 17:20:00 +0800",
+   "published_date": "2026-10-28",
+   "digest": "潜伏16年的EDK II高危UEFI漏洞，无需权限即可在网络启动时于Secure Boot加载前执行代码，威胁网络启动服务器，暂无稳定修复版本。",
+   "tags": []
   },
   {
    "id": "SECURITYWEEK-8443dbfb",
@@ -650,6 +2079,18 @@
     "Web安全"
    ],
    "title_zh": "黑客开始探测新的Oracle EBS漏洞"
+  },
+  {
+   "id": "FREEBUF-fd042d47",
+   "title": "GitHub上线npm包防火墙，可在安装前拦截全新版本",
+   "url": "https://www.freebuf.com/articles/development/509464.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 28 Oct 2026 17:09:14 +0800",
+   "published_date": "2026-10-28",
+   "digest": "GitHub上线npm包防火墙，可在安装前拦截恶意、带严重漏洞及全新发布版本，同步推出多项代码安全功能，前移安全防护节点。",
+   "tags": []
   },
   {
    "id": "SECURITYWEEK-5d1c35dd",
@@ -705,6 +2146,18 @@
     "漏洞预警",
     "大模型安全"
    ]
+  },
+  {
+   "id": "FREEBUF-9073234b",
+   "title": "安全团队信任SOC中AI执行操作，速度远超预期",
+   "url": "https://www.freebuf.com/articles/ai-security/509418.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 28 Oct 2026 15:25:01 +0800",
+   "published_date": "2026-10-28",
+   "digest": "SOC场景下AI落地速度远超预期，攻击者已借AI提速，防御方仅剩数月加固窗口，需夯实数据基础、审慎放权AI追平攻防节奏。",
+   "tags": []
   },
   {
    "id": "FREEBUF-73ed7eae",
@@ -768,7 +2221,7 @@
    "published_date": "2026-10-28",
    "digest": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Valkey. Authentication is required to exploit this vulnerabili…",
    "tags": [],
-   "title_zh": "ZDI-26-833: Valkey 集群创建发布消息块数值截断错误远程代码执行漏洞"
+   "title_zh": "ZDI-26-833: Valkey 群集创建发布消息块数值截断错误 远程代码执行漏洞"
   },
   {
    "id": "ZDI-PUBLISHED-2bf4b3a9",
@@ -783,7 +2236,7 @@
    "tags": [
     "漏洞预警"
    ],
-   "title_zh": "ZDI-26-812: (0Day) Ultralytics torch_load 不信任数据序列化远程代码执行漏洞"
+   "title_zh": "ZDI-26-812: (0day) Ultralytics torch_load 未经信任数据反序列化远程代码执行漏洞"
   },
   {
    "id": "ZDI-PUBLISHED-4fdffe93",
@@ -906,7 +2359,7 @@
    "tags": [
     "漏洞预警"
    ],
-   "title_zh": "ZDI-26-820: (0Day) (Pwn2Own) Alpine iLX-F511 Fiv.System 局部权限提升漏洞"
+   "title_zh": "ZDI-26-820: (0Day) (Pwn2Own) Alpine iLX-F511 Fiv.System 展示了危险方法本地权限提升漏洞"
   },
   {
    "id": "ZDI-PUBLISHED-e0350616",
@@ -965,7 +2418,8 @@
    "digest": "This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of Alpine iLX-F511 devices. Authentication is not requi…",
    "tags": [
     "漏洞预警"
-   ]
+   ],
+   "title_zh": "ZDI-26-824: (0Day) (Pwn2Own) Alpine iLX-F511 Framework Service 暴露危险功能 远程代码执行漏洞"
   },
   {
    "id": "ZDI-PUBLISHED-173c59d5",
@@ -995,7 +2449,7 @@
    "tags": [
     "漏洞预警"
    ],
-   "title_zh": "ZDI-26-826: (0Day) (Pwn2Own) Alpine iLX-F511 libanwbtstack.so prh_rfcomm_cc_process_test 越界读取信息泄露漏洞"
+   "title_zh": "ZDI-26-826: (0Day) (Pwn2Own) 阿尔pine iLX-F511 libanwbtstack.so prh_rfcomm_cc_process_test 越界读取信息泄露漏洞"
   },
   {
    "id": "ZDI-PUBLISHED-684fce53",
@@ -1027,7 +2481,7 @@
     "漏洞预警",
     "移动安全"
    ],
-   "title_zh": "ZDI-26-828: (0Day) (Pwn2Own) 阿尔pine iLX-F511 Android Auto 服务堆基缓冲区溢出 远程代码执行 漏洞"
+   "title_zh": "ZDI-26-828: (0Day) (Pwn2Own) 阿尔pine iLX-F511 Android Auto 服务堆基缓冲区溢出 远程代码执行漏洞"
   },
   {
    "id": "ZDI-PUBLISHED-c0d62329",
@@ -1055,7 +2509,7 @@
    "published_date": "2026-10-28",
    "digest": "On this week’s show Patrick Gray and James Wilson are joined by special guest co-host Alex Stamos to talk through the week’s cybersecurity news, including: Ever…",
    "tags": [],
-   "title_zh": "风险洞察 #857 —— 人工智能恐慌加剧"
+   "title_zh": "风险洞察 #857 —— AI FUD 加剧"
   },
   {
    "id": "FREEBUF-ff20a0ed",
@@ -1069,6 +2523,22 @@
    "digest": "日本GMO拒付5000万美元勒索赎金，悬赏百万美元追查入侵其外汇交易云服务、窃取凭证致客户账户遭异常交易的黑客。",
    "tags": [
     "云安全"
+   ]
+  },
+  {
+   "id": "FREEBUF-fb1a67fb",
+   "title": "Claude构建多平台漏洞利用链，含One-Click Chrome、Zero-Click Linux路径可绕过安卓锁屏",
+   "url": "https://www.freebuf.com/news/509383.html",
+   "source": "FreeBuf",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Wed, 28 Oct 2026 12:27:06 +0800",
+   "published_date": "2026-10-28",
+   "digest": "未发布版Claude可构建多平台高危漏洞利用链，一键攻破Chrome、零点击获取Linux Root权限、绕过安卓锁屏，漏洞已修复请尽快打补丁。",
+   "tags": [
+    "漏洞预警",
+    "大模型安全",
+    "移动安全"
    ]
   },
   {
@@ -3269,7 +4739,8 @@
    "published_at": "Mon, 26 Oct 2026 00:00:00 -0500",
    "published_date": "2026-10-26",
    "digest": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Meta FAIRChem. User interaction is required to exploit this vu…",
-   "tags": []
+   "tags": [],
+   "title_zh": "ZDI-26-799: Meta FAIRChem 溶剂反序列化未信任数据远程代码执行漏洞"
   },
   {
    "id": "ZDI-PUBLISHED-c97506fe",
@@ -3294,7 +4765,8 @@
    "published_at": "Mon, 26 Oct 2026 00:00:00 -0500",
    "published_date": "2026-10-26",
    "digest": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Meta FAIRChem. User interaction is required to exploit this vu…",
-   "tags": []
+   "tags": [],
+   "title_zh": "ZDI-26-801: Meta FAIRChem Slab 不安全序列化远程代码执行漏洞"
   },
   {
    "id": "ZDI-PUBLISHED-b170d8e6",

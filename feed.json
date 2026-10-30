@@ -1,340 +1,352 @@
 {
- "generated_at": "2026-10-29 10:05",
- "total": 7613,
+ "generated_at": "2026-10-30 10:06",
+ "total": 7719,
  "items": [
   {
-   "id": "SECAFFAIRS-88280b75",
-   "title": "Hive and Nefilim Ransomware Affiliate Gets 70 Months In Jail",
-   "url": "https://securityaffairs.com/201960/cyber-crime/hive-and-nefilim-ransomware-affiliate-gets-70-months-in-jail.html",
-   "source": "Security Affairs",
+   "id": "RISKYBIZ-adb338b5",
+   "title": "Snake Oilers: Minimal.dev, Request Rocket and TRM Labs",
+   "url": "https://risky.biz/SNAKEOILERS24PT2/",
+   "source": "Risky Business",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Wed, 28 Oct 2026 20:19:06 +0000",
-   "published_date": "2026-10-28",
-   "digest": "Artem Stryzhak gets 70 months in prison for Hive and Nefilim ransomware attacks, while the FBI offers $11 million for his alleged co-conspirator. A federal cour…",
-   "tags": [
-    "勒索软件",
-    "监管合规"
-   ],
-   "title_zh": "Hive和Nefilim勒索软件附属成员获判70个月监禁"
-  },
-  {
-   "id": "WORDFENCE-4da82a14",
-   "title": "PHP2Shell Update: Still No Confirmed WordPress Compromises, and Answers to the Questions We’re Hearing Most",
-   "url": "https://www.wordfence.com/blog/2026/10/php2shell-update-still-no-confirmed-wordpress-compromises-and-answers-to-the-questions-were-hearing-most/",
-   "source": "Wordfence",
-   "category": "网络安全",
-   "priority": "P2",
-   "published_at": "Wed, 28 Oct 2026 18:26:07 +0000",
-   "published_date": "2026-10-28",
-   "digest": "As of October 28, 2026, Wordfence knows of no WordPress site compromised through PHP2Shell. Update PHP to a fixed version and restart it, because updating WordP…",
-   "tags": [
-    "Web安全"
-   ],
-   "title_zh": "PHP2Shell 更新：仍未确认有WordPress网站被入侵，并解答我们最常听到的问题"
-  },
-  {
-   "id": "THN-af6f9bce",
-   "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
-   "url": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Wed, 28 Oct 2026 23:38:33 +0530",
-   "published_date": "2026-10-28",
-   "digest": "The China-nexus cyber espionage group known as Volt Typhoon has been attributed to a now-disrupted covert access network dubbed Silent Train that has been put t…",
-   "tags": [
-    "APT组织"
-   ],
-   "title_zh": "volt typhoon 用于四次零日攻击活动中秘密窃取列车网络"
-  },
-  {
-   "id": "UNIT42-5b760cd0",
-   "title": "Unwrapping Retail Peak Season Cyber Threats",
-   "url": "https://unit42.paloaltonetworks.com/unwrapping-retail-cyber-threats/",
-   "source": "Unit 42",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Wed, 28 Oct 2026 18:00:10 +0000",
-   "published_date": "2026-10-28",
-   "digest": "Unit 42 explores key peak shopping season retail cyber threats, from ransomware to AI attacks, and shares how to defend operations and customer trust. The post …",
-   "tags": [
-    "勒索软件"
-   ],
-   "title_zh": "解读零售高峰期的网络威胁"
-  },
-  {
-   "id": "CYBERSECNEWS-74a343f7",
-   "title": "OffSec Launches Free PHP2Shell Lab Following Critical Vulnerability Discovery",
-   "url": "https://cybersecuritynews.com/offsec-launches-free-php2shell-lab-following-critical-vulnerability-discovery/",
-   "source": "CyberSecurity News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Wed, 28 Oct 2026 17:54:27 +0000",
-   "published_date": "2026-10-28",
-   "digest": "New York, United States, October 28th, 2026, CyberNewswire New hands-on lab lets security practitioners explore PHP2Shell exploitation firsthand as AI-assisted …",
-   "tags": [],
-   "title_zh": "OffSec推出免费的PHP2Shell实验室，跟进关键漏洞发现"
-  },
-  {
-   "id": "CYBERSECNEWS-27dd6293",
-   "title": "Researcher Uncovers New 0-click Flaw in Telegram Stickers and Chained Them to Run Code on iOS",
-   "url": "https://cybersecuritynews.com/0-click-flaw-in-telegram-stickers/",
-   "source": "CyberSecurity News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Wed, 28 Oct 2026 17:15:58 +0000",
-   "published_date": "2026-10-28",
-   "digest": "Security researcher Saifeldeen Aziz says he found new zero-click bugs in Telegram stickers. He also says he chained them to run code on iOS. The work was due to…",
-   "tags": [
-    "移动安全"
-   ],
-   "title_zh": "研究人员发现Telegram贴纸新0点击漏洞并链接运行代码于iOS"
-  },
-  {
-   "id": "THN-dcf16a2b",
-   "title": "Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.",
-   "url": "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Wed, 28 Oct 2026 22:38:09 +0530",
-   "published_date": "2026-10-28",
-   "digest": "Third-party Android app stores can now apply to Google for permission to install apps with one tap, without Android's usual confirmation screens, and to update …",
-   "tags": [
-    "移动安全"
-   ],
-   "title_zh": "Google将允许从美国以外获批第三方商店一键安装Android应用"
-  },
-  {
-   "id": "THN-e92053c3",
-   "title": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win",
-   "url": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Wed, 28 Oct 2026 21:53:34 +0530",
-   "published_date": "2026-10-28",
-   "digest": "A chain of logic flaws, with no memory corruption, can turn a malicious web page into code running on a Windows computer outside Microsoft Edge's sandbox, a sec…",
-   "tags": [],
-   "title_zh": "研究人员揭示逻辑漏洞单独攻破Microsoft Edge赢得Pwn2Own奖金17.5万美元"
-  },
-  {
-   "id": "CYBERSECNEWS-37530f25",
-   "title": "Beyond the Sandbox Verdict: 3 Questions for Faster SOC Decisions",
-   "url": "https://cybersecuritynews.com/beyond-the-sandbox-verdict-3-questions-for-faster-soc-decisions/",
-   "source": "CyberSecurity News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Wed, 28 Oct 2026 16:16:43 +0000",
-   "published_date": "2026-10-28",
-   "digest": "Whether you’re investigating a suspicious URL or a file, you need more than a verdict to make a confident, evidence-based decision. You need to understand what …",
-   "tags": [],
-   "title_zh": "超出沙箱判决：加快安全运营中心决策的三个问题"
-  },
-  {
-   "id": "THN-230c7e63",
-   "title": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
-   "url": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Wed, 28 Oct 2026 21:32:45 +0530",
-   "published_date": "2026-10-28",
-   "digest": "Cybersecurity researchers have disclosed details of what appears to be an artificial intelligence (AI)-assisted attack orchestrated by a suspected China-nexus t…",
-   "tags": [],
-   "title_zh": "PHP2Shell攻击感染25台服务器，入侵美国政府相关网络"
-  },
-  {
-   "id": "CYBERSECNEWS-e33b1d0b",
-   "title": "TeamViewer Vulnerabilities Could Let Hackers Execute Malicious Code Through Remote Desktop Sessions",
-   "url": "https://cybersecuritynews.com/teamviewer-desktop-session-vulnerabilities/",
-   "source": "CyberSecurity News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Wed, 28 Oct 2026 15:59:46 +0000",
-   "published_date": "2026-10-28",
-   "digest": "TeamViewer has released security updates for three high-severity vulnerabilities that could let attackers run malicious code, crash remote desktop clients, or g…",
-   "tags": [],
-   "title_zh": "TeamViewer 漏洞可能允许黑客通过远程桌面会话执行恶意代码"
-  },
-  {
-   "id": "SECWIKI-833044fa",
-   "title": "SecWiki News 2026-10-28 Review",
-   "url": "http://www.sec-wiki.com/?2026-10-28",
-   "source": "SecWiki",
-   "category": "网络安全",
-   "priority": "P2",
-   "published_at": "\nWed, 28 Oct 2026 23:58:20 +0800",
-   "published_date": "2026-10-28",
-   "digest": "今日暂未更新资讯~ 更多最新文章，请访问 SecWiki",
-   "tags": [],
-   "title_zh": "SecWiki 新闻 2026-10-28 概览"
-  },
-  {
-   "id": "CYBERSECNEWS-9946c93b",
-   "title": "Researchers Chain Cloudflare Security Flaws to Bypass CSP and Execute Malicious JavaScript",
-   "url": "https://cybersecuritynews.com/cloudflare-xss-vulnerability/",
-   "source": "CyberSecurity News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Wed, 28 Oct 2026 15:38:06 +0000",
-   "published_date": "2026-10-28",
-   "digest": "Security researchers at Searchlight Cyber chained several small weaknesses in Cloudflare’s image feature. The chain let them run JavaScript on a site that was m…",
-   "tags": [],
-   "title_zh": "研究人员将Cloudflare安全漏洞串联起来以绕过CSP执行恶意JavaScript"
-  },
-  {
-   "id": "CYBERSECNEWS-7606dbb1",
-   "title": "PropellerAds: Why Modern Malware Delivery Starts Before the Payload",
-   "url": "https://cybersecuritynews.com/propellerads-why-modern-malware-delivery-starts-before-the-payload/",
-   "source": "CyberSecurity News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Wed, 28 Oct 2026 15:28:59 +0000",
-   "published_date": "2026-10-28",
-   "digest": "By Farukh Rakhimov, Head of Compliance, Data Protection, and Information Security at AdTech Holding In March 2026, Google Threat Intelligence Group (GTIG) discl…",
-   "tags": [
-    "监管合规"
-   ],
-   "title_zh": "PropellerAds：为什么现代恶意软件交付始于载荷之前"
-  },
-  {
-   "id": "CYBERSECNEWS-8effef43",
-   "title": "OWASP Finds ChatGPT Helped Low-Skilled User Take Over Admin Account in Hacking Test",
-   "url": "https://cybersecuritynews.com/owasp-finds-chatgpt-assisted-admin-takeover/",
-   "source": "CyberSecurity News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Wed, 28 Oct 2026 15:28:23 +0000",
-   "published_date": "2026-10-28",
-   "digest": "OWASP found that ChatGPT helped an operator with no offensive security knowledge take over an administrator account during a controlled hacking test. The operat…",
+   "published_at": "Fri, 30 Oct 2026 11:34:05 +1100",
+   "published_date": "2026-10-30",
+   "digest": "In this edition of the Snake Oilers podcast, three vendors drop by to pitch their products. Minimal.dev : A sandbox for AI agents! Co-Founder and CEO Jake King …",
    "tags": [
     "大模型安全"
    ],
-   "title_zh": "OWASP发现ChatGPT帮助低技能用户在黑客测试中获取管理员账户权限"
+   "title_zh": "Snake Oilers: Minimal.dev、Request Rocket 和 TRM Labs"
   },
   {
-   "id": "SECURITYWEEK-683916b5",
-   "title": "Ukrainian Hive and Nefilim Ransomware Affiliate Gets 70 Months in US Prison",
-   "url": "https://www.securityweek.com/ukrainian-hive-and-nefilim-ransomware-affiliate-gets-70-months-in-us-prison/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Wed, 28 Oct 2026 15:05:06 +0000",
-   "published_date": "2026-10-28",
-   "digest": "Artem Stryzhak was sentenced to 70 months in prison after pleading guilty to using Nefilim ransomware in attacks. The post Ukrainian Hive and Nefilim Ransomware…",
-   "tags": [
-    "勒索软件"
-   ],
-   "title_zh": "乌克兰Hive和Nefilim勒索软件附属成员在美国被判70个月监禁"
-  },
-  {
-   "id": "SECAFFAIRS-8226630f",
-   "title": "Ads or Surveillance? Researchers Flag Suspicious Targeting of Starlink Users",
-   "url": "https://securityaffairs.com/201947/intelligence/ads-or-surveillance-researchers-flag-suspicious-targeting-of-starlink-users.html",
+   "id": "SECAFFAIRS-2c5d3804",
+   "title": "Binance Investigates Suspicious Crypto Transfers Worth Up to $5.8 Billion",
+   "url": "https://securityaffairs.com/202089/hacking/binance-investigates-suspicious-crypto-transfers-worth-up-to-5-8-billion.html",
    "source": "Security Affairs",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Wed, 28 Oct 2026 14:37:21 +0000",
-   "published_date": "2026-10-28",
-   "digest": "Discover-Tech allegedly targeted Starlink users with digital ads to track their locations, according to sources cited in a new Reuters report. Digital defense f…",
+   "published_at": "Thu, 29 Oct 2026 22:53:27 +0000",
+   "published_date": "2026-10-29",
+   "digest": "Binance probes suspicious crypto transfers worth up to $5.8 billion as Tether and Circle freeze $1.79 billion in stablecoins linked to the activity. Binance is …",
    "tags": [],
-   "title_zh": "广告还是监视？研究人员警告Starlink用户疑似遭可疑 targeting"
+   "title_zh": "币安调查价值高达58亿美元的可疑加密货币转账"
   },
   {
-   "id": "SECURITYWEEK-80b4b794",
-   "title": "Upwind Security Raises $400 Million at $3.8 Billion Valuation",
-   "url": "https://www.securityweek.com/upwind-security-raises-400-million-at-3-8-billion-valuation/",
+   "id": "WORDFENCE-3cad13a1",
+   "title": "WordPress 7.1.4 Patches Unauthenticated Upgrade-Window RCE; Exploitation Attempts Detected After Release",
+   "url": "https://www.wordfence.com/blog/2026/10/wordpress-7-1-4-security-release-rce/",
+   "source": "Wordfence",
+   "category": "网络安全",
+   "priority": "P2",
+   "published_at": "Thu, 29 Oct 2026 21:58:44 +0000",
+   "published_date": "2026-10-29",
+   "digest": "TL;DR: WordPress 7.1.4 was released on October 28, 2026. According to WordPress, it includes fixes for 22 security vulnerabilities. The most serious is an unaut…",
+   "tags": [
+    "漏洞预警",
+    "Web安全"
+   ],
+   "title_zh": "WordPress 7.1.4 未授权升级窗口RCE漏洞修复；发布后检测到利用尝试"
+  },
+  {
+   "id": "SECAFFAIRS-f07ad8c7",
+   "title": "US Probes Suspected Hack Behind Military Base Freezer Failures",
+   "url": "https://securityaffairs.com/202073/hacking/us-probes-suspected-hack-behind-military-base-freezer-failures.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 21:58:38 +0000",
+   "published_date": "2026-10-29",
+   "digest": "The Pentagon treats August freezer failures at US military bases as a suspected hack and is working with French investigators after a supermarket attack. The Pe…",
+   "tags": [],
+   "title_zh": "美国调查疑似黑客攻击导致军事基地冰箱故障"
+  },
+  {
+   "id": "WORDFENCE-c0d8558d",
+   "title": "Wordfence Bug Bounty Program Monthly Report – July 2026",
+   "url": "https://www.wordfence.com/blog/2026/10/wordfence-bug-bounty-program-monthly-report-july-2026/",
+   "source": "Wordfence",
+   "category": "网络安全",
+   "priority": "P2",
+   "published_at": "Thu, 29 Oct 2026 19:20:35 +0000",
+   "published_date": "2026-10-29",
+   "digest": "In July 2026, the Wordfence Bug Bounty Program received 1077 vulnerability submissions from our growing community of security researchers working to improve the…",
+   "tags": [],
+   "title_zh": "Wordfence漏洞赏金计划月度报告 —— 2026年7月"
+  },
+  {
+   "id": "THN-ae192d86",
+   "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
+   "url": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 30 Oct 2026 00:41:58 +0530",
+   "published_date": "2026-10-30",
+   "digest": "Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and truste…",
+   "tags": [],
+   "title_zh": "威胁日：关键防火墙漏洞、出租银行木马、武器化PDF文件、令牌窃取等26篇更多故事"
+  },
+  {
+   "id": "SECAFFAIRS-e81438b5",
+   "title": "484,142 Exposed Cloud Buckets Contain 18 Billion Files",
+   "url": "https://securityaffairs.com/202055/security/484142-exposed-cloud-buckets-contain-18-billion-files.html",
+   "source": "Security Affairs",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 18:43:01 +0000",
+   "published_date": "2026-10-29",
+   "digest": "42 publicly listable cloud buckets containing 18 billion files, including exposed credentials, database dumps and backups. The Ransomnews research team counted …",
+   "tags": [
+    "云安全",
+    "身份认证"
+   ],
+   "title_zh": "484,142 暴露的云存储桶包含180亿个文件"
+  },
+  {
+   "id": "CYBERSECNEWS-aa1e5fcf",
+   "title": "State of Ad Fraud 2026: 52% of Schemes Use AI as Cloaking Loses Ground to iOS Exploits and Messenger Phishing",
+   "url": "https://cybersecuritynews.com/state-of-ad-fraud-2026-52-of-schemes-use-ai-as-cloaking-loses-ground-to-ios-exploits-and-messenger-phishing/",
+   "source": "CyberSecurity News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 17:26:36 +0000",
+   "published_date": "2026-10-29",
+   "digest": "The ad fraud landscape changed sharply in 2026. That is the central finding of the State of Ad Fraud 2026: ADEX Trust & Safety Report, published by anti-fraud p…",
+   "tags": [
+    "钓鱼攻击",
+    "网络诈骗",
+    "移动安全"
+   ],
+   "title_zh": "2026年广告欺诈现状：52%的方案利用AI遮蔽，但被iOS漏洞和即时聊天诈骗超越"
+  },
+  {
+   "id": "CYBERSECNEWS-ff8b282a",
+   "title": "Hackers Launch 8,200 DDoS Attacks Every Hour, Cloudflare’s Latest Report Reveals",
+   "url": "https://cybersecuritynews.com/8200-ddos-attacks-every-hour/",
+   "source": "CyberSecurity News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 16:42:03 +0000",
+   "published_date": "2026-10-29",
+   "digest": "Cloudflare blocked an average of more than 8,200 network-layer DDoS attacks every hour during the third quarter of 2026, showing how attackers are using frequen…",
+   "tags": [
+    "僵尸网络"
+   ],
+   "title_zh": "黑客每小时发动8200次DDoS攻击，Cloudflare最新报告揭示"
+  },
+  {
+   "id": "SECURITYWEEK-1a143efa",
+   "title": "When Risk Becomes Personal: What Security Leaders Can Learn From a Cancer Diagnosis",
+   "url": "https://www.securityweek.com/when-risk-becomes-personal-what-security-leaders-can-learn-from-a-cancer-diagnosis/",
    "source": "SecurityWeek",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Wed, 28 Oct 2026 13:56:50 +0000",
-   "published_date": "2026-10-28",
-   "digest": "The massive funding round comes just days after reports emerged that Upwind had attracted acquisition interest from several companies, including Datadog The pos…",
+   "published_at": "Thu, 29 Oct 2026 16:30:00 +0000",
+   "published_date": "2026-10-29",
+   "digest": "Risk managers are trained to spot weak signals, plan for disruption and make hard decisions under uncertainty. But the discipline looks different when the risk …",
    "tags": [],
-   "title_zh": "Upwind Security 获投4亿美元，估值达38亿美元"
+   "title_zh": "当风险变得个人化：安全领导者可以从癌症诊断中学到什么"
   },
   {
-   "id": "CYBERSECNEWS-0b693926",
-   "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
-   "url": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/",
-   "source": "CyberSecurity News",
+   "id": "SECAFFAIRS-b4032619",
+   "title": "U.S. CISA adds Linux Kernel and Broadcom VMWare ESX  flaws to its Known Exploited Vulnerabilities catalog",
+   "url": "https://securityaffairs.com/202050/hacking/u-s-cisa-adds-linux-kernel-and-broadcom-vmware-esx-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+   "source": "Security Affairs",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Wed, 28 Oct 2026 13:46:52 +0000",
-   "published_date": "2026-10-28",
-   "digest": "Google released a Chrome security update that fixes 52 vulnerabilities, including four critical flaws affecting FileSystem, FileAPI, Skia, and Layout. According…",
-   "tags": [],
-   "title_zh": "Google修复了52个Chrome安全漏洞，包括四个关键漏洞"
-  },
-  {
-   "id": "CYBERSECNEWS-3ed50f43",
-   "title": "FBI Seizes Virtualine Bulletproof Hosting Domain Linked to Ransomware and Cybercrime",
-   "url": "https://cybersecuritynews.com/fbi-seizes-virtualine-bulletproof-hosting/",
-   "source": "CyberSecurity News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Wed, 28 Oct 2026 13:43:53 +0000",
-   "published_date": "2026-10-28",
-   "digest": "The FBI seized virtualine.net, the main website of a bulletproof hosting provider linked to ransomware operators, stolen-data markets, and other cybercrime serv…",
+   "published_at": "Thu, 29 Oct 2026 16:05:56 +0000",
+   "published_date": "2026-10-29",
+   "digest": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Linux Kernel and Broadcom VMWare ESX flaws to its Known Exploited Vulnerabilities catalog. The…",
    "tags": [
-    "勒索软件",
     "监管合规"
    ],
-   "title_zh": "FBI 扣押与勒索软件和网络犯罪相关的 Virtualine bulletproof 主机域名"
+   "title_zh": "美国CISA将Linux内核和Broadcom VMWare ESX漏洞添加到已知被利用漏洞目录中"
   },
   {
-   "id": "SECURITYWEEK-aaf09d84",
-   "title": "Chrome and Firefox Updates Patch Over 200 Vulnerabilities",
-   "url": "https://www.securityweek.com/chrome-and-firefox-updates-patch-over-200-vulnerabilities/",
-   "source": "SecurityWeek",
+   "id": "SECWIKI-6d663a22",
+   "title": "SecWiki News 2026-10-29 Review",
+   "url": "http://www.sec-wiki.com/?2026-10-29",
+   "source": "SecWiki",
+   "category": "网络安全",
+   "priority": "P2",
+   "published_at": "\nThu, 29 Oct 2026 23:58:20 +0800",
+   "published_date": "2026-10-29",
+   "digest": "IRIS 基于大语言模型辅助的安全漏洞静态分析 by ourren 以提示词注入反击AI驱动的网络攻击 by ourren 网络安全威胁2026年中报告 by ourren 更多最新文章，请访问 SecWiki",
+   "tags": [
+    "漏洞预警"
+   ],
+   "title_zh": "SecWiki 新闻 2026-10-29 概览"
+  },
+  {
+   "id": "THN-879452bb",
+   "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
+   "url": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
+   "source": "The Hacker News",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Wed, 28 Oct 2026 13:39:35 +0000",
-   "published_date": "2026-10-28",
-   "digest": "The Chrome 156 update fixes 52 bugs, while Firefox 159 was rolled out with 167 security patches. The post Chrome and Firefox Updates Patch Over 200 Vulnerabilit…",
-   "tags": [],
-   "title_zh": "Chrome和Firefox更新修复了200多个漏洞"
+   "published_at": "Thu, 29 Oct 2026 21:27:05 +0530",
+   "published_date": "2026-10-29",
+   "digest": "A flaw in the Linux kernel's TCP code, tracked as CVE-2026-98432, affects Ubuntu, Red Hat Enterprise Linux (RHEL), and other Linux distributions. The kernel's o…",
+   "tags": [
+    "漏洞预警"
+   ],
+   "title_zh": "Linux 内核 TCP 漏洞影响 Ubuntu、Red Hat 等发行版（CVSS 得分 9.8）"
   },
   {
-   "id": "CYBERSECNEWS-b30237e5",
-   "title": "Malicious Firefox Extensions Impersonate Phantom, Jupiter, and Bitget to Steal Crypto Wallet Keys",
-   "url": "https://cybersecuritynews.com/malicious-firefox-extensions-3/",
+   "id": "WORDFENCE-ed59279a",
+   "title": "Wordfence Intelligence Weekly WordPress Vulnerability Report (October 19, 2026 to October 25, 2026)",
+   "url": "https://www.wordfence.com/blog/2026/10/wordfence-intelligence-weekly-wordpress-vulnerability-report-october-19-2026-to-october-25-2026/",
+   "source": "Wordfence",
+   "category": "网络安全",
+   "priority": "P2",
+   "published_at": "Thu, 29 Oct 2026 15:40:46 +0000",
+   "published_date": "2026-10-29",
+   "digest": "Last week, there were disclosed in and that have been added to the Wordfence Intelligence Vulnerability Database, and there were that contributed to WordPress S…",
+   "tags": [
+    "Web安全"
+   ],
+   "title_zh": "Wordfence Intelligence 每周 WordPress 漏洞报告（2026年10月19日至2026年10月25日）"
+  },
+  {
+   "id": "THN-e67783a0",
+   "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
+   "url": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 20:50:29 +0530",
+   "published_date": "2026-10-29",
+   "digest": "Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Clau…",
+   "tags": [
+    "加密货币犯罪",
+    "大模型安全"
+   ],
+   "title_zh": "假冒ChatGPT和Claude应用滥用签名可执行文件部署加密货币挖矿软件"
+  },
+  {
+   "id": "CYBERSECNEWS-93aa9d9e",
+   "title": "Claude AI Exploits Linux Kernel Flaw to Execute Root Commands Without User Interaction",
+   "url": "https://cybersecuritynews.com/linux-kernel-flaw-root-commands/",
    "source": "CyberSecurity News",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Wed, 28 Oct 2026 13:17:06 +0000",
-   "published_date": "2026-10-28",
-   "digest": "Three malicious Firefox extensions posed as the Phantom, Jupiter, and Bitget crypto wallets to steal recovery phrases and private keys. Whoever holds these secr…",
-   "tags": [],
-   "title_zh": "恶意Firefox扩展冒充Phantom、Jupiter和Bitget窃取加密钱包密钥"
+   "published_at": "Thu, 29 Oct 2026 15:18:11 +0000",
+   "published_date": "2026-10-29",
+   "digest": "Anthropic says an unreleased Claude research model wrote a working exploit for a critical Linux kernel bug, tracked as CVE-2026-98432. The exploit lets a remote…",
+   "tags": [
+    "漏洞预警",
+    "大模型安全"
+   ],
+   "title_zh": "Claude AI 利用 Linux 内核漏洞在无需用户交互的情况下执行根命令"
   },
   {
-   "id": "SECURITYWEEK-753273c1",
-   "title": "TLS Flaws Found in GoAhead Web Server Used in Hundreds of Millions of Devices",
-   "url": "https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/",
+   "id": "SECURITYWEEK-8f110458",
+   "title": "Google Says Gemini 4 Carbon Leads in Finding, Exploiting and Fixing Vulnerabilities",
+   "url": "https://www.securityweek.com/google-says-gemini-4-carbon-leads-in-finding-exploiting-and-fixing-vulnerabilities/",
    "source": "SecurityWeek",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Wed, 28 Oct 2026 13:10:34 +0000",
-   "published_date": "2026-10-28",
-   "digest": "FoxIO disclosed three GoAhead TLS bugs that can let revoked certificates through or expose some encrypted sessions to eavesdroppers. The post TLS Flaws Found in…",
-   "tags": [],
-   "title_zh": "GoAhead Web服务器中的TLS漏洞影响数亿设备"
+   "published_at": "Thu, 29 Oct 2026 15:01:00 +0000",
+   "published_date": "2026-10-29",
+   "digest": "Google’s new frontier model scored 88.2% on SEC-bench Pro and is rolling out first to vetted cyber defenders via its Fairwind Program. The post Google Says Gemi…",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "谷歌称Gemini 4 Carbon在发现、利用和修复漏洞方面表现最佳"
   },
   {
-   "id": "CYBERSECNEWS-d34f94d9",
-   "title": "Hackers Use Fake Court Notices to Deliver XWorm Malware Through Hidden Windows Scripts",
-   "url": "https://cybersecuritynews.com/xworm-malware-3/",
+   "id": "SECURITYWEEK-cc83a03a",
+   "title": "How Secure Are US Elections? Voting Machine Risks and the Growing Threat of AI",
+   "url": "https://www.securityweek.com/how-secure-are-us-elections-voting-machine-risks-and-the-growing-threat-of-ai/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 15:00:00 +0000",
+   "published_date": "2026-10-29",
+   "digest": "Unpatched voting machines, unverifiable QR-coded ballots, and AI-driven influence campaigns leave US elections short of secure. The post How Secure Are US Elect…",
+   "tags": [],
+   "title_zh": "美国选举安全如何？投票机风险与日益增长的AI威胁"
+  },
+  {
+   "id": "CYBERSECNEWS-a0a44240",
+   "title": "NIST Officially Released Guidance for Transition to Post-Quantum Cryptography",
+   "url": "https://cybersecuritynews.com/nist-post-quantum-cryptography-guidance/",
    "source": "CyberSecurity News",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Wed, 28 Oct 2026 13:07:09 +0000",
-   "published_date": "2026-10-28",
-   "digest": "Attackers are sending fake court notices to organizations in Colombia and using them to install XWorm, a remote access tool that gives criminals full control of…",
+   "published_at": "Thu, 29 Oct 2026 14:55:18 +0000",
+   "published_date": "2026-10-29",
+   "digest": "The National Institute of Standards and Technology (NIST) has released guidance on moving to post-quantum cryptography, giving federal agencies and technology p…",
    "tags": [],
-   "title_zh": "黑客使用假法院通知分发XWorm恶意软件通过隐藏的Windows脚本"
+   "title_zh": "NIST 正式发布后量子密码学过渡指南"
+  },
+  {
+   "id": "CYBERSECNEWS-ef690b21",
+   "title": "Zero-Click ‘SMS of Death’ Flaw Lets Hackers Disrupt Android Phones With a Single Text",
+   "url": "https://cybersecuritynews.com/zero-click-android-vulnerability/",
+   "source": "CyberSecurity News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 14:50:38 +0000",
+   "published_date": "2026-10-29",
+   "digest": "A security researcher has published details of a zero-click Android flaw called “SMS of Death.” One malformed text message can crash the phone service on an And…",
+   "tags": [
+    "移动安全"
+   ],
+   "title_zh": "零点击“短信致命”漏洞让黑客可通过一条消息中断Android手机"
+  },
+  {
+   "id": "SECURITYWEEK-cb261e8b",
+   "title": "Cisco Open Sources Quarry to Catch AI Agent Attacks Hidden in Harmless Steps",
+   "url": "https://www.securityweek.com/cisco-open-sources-quarry-to-catch-ai-agent-attacks-hidden-in-harmless-steps/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 14:18:03 +0000",
+   "published_date": "2026-10-29",
+   "digest": "Cisco open sourced Project Quarry, a rule language for detecting AI agent attacks that only emerge across sequences of benign actions. The post Cisco Open Sourc…",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "Cisco 开源 Quarry 捕获隐藏在无辜步骤中的AI代理攻击"
+  },
+  {
+   "id": "CHECKPOINT-9e873023",
+   "title": "Cohere’s Qwen Story: Looks More Like Model Jaggedness",
+   "url": "https://research.checkpoint.com/2026/coheres-qwen-story-looks-more-like-model-jaggedness/",
+   "source": "Check Point Research",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 14:08:46 +0000",
+   "published_date": "2026-10-29",
+   "digest": "Key findings On October 26, Cohere reported a puzzling incident involving Qwen3.8-Flash-Next, an open-weight model from Alibaba. The task was straightforward: w…",
+   "tags": [],
+   "title_zh": "Cohere的Qwen故事：更像是模型的 jaggedness 效果"
+  },
+  {
+   "id": "CYBERSECNEWS-489ded5f",
+   "title": "AppViewX Expands Quantum Trust Hub with Cryptographic Discovery, Posture Management, and Remediation",
+   "url": "https://cybersecuritynews.com/appviewx-expands-quantum-trust-hub-with-cryptographic-discovery-posture-management-and-remediation/",
+   "source": "CyberSecurity News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 13:52:50 +0000",
+   "published_date": "2026-10-29",
+   "digest": "New York, New York, October 29th, 2026, CyberNewswire Now available as a standalone solution, Quantum Trust Hub delivers cryptographic posture management and ag…",
+   "tags": [],
+   "title_zh": "AppViewX 扩展量子信任枢纽，增加加密发现、状态管理及修复功能"
+  },
+  {
+   "id": "SECURITYWEEK-6c37cb0b",
+   "title": "Adobe, Veeam, Juniper Networks Patch Critical Vulnerabilities",
+   "url": "https://www.securityweek.com/adobe-veeam-juniper-networks-patch-critical-vulnerabilities/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Thu, 29 Oct 2026 13:42:52 +0000",
+   "published_date": "2026-10-29",
+   "digest": "The flaws could lead to arbitrary code execution, authorization bypasses, and privilege escalation. The post Adobe, Veeam, Juniper Networks Patch Critical Vulne…",
+   "tags": [],
+   "title_zh": "Adobe、Veeam、Juniper Networks 修复严重漏洞"
   }
  ]
 }
