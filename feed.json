@@ -1,352 +1,356 @@
 {
- "generated_at": "2026-10-30 10:06",
- "total": 7719,
+ "generated_at": "2026-10-31 10:04",
+ "total": 7840,
  "items": [
   {
-   "id": "RISKYBIZ-adb338b5",
-   "title": "Snake Oilers: Minimal.dev, Request Rocket and TRM Labs",
-   "url": "https://risky.biz/SNAKEOILERS24PT2/",
-   "source": "Risky Business",
+   "id": "CYBERSECNEWS-3e459760",
+   "title": "Palo Alto Confirms Active PHP2Shell Exploitation Targeting Exposed PAN-OS Management Interfaces",
+   "url": "https://cybersecuritynews.com/palo-alto-php2shell-exploitation/",
+   "source": "CyberSecurity News",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Fri, 30 Oct 2026 11:34:05 +1100",
+   "published_at": "Fri, 30 Oct 2026 10:42:02 +0000",
    "published_date": "2026-10-30",
-   "digest": "In this edition of the Snake Oilers podcast, three vendors drop by to pitch their products. Minimal.dev : A sandbox for AI agents! Co-Founder and CEO Jake King …",
+   "digest": "Palo Alto Networks has confirmed that attackers are actively exploiting PHP2Shell vulnerabilities against PAN-OS management interfaces exposed to the internet. …",
+   "tags": [
+    "漏洞预警"
+   ],
+   "title_zh": "帕洛阿尔托确认PHP2Shell活跃利用攻击目标是暴露在外的PAN-OS管理接口"
+  },
+  {
+   "id": "CYBERSECNEWS-89cbce85",
+   "title": "Trezor Warns of Suspected Spy Implant in Crypto Wallet That Could Steal Recovery Phrases",
+   "url": "https://cybersecuritynews.com/trezor-suspected-hardware-implant/",
+   "source": "CyberSecurity News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 30 Oct 2026 10:12:10 +0000",
+   "published_date": "2026-10-30",
+   "digest": "Trezor has warned that a suspected hardware implant inside a Trezor Safe 5 could steal recovery phrases and send them over a mobile network. The warning covers …",
+   "tags": [],
+   "title_zh": "Trezor警告其加密钱包可能存在疑似间谍植入物 可盗取恢复短语"
+  },
+  {
+   "id": "SECURELIST-b7186e33",
+   "title": "Filter generation in practice: from algorithms to LLMs",
+   "url": "https://securelist.com/practical-filter-generation/121697/",
+   "source": "Securelist (Kaspersky)",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 30 Oct 2026 10:00:44 +0000",
+   "published_date": "2026-10-30",
+   "digest": "We automate filter generation for security alerts using an algorithm, a large language model, and a group of LLM agents.",
    "tags": [
     "大模型安全"
    ],
-   "title_zh": "Snake Oilers: Minimal.dev、Request Rocket 和 TRM Labs"
+   "title_zh": "过滤生成实践：从算法到LLM"
   },
   {
-   "id": "SECAFFAIRS-2c5d3804",
-   "title": "Binance Investigates Suspicious Crypto Transfers Worth Up to $5.8 Billion",
-   "url": "https://securityaffairs.com/202089/hacking/binance-investigates-suspicious-crypto-transfers-worth-up-to-5-8-billion.html",
-   "source": "Security Affairs",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Thu, 29 Oct 2026 22:53:27 +0000",
-   "published_date": "2026-10-29",
-   "digest": "Binance probes suspicious crypto transfers worth up to $5.8 billion as Tether and Circle freeze $1.79 billion in stablecoins linked to the activity. Binance is …",
-   "tags": [],
-   "title_zh": "币安调查价值高达58亿美元的可疑加密货币转账"
-  },
-  {
-   "id": "WORDFENCE-3cad13a1",
-   "title": "WordPress 7.1.4 Patches Unauthenticated Upgrade-Window RCE; Exploitation Attempts Detected After Release",
-   "url": "https://www.wordfence.com/blog/2026/10/wordpress-7-1-4-security-release-rce/",
-   "source": "Wordfence",
-   "category": "网络安全",
-   "priority": "P2",
-   "published_at": "Thu, 29 Oct 2026 21:58:44 +0000",
-   "published_date": "2026-10-29",
-   "digest": "TL;DR: WordPress 7.1.4 was released on October 28, 2026. According to WordPress, it includes fixes for 22 security vulnerabilities. The most serious is an unaut…",
-   "tags": [
-    "漏洞预警",
-    "Web安全"
-   ],
-   "title_zh": "WordPress 7.1.4 未授权升级窗口RCE漏洞修复；发布后检测到利用尝试"
-  },
-  {
-   "id": "SECAFFAIRS-f07ad8c7",
-   "title": "US Probes Suspected Hack Behind Military Base Freezer Failures",
-   "url": "https://securityaffairs.com/202073/hacking/us-probes-suspected-hack-behind-military-base-freezer-failures.html",
-   "source": "Security Affairs",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Thu, 29 Oct 2026 21:58:38 +0000",
-   "published_date": "2026-10-29",
-   "digest": "The Pentagon treats August freezer failures at US military bases as a suspected hack and is working with French investigators after a supermarket attack. The Pe…",
-   "tags": [],
-   "title_zh": "美国调查疑似黑客攻击导致军事基地冰箱故障"
-  },
-  {
-   "id": "WORDFENCE-c0d8558d",
-   "title": "Wordfence Bug Bounty Program Monthly Report – July 2026",
-   "url": "https://www.wordfence.com/blog/2026/10/wordfence-bug-bounty-program-monthly-report-july-2026/",
-   "source": "Wordfence",
-   "category": "网络安全",
-   "priority": "P2",
-   "published_at": "Thu, 29 Oct 2026 19:20:35 +0000",
-   "published_date": "2026-10-29",
-   "digest": "In July 2026, the Wordfence Bug Bounty Program received 1077 vulnerability submissions from our growing community of security researchers working to improve the…",
-   "tags": [],
-   "title_zh": "Wordfence漏洞赏金计划月度报告 —— 2026年7月"
-  },
-  {
-   "id": "THN-ae192d86",
-   "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
-   "url": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Fri, 30 Oct 2026 00:41:58 +0530",
-   "published_date": "2026-10-30",
-   "digest": "Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and truste…",
-   "tags": [],
-   "title_zh": "威胁日：关键防火墙漏洞、出租银行木马、武器化PDF文件、令牌窃取等26篇更多故事"
-  },
-  {
-   "id": "SECAFFAIRS-e81438b5",
-   "title": "484,142 Exposed Cloud Buckets Contain 18 Billion Files",
-   "url": "https://securityaffairs.com/202055/security/484142-exposed-cloud-buckets-contain-18-billion-files.html",
-   "source": "Security Affairs",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Thu, 29 Oct 2026 18:43:01 +0000",
-   "published_date": "2026-10-29",
-   "digest": "42 publicly listable cloud buckets containing 18 billion files, including exposed credentials, database dumps and backups. The Ransomnews research team counted …",
-   "tags": [
-    "云安全",
-    "身份认证"
-   ],
-   "title_zh": "484,142 暴露的云存储桶包含180亿个文件"
-  },
-  {
-   "id": "CYBERSECNEWS-aa1e5fcf",
-   "title": "State of Ad Fraud 2026: 52% of Schemes Use AI as Cloaking Loses Ground to iOS Exploits and Messenger Phishing",
-   "url": "https://cybersecuritynews.com/state-of-ad-fraud-2026-52-of-schemes-use-ai-as-cloaking-loses-ground-to-ios-exploits-and-messenger-phishing/",
-   "source": "CyberSecurity News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Thu, 29 Oct 2026 17:26:36 +0000",
-   "published_date": "2026-10-29",
-   "digest": "The ad fraud landscape changed sharply in 2026. That is the central finding of the State of Ad Fraud 2026: ADEX Trust & Safety Report, published by anti-fraud p…",
-   "tags": [
-    "钓鱼攻击",
-    "网络诈骗",
-    "移动安全"
-   ],
-   "title_zh": "2026年广告欺诈现状：52%的方案利用AI遮蔽，但被iOS漏洞和即时聊天诈骗超越"
-  },
-  {
-   "id": "CYBERSECNEWS-ff8b282a",
-   "title": "Hackers Launch 8,200 DDoS Attacks Every Hour, Cloudflare’s Latest Report Reveals",
-   "url": "https://cybersecuritynews.com/8200-ddos-attacks-every-hour/",
-   "source": "CyberSecurity News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Thu, 29 Oct 2026 16:42:03 +0000",
-   "published_date": "2026-10-29",
-   "digest": "Cloudflare blocked an average of more than 8,200 network-layer DDoS attacks every hour during the third quarter of 2026, showing how attackers are using frequen…",
-   "tags": [
-    "僵尸网络"
-   ],
-   "title_zh": "黑客每小时发动8200次DDoS攻击，Cloudflare最新报告揭示"
-  },
-  {
-   "id": "SECURITYWEEK-1a143efa",
-   "title": "When Risk Becomes Personal: What Security Leaders Can Learn From a Cancer Diagnosis",
-   "url": "https://www.securityweek.com/when-risk-becomes-personal-what-security-leaders-can-learn-from-a-cancer-diagnosis/",
+   "id": "SECURITYWEEK-1856efc6",
+   "title": "$2 Million+ Drained From Polymarket Traders in New Supply Chain Attack",
+   "url": "https://www.securityweek.com/2-million-drained-from-polymarket-traders-in-new-supply-chain-attack/",
    "source": "SecurityWeek",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Thu, 29 Oct 2026 16:30:00 +0000",
-   "published_date": "2026-10-29",
-   "digest": "Risk managers are trained to spot weak signals, plan for disruption and make hard decisions under uncertainty. But the discipline looks different when the risk …",
-   "tags": [],
-   "title_zh": "当风险变得个人化：安全领导者可以从癌症诊断中学到什么"
+   "published_at": "Fri, 30 Oct 2026 09:41:36 +0000",
+   "published_date": "2026-10-30",
+   "digest": "Malicious code linked to a website monitoring tool was designed to hijack logged-in Polymarket sessions and siphon user funds. The post $2 Million+ Drained From…",
+   "tags": [
+    "供应链攻击"
+   ],
+   "title_zh": "价值数百万美元的Polymarket交易资金在新型供应链攻击中被窃取"
   },
   {
-   "id": "SECAFFAIRS-b4032619",
-   "title": "U.S. CISA adds Linux Kernel and Broadcom VMWare ESX  flaws to its Known Exploited Vulnerabilities catalog",
-   "url": "https://securityaffairs.com/202050/hacking/u-s-cisa-adds-linux-kernel-and-broadcom-vmware-esx-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+   "id": "NSFOCUS-017abe9c",
+   "title": "绿盟科技联合电科金仓发布一体化信创方案，打造自主可控、智能高效的安全防护体系",
+   "url": "https://blog.nsfocus.net/%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e8%81%94%e5%90%88%e7%94%b5%e7%a7%91%e9%87%91%e4%bb%93%e5%8f%91%e5%b8%83%e4%b8%80%e4%bd%93%e5%8c%96%e4%bf%a1%e5%88%9b%e6%96%b9%e6%a1%88%ef%bc%8c%e6%89%93%e9%80%a0/",
+   "source": "绿盟科技博客",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 30 Oct 2026 09:34:31 +0000",
+   "published_date": "2026-10-30",
+   "digest": "10月30日，电科金仓2026产品发布会暨金仓数据库开发者大会在北京举办。本次大会以“Hello，AI数据库”... » 阅读全文",
+   "tags": []
+  },
+  {
+   "id": "SECURITYWEEK-a61d0bee",
+   "title": "Max-Severity GitLab Vulnerability Exploited Against Alpine Linux",
+   "url": "https://www.securityweek.com/max-severity-gitlab-vulnerability-exploited-against-alpine-linux/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 30 Oct 2026 09:32:27 +0000",
+   "published_date": "2026-10-30",
+   "digest": "Tracked as CVE-2026-97229, the bug allows unauthenticated attackers to execute arbitrary code on the server. The post Max-Severity GitLab Vulnerability Exploite…",
+   "tags": [
+    "漏洞预警"
+   ],
+   "title_zh": "严重性最大GitLab漏洞被用于攻击Alpine Linux"
+  },
+  {
+   "id": "CYBERSECNEWS-4b30b3c8",
+   "title": "Binance Hit by Biggest Crypto Heist in History – North Korean TraderTraitor Group Reportedly Stolen $6.36 Billion",
+   "url": "https://cybersecuritynews.com/binance-hit-crypto-heist/",
+   "source": "CyberSecurity News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 30 Oct 2026 09:16:09 +0000",
+   "published_date": "2026-10-30",
+   "digest": "Binance reportedly lost approximately $6.36 billion in cryptocurrency on October 29, 2026, after an attacker drained wallets across ten blockchains. TRM Labs de…",
+   "tags": [
+    "加密货币犯罪"
+   ],
+   "title_zh": "币安遭遇史上最大加密货币盗窃案——据报伪开发者集团窃取63.6亿美元"
+  },
+  {
+   "id": "NSFOCUS-ac7af845",
+   "title": "2026 TechWorld·上海站成功举办，绿盟科技上海研究院正式落地",
+   "url": "https://blog.nsfocus.net/2026-techworld%c2%b7%e4%b8%8a%e6%b5%b7%e7%ab%99%e6%88%90%e5%8a%9f%e4%b8%be%e5%8a%9e%ef%bc%8c%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e4%b8%8a%e6%b5%b7%e7%a0%94%e7%a9%b6%e9%99%a2%e6%ad%a3%e5%bc%8f%e8%90%bd/",
+   "source": "绿盟科技博客",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 30 Oct 2026 09:13:35 +0000",
+   "published_date": "2026-10-30",
+   "digest": "2026 TechWorld 10月30日，2026 TechWorld智慧安全大会·上海站成功举办。作为北京... » 阅读全文",
+   "tags": []
+  },
+  {
+   "id": "CYBERSECNEWS-eba7a50b",
+   "title": "Unauthorized OpenAI Codex and Claude Code Relays Disable AI Sandboxes and Redirect Enterprise Data",
+   "url": "https://cybersecuritynews.com/unauthorized-openai-codex/",
+   "source": "CyberSecurity News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 30 Oct 2026 08:50:24 +0000",
+   "published_date": "2026-10-30",
+   "digest": "A grey market relay service is quietly installing the real OpenAI Codex and Anthropic Claude Code tools on company computers. It then changes their settings so …",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "未经授权的OpenAI Codex和Claude代码中继攻击禁用AI沙箱并重定向企业数据"
+  },
+  {
+   "id": "SECURITYWEEK-7229904f",
+   "title": "TeamViewer Flaw Could Let Malicious Hosts Take Over Support Technicians’ Machines",
+   "url": "https://www.securityweek.com/teamviewer-flaw-could-let-malicious-hosts-take-over-support-technicians-machines/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 30 Oct 2026 08:44:49 +0000",
+   "published_date": "2026-10-30",
+   "digest": "An integer overflow tracked as CVE-2026-111585 could be used to execute arbitrary code on the viewer’s system. The post TeamViewer Flaw Could Let Malicious Host…",
+   "tags": [
+    "漏洞预警"
+   ],
+   "title_zh": "TeamViewer 存漏洞 可能让恶意方接管支持技术人员的机器"
+  },
+  {
+   "id": "CYBERSECNEWS-f3fe0f39",
+   "title": "CISA Warns of GitLab Integer Overflow Vulnerability Exploited in Attacks",
+   "url": "https://cybersecuritynews.com/gitlab-integer-overflow-vulnerability-exploited/",
+   "source": "CyberSecurity News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 30 Oct 2026 08:28:50 +0000",
+   "published_date": "2026-10-30",
+   "digest": "The Cybersecurity and Infrastructure Security Agency has warned that attackers are exploiting CVE-2026-97229. This GitLab vulnerability could allow code executi…",
+   "tags": [
+    "漏洞预警",
+    "监管合规"
+   ],
+   "title_zh": "CISA警告GitLab整数溢出漏洞被利用攻击"
+  },
+  {
+   "id": "CYBERSECNEWS-14219908",
+   "title": "Ivanti Connect Secure 0-Days Exploited in the Wild to Gain Unauthenticated Root Access",
+   "url": "https://cybersecuritynews.com/ivanti-connect-secure-zero-days-exploited/",
+   "source": "CyberSecurity News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 30 Oct 2026 08:26:39 +0000",
+   "published_date": "2026-10-30",
+   "digest": "Attackers are chaining zero-day flaws in Ivanti Connect Secure VPN appliances to gain unauthenticated root access, exposing stored credentials and sensitive Act…",
+   "tags": [
+    "漏洞预警",
+    "身份认证"
+   ],
+   "title_zh": "Ivanti Connect Secure 未修补零日漏洞被利用以获得未认证根访问权限"
+  },
+  {
+   "id": "CYBERSECNEWS-524de178",
+   "title": "Microsoft Fixes Remote Desktop Connection Failures Following Recent Updates",
+   "url": "https://cybersecuritynews.com/microsoft-fixes-remote-desktop-connection-failures/",
+   "source": "CyberSecurity News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 30 Oct 2026 08:24:09 +0000",
+   "published_date": "2026-10-30",
+   "digest": "Microsoft resolved a Windows 11 issue that blocked non-admin users from connecting via Remote Desktop when Administrator protection was enabled, releasing fixes…",
+   "tags": [],
+   "title_zh": "Microsoft修复了最近更新后远程桌面连接故障"
+  },
+  {
+   "id": "CYBERSECNEWS-60064080",
+   "title": "Researcher Uses Claude AI to Extract Internal Anthropic Binary and Recover Google Cloud Token",
+   "url": "https://cybersecuritynews.com/researcher-uses-claude-ai/",
+   "source": "CyberSecurity News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 30 Oct 2026 08:16:27 +0000",
+   "published_date": "2026-10-30",
+   "digest": "A security researcher got Claude AI to hand over an internal Anthropic program and a memory dump that held pieces of a working Google Cloud token. The findings …",
+   "tags": [
+    "大模型安全",
+    "云安全"
+   ],
+   "title_zh": "研究人员使用Claude AI提取内部Anthropic二进制文件并恢复Google Cloud令牌"
+  },
+  {
+   "id": "SECURITYWEEK-59852448",
+   "title": "$6 Billion Binance Hack Bears Hallmarks of North Korea’s TraderTraitor",
+   "url": "https://www.securityweek.com/6-billion-binance-hack-bears-hallmarks-of-north-koreas-tradertraitor/",
+   "source": "SecurityWeek",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 30 Oct 2026 08:16:26 +0000",
+   "published_date": "2026-10-30",
+   "digest": "Blockchain analysts link the record crypto theft to North Korean hackers, as Binance probes a possibly compromised engineer laptop. The post $6 Billion Binance …",
+   "tags": [],
+   "title_zh": "价值6亿美元的币安黑客攻击带有北韩TraderTraitor的特点"
+  },
+  {
+   "id": "THN-f20df8f2",
+   "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
+   "url": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 30 Oct 2026 13:15:30 +0530",
+   "published_date": "2026-10-30",
+   "digest": "Drupal has warned that threat actors are exploiting a \"highly critical\" security flaw in its Commerce Core component. The vulnerability, tracked as CVE-2026-118…",
+   "tags": [
+    "漏洞预警"
+   ],
+   "title_zh": "黑客积极利用高度关键的Drupal Commerce核心授权绕过漏洞进行攻击"
+  },
+  {
+   "id": "CYBERSECNEWS-3a746acd",
+   "title": "Top 10 Best UEBA Tools in 2026 [Ranked & Scored]",
+   "url": "https://cybersecuritynews.com/best-ueba-tools/",
+   "source": "CyberSecurity News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 30 Oct 2026 07:37:15 +0000",
+   "published_date": "2026-10-30",
+   "digest": "Stolen credentials beat most controls because they are the control which is why behavior became the detection substrate. UEBA baselines how every user and entit…",
+   "tags": [
+    "身份认证"
+   ],
+   "title_zh": "2026年最佳用户和实体行为分析工具TOP 10[排名与评分]"
+  },
+  {
+   "id": "CYBERSECNEWS-27a54aaa",
+   "title": "Top 10 Best Cyber Threat Intelligence (CTI) Feeds & Services in 2026 [Ranked & Scored]",
+   "url": "https://cybersecuritynews.com/best-cti-feeds-services/",
+   "source": "CyberSecurity News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 30 Oct 2026 07:31:57 +0000",
+   "published_date": "2026-10-30",
+   "digest": "Every CTI provider claims visibility; the ranking question is where their eyes actually are. Breach responders see post-compromise truth, underground collectors…",
+   "tags": [],
+   "title_zh": "2026年最佳网络威胁情报(CTI)馈送与服务TOP 10（排名与评分）"
+  },
+  {
+   "id": "THN-5246e5bc",
+   "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
+   "url": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
+   "source": "The Hacker News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 30 Oct 2026 12:57:05 +0530",
+   "published_date": "2026-10-30",
+   "digest": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited…",
+   "tags": [
+    "漏洞预警",
+    "监管合规"
+   ],
+   "title_zh": "CISA 将活跃利用的 GitLab RCE 和 Cisco 防火墙 DoS 漏洞添加至已知恶意软件和技术库（KEV）"
+  },
+  {
+   "id": "CYBERSECNEWS-7062d486",
+   "title": "Weaponized Claude Code Extension Gives Hackers Persistent Remote Access to Developer Systems",
+   "url": "https://cybersecuritynews.com/malicious-claude-code-extension/",
+   "source": "CyberSecurity News",
+   "category": "网络安全",
+   "priority": "P1",
+   "published_at": "Fri, 30 Oct 2026 07:16:38 +0000",
+   "published_date": "2026-10-30",
+   "digest": "A weaponized Claude Code extension found on Open VSX can give attackers persistent remote access to developer systems by planting an SSH key, opening a reverse …",
+   "tags": [
+    "大模型安全"
+   ],
+   "title_zh": "武器化Claude代码扩展赋予黑客持续远程访问开发人员系统的权限"
+  },
+  {
+   "id": "SECAFFAIRS-5339d9c2",
+   "title": "Hacker leaks data on more than 40,000 Homeland Security employees",
+   "url": "https://securityaffairs.com/202103/data-breach/hacker-leaks-data-on-more-than-40000-homeland-security-employees.html",
    "source": "Security Affairs",
    "category": "网络安全",
    "priority": "P1",
-   "published_at": "Thu, 29 Oct 2026 16:05:56 +0000",
-   "published_date": "2026-10-29",
-   "digest": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Linux Kernel and Broadcom VMWare ESX flaws to its Known Exploited Vulnerabilities catalog. The…",
+   "published_at": "Fri, 30 Oct 2026 06:26:27 +0000",
+   "published_date": "2026-10-30",
+   "digest": "A hacker leaks personal data on more than 40,000 DHS employees, including CBP, ICE and CISA staff, after an undisclosed breach. Personal details of thousands of…",
    "tags": [
     "监管合规"
    ],
-   "title_zh": "美国CISA将Linux内核和Broadcom VMWare ESX漏洞添加到已知被利用漏洞目录中"
+   "title_zh": "黑客泄露超过40,000名国土安全部员工的数据"
   },
   {
-   "id": "SECWIKI-6d663a22",
-   "title": "SecWiki News 2026-10-29 Review",
-   "url": "http://www.sec-wiki.com/?2026-10-29",
-   "source": "SecWiki",
-   "category": "网络安全",
-   "priority": "P2",
-   "published_at": "\nThu, 29 Oct 2026 23:58:20 +0800",
-   "published_date": "2026-10-29",
-   "digest": "IRIS 基于大语言模型辅助的安全漏洞静态分析 by ourren 以提示词注入反击AI驱动的网络攻击 by ourren 网络安全威胁2026年中报告 by ourren 更多最新文章，请访问 SecWiki",
+   "id": "ARXIV-CR-a412db15",
+   "title": "Representation and Reference Selection in Training-Free Synthetic Image Attribution",
+   "url": "https://arxiv.org/abs/2607.12052",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 30 Oct 2026 00:00:00 -0400",
+   "published_date": "2026-10-30",
+   "digest": "arXiv:2607.12052v2 Announce Type: replace-cross Abstract: Synthetic image attribution aims at identifying the generator responsible for a given AI-generated ima…",
    "tags": [
-    "漏洞预警"
+    "学术研究"
    ],
-   "title_zh": "SecWiki 新闻 2026-10-29 概览"
+   "title_zh": "训练-free 合成图像归属中的表示与参考选择"
   },
   {
-   "id": "THN-879452bb",
-   "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
-   "url": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
+   "id": "ARXIV-CR-b3b3eeba",
+   "title": "FuzzAgent: Multi-Agent System for End-to-End Evolutionary Library Fuzzing",
+   "url": "https://arxiv.org/abs/2605.14431",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
    "priority": "P1",
-   "published_at": "Thu, 29 Oct 2026 21:27:05 +0530",
-   "published_date": "2026-10-29",
-   "digest": "A flaw in the Linux kernel's TCP code, tracked as CVE-2026-98432, affects Ubuntu, Red Hat Enterprise Linux (RHEL), and other Linux distributions. The kernel's o…",
+   "published_at": "Fri, 30 Oct 2026 00:00:00 -0400",
+   "published_date": "2026-10-30",
+   "digest": "arXiv:2605.14431v2 Announce Type: replace-cross Abstract: Library fuzzing synthesizes harnesses that expose new API interactions, but deploying it end to end st…",
    "tags": [
-    "漏洞预警"
+    "学术研究"
    ],
-   "title_zh": "Linux 内核 TCP 漏洞影响 Ubuntu、Red Hat 等发行版（CVSS 得分 9.8）"
+   "title_zh": "FuzzAgent：端到端进化库 fuzzing 多代理系统"
   },
   {
-   "id": "WORDFENCE-ed59279a",
-   "title": "Wordfence Intelligence Weekly WordPress Vulnerability Report (October 19, 2026 to October 25, 2026)",
-   "url": "https://www.wordfence.com/blog/2026/10/wordfence-intelligence-weekly-wordpress-vulnerability-report-october-19-2026-to-october-25-2026/",
-   "source": "Wordfence",
-   "category": "网络安全",
-   "priority": "P2",
-   "published_at": "Thu, 29 Oct 2026 15:40:46 +0000",
-   "published_date": "2026-10-29",
-   "digest": "Last week, there were disclosed in and that have been added to the Wordfence Intelligence Vulnerability Database, and there were that contributed to WordPress S…",
+   "id": "ARXIV-CR-c8efed07",
+   "title": "A Constructive Proof of Rice's Theorem and the Halting Problem via Hilbert's Tenth Problem",
+   "url": "https://arxiv.org/abs/2604.16477",
+   "source": "arXiv cs.CR",
+   "category": "AI安全",
+   "priority": "P1",
+   "published_at": "Fri, 30 Oct 2026 00:00:00 -0400",
+   "published_date": "2026-10-30",
+   "digest": "arXiv:2604.16477v2 Announce Type: replace-cross Abstract: Rice's theorem states that no non-trivial semantic property of programs is decidable. Classical proofs…",
    "tags": [
-    "Web安全"
+    "学术研究"
    ],
-   "title_zh": "Wordfence Intelligence 每周 WordPress 漏洞报告（2026年10月19日至2026年10月25日）"
-  },
-  {
-   "id": "THN-e67783a0",
-   "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
-   "url": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
-   "source": "The Hacker News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Thu, 29 Oct 2026 20:50:29 +0530",
-   "published_date": "2026-10-29",
-   "digest": "Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Clau…",
-   "tags": [
-    "加密货币犯罪",
-    "大模型安全"
-   ],
-   "title_zh": "假冒ChatGPT和Claude应用滥用签名可执行文件部署加密货币挖矿软件"
-  },
-  {
-   "id": "CYBERSECNEWS-93aa9d9e",
-   "title": "Claude AI Exploits Linux Kernel Flaw to Execute Root Commands Without User Interaction",
-   "url": "https://cybersecuritynews.com/linux-kernel-flaw-root-commands/",
-   "source": "CyberSecurity News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Thu, 29 Oct 2026 15:18:11 +0000",
-   "published_date": "2026-10-29",
-   "digest": "Anthropic says an unreleased Claude research model wrote a working exploit for a critical Linux kernel bug, tracked as CVE-2026-98432. The exploit lets a remote…",
-   "tags": [
-    "漏洞预警",
-    "大模型安全"
-   ],
-   "title_zh": "Claude AI 利用 Linux 内核漏洞在无需用户交互的情况下执行根命令"
-  },
-  {
-   "id": "SECURITYWEEK-8f110458",
-   "title": "Google Says Gemini 4 Carbon Leads in Finding, Exploiting and Fixing Vulnerabilities",
-   "url": "https://www.securityweek.com/google-says-gemini-4-carbon-leads-in-finding-exploiting-and-fixing-vulnerabilities/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Thu, 29 Oct 2026 15:01:00 +0000",
-   "published_date": "2026-10-29",
-   "digest": "Google’s new frontier model scored 88.2% on SEC-bench Pro and is rolling out first to vetted cyber defenders via its Fairwind Program. The post Google Says Gemi…",
-   "tags": [
-    "大模型安全"
-   ],
-   "title_zh": "谷歌称Gemini 4 Carbon在发现、利用和修复漏洞方面表现最佳"
-  },
-  {
-   "id": "SECURITYWEEK-cc83a03a",
-   "title": "How Secure Are US Elections? Voting Machine Risks and the Growing Threat of AI",
-   "url": "https://www.securityweek.com/how-secure-are-us-elections-voting-machine-risks-and-the-growing-threat-of-ai/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Thu, 29 Oct 2026 15:00:00 +0000",
-   "published_date": "2026-10-29",
-   "digest": "Unpatched voting machines, unverifiable QR-coded ballots, and AI-driven influence campaigns leave US elections short of secure. The post How Secure Are US Elect…",
-   "tags": [],
-   "title_zh": "美国选举安全如何？投票机风险与日益增长的AI威胁"
-  },
-  {
-   "id": "CYBERSECNEWS-a0a44240",
-   "title": "NIST Officially Released Guidance for Transition to Post-Quantum Cryptography",
-   "url": "https://cybersecuritynews.com/nist-post-quantum-cryptography-guidance/",
-   "source": "CyberSecurity News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Thu, 29 Oct 2026 14:55:18 +0000",
-   "published_date": "2026-10-29",
-   "digest": "The National Institute of Standards and Technology (NIST) has released guidance on moving to post-quantum cryptography, giving federal agencies and technology p…",
-   "tags": [],
-   "title_zh": "NIST 正式发布后量子密码学过渡指南"
-  },
-  {
-   "id": "CYBERSECNEWS-ef690b21",
-   "title": "Zero-Click ‘SMS of Death’ Flaw Lets Hackers Disrupt Android Phones With a Single Text",
-   "url": "https://cybersecuritynews.com/zero-click-android-vulnerability/",
-   "source": "CyberSecurity News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Thu, 29 Oct 2026 14:50:38 +0000",
-   "published_date": "2026-10-29",
-   "digest": "A security researcher has published details of a zero-click Android flaw called “SMS of Death.” One malformed text message can crash the phone service on an And…",
-   "tags": [
-    "移动安全"
-   ],
-   "title_zh": "零点击“短信致命”漏洞让黑客可通过一条消息中断Android手机"
-  },
-  {
-   "id": "SECURITYWEEK-cb261e8b",
-   "title": "Cisco Open Sources Quarry to Catch AI Agent Attacks Hidden in Harmless Steps",
-   "url": "https://www.securityweek.com/cisco-open-sources-quarry-to-catch-ai-agent-attacks-hidden-in-harmless-steps/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Thu, 29 Oct 2026 14:18:03 +0000",
-   "published_date": "2026-10-29",
-   "digest": "Cisco open sourced Project Quarry, a rule language for detecting AI agent attacks that only emerge across sequences of benign actions. The post Cisco Open Sourc…",
-   "tags": [
-    "大模型安全"
-   ],
-   "title_zh": "Cisco 开源 Quarry 捕获隐藏在无辜步骤中的AI代理攻击"
-  },
-  {
-   "id": "CHECKPOINT-9e873023",
-   "title": "Cohere’s Qwen Story: Looks More Like Model Jaggedness",
-   "url": "https://research.checkpoint.com/2026/coheres-qwen-story-looks-more-like-model-jaggedness/",
-   "source": "Check Point Research",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Thu, 29 Oct 2026 14:08:46 +0000",
-   "published_date": "2026-10-29",
-   "digest": "Key findings On October 26, Cohere reported a puzzling incident involving Qwen3.8-Flash-Next, an open-weight model from Alibaba. The task was straightforward: w…",
-   "tags": [],
-   "title_zh": "Cohere的Qwen故事：更像是模型的 jaggedness 效果"
-  },
-  {
-   "id": "CYBERSECNEWS-489ded5f",
-   "title": "AppViewX Expands Quantum Trust Hub with Cryptographic Discovery, Posture Management, and Remediation",
-   "url": "https://cybersecuritynews.com/appviewx-expands-quantum-trust-hub-with-cryptographic-discovery-posture-management-and-remediation/",
-   "source": "CyberSecurity News",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Thu, 29 Oct 2026 13:52:50 +0000",
-   "published_date": "2026-10-29",
-   "digest": "New York, New York, October 29th, 2026, CyberNewswire Now available as a standalone solution, Quantum Trust Hub delivers cryptographic posture management and ag…",
-   "tags": [],
-   "title_zh": "AppViewX 扩展量子信任枢纽，增加加密发现、状态管理及修复功能"
-  },
-  {
-   "id": "SECURITYWEEK-6c37cb0b",
-   "title": "Adobe, Veeam, Juniper Networks Patch Critical Vulnerabilities",
-   "url": "https://www.securityweek.com/adobe-veeam-juniper-networks-patch-critical-vulnerabilities/",
-   "source": "SecurityWeek",
-   "category": "网络安全",
-   "priority": "P1",
-   "published_at": "Thu, 29 Oct 2026 13:42:52 +0000",
-   "published_date": "2026-10-29",
-   "digest": "The flaws could lead to arbitrary code execution, authorization bypasses, and privilege escalation. The post Adobe, Veeam, Juniper Networks Patch Critical Vulne…",
-   "tags": [],
-   "title_zh": "Adobe、Veeam、Juniper Networks 修复严重漏洞"
+   "title_zh": "通过希尔伯特第十问题证明拉斯定理和停机问题的建设性证明"
   }
  ]
 }
